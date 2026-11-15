@@ -1,0 +1,23 @@
+{
+ "ean": "5940597430048",
+ "preturi": [
+  {
+   "url": "https://www.pretistet.ro/produs/uludag-limonata-bautura-racoritoare-necarbogazoasa-cu-gust-natural-de-lamaie-1l-ambalaj-returnabil/",
+   "domeniu": "pretistet.ro",
+   "pret": "10.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:55:18+00:00",
+   "vazut": "2026-11-15T15:55:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/uludag-limonada-1l-12buc-bax-sgr-5940597430048",
+   "domeniu": "snaemarket.ro",
+   "pret": "9.38",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:55:19+00:00",
+   "vazut": "2026-11-15T15:55:19+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

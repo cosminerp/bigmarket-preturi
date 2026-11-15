@@ -1,0 +1,23 @@
+{
+ "ean": "5941360015080",
+ "preturi": [
+  {
+   "url": "https://marketexpress.ro/p/delaco-desenvis-cascaval-felii-100g/",
+   "domeniu": "marketexpress.ro",
+   "pret": "7.90",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:51:58+00:00",
+   "vazut": "2026-11-15T15:51:58+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/cascaval/cascaval-feliat-delaco-desenvis-100g",
+   "domeniu": "promoazi.ro",
+   "pret": "7.89",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:51:59+00:00",
+   "vazut": "2026-11-15T15:51:59+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

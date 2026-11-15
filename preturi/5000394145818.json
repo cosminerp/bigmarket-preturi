@@ -1,0 +1,23 @@
+{
+ "ean": "5000394145818",
+ "preturi": [
+  {
+   "url": "https://shopdiscount.ro/ro/products/duracell-simply-baterii-aaa-bucati-set",
+   "domeniu": "shopdiscount.ro",
+   "pret": "10.76",
+   "stare": "ok",
+   "verificat": "2026-11-15T16:06:12+00:00",
+   "vazut": "2026-11-15T16:06:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/duracell-baterii-r3-simply/?srsltid=AYCX9vLMEXBpoNwYNXijETycd3JTmEh1lnr5wHakZFqukReZEvtuQgb5",
+   "domeniu": "cobyul.ro",
+   "pret": "2.79",
+   "stare": "ok",
+   "verificat": "2026-11-15T16:06:15+00:00",
+   "vazut": "2026-11-15T16:06:15+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

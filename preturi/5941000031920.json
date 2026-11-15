@@ -9,6 +9,24 @@
    "verificat": "2026-11-15T11:07:19+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu aroma de cascaval Lay's, 125 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-chips-cheese-125gr-21buc-bax-5941000031920",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:53:21+00:00",
+   "vazut": "2026-11-15T15:53:21+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/lays-chips-gust-cascaval-125g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:53:26+00:00",
+   "vazut": "2026-11-15T15:53:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

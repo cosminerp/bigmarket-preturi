@@ -9,6 +9,33 @@
    "verificat": "2026-11-15T11:09:57+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Tedi, 0.33 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-bucovina-sport-330ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-15T16:17:04+00:00",
+   "vazut": "2026-11-15T16:17:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/bucovina-apa-plt-sportcap-033-pet-6buc-sgr-5942325003760",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.46",
+   "stare": "ok",
+   "verificat": "2026-11-15T16:17:05+00:00",
+   "vazut": "2026-11-15T16:17:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cosulmic.ro/produs/apa-plata-kids-bucovina-0-33l-379",
+   "domeniu": "cosulmic.ro",
+   "pret": "2.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T16:17:08+00:00",
+   "vazut": "2026-11-15T16:17:08+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -1,0 +1,23 @@
+{
+ "ean": "5941300007137",
+ "preturi": [
+  {
+   "url": "https://shop.geneza-comimpex.ro/biscuiti-tortulet-boromir-50g?srsltid=AYCX9vLaX0APjy6k8I-7Hm_19C3oQWNTyMnkq4Uela4qc6LsAPd4OrBm",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "1.73",
+   "stare": "ok",
+   "verificat": "2026-11-15T16:09:30+00:00",
+   "vazut": "2026-11-15T16:09:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/biscuiti/boromir-biscuit-cake-50g-id-15650",
+   "domeniu": "promoazi.ro",
+   "pret": "1.69",
+   "stare": "ok",
+   "verificat": "2026-11-15T16:09:34+00:00",
+   "vazut": "2026-11-15T16:09:34+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}
