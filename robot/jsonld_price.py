@@ -44,7 +44,9 @@ def parse_page(html, ean):
                 if not isinstance(o, dict):
                     continue
                 cur = (o.get("priceCurrency") or "RON").upper()
-                price = num(o.get("price") or o.get("lowPrice") or (o.get("priceSpecification") or {}).get("price"))
+                spec = o.get("priceSpecification") or {}
+                spec = next((x for x in spec if isinstance(x, dict) and x.get("price")), {}) if isinstance(spec, list) else spec
+                price = num(o.get("price") or o.get("lowPrice") or (spec.get("price") if isinstance(spec, dict) else None))
                 avail = str(o.get("availability") or "")
                 if price and cur in ("RON", "LEI") and "OutOfStock" not in avail and "Discontinued" not in avail:
                     return price

@@ -55,7 +55,10 @@ def read_price(url, ean):
         return None, "pagina nu mai există"
     if r.status_code != 200:
         return None, "eroare"
-    price = jl.parse_page(r.text[:2_000_000], ean)
+    try:
+        price = jl.parse_page(r.text[:2_000_000], ean)
+    except Exception:  # noqa: BLE001  (o pagină ciudată nu oprește robotul)
+        return None, "eroare"
     return (price, "ok") if price else (None, "fără preț sau alt cod de bare")
 
 
@@ -139,7 +142,7 @@ def main():
             st[ean] = {"t": now_iso(), "magazine": found}
             n["gasite"] += bool(found)
             n["preturi"] += found
-        STARE.write_text(json.dumps(st, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            STARE.write_text(json.dumps(st, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")   # după fiecare căutare: nimic plătit nu se pierde
     tot = combine()
     print(f"Căutare: {n['cautari']} căutări noi ({len(st)} din plafonul de {cap}), {n['gasite']} produse găsite în {n['preturi']} magazine; "
           f"reverificate gratuit {n_rev}; {tot} produse cu prețuri în preturi.json" + ("" if key else "; fără cheia SERPER_API_KEY"))
