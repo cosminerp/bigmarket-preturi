@@ -1,0 +1,23 @@
+{
+ "ean": "5908272614282",
+ "preturi": [
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-fata/demachiere-si-curatare-ten/dischete-demachiante-60-bucati-tami-p372565",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "9.00",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:53:30+00:00",
+   "vazut": "2026-11-15T20:53:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.meiso.ro/cumpara/dischete-demachiante-tami-care-60-bucati-770",
+   "domeniu": "meiso.ro",
+   "pret": "10.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:53:33+00:00",
+   "vazut": "2026-11-15T20:53:33+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

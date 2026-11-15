@@ -1,0 +1,23 @@
+{
+ "ean": "5941466021787",
+ "preturi": [
+  {
+   "url": "https://pacomarket.ro/product/pasta-hrean-olympia-190g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.45",
+   "stare": "ok",
+   "verificat": "2026-11-15T21:11:03+00:00",
+   "vazut": "2026-11-15T21:11:03+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/alimente-de-baza-si-conserve/olympia-horseradish-paste-190g-id-53113",
+   "domeniu": "promoazi.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T21:11:04+00:00",
+   "vazut": "2026-11-15T21:11:04+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

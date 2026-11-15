@@ -10,6 +10,24 @@
    "vazut": "2026-11-15T19:52:17+00:00",
    "metoda": "auchan_catalog",
    "nume": "Mascarpone Delaco, 250 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/mascarpone-delaco-250g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "14.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:59:56+00:00",
+   "vazut": "2026-11-15T20:59:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/lactate-oua/mascarpone-delaco-250-g",
+   "domeniu": "promoazi.ro",
+   "pret": "10.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:59:58+00:00",
+   "vazut": "2026-11-15T20:59:58+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
