@@ -10,6 +10,24 @@
    "vazut": "2026-11-15T19:17:53+00:00",
    "metoda": "auchan_catalog",
    "nume": "Baton de ciocolata cu lapte si arahide proaspat prajite Snickers, 50 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/snickers-50g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:06:21+00:00",
+   "vazut": "2026-11-15T19:06:21+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://corsomarket.ro/product/snickers-50g/?srsltid=AYCX9vK_Fa3hxwvUz0QOoI5aJa2SF20ZfwIVhhr-oEJcLDtpVhsW4oxa",
+   "domeniu": "corsomarket.ro",
+   "pret": "5.00",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:06:26+00:00",
+   "vazut": "2026-11-15T19:06:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

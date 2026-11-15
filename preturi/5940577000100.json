@@ -10,6 +10,33 @@
    "vazut": "2026-11-15T19:18:08+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa tutti fruity Xixo, 0.25 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/xixo-ice-tea-tutti-fruity-250ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:08:42+00:00",
+   "vazut": "2026-11-15T19:08:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.special-boutique.ro/cumpara/xixo-soft-tutti-fruty-250-ml-sgr-12322?srsltid=AYCX9vLEsVOFzHC4lgAUakfkB88PWrEZxFxw30nw8mHDb6zsEDXAXEye",
+   "domeniu": "special-boutique.ro",
+   "pret": "2.69",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:08:47+00:00",
+   "vazut": "2026-11-15T19:08:47+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://magazin.dorsanimpex.ro/xixo-soft-drink-tutti-fruity-250ml-24-sgr",
+   "domeniu": "magazin.dorsanimpex.ro",
+   "pret": "67.20",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:08:51+00:00",
+   "vazut": "2026-11-15T19:08:51+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

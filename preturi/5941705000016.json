@@ -10,6 +10,24 @@
    "vazut": "2026-11-15T19:17:20+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ulei de floarea soarelui Bunica, 1 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/ulei-bunica-1l-6buc-bax-5941705000016",
+   "domeniu": "snaemarket.ro",
+   "pret": "10.39",
+   "stare": "ok",
+   "verificat": "2026-11-15T18:58:37+00:00",
+   "vazut": "2026-11-15T18:58:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/alimente-de-baza-conserve-si-condimente/bunica-ulei-1l.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "11.01",
+   "stare": "ok",
+   "verificat": "2026-11-15T18:58:40+00:00",
+   "vazut": "2026-11-15T18:58:40+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

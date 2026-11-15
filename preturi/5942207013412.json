@@ -1,0 +1,32 @@
+{
+ "ean": "5942207013412",
+ "preturi": [
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/adria-tutti-fruit-2-5l-sgr-6buc-bax-5942207013412",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.84",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:22:56+00:00",
+   "vazut": "2026-11-15T19:22:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/adria-tutti-frutti-2-5l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.79",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:22:59+00:00",
+   "vazut": "2026-11-15T19:22:59+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miranoriental.ro/bautura-carbogazoasa-tutti-frutti-adria-2-5-l-sgr",
+   "domeniu": "miranoriental.ro",
+   "pret": "5.31",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:23:01+00:00",
+   "vazut": "2026-11-15T19:23:01+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}
