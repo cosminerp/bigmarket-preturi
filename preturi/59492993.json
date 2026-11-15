@@ -2,16 +2,6 @@
  "ean": "59492993",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-cu-capac-sport-bucovina-0-70l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.95",
-   "stare": "ok",
-   "verificat": "2026-11-15T11:04:38+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata cu capac sport Bucovina, 0.7 l",
-   "pret_vechi": "3.69"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-plata-bucovina-0-7l-pet-2/",
    "domeniu": "pacomarket.ro",
    "pret": "3.65",
@@ -19,6 +9,17 @@
    "verificat": "2026-11-15T15:27:22+00:00",
    "vazut": "2026-11-15T15:27:22+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-cu-capac-sport-bucovina-0-70l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-15T19:14:27+00:00",
+   "vazut": "2026-11-15T19:14:27+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata cu capac sport Bucovina, 0.7 l",
+   "pret_vechi": "3.69"
   }
  ]
 }
