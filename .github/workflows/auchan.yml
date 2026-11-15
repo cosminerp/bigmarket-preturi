@@ -1,7 +1,7 @@
 name: Prețuri Auchan
 on:
   schedule:
-    - cron: "11 */3 * * *"
+    - cron: "11 */3 * * *"   # reînregistrat 15.11 19:00 (programarea nu pornise)
   workflow_dispatch:
   push:
     branches: [main]

@@ -11,6 +11,7 @@ concurrency:
   cancel-in-progress: false
 permissions:
   contents: write
+  actions: write
 jobs:
   cautare:
     runs-on: ubuntu-latest
@@ -42,3 +43,22 @@ jobs:
             git push -q && break
             sleep 9
           done
+      # GitHub nu pornește mereu rulările programate în depozitele noi (15.11: niciuna în 3 ore). Dacă mai sunt produse de căutat și
+      # n-am atins plafonul gratuit, rularea pornește singură pe următoarea (workflow_dispatch e permis cu GITHUB_TOKEN).
+      - name: Rularea următoare
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          MORE=$(python - <<'PY'
+          import json
+          codes = [l.strip() for l in open("coduri.txt") if l.strip()]
+          st = json.load(open("preturi/_cautare_stare.json"))
+          print(1 if len(st) < 2400 and any(c not in st for c in codes) else 0)
+          PY
+          )
+          if [ "$MORE" = "1" ]; then
+            sleep 60
+            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/cautare.yml/dispatches" -d '{"ref":"main"}'
+          fi
