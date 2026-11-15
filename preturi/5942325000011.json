@@ -9,6 +9,33 @@
    "verificat": "2026-11-15T11:03:50+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Bucovina, 5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/bucovina-apa-minerala-naturala-plata-5l-5942325000011",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.98",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:18:42+00:00",
+   "vazut": "2026-11-15T15:18:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-plata-bucovina-5l?srsltid=AYCX9vLwLaw7Eo1oHSgtJ8EDS6pI41KNVtZP0iWumoqhyHkYW_ztvmq4",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "8.28",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:18:44+00:00",
+   "vazut": "2026-11-15T15:18:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/bucovina-plata-5l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:18:47+00:00",
+   "vazut": "2026-11-15T15:18:47+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

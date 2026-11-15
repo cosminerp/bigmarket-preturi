@@ -1,0 +1,23 @@
+{
+ "ean": "5941894300072",
+ "preturi": [
+  {
+   "url": "https://pacomarket.ro/product/biscuiti-cu-crema-cacao-phoenix-24g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "0.75",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:28:45+00:00",
+   "vazut": "2026-11-15T15:28:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miranoriental.ro/biscuiti-cu-crema-de-cacao-phoenix-25g",
+   "domeniu": "miranoriental.ro",
+   "pret": "0.74",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:28:48+00:00",
+   "vazut": "2026-11-15T15:28:48+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

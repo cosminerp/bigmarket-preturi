@@ -9,6 +9,33 @@
    "verificat": "2026-11-15T11:04:00+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Aqua Carpatica, 1 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-aqua-carpatica-1l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.25",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:20:16+00:00",
+   "vazut": "2026-11-15T15:20:16+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-1l-sgr-12buc-bax-5942326402258",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.81",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:20:18+00:00",
+   "vazut": "2026-11-15T15:20:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-1l-plata-aqua-carpatica-sgr-12_2?srsltid=AYCX9vL3fQ19LrPBCv9iCAafH5AS_WI5mSGujK-G8ub2ByfilWOYUBe9",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "5.33",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:20:22+00:00",
+   "vazut": "2026-11-15T15:20:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
