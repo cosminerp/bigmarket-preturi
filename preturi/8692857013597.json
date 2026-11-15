@@ -1,0 +1,23 @@
+{
+ "ean": "8692857013597",
+ "preturi": [
+  {
+   "url": "https://papilion.ro/servetele-umede-papilion-lavanda-cu-capac-100buc",
+   "domeniu": "papilion.ro",
+   "pret": "13.63",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:13:33+00:00",
+   "vazut": "2026-11-15T23:13:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/papilion-servetele-umede-100-buc-lavander/?srsltid=AYCX9vIA3tA6J8zDZLGP3W8rHHTBBMT-4UentlZqINxPJoZcDeUjnXEJ",
+   "domeniu": "cobyul.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:13:38+00:00",
+   "vazut": "2026-11-15T23:13:38+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

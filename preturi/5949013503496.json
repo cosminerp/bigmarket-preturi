@@ -1,0 +1,41 @@
+{
+ "ean": "5949013503496",
+ "preturi": [
+  {
+   "url": "https://fancydrinks.ro/produs/aperitiv-aperol-11-0-0-7l/",
+   "domeniu": "fancydrinks.ro",
+   "pret": "64.16",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:32:07+00:00",
+   "vazut": "2026-11-15T23:32:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-alcoolice/aperol-0-7l-11-sgr-6buc-bax-5949013503496",
+   "domeniu": "snaemarket.ro",
+   "pret": "70.92",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:32:11+00:00",
+   "vazut": "2026-11-15T23:32:11+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://kastelboutique.ro/produs/aperitiv-aperol-0-7l-11-sgr-5949013503496/",
+   "domeniu": "kastelboutique.ro",
+   "pret": "69.00",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:32:14+00:00",
+   "vazut": "2026-11-15T23:32:14+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi/aperitiv-11-1-l-aperol-4408.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "87.98",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:32:16+00:00",
+   "vazut": "2026-11-15T23:32:16+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "ean": "5940031020149",
+ "preturi": [
+  {
+   "url": "https://www.kisshop.ro/cumpara/carpa-magica-laveta-microfibra-pentru-curatare-eco-40-x-40-cm-3999?srsltid=AYCX9vJTacdvvZI88fy2pUegZWwBQH-Fo3rcEv1BeowlvZRJD-VYf5bu",
+   "domeniu": "kisshop.ro",
+   "pret": "14.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:28:29+00:00",
+   "vazut": "2026-11-15T23:28:29+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://alvoria.ro/produse-de-curatenie/consumabile-casnice/laveta-universala-carpa-magica-40x40-alba",
+   "domeniu": "alvoria.ro",
+   "pret": "9.25",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:28:32+00:00",
+   "vazut": "2026-11-15T23:28:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/carpa-magica-40x40-cm/?srsltid=AYCX9vIP6ZCbxUi6BbrV82LcznkyHezibXrGixGvWjO1eFK1lAsEX9ci",
+   "domeniu": "cobyul.ro",
+   "pret": "7.69",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:28:35+00:00",
+   "vazut": "2026-11-15T23:28:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.1001cosmetice.ro/cumpara/laveta-microfibra-40x40-carpa-magica-57063",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "15.00",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:28:37+00:00",
+   "vazut": "2026-11-15T23:28:37+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}
