@@ -1,0 +1,32 @@
+{
+ "ean": "8001585001224",
+ "preturi": [
+  {
+   "url": "https://www.produseitalia.ro/produse-alimentare/Merendine-Balconi-Tracetto-cu-cacao-si-oua-proaspete-280-g?tab=description",
+   "domeniu": "produseitalia.ro",
+   "pret": "12.95",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:43:12+00:00",
+   "vazut": "2026-11-15T20:43:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.magazinitalian.ro/dulciuri/biscuiti-amp-prajituri/prajitura-trancetto-balconi-8001585001224.html",
+   "domeniu": "magazinitalian.ro",
+   "pret": "12.50",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:43:14+00:00",
+   "vazut": "2026-11-15T20:43:14+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/prajituri-fursecuri/balconi-praj-tranceto-cacao-28gr-10buc-set-8001585001224",
+   "domeniu": "snaemarket.ro",
+   "pret": "10.55",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:43:15+00:00",
+   "vazut": "2026-11-15T20:43:15+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

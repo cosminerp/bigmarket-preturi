@@ -11,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Pate taranesc de porc Sadu, 100g",
    "pret_vechi": "3.85"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/sadu-pate-de-ficat-de-porc-cu-cheita-100gr/",
+   "domeniu": "pretistet.ro",
+   "pret": "3.29",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:12:26+00:00",
+   "vazut": "2026-11-15T20:12:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/sadu-pate-porc-100g-6buc-bax-5941341001903",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.87",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:12:30+00:00",
+   "vazut": "2026-11-15T20:12:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://conservat.ro/porc-la-conserva/134-porc-la-conserva-5941341001903.html?srsltid=AYCX9vIrUJyF907w-fNVQA_A-doHwcuSZK9LZDeGZoC5C4-sSHQqF5NZ",
+   "domeniu": "conservat.ro",
+   "pret": "4.57",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:12:33+00:00",
+   "vazut": "2026-11-15T20:12:33+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

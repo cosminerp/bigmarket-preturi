@@ -1,0 +1,23 @@
+{
+ "ean": "5941466026454",
+ "preturi": [
+  {
+   "url": "https://pacomarket.ro/product/olympia-bulion-310g-18/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:40:33+00:00",
+   "vazut": "2026-11-15T20:40:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/olympia-bulion-borcan-314ml-18buc-bax-5941466026454",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.09",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:40:35+00:00",
+   "vazut": "2026-11-15T20:40:35+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

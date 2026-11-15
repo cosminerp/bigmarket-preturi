@@ -11,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Lapte pentru cafea UHT Delaco, 10% grasime, 10 x 7.5 g",
    "pret_vechi": "2.49"
+  },
+  {
+   "url": "https://www.brandoffice.ro/protocol-67/lapte-condensat-delaco-10buc-set.html",
+   "domeniu": "brandoffice.ro",
+   "pret": "4.24",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:25:49+00:00",
+   "vazut": "2026-11-15T20:25:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

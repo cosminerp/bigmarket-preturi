@@ -1,0 +1,23 @@
+{
+ "ean": "3272770017138",
+ "preturi": [
+  {
+   "url": "https://pacomarket.ro/product/ile-de-france-crema-branza-150g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "9.95",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:34:01+00:00",
+   "vazut": "2026-11-15T20:34:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/feliate/crema-de-branza-ile-de-france-150-g",
+   "domeniu": "promoazi.ro",
+   "pret": "9.79",
+   "stare": "ok",
+   "verificat": "2026-11-15T20:34:02+00:00",
+   "vazut": "2026-11-15T20:34:02+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}
