@@ -1,0 +1,41 @@
+{
+ "ean": "5011321345188",
+ "preturi": [
+  {
+   "url": "https://www.greenonline.ro/ingrijire-personala/sampon-pentru-par-head-shoulders-classic-clean-200ml.html",
+   "domeniu": "greenonline.ro",
+   "pret": "13.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:05:19+00:00",
+   "vazut": "2026-11-15T22:05:19+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/headshoulders-200-ml-ro-classic-clean/?srsltid=AYCX9vL6hkxNw3YstRnL60LUo9m_JTGXk7_WUakTga0AnLCJ4rnNTAsF",
+   "domeniu": "cobyul.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:05:23+00:00",
+   "vazut": "2026-11-15T22:05:23+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/uz-personal/head-shoulders-sampon-classic-clean-200ml-6buc-bax-5011321345188",
+   "domeniu": "snaemarket.ro",
+   "pret": "10.90",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:05:28+00:00",
+   "vazut": "2026-11-15T22:05:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/sampon-anti-matreata-head-shoulders-classic-clean-200-ml-988?srsltid=AYCX9vIKl0PdqPD6w7DG75UceZHuNP8oIRgpfcFMX7AvTdNjCocKfi4J",
+   "domeniu": "kisshop.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:05:30+00:00",
+   "vazut": "2026-11-15T22:05:30+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}
