@@ -1,0 +1,15 @@
+{
+ "ean": "3800047700010",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/aluat-pentru-foitaj-bella-800-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:19:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Aluat pentru foitaj Bella 800 g",
+   "pret_vechi": "13.89"
+  }
+ ]
+}

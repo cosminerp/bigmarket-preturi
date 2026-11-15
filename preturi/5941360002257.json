@@ -1,0 +1,15 @@
+{
+ "ean": "5941360002257",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/lapte-pentru-cafea-uht-de-laco-10-grasime-10-x-7-5-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.19",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:17:05+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Lapte pentru cafea UHT Delaco, 10% grasime, 10 x 7.5 g",
+   "pret_vechi": "2.49"
+  }
+ ]
+}

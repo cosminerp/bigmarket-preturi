@@ -1,0 +1,15 @@
+{
+ "ean": "3577060130017",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/popcorn-cu-sare-chio-pentru-microunde-80-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.79",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:06:49+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Popcorn cu sare Chio, pentru microunde, 80 g",
+   "pret_vechi": "3.89"
+  }
+ ]
+}

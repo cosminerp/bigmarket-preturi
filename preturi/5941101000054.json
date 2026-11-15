@@ -1,0 +1,14 @@
+{
+ "ean": "5941101000054",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/biscuiti-rostar-petit-beurre-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.15",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:12:58+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti simpli RoStar Petit Beurre, 100 g"
+  }
+ ]
+}

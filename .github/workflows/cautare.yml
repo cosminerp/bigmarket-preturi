@@ -1,0 +1,37 @@
+name: Prețuri din magazine online
+on:
+  schedule:
+    - cron: "41 1-23/2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["robot/cautare.py", ".github/workflows/cautare.yml"]
+concurrency:
+  group: preturi
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  cautare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: cd robot && python cautare.py
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          MAX_CAUTARI: "300"
+          MAX_TOTAL: "2400"
+          MINUTE: "35"
+      - name: Salvează
+        run: |
+          git config user.name "bigmarket-bot"
+          git config user.email "bigmarket-bot@users.noreply.github.com"
+          git add -A preturi preturi.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Prețuri din magazine online"
+          for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 9; done

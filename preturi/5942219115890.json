@@ -1,0 +1,30 @@
+{
+ "ean": "5942219115890",
+ "preturi": [
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-plata-borsec-2l",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret_chatgpt": 5.85,
+   "verificat": "2026-11-15T08:27:50+00:00",
+   "pret": "5.85",
+   "stare": "ok"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-borsec-2l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret_chatgpt": 4.35,
+   "verificat": "2026-11-15T10:15:55+00:00",
+   "pret": "4.35",
+   "stare": "ok"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-borsec-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:02:45+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Borsec, 2 l"
+  }
+ ]
+}

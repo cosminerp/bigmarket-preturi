@@ -1,0 +1,31 @@
+{
+ "ean": "5942321000060",
+ "preturi": [
+  {
+   "url": "https://carrefour.ro/produse/coca-cola-gust-original-2l-19-10004739",
+   "domeniu": "carrefour.ro",
+   "pret_chatgpt": 12.89,
+   "verificat": "2026-11-15T06:28:57+00:00",
+   "pret": null,
+   "stare": "fara_pret_sau_alt_cod (200)"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-coca-cola-2l",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret_chatgpt": 15.33,
+   "verificat": "2026-11-15T06:28:57+00:00",
+   "pret": "15.33",
+   "stare": "ok"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.09",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:02:44+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 2 l",
+   "pret_vechi": "12.99"
+  }
+ ]
+}

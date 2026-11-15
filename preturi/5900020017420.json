@@ -1,0 +1,15 @@
+{
+ "ean": "5900020017420",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/baton-cu-cereale-nesquik-maxi-choco-25-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.29",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:17:54+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Baton cu cereale Nesquik Maxi Choco, 25 g",
+   "pret_vechi": "2.09"
+  }
+ ]
+}

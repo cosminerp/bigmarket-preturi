@@ -1,0 +1,15 @@
+{
+ "ean": "5941300005089",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/cornulete-cu-gem-de-caise-boromir-boromele-300-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:30:31+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cornulete cu gem de caise Boromir Boromele, 300 g",
+   "pret_vechi": "14.99"
+  }
+ ]
+}

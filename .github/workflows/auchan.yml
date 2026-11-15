@@ -1,0 +1,32 @@
+name: Prețuri Auchan
+on:
+  schedule:
+    - cron: "11 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["robot/auchan.py", ".github/workflows/auchan.yml", "coduri.txt"]
+concurrency:
+  group: preturi
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  auchan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: cd robot && python auchan.py --minute 32
+      - name: Salvează
+        run: |
+          git config user.name "bigmarket-bot"
+          git config user.email "bigmarket-bot@users.noreply.github.com"
+          git add -A preturi preturi.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Prețuri Auchan"
+          for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 9; done

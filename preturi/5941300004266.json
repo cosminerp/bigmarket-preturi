@@ -1,0 +1,15 @@
+{
+ "ean": "5941300004266",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/cornulete-cu-rahat-boromir-boromele-300-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:28:58+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cornulete cu rahat Boromir Boromele, 300 g",
+   "pret_vechi": "16.49"
+  }
+ ]
+}

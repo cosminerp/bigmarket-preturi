@@ -1,0 +1,15 @@
+{
+ "ean": "5941938600106",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/limonada-5-to-go-lemonvita-0-5-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.29",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:28:51+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Limonada 5 To Go Lemonvita, 0.5 l",
+   "pret_vechi": "7.89"
+  }
+ ]
+}

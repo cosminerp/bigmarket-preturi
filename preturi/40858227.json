@@ -1,0 +1,15 @@
+{
+ "ean": "40858227",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/orez-cu-lapte-si-capsuni-muller-200-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:15:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Orez cu lapte si capsuni Muller, 200 g",
+   "pret_vechi": "5.35"
+  }
+ ]
+}

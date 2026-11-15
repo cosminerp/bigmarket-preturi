@@ -1,0 +1,15 @@
+{
+ "ean": "5941875900376",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/lapte-de-consum-olympus-3-7-grasime-1-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.29",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:04:13+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Lapte de consum integral Olympus, 3.7% grasime, 1 l",
+   "pret_vechi": "9.99"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "ean": "5942105012173",
+ "preturi": [
+  {
+   "url": "https://carrefour.ro/produse/bere-blonda-neumarkt-0-5l-19-10002897",
+   "domeniu": "carrefour.ro",
+   "pret_chatgpt": 3.89,
+   "verificat": "2026-11-15T11:33:46+00:00",
+   "pret": null,
+   "stare": "fara_pret_sau_alt_cod (200)"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-neumarkt-05l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.89",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:02:48+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Neumarkt 0.5 l"
+  }
+ ]
+}

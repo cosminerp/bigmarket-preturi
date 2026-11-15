@@ -1,0 +1,22 @@
+{
+ "ean": "5942219115845",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-borsec-1-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:02:43+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa carbogazoasa minerala Borsec, 1.5 l"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-minerala-borsec-1-5l",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret_chatgpt": 5.04,
+   "verificat": "2026-11-15T06:28:57+00:00",
+   "pret": "5.04",
+   "stare": "ok"
+  }
+ ]
+}

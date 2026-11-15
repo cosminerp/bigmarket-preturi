@@ -1,0 +1,15 @@
+{
+ "ean": "8690526403120",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/napolitana-cu-ciocolata-cu-lapte-dare-44-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-15T11:12:21+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Napolitana cu ciocolata cu lapte Dare, 44 g",
+   "pret_vechi": "3.69"
+  }
+ ]
+}
