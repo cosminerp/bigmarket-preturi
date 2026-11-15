@@ -7,7 +7,7 @@ on:
     branches: [main]
     paths: ["robot/auchan.py", ".github/workflows/auchan.yml", "coduri.txt"]
 concurrency:
-  group: preturi
+  group: preturi-auchan
   cancel-in-progress: false
 permissions:
   contents: write

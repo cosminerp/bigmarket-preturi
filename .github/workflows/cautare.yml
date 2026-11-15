@@ -7,7 +7,7 @@ on:
     branches: [main]
     paths: ["robot/cautare.py", ".github/workflows/cautare.yml"]
 concurrency:
-  group: preturi
+  group: preturi-cautare
   cancel-in-progress: false
 permissions:
   contents: write
