@@ -27,7 +27,13 @@ jobs:
         run: |
           git config user.name "bigmarket-bot"
           git config user.email "bigmarket-bot@users.noreply.github.com"
-          git add -A preturi preturi.json
-          git diff --cached --quiet && exit 0
-          git commit -q -m "Prețuri Auchan"
-          for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 9; done
+          git add -A preturi
+          git diff --cached --quiet || git commit -q -m "Prețuri Auchan"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase -X theirs || true
+            (cd robot && python -c "import comun; print(comun.combine())")
+            git add preturi.json
+            git diff --cached --quiet || git commit -q -m "preturi.json (toate magazinele)"
+            git push -q && break
+            sleep 9
+          done
