@@ -1,0 +1,32 @@
+{
+ "ean": "8009755009049",
+ "preturi": [
+  {
+   "url": "https://pacomarket.ro/product/fasole-red-kidney-400g-maxim-s/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.65",
+   "stare": "ok",
+   "verificat": "2026-11-15T21:34:29+00:00",
+   "vazut": "2026-11-15T21:34:29+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.zozocafe.ro/fasole-rosie-maxim-s-400g",
+   "domeniu": "zozocafe.ro",
+   "pret": "4.58",
+   "stare": "ok",
+   "verificat": "2026-11-15T21:34:36+00:00",
+   "vazut": "2026-11-15T21:34:36+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/mustar-soia-legume-conservate",
+   "domeniu": "eurodiscount.ro",
+   "pret": "5.55",
+   "stare": "ok",
+   "verificat": "2026-11-15T21:34:38+00:00",
+   "vazut": "2026-11-15T21:34:38+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

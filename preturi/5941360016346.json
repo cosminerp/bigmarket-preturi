@@ -10,6 +10,24 @@
    "vazut": "2026-11-15T19:53:25+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cascaval Delaco Sofia, 400 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/delaco-cascaval-sofia-400g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "24.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T21:27:33+00:00",
+   "vazut": "2026-11-15T21:27:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/cascaval/cascaval-delaco-sofia-400-g",
+   "domeniu": "promoazi.ro",
+   "pret": "28.90",
+   "stare": "ok",
+   "verificat": "2026-11-15T21:27:37+00:00",
+   "vazut": "2026-11-15T21:27:37+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
