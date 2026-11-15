@@ -2,15 +2,6 @@
  "ean": "5942039003728",
  "preturi": [
   {
-   "url": "https://alcooldiscount.ro/vodca-stalinskaya-02l-40-alc-romania.html",
-   "domeniu": "alcooldiscount.ro",
-   "pret": "17.80",
-   "stare": "ok",
-   "verificat": "2026-11-15T15:54:35+00:00",
-   "vazut": "2026-11-15T15:54:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/vodka-stalinskaya-0-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "17.99",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-15T22:00:17+00:00",
    "vazut": "2026-11-15T22:00:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://alcooldiscount.ro/vodca-stalinskaya-02l-40-alc-romania.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "17.80",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:35:57+00:00",
+   "vazut": "2026-11-15T22:35:57+00:00",
    "metoda": "cautare_google"
   }
  ]

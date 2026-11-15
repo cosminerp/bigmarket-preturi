@@ -1,0 +1,41 @@
+{
+ "ean": "5290426200268",
+ "preturi": [
+  {
+   "url": "https://www.vivomarket.ro/bacanie/unt-de-arahide-90-arahide-341g-maxims.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "12.40",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:58:06+00:00",
+   "vazut": "2026-11-15T22:58:06+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.zozocafe.ro/unt-de-arahide-cremos-maxim-s-340g",
+   "domeniu": "zozocafe.ro",
+   "pret": "8.14",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:58:08+00:00",
+   "vazut": "2026-11-15T22:58:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://ali-market.ro/ro/snacks/maxim-s-unt-de-arahide-340g-creamy-00011335-17106",
+   "domeniu": "ali-market.ro",
+   "pret": "6.67",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:58:12+00:00",
+   "vazut": "2026-11-15T22:58:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/creme-tartinabile/crema-arahide-340g",
+   "domeniu": "promoazi.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:58:14+00:00",
+   "vazut": "2026-11-15T22:58:14+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

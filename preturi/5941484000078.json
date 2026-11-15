@@ -1,0 +1,23 @@
+{
+ "ean": "5941484000078",
+ "preturi": [
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/sultan-tomate-310g-20buc-bax-5941484000078",
+   "domeniu": "snaemarket.ro",
+   "pret": "9.18",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:48:51+00:00",
+   "vazut": "2026-11-15T22:48:51+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/pasta-tomate-sultan-310g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-15T22:48:54+00:00",
+   "vazut": "2026-11-15T22:48:54+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}
