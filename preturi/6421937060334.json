@@ -1,0 +1,15 @@
+{
+ "ean": "6421937060334",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/suport-pentru-10oua/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:24:18+00:00",
+   "vazut": "2026-11-15T15:24:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Suport pentru 10 oua Sterk, din plastic"
+  }
+ ]
+}

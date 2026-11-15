@@ -1,0 +1,15 @@
+{
+ "ean": "5941390003248",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/condiment-pentru-peste-cosmin-20-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.75",
+   "stare": "ok",
+   "verificat": "2026-11-15T15:23:39+00:00",
+   "vazut": "2026-11-15T15:23:39+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Condiment pentru peste Cosmin 20 g"
+  }
+ ]
+}
