@@ -12,15 +12,6 @@
    "nume": "Pasta vegetala din linte rosie cu ardei picant SanoVita, 100 g"
   },
   {
-   "url": "https://www.raftonline.ro/cumpara/pasta-vegetala-linte-rosie-ardei-picant100gr-221937?srsltid=AYCX9vJI--hsXQrJRcqX6xvQCW6ORO8aHA0pt8tzfiub_Hk7FWpE1LDT",
-   "domeniu": "raftonline.ro",
-   "pret": "17.13",
-   "stare": "ok",
-   "verificat": "2026-11-15T22:23:27+00:00",
-   "vazut": "2026-11-15T22:23:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://frunzaverde.ro/magazin/alimentare/creme-tartinabile/pasta-vegetala-din-linte-rosie-cu-ardei-picant-100-g-sanovita/?srsltid=AYCX9vIvbzo6uvuO2RA429UngR68-dlIES03_oMFOwtQyBvxRer7bk23",
    "domeniu": "frunzaverde.ro",
    "pret": "6.54",
@@ -45,6 +36,15 @@
    "stare": "ok",
    "verificat": "2026-11-16T04:23:35+00:00",
    "vazut": "2026-11-16T04:23:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.raftonline.ro/cumpara/pasta-vegetala-linte-rosie-ardei-picant100gr-221937?srsltid=AYCX9vJI--hsXQrJRcqX6xvQCW6ORO8aHA0pt8tzfiub_Hk7FWpE1LDT",
+   "domeniu": "raftonline.ro",
+   "pret": "17.13",
+   "stare": "ok",
+   "verificat": "2026-11-16T04:25:14+00:00",
+   "vazut": "2026-11-16T04:25:14+00:00",
    "metoda": "cautare_google"
   }
  ]
