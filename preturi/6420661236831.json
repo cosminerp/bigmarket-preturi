@@ -2,21 +2,21 @@
  "ean": "6420661236831",
  "preturi": [
   {
-   "url": "https://zoom-shop.ro/produs/prosoape-de-hartie-papely-celuloza-2-straturi-150-buc-pachet-alb/",
-   "domeniu": "zoom-shop.ro",
-   "pret": "8.31",
-   "stare": "ok",
-   "verificat": "2026-11-15T19:44:00+00:00",
-   "vazut": "2026-11-15T19:44:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://vivartattoo.ro/prosoape-de-hartie-in-v-papely-2straturi-150-bucati/?srsltid=AYCX9vLKRnlQ9ZyKeLzgfp5HTLLSAzJscVDzdJD3cIaw7yjKfj4_H49A",
    "domeniu": "vivartattoo.ro",
    "pret": "6.90",
    "stare": "fără preț sau alt cod de bare",
    "verificat": "2026-11-16T01:44:23+00:00",
    "vazut": "2026-11-15T19:43:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://zoom-shop.ro/produs/prosoape-de-hartie-papely-celuloza-2-straturi-150-buc-pachet-alb/",
+   "domeniu": "zoom-shop.ro",
+   "pret": "9.23",
+   "stare": "ok",
+   "verificat": "2026-11-16T01:46:00+00:00",
+   "vazut": "2026-11-16T01:46:00+00:00",
    "metoda": "cautare_google"
   }
  ]
