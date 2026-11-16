@@ -2,15 +2,6 @@
  "ean": "4820269144330",
  "preturi": [
   {
-   "url": "https://www.epetshop.ro/produse-pisici/my-love-hrana-uscata-pisici-adulte-cu-pui-vita-si-legume-300g.html",
-   "domeniu": "epetshop.ro",
-   "pret": "4.90",
-   "stare": "ok",
-   "verificat": "2026-11-15T22:18:55+00:00",
-   "vazut": "2026-11-15T22:18:55+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.petvet-shop.ro/cumpara/my-love-adult-cat-hrana-uscata-completa-pui-vita-si-legume-300g-9596",
    "domeniu": "petvet-shop.ro",
    "pret": "4.60",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-16T04:18:58+00:00",
    "vazut": "2026-11-16T04:18:58+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.epetshop.ro/produse-pisici/my-love-hrana-uscata-pisici-adulte-cu-pui-vita-si-legume-300g.html",
+   "domeniu": "epetshop.ro",
+   "pret": "4.90",
+   "stare": "ok",
+   "verificat": "2026-11-16T04:20:33+00:00",
+   "vazut": "2026-11-16T04:20:33+00:00",
    "metoda": "cautare_google"
   }
  ]
