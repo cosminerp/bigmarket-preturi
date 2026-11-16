@@ -1,0 +1,41 @@
+{
+ "ean": "6420106189395",
+ "preturi": [
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/pulberi-alimentare/pudra-de-roscove-250gr/?srsltid=AYCX9vJMyYOUdKn2UZtniK_kQE4Q5T4uZtvk9kBDmKLdbhCTmoInO39H",
+   "domeniu": "frunzaverde.ro",
+   "pret": "8.05",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:42:37+00:00",
+   "vazut": "2026-11-16T00:42:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/pudra-de-roscove-250g-7746103?srsltid=AYCX9vLvXKV3N1yzWRi35_pCtnTel4YWmNgIe8bqDJxhe7L_5ek1Zc-u",
+   "domeniu": "naturisti.ro",
+   "pret": "8.12",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:42:39+00:00",
+   "vazut": "2026-11-16T00:42:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/pulberi-si-pudre/sanovita-pudra-de-roscove-250-g?srsltid=AYCX9vI7SAdQvVXZxD-pyeONEGkKh-Y0oW5QkywuRoL6cPBopy3hLLzk",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "7.86",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:42:41+00:00",
+   "vazut": "2026-11-16T00:42:41+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.raftonline.ro/cumpara/pudra-de-roscove-250gr-221885?srsltid=AYCX9vKAxjohu0LAuIiM0DPFNjIoMRaNT9pbv9OfZXm2z5Uf_LhL3qRP",
+   "domeniu": "raftonline.ro",
+   "pret": "15.61",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:42:42+00:00",
+   "vazut": "2026-11-16T00:42:42+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

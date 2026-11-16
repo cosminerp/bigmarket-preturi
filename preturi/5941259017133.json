@@ -11,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Salam Muscel Caroli, 100 g",
    "pret_vechi": "4.65"
+  },
+  {
+   "url": "https://promoazi.ro/mezeluri/salam-muscel-caroli-100-g",
+   "domeniu": "promoazi.ro",
+   "pret": "4.65",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:32:38+00:00",
+   "vazut": "2026-11-16T00:32:38+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
