@@ -2,15 +2,6 @@
  "ean": "5941300011851",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/croissant-cozonaci/cozonac-cacao-rahat-500gr-9buc-bax-5941300011851",
-   "domeniu": "snaemarket.ro",
-   "pret": "17.52",
-   "stare": "ok",
-   "verificat": "2026-11-16T06:08:35+00:00",
-   "vazut": "2026-11-16T06:08:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cozonac-cu-crema-de-cacao-si-rahat-boromir-500g/p",
    "domeniu": "auchan.ro",
    "pret": "18.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-16T11:20:26+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cozonac cu crema de cacao si rahat Boromir, 500g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/croissant-cozonaci/cozonac-cacao-rahat-500gr-9buc-bax-5941300011851",
+   "domeniu": "snaemarket.ro",
+   "pret": "17.52",
+   "stare": "ok",
+   "verificat": "2026-11-16T12:19:33+00:00",
+   "vazut": "2026-11-16T12:19:33+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
