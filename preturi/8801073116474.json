@@ -13,21 +13,21 @@
    "pret_vechi": "11.39"
   },
   {
-   "url": "https://www.razvanbotezatu.ro/samyang-buldag-cheese-140-g-20752",
-   "domeniu": "razvanbotezatu.ro",
-   "pret": "14.05",
-   "stare": "ok",
-   "verificat": "2026-11-15T22:25:02+00:00",
-   "vazut": "2026-11-15T22:25:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.k-mart.ro/ramyun/ramen-buldak-cheese-140g-samyang.html",
    "domeniu": "k-mart.ro",
    "pret": "15.50",
    "stare": "ok",
    "verificat": "2026-11-16T04:25:16+00:00",
    "vazut": "2026-11-16T04:25:16+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.razvanbotezatu.ro/samyang-buldag-cheese-140-g-20752",
+   "domeniu": "razvanbotezatu.ro",
+   "pret": "14.05",
+   "stare": "ok",
+   "verificat": "2026-11-16T04:26:47+00:00",
+   "vazut": "2026-11-16T04:26:47+00:00",
    "metoda": "cautare_google"
   }
  ]
