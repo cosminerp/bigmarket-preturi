@@ -1,0 +1,32 @@
+{
+ "ean": "3800034984188",
+ "preturi": [
+  {
+   "url": "https://www.snaemarket.ro/menaj/Odorizante/areon-liquid-5ml-vip-black-king-3800034984188",
+   "domeniu": "snaemarket.ro",
+   "pret": "12.05",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:18:06+00:00",
+   "vazut": "2026-11-16T00:18:06+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.car-station.ro/areon-liquid-vip-black-king-5-ml/?srsltid=AYCX9vLW19hmH4iLEO1nSQUiX-tP6E9nfe_ZQQoval7dNdeApQxhxR3c",
+   "domeniu": "car-station.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:18:09+00:00",
+   "vazut": "2026-11-16T00:18:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/areon-liquid-5-ml-vip-black-king/?srsltid=AYCX9vJzqLDpVLWK2pRL_SLLt3HaRek37xZw88ExBn6JDpsCOiEkn-On",
+   "domeniu": "cobyul.ro",
+   "pret": "14.79",
+   "stare": "ok",
+   "verificat": "2026-11-16T00:18:15+00:00",
+   "vazut": "2026-11-16T00:18:15+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}

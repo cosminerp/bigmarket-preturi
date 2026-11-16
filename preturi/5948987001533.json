@@ -1,0 +1,32 @@
+{
+ "ean": "5948987001533",
+ "preturi": [
+  {
+   "url": "https://fancydrinks.ro/produs/vodka-absolut-blue-40-0-5l/",
+   "domeniu": "fancydrinks.ro",
+   "pret": "48.46",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:50:08+00:00",
+   "vazut": "2026-11-15T23:50:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.rebeshop.ro/cumpara/vodka-absolut-blue-0-5l-40-744",
+   "domeniu": "rebeshop.ro",
+   "pret": "55.09",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:50:10+00:00",
+   "vazut": "2026-11-15T23:50:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://alcooldiscount.ro/vodca-absolut-blue-05l-40-alc-suedia.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "67.59",
+   "stare": "ok",
+   "verificat": "2026-11-15T23:50:13+00:00",
+   "vazut": "2026-11-15T23:50:13+00:00",
+   "metoda": "cautare_google"
+  }
+ ]
+}
