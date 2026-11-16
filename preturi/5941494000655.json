@@ -2,15 +2,6 @@
  "ean": "5941494000655",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/sirop-visine-laurul-0-75l/",
-   "domeniu": "pacomarket.ro",
-   "pret": "17.90",
-   "stare": "ok",
-   "verificat": "2026-11-16T10:57:36+00:00",
-   "vazut": "2026-11-16T10:57:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sirop-natural-de-visine-laurul-0-75-l/p",
    "domeniu": "auchan.ro",
    "pret": "18.49",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-16T17:04:28+00:00",
    "vazut": "2026-11-16T17:04:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/sirop-visine-laurul-0-75l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "17.90",
+   "stare": "ok",
+   "verificat": "2026-11-16T18:38:36+00:00",
+   "vazut": "2026-11-16T18:38:36+00:00",
    "metoda": "cautare_google"
   }
  ]
