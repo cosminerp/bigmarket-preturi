@@ -2,12 +2,21 @@
  "ean": "8682241216062",
  "preturi": [
   {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/servetele-si-igienizanti/servetele-umede/lavete-umede-pentru-curatare-pardoseli-easy-clean-herbal-soap-50-bucati-sleepy-p385426",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "26.50",
+   "stare": "ok",
+   "verificat": "2026-11-16T06:22:16+00:00",
+   "vazut": "2026-11-16T06:22:16+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/intretinere-si-curatenie/lavete-umede-pentru-curatare-pardoseli-herbal-soap-easy-clean-50-bucati-sleepy-p421031",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "26.50",
    "stare": "ok",
-   "verificat": "2026-11-16T00:21:58+00:00",
-   "vazut": "2026-11-16T00:21:58+00:00",
+   "verificat": "2026-11-16T06:23:40+00:00",
+   "vazut": "2026-11-16T06:23:40+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "mam-bricolaj.ro",
    "pret": "33.95",
    "stare": "ok",
-   "verificat": "2026-11-16T00:22:00+00:00",
-   "vazut": "2026-11-16T00:22:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/servetele-si-igienizanti/servetele-umede/lavete-umede-pentru-curatare-pardoseli-easy-clean-herbal-soap-50-bucati-sleepy-p385426",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "26.50",
-   "stare": "ok",
-   "verificat": "2026-11-16T06:22:16+00:00",
-   "vazut": "2026-11-16T06:22:16+00:00",
+   "verificat": "2026-11-16T06:23:43+00:00",
+   "vazut": "2026-11-16T06:23:43+00:00",
    "metoda": "cautare_google"
   }
  ]
