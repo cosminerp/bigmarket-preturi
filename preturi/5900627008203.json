@@ -2,15 +2,6 @@
  "ean": "5900627008203",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/menaj/detergenti/calgon-pudra-500gr-5900627008203",
-   "domeniu": "snaemarket.ro",
-   "pret": "12.08",
-   "stare": "ok",
-   "verificat": "2026-11-16T00:45:28+00:00",
-   "vazut": "2026-11-16T00:45:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pudra-anticalcar-calgon-pentru-masina-de-spalat-500g/p",
    "domeniu": "auchan.ro",
    "pret": "34.99",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-16T06:45:49+00:00",
    "vazut": "2026-11-16T06:45:49+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/detergenti/calgon-pudra-500gr-5900627008203",
+   "domeniu": "snaemarket.ro",
+   "pret": "12.08",
+   "stare": "ok",
+   "verificat": "2026-11-16T06:47:46+00:00",
+   "vazut": "2026-11-16T06:47:46+00:00",
    "metoda": "cautare_google"
   }
  ]
