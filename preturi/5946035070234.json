@@ -2,33 +2,6 @@
  "ean": "5946035070234",
  "preturi": [
   {
-   "url": "https://www.cuccos.ro/toate-produsele--41/nufar-spray-scos-pete-500ml--89577.htm?srsltid=AYCX9vKw_SVzOjKnYaPzvZ3sgwXQPGSt6SUleSkDZgR-xs4WUWS9K9Z_",
-   "domeniu": "cuccos.ro",
-   "pret": "14.80",
-   "stare": "ok",
-   "verificat": "2026-11-16T10:46:27+00:00",
-   "vazut": "2026-11-16T10:46:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.westchemicals.ro/produs/solutie-scos-pete-pentru-tesaturi-albe-si-colorate-fara-clor-nufar-500-ml/",
-   "domeniu": "westchemicals.ro",
-   "pret": "15.50",
-   "stare": "ok",
-   "verificat": "2026-11-16T10:46:31+00:00",
-   "vazut": "2026-11-16T10:46:31+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/menaj/diverse-menaj/nufar-scos-pete-pompita-500ml-12buc-bax-5946035070234",
-   "domeniu": "snaemarket.ro",
-   "pret": "14.51",
-   "stare": "ok",
-   "verificat": "2026-11-16T10:46:33+00:00",
-   "vazut": "2026-11-16T10:46:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/solutie-pentru-scos-pete-nufar-0-5-l/p",
    "domeniu": "auchan.ro",
    "pret": "14.89",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-16T11:17:08+00:00",
    "metoda": "auchan_catalog",
    "nume": "Solutie pentru scos pete Nufar, 0.5 l"
+  },
+  {
+   "url": "https://www.cuccos.ro/toate-produsele--41/nufar-spray-scos-pete-500ml--89577.htm?srsltid=AYCX9vKw_SVzOjKnYaPzvZ3sgwXQPGSt6SUleSkDZgR-xs4WUWS9K9Z_",
+   "domeniu": "cuccos.ro",
+   "pret": "14.80",
+   "stare": "ok",
+   "verificat": "2026-11-16T17:10:42+00:00",
+   "vazut": "2026-11-16T17:10:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/solutie-scos-pete-pentru-tesaturi-albe-si-colorate-fara-clor-nufar-500-ml/",
+   "domeniu": "westchemicals.ro",
+   "pret": "15.50",
+   "stare": "ok",
+   "verificat": "2026-11-16T17:10:47+00:00",
+   "vazut": "2026-11-16T17:10:47+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/diverse-menaj/nufar-scos-pete-pompita-500ml-12buc-bax-5946035070234",
+   "domeniu": "snaemarket.ro",
+   "pret": "14.51",
+   "stare": "ok",
+   "verificat": "2026-11-16T17:10:49+00:00",
+   "vazut": "2026-11-16T17:10:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
