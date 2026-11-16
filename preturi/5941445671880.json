@@ -2,24 +2,6 @@
  "ean": "5941445671880",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/chio-snacks-cheese-65g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-16T08:26:16+00:00",
-   "vazut": "2026-11-16T08:26:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/dulciuri-si-snacks/chio-snack-cartofi-gust-cascaval",
-   "domeniu": "promoazi.ro",
-   "pret": "2.50",
-   "stare": "ok",
-   "verificat": "2026-11-16T08:26:18+00:00",
-   "vazut": "2026-11-16T08:26:18+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chips-chio-snack-cu-cascaval-65-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.19",
@@ -36,6 +18,24 @@
    "stare": "ok",
    "verificat": "2026-11-16T14:26:16+00:00",
    "vazut": "2026-11-16T14:26:16+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/chio-snacks-cheese-65g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-16T14:27:54+00:00",
+   "vazut": "2026-11-16T14:27:54+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/dulciuri-si-snacks/chio-snack-cartofi-gust-cascaval",
+   "domeniu": "promoazi.ro",
+   "pret": "2.50",
+   "stare": "ok",
+   "verificat": "2026-11-16T14:27:56+00:00",
+   "vazut": "2026-11-16T14:27:56+00:00",
    "metoda": "cautare_google"
   }
  ]
