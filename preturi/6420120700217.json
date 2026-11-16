@@ -2,12 +2,21 @@
  "ean": "6420120700217",
  "preturi": [
   {
+   "url": "https://www.zozocafe.ro/rosii-decojite-taiate-maxim-s-400g",
+   "domeniu": "zozocafe.ro",
+   "pret": "3.58",
+   "stare": "ok",
+   "verificat": "2026-11-16T09:36:04+00:00",
+   "vazut": "2026-11-16T09:36:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://pacomarket.ro/product/rosii-decojite-taiate-maxim-s-425ml/",
    "domeniu": "pacomarket.ro",
    "pret": "3.75",
    "stare": "ok",
-   "verificat": "2026-11-16T09:33:16+00:00",
-   "vazut": "2026-11-16T09:33:16+00:00",
+   "verificat": "2026-11-16T15:37:31+00:00",
+   "vazut": "2026-11-16T15:37:31+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "ali-market.ro",
    "pret": "3.02",
    "stare": "ok",
-   "verificat": "2026-11-16T09:33:19+00:00",
-   "vazut": "2026-11-16T09:33:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.zozocafe.ro/rosii-decojite-taiate-maxim-s-400g",
-   "domeniu": "zozocafe.ro",
-   "pret": "3.58",
-   "stare": "ok",
-   "verificat": "2026-11-16T09:36:04+00:00",
-   "vazut": "2026-11-16T09:36:04+00:00",
+   "verificat": "2026-11-16T15:37:35+00:00",
+   "vazut": "2026-11-16T15:37:35+00:00",
    "metoda": "cautare_google"
   }
  ]
