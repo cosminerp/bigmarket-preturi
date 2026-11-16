@@ -2,24 +2,6 @@
  "ean": "6422876002850",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-pentru-dezinfectare/servetele-umede-multisuprafete-100-bucati-doctor-wipes-p421338",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "14.74",
-   "stare": "ok",
-   "verificat": "2026-11-16T02:11:57+00:00",
-   "vazut": "2026-11-16T02:11:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.incoplus.ro/produs/dr-wipes-servetele-umede-pentru-copii-72-buc-301-307/?srsltid=AYCX9vKz42uTOxp-iy7gT4nwT-OBkuhvwakTs2_zPM7NPZ_h0zDgx83H",
-   "domeniu": "incoplus.ro",
-   "pret": "16.50",
-   "stare": "ok",
-   "verificat": "2026-11-16T02:11:59+00:00",
-   "vazut": "2026-11-16T02:11:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/servetele-si-igienizanti/servetele-umede/servetelele-umede-pentru-suprafete-multiple-100-bucati-doctor-wipes-p383815",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "14.74",
@@ -44,6 +26,24 @@
    "stare": "ok",
    "verificat": "2026-11-16T08:12:14+00:00",
    "vazut": "2026-11-16T08:12:14+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-pentru-dezinfectare/servetele-umede-multisuprafete-100-bucati-doctor-wipes-p421338",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "14.74",
+   "stare": "ok",
+   "verificat": "2026-11-16T08:13:35+00:00",
+   "vazut": "2026-11-16T08:13:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.incoplus.ro/produs/dr-wipes-servetele-umede-pentru-copii-72-buc-301-307/?srsltid=AYCX9vKz42uTOxp-iy7gT4nwT-OBkuhvwakTs2_zPM7NPZ_h0zDgx83H",
+   "domeniu": "incoplus.ro",
+   "pret": "16.50",
+   "stare": "ok",
+   "verificat": "2026-11-16T08:13:37+00:00",
+   "vazut": "2026-11-16T08:13:37+00:00",
    "metoda": "cautare_google"
   }
  ]
