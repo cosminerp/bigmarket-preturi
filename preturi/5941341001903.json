@@ -2,17 +2,6 @@
  "ean": "5941341001903",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-taranesc-de-porc-sadu-100g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.59",
-   "stare": "ok",
-   "verificat": "2026-11-16T11:10:33+00:00",
-   "vazut": "2026-11-16T11:10:33+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pate taranesc de porc Sadu, 100g",
-   "pret_vechi": "3.85"
-  },
-  {
    "url": "https://www.pretistet.ro/produs/sadu-pate-de-ficat-de-porc-cu-cheita-100gr/",
    "domeniu": "pretistet.ro",
    "pret": "3.29",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-16T20:16:24+00:00",
    "vazut": "2026-11-16T20:16:24+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-taranesc-de-porc-sadu-100g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.59",
+   "stare": "ok",
+   "verificat": "2026-11-16T22:05:35+00:00",
+   "vazut": "2026-11-16T22:05:35+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pate taranesc de porc Sadu, 100g",
+   "pret_vechi": "3.85"
   }
  ]
 }
