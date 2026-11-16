@@ -2,24 +2,6 @@
  "ean": "5943000092468",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p330731",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "14.00",
-   "stare": "ok",
-   "verificat": "2026-11-15T23:24:55+00:00",
-   "vazut": "2026-11-15T23:24:55+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p167135",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "14.00",
-   "stare": "ok",
-   "verificat": "2026-11-15T23:24:57+00:00",
-   "vazut": "2026-11-15T23:24:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.dovermedfarma.ro/farmec-crema-depilatoare-rapida-argan-150ml?srsltid=AYCX9vKb6qV2QpzUhph85ioGnQM5ATbuk5tD365sDCiHzZ6xyhx0g_GH",
    "domeniu": "dovermedfarma.ro",
    "pret": "14.63",
@@ -37,6 +19,24 @@
    "vazut": "2026-11-16T00:59:07+00:00",
    "metoda": "auchan_catalog",
    "nume": "Crema depilatoare rapida Farmec cu argan, 150 ml"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p330731",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "14.00",
+   "stare": "ok",
+   "verificat": "2026-11-16T05:25:14+00:00",
+   "vazut": "2026-11-16T05:25:14+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p167135",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "14.00",
+   "stare": "ok",
+   "verificat": "2026-11-16T05:25:16+00:00",
+   "vazut": "2026-11-16T05:25:16+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
