@@ -2,17 +2,6 @@
  "ean": "5941360007597",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/mozzarella-gourmet-delaco-350-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.49",
-   "stare": "ok",
-   "verificat": "2026-11-15T19:51:24+00:00",
-   "vazut": "2026-11-15T19:51:24+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Mozzarella gourmet Delaco, 350 g",
-   "pret_vechi": "20.49"
-  },
-  {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/delaco-mozzarella-gourmet-350g.html",
    "domeniu": "eurodiscount.ro",
    "pret": "21.41",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-16T08:46:43+00:00",
    "vazut": "2026-11-16T08:46:43+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/mozzarella-gourmet-delaco-350-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.49",
+   "stare": "ok",
+   "verificat": "2026-11-16T11:12:25+00:00",
+   "vazut": "2026-11-16T11:12:25+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Mozzarella gourmet Delaco, 350 g",
+   "pret_vechi": "20.49"
   }
  ]
 }
