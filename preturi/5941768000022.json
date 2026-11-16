@@ -2,33 +2,6 @@
  "ean": "5941768000022",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/tableta-cu-cappucino-fara-zahar-25-g-7752212?srsltid=AYCX9vLZAOSQ6khV8eboQSu_1dLBJ0Hf0AcZ2FBOWkjDWsUT7ZCb25mL",
-   "domeniu": "naturisti.ro",
-   "pret": "2.59",
-   "stare": "ok",
-   "verificat": "2026-11-15T20:19:44+00:00",
-   "vazut": "2026-11-15T20:19:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciilenapofarm.ro/gustari/ciocolata-sly-diet-cappuccino-25g-x-1buc?srsltid=AYCX9vIH5uD6NACFms20uWdaiPvIWgJCuBAFTtnfNhckIHZUfjTov3SP",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "2.38",
-   "stare": "ok",
-   "verificat": "2026-11-15T20:19:47+00:00",
-   "vazut": "2026-11-15T20:19:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-si-cappucino-25-g-sly-nutritia-p424809",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "2.50",
-   "stare": "ok",
-   "verificat": "2026-11-15T20:19:49+00:00",
-   "vazut": "2026-11-15T20:19:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-laptecappucino-fara-zahar-25gr/?srsltid=AYCX9vJp0Sey59SJ4Lvpezx1gLUJ7VVuUyWnm52kDeqjmSD14pZ0G1aQ",
    "domeniu": "frunzaverde.ro",
    "pret": "2.28",
@@ -44,6 +17,33 @@
    "stare": "ok",
    "verificat": "2026-11-16T02:20:01+00:00",
    "vazut": "2026-11-16T02:20:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/tableta-cu-cappucino-fara-zahar-25-g-7752212?srsltid=AYCX9vLZAOSQ6khV8eboQSu_1dLBJ0Hf0AcZ2FBOWkjDWsUT7ZCb25mL",
+   "domeniu": "naturisti.ro",
+   "pret": "2.59",
+   "stare": "ok",
+   "verificat": "2026-11-16T02:21:33+00:00",
+   "vazut": "2026-11-16T02:21:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/gustari/ciocolata-sly-diet-cappuccino-25g-x-1buc?srsltid=AYCX9vIH5uD6NACFms20uWdaiPvIWgJCuBAFTtnfNhckIHZUfjTov3SP",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "2.38",
+   "stare": "ok",
+   "verificat": "2026-11-16T02:21:36+00:00",
+   "vazut": "2026-11-16T02:21:36+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-si-cappucino-25-g-sly-nutritia-p424809",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "2.50",
+   "stare": "ok",
+   "verificat": "2026-11-16T02:21:39+00:00",
+   "vazut": "2026-11-16T02:21:39+00:00",
    "metoda": "cautare_google"
   }
  ]
