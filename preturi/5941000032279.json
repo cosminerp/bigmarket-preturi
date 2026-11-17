@@ -2,15 +2,6 @@
  "ean": "5941000032279",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-maxx-paprika-nou-115gr-21buc-bax-5941000032279",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-16T20:14:33+00:00",
-   "vazut": "2026-11-16T20:14:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/lays-maxx-paprika-115g/",
    "domeniu": "pacomarket.ro",
    "pret": "7.99",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-16T22:05:29+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu paprika Lay's Maxx, 115 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-maxx-paprika-nou-115gr-21buc-bax-5941000032279",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-17T02:15:22+00:00",
+   "vazut": "2026-11-17T02:15:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
