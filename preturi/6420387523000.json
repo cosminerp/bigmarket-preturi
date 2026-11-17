@@ -2,12 +2,21 @@
  "ean": "6420387523000",
  "preturi": [
   {
+   "url": "https://www.mam-bricolaj.ro/cumpara/caiet-tip-1-24-file-format-a5-diverse-modele-52491?srsltid=AYCX9vIk62vaiJDClY_ZJuSC7a9Ym_00AMo5Q4uiEysU9UKpxc4nvVuf",
+   "domeniu": "mam-bricolaj.ro",
+   "pret": "3.95",
+   "stare": "ok",
+   "verificat": "2026-11-17T00:54:09+00:00",
+   "vazut": "2026-11-17T00:54:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://rightchoice.ro/produs/caiet-tip-i-24-file-color-pigna?srsltid=AYCX9vK2HVfjGVt3h7jIuo7Ec7V_O9X1L_F9lVhjOtZzzpZtcF2QKD-u",
    "domeniu": "rightchoice.ro",
    "pret": "2.00",
    "stare": "ok",
-   "verificat": "2026-11-17T00:48:44+00:00",
-   "vazut": "2026-11-17T00:48:44+00:00",
+   "verificat": "2026-11-17T06:52:29+00:00",
+   "vazut": "2026-11-17T06:52:29+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "grafio.ro",
    "pret": "2.14",
    "stare": "ok",
-   "verificat": "2026-11-17T00:48:48+00:00",
-   "vazut": "2026-11-17T00:48:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.mam-bricolaj.ro/cumpara/caiet-tip-1-24-file-format-a5-diverse-modele-52491?srsltid=AYCX9vIk62vaiJDClY_ZJuSC7a9Ym_00AMo5Q4uiEysU9UKpxc4nvVuf",
-   "domeniu": "mam-bricolaj.ro",
-   "pret": "3.95",
-   "stare": "ok",
-   "verificat": "2026-11-17T00:54:09+00:00",
-   "vazut": "2026-11-17T00:54:09+00:00",
+   "verificat": "2026-11-17T06:52:33+00:00",
+   "vazut": "2026-11-17T06:52:33+00:00",
    "metoda": "cautare_google"
   }
  ]
