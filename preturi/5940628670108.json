@@ -2,15 +2,6 @@
  "ean": "5940628670108",
  "preturi": [
   {
-   "url": "https://www.drogheriahara.ro/cumpara/crema-de-fata-apidermin-lux-50-ml-complex-apicol-14593?srsltid=AYCX9vIMqfC1L2QGPjGMmZ9WazkPIhiSa9jBGj2LbwuwkmpAJu_erZBK",
-   "domeniu": "drogheriahara.ro",
-   "pret": "28.79",
-   "stare": "ok",
-   "verificat": "2026-11-17T06:43:03+00:00",
-   "vazut": "2026-11-17T06:43:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apidermin-lux-45gr/p",
    "domeniu": "auchan.ro",
    "pret": "34.99",
@@ -54,6 +45,15 @@
    "stare": "ok",
    "verificat": "2026-11-17T12:44:20+00:00",
    "vazut": "2026-11-17T12:44:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.drogheriahara.ro/cumpara/crema-de-fata-apidermin-lux-50-ml-complex-apicol-14593?srsltid=AYCX9vIMqfC1L2QGPjGMmZ9WazkPIhiSa9jBGj2LbwuwkmpAJu_erZBK",
+   "domeniu": "drogheriahara.ro",
+   "pret": "28.79",
+   "stare": "ok",
+   "verificat": "2026-11-17T12:45:45+00:00",
+   "vazut": "2026-11-17T12:45:45+00:00",
    "metoda": "cautare_google"
   }
  ]
