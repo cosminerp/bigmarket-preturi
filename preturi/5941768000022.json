@@ -2,15 +2,6 @@
  "ean": "5941768000022",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/tableta-cu-cappucino-fara-zahar-25-g-7752212?srsltid=AYCX9vLZAOSQ6khV8eboQSu_1dLBJ0Hf0AcZ2FBOWkjDWsUT7ZCb25mL",
-   "domeniu": "naturisti.ro",
-   "pret": "2.59",
-   "stare": "ok",
-   "verificat": "2026-11-17T08:25:49+00:00",
-   "vazut": "2026-11-17T08:25:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.farmaciilenapofarm.ro/gustari/ciocolata-sly-diet-cappuccino-25g-x-1buc?srsltid=AYCX9vIH5uD6NACFms20uWdaiPvIWgJCuBAFTtnfNhckIHZUfjTov3SP",
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "2.38",
@@ -44,6 +35,15 @@
    "stare": "ok",
    "verificat": "2026-11-17T14:25:30+00:00",
    "vazut": "2026-11-17T14:25:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/tableta-cu-cappucino-fara-zahar-25-g-7752212?srsltid=AYCX9vLZAOSQ6khV8eboQSu_1dLBJ0Hf0AcZ2FBOWkjDWsUT7ZCb25mL",
+   "domeniu": "naturisti.ro",
+   "pret": "2.59",
+   "stare": "ok",
+   "verificat": "2026-11-17T14:27:04+00:00",
+   "vazut": "2026-11-17T14:27:04+00:00",
    "metoda": "cautare_google"
   }
  ]
