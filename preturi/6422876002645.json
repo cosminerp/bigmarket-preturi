@@ -2,12 +2,21 @@
  "ean": "6422876002645",
  "preturi": [
   {
+   "url": "https://cobyul.ro/produs/dr-wipes-servetele-umede-36-buc-podele/?srsltid=AYCX9vKKorA-GruLOArzvaJWin6uO8xczYM8ir1C6eEj-8QI8M2QEFEs",
+   "domeniu": "cobyul.ro",
+   "pret": "20.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T02:04:03+00:00",
+   "vazut": "2026-11-17T02:04:03+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/servetele-si-igienizanti/servetele-umede/servetele-umede-cu-parfum-de-lamaie-pentru-suprafete-multiple-36-bucati-doctor-wipes-p392495",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "17.74",
    "stare": "ok",
-   "verificat": "2026-11-17T01:56:53+00:00",
-   "vazut": "2026-11-17T01:56:53+00:00",
+   "verificat": "2026-11-17T07:59:27+00:00",
+   "vazut": "2026-11-17T07:59:27+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "comenzi.bebetei.ro",
    "pret": "17.74",
    "stare": "ok",
-   "verificat": "2026-11-17T01:56:56+00:00",
-   "vazut": "2026-11-17T01:56:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/dr-wipes-servetele-umede-36-buc-podele/?srsltid=AYCX9vKKorA-GruLOArzvaJWin6uO8xczYM8ir1C6eEj-8QI8M2QEFEs",
-   "domeniu": "cobyul.ro",
-   "pret": "20.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T02:04:03+00:00",
-   "vazut": "2026-11-17T02:04:03+00:00",
+   "verificat": "2026-11-17T07:59:30+00:00",
+   "vazut": "2026-11-17T07:59:30+00:00",
    "metoda": "cautare_google"
   }
  ]
