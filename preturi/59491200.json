@@ -2,24 +2,6 @@
  "ean": "59491200",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/ursus-premium-750ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-16T21:40:50+00:00",
-   "vazut": "2026-11-16T21:40:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://gxcoffice.ro/produs/etichete-de-pret-in-rola-europrix-26-x-12-mm-alb/?srsltid=AYCX9vIkWRMOq6rwErqw6hZ0wfKUTw5XFP-hGS4JnW6DME4n0-f70d-B",
-   "domeniu": "gxcoffice.ro",
-   "pret": "4.48",
-   "stare": "ok",
-   "verificat": "2026-11-16T21:40:54+00:00",
-   "vazut": "2026-11-16T21:40:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-ursus-0-75l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.49",
@@ -29,6 +11,24 @@
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Ursus, 0.75 l",
    "pret_vechi": "8.19"
+  },
+  {
+   "url": "https://pacomarket.ro/product/ursus-premium-750ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T03:45:04+00:00",
+   "vazut": "2026-11-17T03:45:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://gxcoffice.ro/produs/etichete-de-pret-in-rola-europrix-26-x-12-mm-alb/?srsltid=AYCX9vIkWRMOq6rwErqw6hZ0wfKUTw5XFP-hGS4JnW6DME4n0-f70d-B",
+   "domeniu": "gxcoffice.ro",
+   "pret": "4.48",
+   "stare": "ok",
+   "verificat": "2026-11-17T03:45:09+00:00",
+   "vazut": "2026-11-17T03:45:09+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
