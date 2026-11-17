@@ -2,15 +2,6 @@
  "ean": "5997587363404",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/alimente-de-baza/faina-buza-liszt-ungaria-1kg-10buc-bax-5997587363404",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.53",
-   "stare": "ok",
-   "verificat": "2026-11-17T05:23:32+00:00",
-   "vazut": "2026-11-17T05:23:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/faina-liszt-1-kg/",
    "domeniu": "pacomarket.ro",
    "pret": "3.25",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-17T05:23:37+00:00",
    "vazut": "2026-11-17T05:23:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/alimente-de-baza/faina-buza-liszt-ungaria-1kg-10buc-bax-5997587363404",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.53",
+   "stare": "ok",
+   "verificat": "2026-11-17T11:27:06+00:00",
+   "vazut": "2026-11-17T11:27:06+00:00",
    "metoda": "cautare_google"
   }
  ]
