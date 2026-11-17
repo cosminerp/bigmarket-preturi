@@ -2,24 +2,6 @@
  "ean": "5941445677431",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/chio-chips-intense-paprika-120g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-16T18:37:51+00:00",
-   "vazut": "2026-11-16T18:37:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.vivomarket.ro/bacanie/chipsuri-din-cartofi-cu-gust-de-smantana-paprika-chio-intense-120-g.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "10.70",
-   "stare": "ok",
-   "verificat": "2026-11-16T18:37:53+00:00",
-   "vazut": "2026-11-16T18:37:53+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-paprika-chio-intense-120-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.29",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-16T22:14:17+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu paprika Chio Intense, 120 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/chio-chips-intense-paprika-120g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T00:40:51+00:00",
+   "vazut": "2026-11-17T00:40:51+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/chipsuri-din-cartofi-cu-gust-de-smantana-paprika-chio-intense-120-g.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "10.70",
+   "stare": "ok",
+   "verificat": "2026-11-17T00:40:53+00:00",
+   "vazut": "2026-11-17T00:40:53+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
