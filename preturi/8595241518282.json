@@ -2,24 +2,6 @@
  "ean": "8595241518282",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/giana-ton-maruntit-in-ulei-si-suc-160g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-17T17:36:42+00:00",
-   "vazut": "2026-11-17T17:36:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/conserve-de-peste/ton-maruntit-in-ulei-giana-160g",
-   "domeniu": "promoazi.ro",
-   "pret": "4.85",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-17T17:36:45+00:00",
-   "vazut": "2026-11-16T17:16:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ton-maruntit-in-ulei-giana-160-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.49",
@@ -36,6 +18,24 @@
    "stare": "ok",
    "verificat": "2026-11-17T19:11:49+00:00",
    "vazut": "2026-11-17T19:11:49+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/giana-ton-maruntit-in-ulei-si-suc-160g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-17T23:39:22+00:00",
+   "vazut": "2026-11-17T23:39:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/conserve-de-peste/ton-maruntit-in-ulei-giana-160g",
+   "domeniu": "promoazi.ro",
+   "pret": "4.85",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-17T23:39:23+00:00",
+   "vazut": "2026-11-16T17:16:51+00:00",
    "metoda": "cautare_google"
   }
  ]
