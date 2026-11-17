@@ -2,12 +2,21 @@
  "ean": "3574661511146",
  "preturi": [
   {
+   "url": "https://www.kisshop.ro/cumpara/absorbante-zilnice-carefree-cotton-feel-normal-20-buc-2683?srsltid=AYCX9vJWqqZzlhxiDkKdgCl6HWEMS0hSeYYPTRHtEwxtiaLcAOxhyUix",
+   "domeniu": "kisshop.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T21:36:10+00:00",
+   "vazut": "2026-11-17T21:36:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://davart.ro/produse/carefree-3574661511146",
    "domeniu": "davart.ro",
    "pret": "8.00",
    "stare": "ok",
-   "verificat": "2026-11-17T15:36:48+00:00",
-   "vazut": "2026-11-17T15:36:48+00:00",
+   "verificat": "2026-11-17T21:37:32+00:00",
+   "vazut": "2026-11-17T21:37:32+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "cobyul.ro",
    "pret": "6.49",
    "stare": "ok",
-   "verificat": "2026-11-17T15:36:52+00:00",
-   "vazut": "2026-11-17T15:36:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.kisshop.ro/cumpara/absorbante-zilnice-carefree-cotton-feel-normal-20-buc-2683?srsltid=AYCX9vJWqqZzlhxiDkKdgCl6HWEMS0hSeYYPTRHtEwxtiaLcAOxhyUix",
-   "domeniu": "kisshop.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T21:36:10+00:00",
-   "vazut": "2026-11-17T21:36:10+00:00",
+   "verificat": "2026-11-17T21:37:37+00:00",
+   "vazut": "2026-11-17T21:37:37+00:00",
    "metoda": "cautare_google"
   }
  ]
