@@ -2,17 +2,6 @@
  "ean": "8801073116474",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/taitei-instant-picanti-cu-aroma-de-pui-si-branza-samyang-140-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.00",
-   "stare": "ok",
-   "verificat": "2026-11-17T08:01:41+00:00",
-   "vazut": "2026-11-17T08:01:41+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Taitei instant picanti cu aroma de pui si branza Samyang, 140 g",
-   "pret_vechi": "11.39"
-  },
-  {
    "url": "https://www.k-mart.ro/ramyun/ramen-buldak-cheese-140g-samyang.html",
    "domeniu": "k-mart.ro",
    "pret": "15.50",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-17T17:37:15+00:00",
    "vazut": "2026-11-17T11:34:08+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/taitei-instant-picanti-cu-aroma-de-pui-si-branza-samyang-140-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.00",
+   "stare": "ok",
+   "verificat": "2026-11-17T18:42:02+00:00",
+   "vazut": "2026-11-17T18:42:02+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Taitei instant picanti cu aroma de pui si branza Samyang, 140 g",
+   "pret_vechi": "11.39"
   }
  ]
 }
