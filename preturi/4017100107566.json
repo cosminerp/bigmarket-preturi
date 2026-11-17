@@ -12,12 +12,21 @@
    "nume": "Biscuiti cu unt Leibniz, 200 g"
   },
   {
+   "url": "https://pacomarket.ro/product/leibniz-biscuti-200g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "13.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T15:38:34+00:00",
+   "vazut": "2026-11-17T15:38:34+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/biscuiti-cu-unt-200-g-leibniz-p367938",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "11.00",
    "stare": "ok",
-   "verificat": "2026-11-17T09:38:17+00:00",
-   "vazut": "2026-11-17T09:38:17+00:00",
+   "verificat": "2026-11-17T15:39:56+00:00",
+   "vazut": "2026-11-17T15:39:56+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -25,17 +34,8 @@
    "domeniu": "promoazi.ro",
    "pret": "10.39",
    "stare": "ok",
-   "verificat": "2026-11-17T09:38:20+00:00",
-   "vazut": "2026-11-17T09:38:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/leibniz-biscuti-200g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "13.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T15:38:34+00:00",
-   "vazut": "2026-11-17T15:38:34+00:00",
+   "verificat": "2026-11-17T15:39:59+00:00",
+   "vazut": "2026-11-17T15:39:59+00:00",
    "metoda": "cautare_google"
   }
  ]
