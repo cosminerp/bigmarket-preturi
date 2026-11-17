@@ -11,24 +11,22 @@
    "metoda": "cautare_google"
   },
   {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cu-sare-de-mare-120gr-10buc-bax-5941445677479",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.48",
+   "stare": "ok",
+   "verificat": "2026-11-17T18:48:53+00:00",
+   "vazut": "2026-11-17T18:48:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://promoazi.ro/dulciuri-si-snacks/chipsuri-chio-intense-sare-mare-120g",
    "domeniu": "promoazi.ro",
    "pret": "6.87",
    "stare": "ok",
-   "verificat": "2026-11-17T12:48:16+00:00",
-   "vazut": "2026-11-17T12:48:16+00:00",
+   "verificat": "2026-11-17T18:50:17+00:00",
+   "vazut": "2026-11-17T18:50:17+00:00",
    "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.auchan.ro/chipsuri-cu-sare-de-mare-chio-intense-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T18:45:27+00:00",
-   "vazut": "2026-11-17T18:45:27+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu sare de mare Chio Intense, 120 g",
-   "pret_vechi": "8.29"
   }
  ]
 }
