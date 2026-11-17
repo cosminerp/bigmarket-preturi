@@ -2,24 +2,6 @@
  "ean": "5942321002149",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/coca-cola-1l/",
-   "domeniu": "pacomarket.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T17:25:59+00:00",
-   "vazut": "2026-11-17T17:25:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/bauturi-nealcoolice/bautura-carbogazoasa-coca-cola-gust-original-1-l",
-   "domeniu": "promoazi.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T17:26:00+00:00",
-   "vazut": "2026-11-17T17:26:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-gust-original-1-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "5.59",
@@ -29,6 +11,24 @@
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 1 l",
    "pret_vechi": "7.99"
+  },
+  {
+   "url": "https://pacomarket.ro/product/coca-cola-1l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T23:29:13+00:00",
+   "vazut": "2026-11-17T23:29:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/bauturi-nealcoolice/bautura-carbogazoasa-coca-cola-gust-original-1-l",
+   "domeniu": "promoazi.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T23:29:16+00:00",
+   "vazut": "2026-11-17T23:29:16+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
