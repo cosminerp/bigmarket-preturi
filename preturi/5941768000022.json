@@ -2,24 +2,6 @@
  "ean": "5941768000022",
  "preturi": [
   {
-   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-laptecappucino-fara-zahar-25gr/?srsltid=AYCX9vJp0Sey59SJ4Lvpezx1gLUJ7VVuUyWnm52kDeqjmSD14pZ0G1aQ",
-   "domeniu": "frunzaverde.ro",
-   "pret": "2.28",
-   "stare": "ok",
-   "verificat": "2026-11-16T20:22:46+00:00",
-   "vazut": "2026-11-16T20:22:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-cappuccino-fara-zahar-25g-sly-4908",
-   "domeniu": "nosugarshop.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-16T20:22:49+00:00",
-   "vazut": "2026-11-16T20:22:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/tableta-cu-cappucino-fara-zahar-25-g-7752212?srsltid=AYCX9vLZAOSQ6khV8eboQSu_1dLBJ0Hf0AcZ2FBOWkjDWsUT7ZCb25mL",
    "domeniu": "naturisti.ro",
    "pret": "2.59",
@@ -44,6 +26,24 @@
    "stare": "ok",
    "verificat": "2026-11-16T20:24:31+00:00",
    "vazut": "2026-11-16T20:24:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-laptecappucino-fara-zahar-25gr/?srsltid=AYCX9vJp0Sey59SJ4Lvpezx1gLUJ7VVuUyWnm52kDeqjmSD14pZ0G1aQ",
+   "domeniu": "frunzaverde.ro",
+   "pret": "2.28",
+   "stare": "ok",
+   "verificat": "2026-11-17T02:24:05+00:00",
+   "vazut": "2026-11-17T02:24:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-cappuccino-fara-zahar-25g-sly-4908",
+   "domeniu": "nosugarshop.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T02:24:07+00:00",
+   "vazut": "2026-11-17T02:24:07+00:00",
    "metoda": "cautare_google"
   }
  ]
