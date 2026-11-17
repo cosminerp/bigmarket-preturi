@@ -2,15 +2,6 @@
  "ean": "5941000032279",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/lays-maxx-paprika-115g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T02:17:07+00:00",
-   "vazut": "2026-11-17T02:17:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-paprika-lay-s-maxx-115-g/p",
    "domeniu": "auchan.ro",
    "pret": "11.59",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-17T08:15:53+00:00",
    "vazut": "2026-11-17T08:15:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/lays-maxx-paprika-115g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-17T08:17:30+00:00",
+   "vazut": "2026-11-17T08:17:30+00:00",
    "metoda": "cautare_google"
   }
  ]
