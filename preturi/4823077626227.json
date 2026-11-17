@@ -4,12 +4,13 @@
   {
    "url": "https://www.auchan.ro/ciocolata-aerata-cu-lapte-roshen-80-g/p",
    "domeniu": "auchan.ro",
-   "pret": "6.25",
+   "pret": "4.99",
    "stare": "ok",
-   "verificat": "2026-11-16T22:09:11+00:00",
-   "vazut": "2026-11-16T22:09:11+00:00",
+   "verificat": "2026-11-17T07:59:16+00:00",
+   "vazut": "2026-11-17T07:59:16+00:00",
    "metoda": "auchan_catalog",
-   "nume": "Ciocolata aerata cu lapte Roshen, 80 g"
+   "nume": "Ciocolata aerata cu lapte Roshen, 80 g",
+   "pret_vechi": "6.25"
   }
  ]
 }

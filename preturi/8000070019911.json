@@ -4,12 +4,13 @@
   {
    "url": "https://www.auchan.ro/cafea-macinata-si-prajita-lavazza-qualita-oro-250-g/p",
    "domeniu": "auchan.ro",
-   "pret": "37.99",
+   "pret": "26.99",
    "stare": "ok",
-   "verificat": "2026-11-16T22:15:52+00:00",
-   "vazut": "2026-11-16T22:15:52+00:00",
+   "verificat": "2026-11-17T08:05:27+00:00",
+   "vazut": "2026-11-17T08:05:27+00:00",
    "metoda": "auchan_catalog",
-   "nume": "Cafea macinata si prajita Lavazza Qualita Oro, 250 g"
+   "nume": "Cafea macinata si prajita Lavazza Qualita Oro, 250 g",
+   "pret_vechi": "37.99"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "4002671118646",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/crema-de-branza-cu-verdeata-almette-150-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.89",
-   "stare": "ok",
-   "verificat": "2026-11-16T22:04:36+00:00",
-   "vazut": "2026-11-16T22:04:36+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Crema de branza cu verdeata Almette, 150 g"
-  },
-  {
    "url": "https://promoazi.ro/feliate/crema-branza-verdeata-almette-150g",
    "domeniu": "promoazi.ro",
    "pret": "6.49",
@@ -37,6 +27,17 @@
    "verificat": "2026-11-17T08:06:02+00:00",
    "vazut": "2026-11-17T08:06:02+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/crema-de-branza-cu-verdeata-almette-150-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-17T07:55:20+00:00",
+   "vazut": "2026-11-17T07:55:20+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Crema de branza cu verdeata Almette, 150 g",
+   "pret_vechi": "7.89"
   }
  ]
 }

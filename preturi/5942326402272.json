@@ -2,16 +2,6 @@
  "ean": "5942326402272",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.79",
-   "stare": "ok",
-   "verificat": "2026-11-16T21:59:28+00:00",
-   "vazut": "2026-11-16T21:59:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Aqua Carpatica, 2 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/aqua-carpatica-plata-2-l/",
    "domeniu": "pacomarket.ro",
    "pret": "3.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-17T03:52:34+00:00",
    "vazut": "2026-11-17T03:52:34+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.79",
+   "stare": "ok",
+   "verificat": "2026-11-17T07:50:40+00:00",
+   "vazut": "2026-11-17T07:50:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Aqua Carpatica, 2 l"
   }
  ]
 }

@@ -4,12 +4,13 @@
   {
    "url": "https://www.auchan.ro/nectar-cu-zmeura-morcov-si-mar-tedi-0-9l-sgr/p",
    "domeniu": "auchan.ro",
-   "pret": "8.19",
+   "pret": "5.99",
    "stare": "ok",
-   "verificat": "2026-11-16T22:18:50+00:00",
-   "vazut": "2026-11-16T22:18:50+00:00",
+   "verificat": "2026-11-17T08:08:12+00:00",
+   "vazut": "2026-11-17T08:08:12+00:00",
    "metoda": "auchan_catalog",
-   "nume": "Suc cu zmeura, morcov si mar Tedi, 0.9 l"
+   "nume": "Suc cu zmeura, morcov si mar Tedi, 0.9 l",
+   "pret_vechi": "8.19"
   }
  ]
 }

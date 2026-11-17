@@ -4,12 +4,13 @@
   {
    "url": "https://www.auchan.ro/ciocolata-aerata-alba-roshen-80-g/p",
    "domeniu": "auchan.ro",
-   "pret": "6.25",
+   "pret": "4.99",
    "stare": "ok",
-   "verificat": "2026-11-16T22:08:43+00:00",
-   "vazut": "2026-11-16T22:08:43+00:00",
+   "verificat": "2026-11-17T07:58:51+00:00",
+   "vazut": "2026-11-17T07:58:51+00:00",
    "metoda": "auchan_catalog",
-   "nume": "Ciocolata aerata alba Roshen, 80 g"
+   "nume": "Ciocolata aerata alba Roshen, 80 g",
+   "pret_vechi": "6.25"
   }
  ]
 }
