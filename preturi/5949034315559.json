@@ -2,15 +2,6 @@
  "ean": "5949034315559",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/petshop/hrana-umeda-pentru-caini-adulti-cu-vita-1-24-kg-lolo.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "10.22",
-   "stare": "ok",
-   "verificat": "2026-11-16T19:51:58+00:00",
-   "vazut": "2026-11-16T19:51:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://promoazi.ro/hrana-umeda-caini/hrana-umeda-pentru-caini-adulti-lolo-vita-124-kg",
    "domeniu": "promoazi.ro",
    "pret": "9.99",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-16T22:16:55+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hrana umeda pentru caini adulti Lolo, vita, 1.24 kg"
+  },
+  {
+   "url": "https://www.vivomarket.ro/petshop/hrana-umeda-pentru-caini-adulti-cu-vita-1-24-kg-lolo.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "10.22",
+   "stare": "ok",
+   "verificat": "2026-11-17T01:54:23+00:00",
+   "vazut": "2026-11-17T01:54:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
