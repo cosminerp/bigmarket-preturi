@@ -2,15 +2,6 @@
  "ean": "7290102991426",
  "preturi": [
   {
-   "url": "https://www.westchemicals.ro/produs/balsam-de-rufe-ultra-concentrat-sano-blue-blossom-50-spalari-1l/",
-   "domeniu": "westchemicals.ro",
-   "pret": "17.90",
-   "stare": "ok",
-   "verificat": "2026-11-17T12:57:29+00:00",
-   "vazut": "2026-11-17T12:57:29+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/balsam-concentrat-pentru-rufe-sano-blue-blossom-1-l-40-spalari/p",
    "domeniu": "auchan.ro",
    "pret": "17.59",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-17T19:01:11+00:00",
    "vazut": "2026-11-17T19:01:11+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/balsam-de-rufe-ultra-concentrat-sano-blue-blossom-50-spalari-1l/",
+   "domeniu": "westchemicals.ro",
+   "pret": "17.90",
+   "stare": "ok",
+   "verificat": "2026-11-17T19:05:30+00:00",
+   "vazut": "2026-11-17T19:05:30+00:00",
    "metoda": "cautare_google"
   }
  ]
