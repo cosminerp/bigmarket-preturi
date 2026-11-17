@@ -2,15 +2,6 @@
  "ean": "5941445671880",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-snack-cu-cascaval-65gr-12buc-bax-5941445671880",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.92",
-   "stare": "ok",
-   "verificat": "2026-11-17T02:28:50+00:00",
-   "vazut": "2026-11-17T02:28:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/chio-snacks-cheese-65g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "5.99",
@@ -37,6 +28,15 @@
    "vazut": "2026-11-17T07:56:44+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu gust de cartofi si cascaval Chio Chips Snack, 65 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-snack-cu-cascaval-65gr-12buc-bax-5941445671880",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.92",
+   "stare": "ok",
+   "verificat": "2026-11-17T08:30:27+00:00",
+   "vazut": "2026-11-17T08:30:27+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
