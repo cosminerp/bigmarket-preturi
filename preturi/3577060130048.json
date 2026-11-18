@@ -2,15 +2,6 @@
  "ean": "3577060130048",
  "preturi": [
   {
-   "url": "https://www.miranoriental.ro/popcorn-cu-unt-chio-pentru-microunde-80g",
-   "domeniu": "miranoriental.ro",
-   "pret": "3.96",
-   "stare": "ok",
-   "verificat": "2026-11-17T23:02:35+00:00",
-   "vazut": "2026-11-17T23:02:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/popcorn-cu-unt-chio-pentru-microunde-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.79",
@@ -28,6 +19,15 @@
    "stare": "ok",
    "verificat": "2026-11-18T05:01:56+00:00",
    "vazut": "2026-11-18T05:01:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miranoriental.ro/popcorn-cu-unt-chio-pentru-microunde-80g",
+   "domeniu": "miranoriental.ro",
+   "pret": "3.96",
+   "stare": "ok",
+   "verificat": "2026-11-18T05:03:14+00:00",
+   "vazut": "2026-11-18T05:03:14+00:00",
    "metoda": "cautare_google"
   }
  ]
