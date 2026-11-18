@@ -2,30 +2,30 @@
  "ean": "5942175000209",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/consumabile-medicale/dezinfectanti/alcool-sanitar-70-500-ml-saniblue-p103685",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "5.50",
-   "stare": "ok",
-   "verificat": "2026-11-18T05:28:05+00:00",
-   "vazut": "2026-11-18T05:28:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/saniblue-alcool-sanitar-500-ml/?srsltid=AYCX9vLq9qTejsJuwcKQ4nbQXW87Ke-pIUMmWPtOpkSwf4Wq71I-K_-B",
-   "domeniu": "cobyul.ro",
-   "pret": "5.99",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-18T05:28:08+00:00",
-   "vazut": "2026-11-16T10:08:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/alcool-sanitar-saniblue-500-ml-4492?srsltid=AYCX9vJbBsvzNxP7M8HfAvGoA9LS4A5PB-SlET1peX3ZPhMvVXZyX2dc",
    "domeniu": "kisshop.ro",
    "pret": "8.99",
    "stare": "ok",
    "verificat": "2026-11-18T05:34:10+00:00",
    "vazut": "2026-11-18T05:34:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/consumabile-medicale/dezinfectanti/alcool-sanitar-70-500-ml-saniblue-p103685",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "5.50",
+   "stare": "ok",
+   "verificat": "2026-11-18T11:29:35+00:00",
+   "vazut": "2026-11-18T11:29:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/saniblue-alcool-sanitar-500-ml/?srsltid=AYCX9vLq9qTejsJuwcKQ4nbQXW87Ke-pIUMmWPtOpkSwf4Wq71I-K_-B",
+   "domeniu": "cobyul.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-18T11:29:40+00:00",
+   "vazut": "2026-11-18T11:29:40+00:00",
    "metoda": "cautare_google"
   }
  ]
