@@ -2,15 +2,6 @@
  "ean": "5941047837264",
  "preturi": [
   {
-   "url": "https://promoazi.ro/biscuiti-si-napolitane/baton-de-ciocolata-rom-cu-lapte-napolitana-alune-si-crema-cu-aroma-de-rom-50-g",
-   "domeniu": "promoazi.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-17T21:45:39+00:00",
-   "vazut": "2026-11-17T21:45:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/baton-ciocolata-cu-napolitana-si-alune-intregi-rom-buzz-50-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.65",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-18T03:46:26+00:00",
    "vazut": "2026-11-18T03:46:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/biscuiti-si-napolitane/baton-de-ciocolata-rom-cu-lapte-napolitana-alune-si-crema-cu-aroma-de-rom-50-g",
+   "domeniu": "promoazi.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-18T03:47:41+00:00",
+   "vazut": "2026-11-18T03:47:41+00:00",
    "metoda": "cautare_google"
   }
  ]
