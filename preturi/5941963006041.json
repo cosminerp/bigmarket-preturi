@@ -12,24 +12,6 @@
    "nume": "Vin alb sec Purcari Chardonnay, 0.75 l"
   },
   {
-   "url": "https://www.rebeshop.ro/cumpara/vin-purcari-1827-chardonnay-alb-sec-0-75l-669",
-   "domeniu": "rebeshop.ro",
-   "pret": "42.79",
-   "stare": "ok",
-   "verificat": "2026-11-18T14:05:46+00:00",
-   "vazut": "2026-11-18T14:05:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://kastelboutique.ro/produs/vin-purcari-1827-chardonnay-0-75l-13-sgr-5941963006041/",
-   "domeniu": "kastelboutique.ro",
-   "pret": "33.50",
-   "stare": "ok",
-   "verificat": "2026-11-18T14:05:49+00:00",
-   "vazut": "2026-11-18T14:05:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.ladymarmeladboutique.ro/vin-alb/2143-chardonnay-de-purcari-075l-5941963006041.html?srsltid=AYCX9vJHGWgXmqTWWDtFRRx9fAF7p2YsuwCwmrvCXlp18Nw6ufv2TFjW",
    "domeniu": "ladymarmeladboutique.ro",
    "pret": "36.30",
@@ -45,6 +27,24 @@
    "stare": "ok",
    "verificat": "2026-11-18T20:06:22+00:00",
    "vazut": "2026-11-18T20:06:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.rebeshop.ro/cumpara/vin-purcari-1827-chardonnay-alb-sec-0-75l-669",
+   "domeniu": "rebeshop.ro",
+   "pret": "42.79",
+   "stare": "ok",
+   "verificat": "2026-11-18T20:07:39+00:00",
+   "vazut": "2026-11-18T20:07:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://kastelboutique.ro/produs/vin-purcari-1827-chardonnay-0-75l-13-sgr-5941963006041/",
+   "domeniu": "kastelboutique.ro",
+   "pret": "33.50",
+   "stare": "ok",
+   "verificat": "2026-11-18T20:07:40+00:00",
+   "vazut": "2026-11-18T20:07:40+00:00",
    "metoda": "cautare_google"
   }
  ]
