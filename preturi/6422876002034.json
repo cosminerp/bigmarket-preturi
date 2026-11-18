@@ -2,24 +2,6 @@
  "ean": "6422876002034",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-umede/hartie-igienica-umeda-cu-extract-de-galbenele-42-bucati-doctor-wipes-p380920",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "4.16",
-   "stare": "ok",
-   "verificat": "2026-11-18T10:15:12+00:00",
-   "vazut": "2026-11-18T10:15:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/dr-wipes-hartie-igienica-umeda-42-buc/?srsltid=AYCX9vJeUFt3-54H8n9DcH4pgGqzRUMhv0okfbEB7xAUgjvJZ4IGS-sD",
-   "domeniu": "cobyul.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-18T10:15:16+00:00",
-   "vazut": "2026-11-18T10:15:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://zoom-shop.ro/produs/hartie-igienica-umeda-doctor-wipes-cu-extract-de-galbenele-42-foi/",
    "domeniu": "zoom-shop.ro",
    "pret": "5.46",
@@ -46,6 +28,24 @@
    "vazut": "2026-11-18T11:41:55+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hartie igienica umeda Doctor Wipes, 42 buc"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-umede/hartie-igienica-umeda-cu-extract-de-galbenele-42-bucati-doctor-wipes-p380920",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "4.16",
+   "stare": "ok",
+   "verificat": "2026-11-18T16:17:12+00:00",
+   "vazut": "2026-11-18T16:17:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/dr-wipes-hartie-igienica-umeda-42-buc/?srsltid=AYCX9vJeUFt3-54H8n9DcH4pgGqzRUMhv0okfbEB7xAUgjvJZ4IGS-sD",
+   "domeniu": "cobyul.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-18T16:17:17+00:00",
+   "vazut": "2026-11-18T16:17:17+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
