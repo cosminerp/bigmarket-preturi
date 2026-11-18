@@ -2,24 +2,6 @@
  "ean": "7290108351613",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/menaj/detergenti/sano-floor-fresh-home-luxury-hotel-2l-6buc-bax-7290108351613",
-   "domeniu": "snaemarket.ro",
-   "pret": "20.70",
-   "stare": "ok",
-   "verificat": "2026-11-18T02:07:06+00:00",
-   "vazut": "2026-11-18T02:07:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/dezinfectanti-si-solutii-de-curatare/detergent-pentru-pardoseli-fresh-home-luxury-2l-sano-p406865",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "22.50",
-   "stare": "ok",
-   "verificat": "2026-11-18T02:07:10+00:00",
-   "vazut": "2026-11-18T02:07:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/detergent-pardoseli-sano-fresh-home-luxury-hotel-2l-1023?srsltid=AYCX9vLGiLGDWrYFasDJum36tKTP4yW6SeJqX9G3Z0DeTD7mvCMwrcLE",
    "domeniu": "kisshop.ro",
    "pret": "29.99",
@@ -37,6 +19,24 @@
    "vazut": "2026-11-18T03:07:47+00:00",
    "metoda": "auchan_catalog",
    "nume": "Detergent lichid Sano Fresh Home luxury, pentru pardoseli, 2L"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/detergenti/sano-floor-fresh-home-luxury-hotel-2l-6buc-bax-7290108351613",
+   "domeniu": "snaemarket.ro",
+   "pret": "20.70",
+   "stare": "ok",
+   "verificat": "2026-11-18T08:08:38+00:00",
+   "vazut": "2026-11-18T08:08:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/dezinfectanti-si-solutii-de-curatare/detergent-pentru-pardoseli-fresh-home-luxury-2l-sano-p406865",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "22.50",
+   "stare": "ok",
+   "verificat": "2026-11-18T08:08:41+00:00",
+   "vazut": "2026-11-18T08:08:41+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
