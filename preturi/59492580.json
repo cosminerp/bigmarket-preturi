@@ -2,42 +2,6 @@
  "ean": "59492580",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/fanta-orange-500ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-17T23:34:08+00:00",
-   "vazut": "2026-11-17T23:34:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/fanta-portocale-0-5l-sgr-12buc-bax-59492580",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.23",
-   "stare": "ok",
-   "verificat": "2026-11-17T23:34:10+00:00",
-   "vazut": "2026-11-17T23:34:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-fanta-portocale-0-5l?srsltid=AYCX9vInDd-IC-cMbyiWa2lPiLZQB3rO8kjuKPNbuwYLUtyiyEtsDlVE",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-17T23:34:13+00:00",
-   "vazut": "2026-11-17T23:34:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.miranoriental.ro/bautura-carbogazoasa-fanta-portocale-pet-0-5l-ro-sgr",
-   "domeniu": "miranoriental.ro",
-   "pret": "6.53",
-   "stare": "ok",
-   "verificat": "2026-11-17T23:34:16+00:00",
-   "vazut": "2026-11-17T23:34:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-portocale-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -54,6 +18,42 @@
    "stare": "ok",
    "verificat": "2026-11-18T05:35:53+00:00",
    "vazut": "2026-11-18T05:35:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/fanta-orange-500ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-18T05:37:12+00:00",
+   "vazut": "2026-11-18T05:37:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/fanta-portocale-0-5l-sgr-12buc-bax-59492580",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.23",
+   "stare": "ok",
+   "verificat": "2026-11-18T05:37:15+00:00",
+   "vazut": "2026-11-18T05:37:15+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-fanta-portocale-0-5l?srsltid=AYCX9vInDd-IC-cMbyiWa2lPiLZQB3rO8kjuKPNbuwYLUtyiyEtsDlVE",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-18T05:37:20+00:00",
+   "vazut": "2026-11-18T05:37:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miranoriental.ro/bautura-carbogazoasa-fanta-portocale-pet-0-5l-ro-sgr",
+   "domeniu": "miranoriental.ro",
+   "pret": "6.53",
+   "stare": "ok",
+   "verificat": "2026-11-18T05:37:23+00:00",
+   "vazut": "2026-11-18T05:37:23+00:00",
    "metoda": "cautare_google"
   }
  ]
