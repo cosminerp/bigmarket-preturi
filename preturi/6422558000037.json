@@ -2,21 +2,21 @@
  "ean": "6422558000037",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/covrigi-sarati-250g-dorivi-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.45",
-   "stare": "ok",
-   "verificat": "2026-11-18T04:11:41+00:00",
-   "vazut": "2026-11-18T04:11:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/dorivi-covrigei-mac-250gr-12buc-bax-6422558000037",
    "domeniu": "snaemarket.ro",
    "pret": "3.49",
    "stare": "ok",
    "verificat": "2026-11-18T10:13:33+00:00",
    "vazut": "2026-11-18T10:13:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/covrigi-sarati-250g-dorivi-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.45",
+   "stare": "ok",
+   "verificat": "2026-11-18T10:15:09+00:00",
+   "vazut": "2026-11-18T10:15:09+00:00",
    "metoda": "cautare_google"
   }
  ]
