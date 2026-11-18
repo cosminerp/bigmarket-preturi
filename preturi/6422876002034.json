@@ -2,24 +2,6 @@
  "ean": "6422876002034",
  "preturi": [
   {
-   "url": "https://zoom-shop.ro/produs/hartie-igienica-umeda-doctor-wipes-cu-extract-de-galbenele-42-foi/",
-   "domeniu": "zoom-shop.ro",
-   "pret": "5.46",
-   "stare": "ok",
-   "verificat": "2026-11-18T16:18:51+00:00",
-   "vazut": "2026-11-18T16:18:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.1001cosmetice.ro/cumpara/hartie-igienica-umeda-cu-extract-de-galbenele-fara-parfum-ph-neutru-42-53735",
-   "domeniu": "1001cosmetice.ro",
-   "pret": "6.00",
-   "stare": "ok",
-   "verificat": "2026-11-18T16:18:54+00:00",
-   "vazut": "2026-11-18T16:18:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hartie-igienica-umeda-doctor-wipes-42-buc/p",
    "domeniu": "auchan.ro",
    "pret": "6.19",
@@ -45,6 +27,24 @@
    "stare": "ok",
    "verificat": "2026-11-18T22:20:10+00:00",
    "vazut": "2026-11-18T22:20:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://zoom-shop.ro/produs/hartie-igienica-umeda-doctor-wipes-cu-extract-de-galbenele-42-foi/",
+   "domeniu": "zoom-shop.ro",
+   "pret": "5.46",
+   "stare": "ok",
+   "verificat": "2026-11-18T22:21:50+00:00",
+   "vazut": "2026-11-18T22:21:50+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.1001cosmetice.ro/cumpara/hartie-igienica-umeda-cu-extract-de-galbenele-fara-parfum-ph-neutru-42-53735",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "6.00",
+   "stare": "ok",
+   "verificat": "2026-11-18T22:21:53+00:00",
+   "vazut": "2026-11-18T22:21:53+00:00",
    "metoda": "cautare_google"
   }
  ]
