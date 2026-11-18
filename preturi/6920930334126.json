@@ -2,15 +2,6 @@
  "ean": "6920930334126",
  "preturi": [
   {
-   "url": "https://www.officegalaxy.ro/pixuri-cu-bila/13247-pix-cu-mecanism-cnx-aihao-ah-567-plastic-cu-clips-albastru.html?srsltid=AYCX9vIR5zL1pi7J3crV8T0cOvlSmgwxjjolZW6Xoc9VDDxFaEPcoq9w",
-   "domeniu": "officegalaxy.ro",
-   "pret": "1.67",
-   "stare": "ok",
-   "verificat": "2026-11-18T07:02:56+00:00",
-   "vazut": "2026-11-18T07:02:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://roua.ro/pixuri-si-rezerve/2115305721-pix-aihao-567-albastru-6920930334126.html?srsltid=AYCX9vIzmNV223y7_fWLzMEMXRKHVI9gpcIP0yxsDYOWy3B9tIHC8v7k",
    "domeniu": "roua.ro",
    "pret": "1.13",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-18T07:04:20+00:00",
    "vazut": "2026-11-18T07:04:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.officegalaxy.ro/pixuri-cu-bila/13247-pix-cu-mecanism-cnx-aihao-ah-567-plastic-cu-clips-albastru.html?srsltid=AYCX9vIR5zL1pi7J3crV8T0cOvlSmgwxjjolZW6Xoc9VDDxFaEPcoq9w",
+   "domeniu": "officegalaxy.ro",
+   "pret": "1.67",
+   "stare": "ok",
+   "verificat": "2026-11-18T13:05:05+00:00",
+   "vazut": "2026-11-18T13:05:05+00:00",
    "metoda": "cautare_google"
   }
  ]
