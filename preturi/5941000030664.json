@@ -12,21 +12,21 @@
    "nume": "Tortilla chips cu gust de branza Doritos, 90 g"
   },
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/doritos-nacho-cheese-108gr-28buc-bax-5941000030664",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.63",
-   "stare": "ok",
-   "verificat": "2026-11-18T05:11:49+00:00",
-   "vazut": "2026-11-18T05:11:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/doritos-cu-gust-de-branza-90g/",
    "domeniu": "pacomarket.ro",
    "pret": "6.99",
    "stare": "ok",
    "verificat": "2026-11-18T05:13:09+00:00",
    "vazut": "2026-11-18T05:13:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/doritos-nacho-cheese-108gr-28buc-bax-5941000030664",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.63",
+   "stare": "ok",
+   "verificat": "2026-11-18T11:13:05+00:00",
+   "vazut": "2026-11-18T11:13:05+00:00",
    "metoda": "cautare_google"
   }
  ]
