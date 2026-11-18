@@ -4,12 +4,13 @@
   {
    "url": "https://www.auchan.ro/baterie-duracell-basic-c/p",
    "domeniu": "auchan.ro",
-   "pret": "21.89",
+   "pret": "16.99",
    "stare": "ok",
-   "verificat": "2026-11-18T03:10:30+00:00",
-   "vazut": "2026-11-18T03:10:30+00:00",
+   "verificat": "2026-11-18T11:48:48+00:00",
+   "vazut": "2026-11-18T11:48:48+00:00",
    "metoda": "auchan_catalog",
-   "nume": "Baterie Duracell Basic C"
+   "nume": "Baterie Duracell Basic C",
+   "pret_vechi": "21.89"
   }
  ]
 }
