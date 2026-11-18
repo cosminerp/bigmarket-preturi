@@ -2,15 +2,6 @@
  "ean": "5941445677608",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-ardei-gras-125gr-10buc-bax-5941445677608",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.48",
-   "stare": "ok",
-   "verificat": "2026-11-17T23:19:51+00:00",
-   "vazut": "2026-11-17T23:19:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chio-chipsuri-cu-paprica125-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.49",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-18T05:20:47+00:00",
    "vazut": "2026-11-18T05:20:47+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-ardei-gras-125gr-10buc-bax-5941445677608",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.48",
+   "stare": "ok",
+   "verificat": "2026-11-18T05:22:06+00:00",
+   "vazut": "2026-11-18T05:22:06+00:00",
    "metoda": "cautare_google"
   }
  ]
