@@ -17,7 +17,7 @@
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "14.00",
    "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-18T12:59:05+00:00",
+   "verificat": "2026-11-18T19:02:12+00:00",
    "vazut": "2026-11-18T06:57:03+00:00",
    "metoda": "cautare_google"
   },
@@ -26,16 +26,16 @@
    "domeniu": "comenzi.bebetei.ro",
    "pret": "14.00",
    "stare": "ok",
-   "verificat": "2026-11-18T12:59:07+00:00",
-   "vazut": "2026-11-18T12:59:07+00:00",
+   "verificat": "2026-11-18T19:02:15+00:00",
+   "vazut": "2026-11-18T19:02:15+00:00",
    "metoda": "cautare_google"
   },
   {
    "url": "https://www.dovermedfarma.ro/farmec-crema-depilatoare-rapida-argan-150ml?srsltid=AYCX9vKb6qV2QpzUhph85ioGnQM5ATbuk5tD365sDCiHzZ6xyhx0g_GH",
    "domeniu": "dovermedfarma.ro",
    "pret": "14.63",
-   "stare": "ok",
-   "verificat": "2026-11-18T12:59:11+00:00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-18T19:02:17+00:00",
    "vazut": "2026-11-18T12:59:11+00:00",
    "metoda": "cautare_google"
   }
