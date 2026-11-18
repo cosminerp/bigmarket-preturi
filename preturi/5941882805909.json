@@ -2,15 +2,6 @@
  "ean": "5941882805909",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/pateu-din-linte-rosie-cu-ardei-100-g-7749111?srsltid=AYCX9vKWdo5IylNZT6i2JsCbGe9qWz2tzF80wk0I1en-roGS_DvEFsEM",
-   "domeniu": "naturisti.ro",
-   "pret": "5.94",
-   "stare": "ok",
-   "verificat": "2026-11-18T10:09:02+00:00",
-   "vazut": "2026-11-18T10:09:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://frunzaverde.ro/magazin/alimentare/pasta-vegetala-din-linte-rosieardei-100gr/?srsltid=AYCX9vIPTfgIXfMSJ5pmwYSNeFZEgcdtInSAq0A_s54osaPsjpbmSEUB",
    "domeniu": "frunzaverde.ro",
    "pret": "5.89",
@@ -38,6 +29,15 @@
    "metoda": "auchan_catalog",
    "nume": "Pasta vegetala din linte rosie cu ardei rosu Sanovita, 100 g",
    "pret_vechi": "6.59"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/pateu-din-linte-rosie-cu-ardei-100-g-7749111?srsltid=AYCX9vKWdo5IylNZT6i2JsCbGe9qWz2tzF80wk0I1en-roGS_DvEFsEM",
+   "domeniu": "naturisti.ro",
+   "pret": "5.94",
+   "stare": "ok",
+   "verificat": "2026-11-18T16:12:19+00:00",
+   "vazut": "2026-11-18T16:12:19+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

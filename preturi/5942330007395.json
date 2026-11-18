@@ -13,15 +13,6 @@
    "pret_vechi": "8.15"
   },
   {
-   "url": "https://promoazi.ro/limonada/bautura-carbogazoasa-aroma-soc-si-lamaie-biborteni-2l",
-   "domeniu": "promoazi.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-18T10:10:05+00:00",
-   "vazut": "2026-11-18T10:10:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/bautura-racoritoare-soc-lamaie-6-x-2-l-biborteni.html",
    "domeniu": "vivomarket.ro",
    "pret": "49.44",
@@ -37,6 +28,15 @@
    "stare": "ok",
    "verificat": "2026-11-18T16:00:33+00:00",
    "vazut": "2026-11-18T16:00:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/limonada/bautura-carbogazoasa-aroma-soc-si-lamaie-biborteni-2l",
+   "domeniu": "promoazi.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-18T16:13:23+00:00",
+   "vazut": "2026-11-18T16:13:23+00:00",
    "metoda": "cautare_google"
   }
  ]
