@@ -17,17 +17,8 @@
    "domeniu": "snaemarket.ro",
    "pret": "7.48",
    "stare": "ok",
-   "verificat": "2026-11-18T12:54:06+00:00",
-   "vazut": "2026-11-18T12:54:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/dulciuri-si-snacks/chipsuri-chio-intense-sare-mare-120g",
-   "domeniu": "promoazi.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-18T12:54:08+00:00",
-   "vazut": "2026-11-18T12:54:08+00:00",
+   "verificat": "2026-11-18T12:58:08+00:00",
+   "vazut": "2026-11-18T12:58:08+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -35,8 +26,17 @@
    "domeniu": "snaemarket.ro",
    "pret": "7.48",
    "stare": "ok",
-   "verificat": "2026-11-18T12:58:08+00:00",
-   "vazut": "2026-11-18T12:58:08+00:00",
+   "verificat": "2026-11-18T18:56:42+00:00",
+   "vazut": "2026-11-18T18:56:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/dulciuri-si-snacks/chipsuri-chio-intense-sare-mare-120g",
+   "domeniu": "promoazi.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-18T18:56:44+00:00",
+   "vazut": "2026-11-18T18:56:44+00:00",
    "metoda": "cautare_google"
   }
  ]
