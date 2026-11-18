@@ -2,21 +2,21 @@
  "ean": "6420387927150",
  "preturi": [
   {
-   "url": "https://grafio.ro/pensule-3-set-varf-ascutit-nr-3-7-11-colour-kids-pigna/",
-   "domeniu": "grafio.ro",
-   "pret": "6.69",
-   "stare": "ok",
-   "verificat": "2026-11-17T20:04:14+00:00",
-   "vazut": "2026-11-17T20:04:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://rightchoice.ro/produs/pensule-3-set-varf-ascutit-nr-3-7-11-colour-kids-pigna?srsltid=AYCX9vKedT6XDoMkTFGctgNEbvKQbN-_BwcKX1U84f6_YnYC4Os1tDmM",
    "domeniu": "rightchoice.ro",
    "pret": "6.00",
    "stare": "ok",
    "verificat": "2026-11-17T20:04:18+00:00",
    "vazut": "2026-11-17T20:04:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://grafio.ro/pensule-3-set-varf-ascutit-nr-3-7-11-colour-kids-pigna/",
+   "domeniu": "grafio.ro",
+   "pret": "6.69",
+   "stare": "ok",
+   "verificat": "2026-11-18T02:05:08+00:00",
+   "vazut": "2026-11-18T02:05:08+00:00",
    "metoda": "cautare_google"
   }
  ]
