@@ -2,15 +2,6 @@
  "ean": "5942325003029",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/bautura-racoritoare-figo-portocale-mandarine-0-3l-sgr-9buc-bax-5942325003029",
-   "domeniu": "snaemarket.ro",
-   "pret": "2.70",
-   "stare": "ok",
-   "verificat": "2026-11-17T21:52:06+00:00",
-   "vazut": "2026-11-17T21:52:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/figo-porto-mandarina-300ml-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "3.25",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-17T21:54:24+00:00",
    "vazut": "2026-11-17T21:54:24+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/bautura-racoritoare-figo-portocale-mandarine-0-3l-sgr-9buc-bax-5942325003029",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.70",
+   "stare": "ok",
+   "verificat": "2026-11-18T03:53:47+00:00",
+   "vazut": "2026-11-18T03:53:47+00:00",
    "metoda": "cautare_google"
   }
  ]
