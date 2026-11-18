@@ -2,16 +2,6 @@
  "ean": "5942325000011",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-bucovina-5-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.79",
-   "stare": "ok",
-   "verificat": "2026-11-17T18:32:00+00:00",
-   "vazut": "2026-11-17T18:32:00+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Bucovina, 5 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/bucovina-apa-minerala-naturala-plata-5l-5942325000011",
    "domeniu": "snaemarket.ro",
    "pret": "7.88",
@@ -37,6 +27,17 @@
    "verificat": "2026-11-17T22:04:42+00:00",
    "vazut": "2026-11-17T22:04:42+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-bucovina-5-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.79",
+   "stare": "ok",
+   "verificat": "2026-11-18T02:54:09+00:00",
+   "vazut": "2026-11-18T02:54:09+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Bucovina, 5 l",
+   "pret_vechi": "9.79"
   }
  ]
 }

@@ -2,17 +2,6 @@
  "ean": "4823077641329",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/napolitana-cu-crema-cacao-roshen-72g/p",
-   "domeniu": "auchan.ro",
-   "pret": "1.79",
-   "stare": "ok",
-   "verificat": "2026-11-17T18:37:28+00:00",
-   "vazut": "2026-11-17T18:37:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Napolitana cu crema cacao Roshen, 72 g",
-   "pret_vechi": "2.69"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/roshen-wafers-cacao-72-gr-22buc-bax-4823077641329",
    "domeniu": "snaemarket.ro",
    "pret": "2.30",
@@ -20,6 +9,16 @@
    "verificat": "2026-11-18T02:36:41+00:00",
    "vazut": "2026-11-18T02:36:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/napolitana-cu-crema-cacao-roshen-72g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.69",
+   "stare": "ok",
+   "verificat": "2026-11-18T02:59:39+00:00",
+   "vazut": "2026-11-18T02:59:39+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Napolitana cu crema cacao Roshen, 72 g"
   }
  ]
 }

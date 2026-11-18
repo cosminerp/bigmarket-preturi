@@ -2,16 +2,6 @@
  "ean": "5941334002191",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-vegetal-cu-ciuperci-mandy-200-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.15",
-   "stare": "ok",
-   "verificat": "2026-11-17T18:41:44+00:00",
-   "vazut": "2026-11-17T18:41:44+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pate vegetal cu ciuperci Mandy, 200 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/pate-vegetal-mandy-ciuperci-200g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "4.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-17T23:17:25+00:00",
    "vazut": "2026-11-17T23:17:25+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-vegetal-cu-ciuperci-mandy-200-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.15",
+   "stare": "ok",
+   "verificat": "2026-11-18T03:03:51+00:00",
+   "vazut": "2026-11-18T03:03:51+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pate vegetal cu ciuperci Mandy, 200 g"
   }
  ]
 }

@@ -4,12 +4,13 @@
   {
    "url": "https://www.auchan.ro/whiskey-jack-daniels-tennessee-alc-40-0-7l-sgr/p",
    "domeniu": "auchan.ro",
-   "pret": "98.89",
+   "pret": "85.49",
    "stare": "ok",
-   "verificat": "2026-11-17T18:48:15+00:00",
-   "vazut": "2026-11-17T18:48:15+00:00",
+   "verificat": "2026-11-18T03:10:17+00:00",
+   "vazut": "2026-11-18T03:10:17+00:00",
    "metoda": "auchan_catalog",
-   "nume": "Whiskey Jack Daniel's Tennessee, alcool 40%, 0.7 l"
+   "nume": "Whiskey Jack Daniel's Tennessee, alcool 40%, 0.7 l",
+   "pret_vechi": "98.89"
   }
  ]
 }
