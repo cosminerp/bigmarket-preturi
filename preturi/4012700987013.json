@@ -2,24 +2,6 @@
  "ean": "4012700987013",
  "preturi": [
   {
-   "url": "https://gxcoffice.ro/produs/pic-corector-pelikan-super-pirat-varf-tip-f/?srsltid=AYCX9vKxyiN5-akFbQYtsjVfBijt8u4599XoDqLDEMnZbb3iYdjYsYSu",
-   "domeniu": "gxcoffice.ro",
-   "pret": "3.88",
-   "stare": "ok",
-   "verificat": "2026-11-18T06:41:58+00:00",
-   "vazut": "2026-11-18T06:41:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.kisshop.ro/cumpara/corector-cu-rescriere-pelikan-super-pirat-850f-11172?srsltid=AYCX9vKyzIJ4KtOC0IFfOaF6zMH6vLoa4uoqLl0iNtESZskI5nH7jj7W",
-   "domeniu": "kisshop.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-18T06:42:01+00:00",
-   "vazut": "2026-11-18T06:42:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://folder.ro/pic-si-corectoare/2612-pic-pelikan-super-pirat-f-4012700987013.html",
    "domeniu": "folder.ro",
    "pret": "5.20",
@@ -35,6 +17,24 @@
    "stare": "ok",
    "verificat": "2026-11-18T12:42:17+00:00",
    "vazut": "2026-11-18T12:42:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://gxcoffice.ro/produs/pic-corector-pelikan-super-pirat-varf-tip-f/?srsltid=AYCX9vKxyiN5-akFbQYtsjVfBijt8u4599XoDqLDEMnZbb3iYdjYsYSu",
+   "domeniu": "gxcoffice.ro",
+   "pret": "3.88",
+   "stare": "ok",
+   "verificat": "2026-11-18T12:43:37+00:00",
+   "vazut": "2026-11-18T12:43:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/corector-cu-rescriere-pelikan-super-pirat-850f-11172?srsltid=AYCX9vKyzIJ4KtOC0IFfOaF6zMH6vLoa4uoqLl0iNtESZskI5nH7jj7W",
+   "domeniu": "kisshop.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-18T12:43:40+00:00",
+   "vazut": "2026-11-18T12:43:40+00:00",
    "metoda": "cautare_google"
   }
  ]
