@@ -2,21 +2,21 @@
  "ean": "7322541171753",
  "preturi": [
   {
-   "url": "https://www.mam-bricolaj.ro/cumpara/set-8-role-hartie-igienica-3-straturi-jasmine-blossom-zewa-deluxe-58095?srsltid=AYCX9vIRbh8vfXA9AWGKH6gDDsygp1rQoaBoNxMNKqkugBKZ2YaMYu21",
-   "domeniu": "mam-bricolaj.ro",
-   "pret": "20.95",
-   "stare": "ok",
-   "verificat": "2026-11-18T23:47:05+00:00",
-   "vazut": "2026-11-18T23:47:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/zewa-deluxe-jasmine-blossom-hartie-igienica-3-straturi-8-role-722?srsltid=AYCX9vLowdtha61WpWQ79GACfe0ZcQfuCMrNQ_IyIsYluAxJcXcdTj4G",
    "domeniu": "kisshop.ro",
    "pret": "20.33",
    "stare": "ok",
    "verificat": "2026-11-18T23:51:44+00:00",
    "vazut": "2026-11-18T23:51:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.mam-bricolaj.ro/cumpara/set-8-role-hartie-igienica-3-straturi-jasmine-blossom-zewa-deluxe-58095?srsltid=AYCX9vIRbh8vfXA9AWGKH6gDDsygp1rQoaBoNxMNKqkugBKZ2YaMYu21",
+   "domeniu": "mam-bricolaj.ro",
+   "pret": "20.95",
+   "stare": "ok",
+   "verificat": "2026-11-19T05:50:57+00:00",
+   "vazut": "2026-11-19T05:50:57+00:00",
    "metoda": "cautare_google"
   }
  ]
