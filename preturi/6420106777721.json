@@ -2,15 +2,6 @@
  "ean": "6420106777721",
  "preturi": [
   {
-   "url": "https://www.farmaciilenapofarm.ro/fibre-si-satietate/tarate-de-psyllium-150-g-sanovita?srsltid=AYCX9vKyLNhcm4NidZv3NxY5QVPeZzHT35AD996qw0QTKuMJ__xRV5pp",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "24.19",
-   "stare": "ok",
-   "verificat": "2026-11-19T05:08:44+00:00",
-   "vazut": "2026-11-19T05:08:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/psyllium-tarate-150g-7746178?srsltid=AYCX9vIPODXagFolqcLT2k1gmr0_SkCKV1MX-xrrBzhokO9qtty8SxFx",
    "domeniu": "naturisti.ro",
    "pret": "25.00",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-19T11:20:15+00:00",
    "vazut": "2026-11-19T11:20:15+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/fibre-si-satietate/tarate-de-psyllium-150-g-sanovita?srsltid=AYCX9vKyLNhcm4NidZv3NxY5QVPeZzHT35AD996qw0QTKuMJ__xRV5pp",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "24.19",
+   "stare": "ok",
+   "verificat": "2026-11-19T11:22:06+00:00",
+   "vazut": "2026-11-19T11:22:06+00:00",
    "metoda": "cautare_google"
   }
  ]
