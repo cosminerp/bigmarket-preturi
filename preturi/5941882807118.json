@@ -2,15 +2,6 @@
  "ean": "5941882807118",
  "preturi": [
   {
-   "url": "https://www.farmaciamorpheus.ro/produs/rondele-orez-cu-cacao-fara-zahar-66-g-sanovita-o23111/?srsltid=AYCX9vLPKizqWiT6uRVbUsMm5J0S2McqJoE9yhuW1YGsvRD_Z5OvmqWB",
-   "domeniu": "farmaciamorpheus.ro",
-   "pret": "4.79",
-   "stare": "ok",
-   "verificat": "2026-11-19T17:09:39+00:00",
-   "vazut": "2026-11-19T17:09:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rondele-din-orez-expandat-cu-glazura-de-cacao-sano-vita-66-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.19",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-19T23:14:11+00:00",
    "vazut": "2026-11-19T23:14:11+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciamorpheus.ro/produs/rondele-orez-cu-cacao-fara-zahar-66-g-sanovita-o23111/?srsltid=AYCX9vLPKizqWiT6uRVbUsMm5J0S2McqJoE9yhuW1YGsvRD_Z5OvmqWB",
+   "domeniu": "farmaciamorpheus.ro",
+   "pret": "4.79",
+   "stare": "ok",
+   "verificat": "2026-11-19T23:15:43+00:00",
+   "vazut": "2026-11-19T23:15:43+00:00",
    "metoda": "cautare_google"
   }
  ]
