@@ -2,15 +2,6 @@
  "ean": "6420106777721",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/psyllium-tarate-150g-7746178?srsltid=AYCX9vIPODXagFolqcLT2k1gmr0_SkCKV1MX-xrrBzhokO9qtty8SxFx",
-   "domeniu": "naturisti.ro",
-   "pret": "25.00",
-   "stare": "ok",
-   "verificat": "2026-11-19T17:26:00+00:00",
-   "vazut": "2026-11-19T17:26:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://biolino.ro/produs/psyllium-tarate-150g-sanovita?srsltid=AYCX9vKHsymhYoweGeN15IF793-f24Oi7eTCKE9YfBlWsTktSnGtaGWB",
    "domeniu": "biolino.ro",
    "pret": "30.00",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-19T17:27:41+00:00",
    "vazut": "2026-11-19T17:27:41+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/psyllium-tarate-150g-7746178?srsltid=AYCX9vIPODXagFolqcLT2k1gmr0_SkCKV1MX-xrrBzhokO9qtty8SxFx",
+   "domeniu": "naturisti.ro",
+   "pret": "25.00",
+   "stare": "ok",
+   "verificat": "2026-11-19T23:31:04+00:00",
+   "vazut": "2026-11-19T23:31:04+00:00",
    "metoda": "cautare_google"
   }
  ]
