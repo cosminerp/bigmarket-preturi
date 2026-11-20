@@ -2,15 +2,6 @@
  "ean": "5201137050134",
  "preturi": [
   {
-   "url": "https://veryretail.ro/p/peak-out-granule-forte-apa-rece-60-g-155",
-   "domeniu": "veryretail.ro",
-   "pret": "3.57",
-   "stare": "ok",
-   "verificat": "2026-11-20T10:49:43+00:00",
-   "vazut": "2026-11-20T10:49:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/granule-forte-desfundat-tevi-peak-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.89",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-20T11:53:17+00:00",
    "vazut": "2026-11-20T11:53:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://veryretail.ro/p/peak-out-granule-forte-apa-rece-60-g-155",
+   "domeniu": "veryretail.ro",
+   "pret": "3.57",
+   "stare": "ok",
+   "verificat": "2026-11-20T16:55:06+00:00",
+   "vazut": "2026-11-20T16:55:06+00:00",
    "metoda": "cautare_google"
   }
  ]
