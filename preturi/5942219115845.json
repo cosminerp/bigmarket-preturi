@@ -20,15 +20,6 @@
    "nume": "Apa carbogazoasa minerala Borsec, 1.5 l"
   },
   {
-   "url": "https://pacomarket.ro/product/apa-minerala-borsec-1-5l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "3.75",
-   "stare": "ok",
-   "verificat": "2026-11-20T05:25:14+00:00",
-   "vazut": "2026-11-20T05:25:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/apa-minerala-borsec-1-5l?srsltid=AYCX9vL0iP5xpzQJbA3P1nBbhp9dGFOy585xafaNRi4klTKXS3MKttrK",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "5.04",
@@ -44,6 +35,15 @@
    "stare": "ok",
    "verificat": "2026-11-20T05:25:26+00:00",
    "vazut": "2026-11-20T05:25:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-minerala-borsec-1-5l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "3.75",
+   "stare": "ok",
+   "verificat": "2026-11-20T11:28:11+00:00",
+   "vazut": "2026-11-20T11:28:11+00:00",
    "metoda": "cautare_google"
   }
  ]
