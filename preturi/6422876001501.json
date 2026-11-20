@@ -2,24 +2,6 @@
  "ean": "6422876001501",
  "preturi": [
   {
-   "url": "https://www.catenapascupas.ro/dr-wipes-servetele-umede-incontinenta-cu-capac-72-bucati.html?srsltid=AYCX9vLsK8org9FR11Eq3ZgVhSVbcRa7M5M91KpHO7sFQhq9Aetj-8LS",
-   "domeniu": "catenapascupas.ro",
-   "pret": "8.40",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:47:42+00:00",
-   "vazut": "2026-11-20T11:47:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.kisshop.ro/cumpara/servetele-umede-igienice-pentru-incontinenta-doctor-wipe-s-72-buc-1134?srsltid=AYCX9vLoNNGrYapfzLnF600AMvy6teziEROX3izSPuYGyz-8mdxcHM6K",
-   "domeniu": "kisshop.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:47:44+00:00",
-   "vazut": "2026-11-20T11:47:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.ancoora.ro/produs/dr-wipes-servetele-umede-pentru-incontinenta-72-buc/?srsltid=AYCX9vLHfdd7vv_BBq2Cc3viZnXjuuz4fP2EDh1Z4fM4EOaSmo0_L2ck",
    "domeniu": "ancoora.ro",
    "pret": "10.50",
@@ -44,6 +26,24 @@
    "stare": "ok",
    "verificat": "2026-11-20T17:54:15+00:00",
    "vazut": "2026-11-20T17:54:15+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.catenapascupas.ro/dr-wipes-servetele-umede-incontinenta-cu-capac-72-bucati.html?srsltid=AYCX9vLsK8org9FR11Eq3ZgVhSVbcRa7M5M91KpHO7sFQhq9Aetj-8LS",
+   "domeniu": "catenapascupas.ro",
+   "pret": "8.40",
+   "stare": "ok",
+   "verificat": "2026-11-20T18:01:05+00:00",
+   "vazut": "2026-11-20T18:01:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/servetele-umede-igienice-pentru-incontinenta-doctor-wipe-s-72-buc-1134?srsltid=AYCX9vLoNNGrYapfzLnF600AMvy6teziEROX3izSPuYGyz-8mdxcHM6K",
+   "domeniu": "kisshop.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-20T18:01:07+00:00",
+   "vazut": "2026-11-20T18:01:07+00:00",
    "metoda": "cautare_google"
   }
  ]
