@@ -2,24 +2,6 @@
  "ean": "5949060205985",
  "preturi": [
   {
-   "url": "https://www.companion.store.ro/pisici/miau-miau-vita-in-sos-hrana-umeda-pentru-pisici-adulte-100g.html",
-   "domeniu": "companion.store.ro",
-   "pret": "2.10",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:37:43+00:00",
-   "vazut": "2026-11-20T11:37:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pc-pet.ro/products/hrana-umeda-completa-pisici-adulte-vita-in-sos-miau-miau-100g?srsltid=AYCX9vLu76JRhWcE0Skg85ciukYLz-1tLYzd4Y5bcBooBold_xf5zZwQ",
-   "domeniu": "pc-pet.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:37:45+00:00",
-   "vazut": "2026-11-20T11:37:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hrana-umeda-pisica-miau-miau-cu-carne-de-vita-100g/p",
    "domeniu": "auchan.ro",
    "pret": "1.99",
@@ -36,6 +18,24 @@
    "stare": "ok",
    "verificat": "2026-11-20T12:01:34+00:00",
    "vazut": "2026-11-20T12:01:34+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.companion.store.ro/pisici/miau-miau-vita-in-sos-hrana-umeda-pentru-pisici-adulte-100g.html",
+   "domeniu": "companion.store.ro",
+   "pret": "2.10",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:49:31+00:00",
+   "vazut": "2026-11-20T17:49:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pc-pet.ro/products/hrana-umeda-completa-pisici-adulte-vita-in-sos-miau-miau-100g?srsltid=AYCX9vLu76JRhWcE0Skg85ciukYLz-1tLYzd4Y5bcBooBold_xf5zZwQ",
+   "domeniu": "pc-pet.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:49:33+00:00",
+   "vazut": "2026-11-20T17:49:33+00:00",
    "metoda": "cautare_google"
   }
  ]

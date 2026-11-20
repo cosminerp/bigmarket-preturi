@@ -2,33 +2,6 @@
  "ean": "6422876001501",
  "preturi": [
   {
-   "url": "https://www.ancoora.ro/produs/dr-wipes-servetele-umede-pentru-incontinenta-72-buc/?srsltid=AYCX9vLHfdd7vv_BBq2Cc3viZnXjuuz4fP2EDh1Z4fM4EOaSmo0_L2ck",
-   "domeniu": "ancoora.ro",
-   "pret": "10.50",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:44:41+00:00",
-   "vazut": "2026-11-20T11:44:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-intima/scutece-adulti/servetele-umede-igienice-pentru-incontinenta-72-bucati-doctor-wipes-p375539",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "8.48",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:44:44+00:00",
-   "vazut": "2026-11-20T11:44:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciilenapofarm.ro/incontinenta/servetele-umede-igienice-pentru-incontinenta-72-bucati-doctor-wipe-s?srsltid=AYCX9vJGt7K8zrtJbqQomLqEAE_3pt-nBLfvHfZaDb4qYHuJ3FJlP9yl",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "10.18",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:44:46+00:00",
-   "vazut": "2026-11-20T11:44:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.catenapascupas.ro/dr-wipes-servetele-umede-incontinenta-cu-capac-72-bucati.html?srsltid=AYCX9vLsK8org9FR11Eq3ZgVhSVbcRa7M5M91KpHO7sFQhq9Aetj-8LS",
    "domeniu": "catenapascupas.ro",
    "pret": "8.40",
@@ -44,6 +17,33 @@
    "stare": "ok",
    "verificat": "2026-11-20T11:47:44+00:00",
    "vazut": "2026-11-20T11:47:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.ancoora.ro/produs/dr-wipes-servetele-umede-pentru-incontinenta-72-buc/?srsltid=AYCX9vLHfdd7vv_BBq2Cc3viZnXjuuz4fP2EDh1Z4fM4EOaSmo0_L2ck",
+   "domeniu": "ancoora.ro",
+   "pret": "10.50",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:54:11+00:00",
+   "vazut": "2026-11-20T17:54:11+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-intima/scutece-adulti/servetele-umede-igienice-pentru-incontinenta-72-bucati-doctor-wipes-p375539",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "8.48",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:54:13+00:00",
+   "vazut": "2026-11-20T17:54:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/incontinenta/servetele-umede-igienice-pentru-incontinenta-72-bucati-doctor-wipe-s?srsltid=AYCX9vJGt7K8zrtJbqQomLqEAE_3pt-nBLfvHfZaDb4qYHuJ3FJlP9yl",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "10.18",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:54:15+00:00",
+   "vazut": "2026-11-20T17:54:15+00:00",
    "metoda": "cautare_google"
   }
  ]
