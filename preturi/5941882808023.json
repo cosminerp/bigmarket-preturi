@@ -2,33 +2,6 @@
  "ean": "5941882808023",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-ovaz-fini-750-g-sanovita-p468972",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "11.05",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:22:41+00:00",
-   "vazut": "2026-11-20T11:22:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
-   "domeniu": "naturina.ro",
-   "pret": "22.41",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:22:44+00:00",
-   "vazut": "2026-11-20T11:22:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://farmascan.ro/shop/produs/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-10450",
-   "domeniu": "farmascan.ro",
-   "pret": "12.90",
-   "stare": "ok",
-   "verificat": "2026-11-20T11:22:47+00:00",
-   "vazut": "2026-11-20T11:22:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/fulgi-de-ovaz-fini-sanovita-750-g/p",
    "domeniu": "auchan.ro",
    "pret": "11.99",
@@ -46,6 +19,33 @@
    "stare": "ok",
    "verificat": "2026-11-20T11:47:11+00:00",
    "vazut": "2026-11-20T11:47:11+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-ovaz-fini-750-g-sanovita-p468972",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "11.05",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:32:04+00:00",
+   "vazut": "2026-11-20T17:32:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
+   "domeniu": "naturina.ro",
+   "pret": "22.41",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:32:07+00:00",
+   "vazut": "2026-11-20T17:32:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://farmascan.ro/shop/produs/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-10450",
+   "domeniu": "farmascan.ro",
+   "pret": "12.90",
+   "stare": "ok",
+   "verificat": "2026-11-20T17:32:10+00:00",
+   "vazut": "2026-11-20T17:32:10+00:00",
    "metoda": "cautare_google"
   }
  ]
