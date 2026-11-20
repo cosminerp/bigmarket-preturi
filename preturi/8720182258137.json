@@ -2,15 +2,6 @@
  "ean": "8720182258137",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/sapun-crema-dove-relaxing-coconut-milk-si-jasmine-petals-90g-3500?srsltid=AYCX9vILhJP-woEOew-7j5ybRqVJkY8IP08R74uVUbKKkd6VKNRahSWN",
-   "domeniu": "kisshop.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T06:12:19+00:00",
-   "vazut": "2026-11-20T06:12:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sapun-solid-dove-relaxing-90-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -45,6 +36,15 @@
    "stare": "ok",
    "verificat": "2026-11-20T12:17:20+00:00",
    "vazut": "2026-11-20T12:17:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/sapun-crema-dove-relaxing-coconut-milk-si-jasmine-petals-90g-3500?srsltid=AYCX9vILhJP-woEOew-7j5ybRqVJkY8IP08R74uVUbKKkd6VKNRahSWN",
+   "domeniu": "kisshop.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-20T12:22:59+00:00",
+   "vazut": "2026-11-20T12:22:59+00:00",
    "metoda": "cautare_google"
   }
  ]
