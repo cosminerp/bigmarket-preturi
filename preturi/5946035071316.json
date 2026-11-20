@@ -2,21 +2,21 @@
  "ean": "5946035071316",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/nufar-detartrant-odorizant-750-ml-7757345?srsltid=AYCX9vJ5PnTtGoChwuO1RL8cPBnUQf8cUIlwzMK1lnTVFjOm9sA3FsF-",
-   "domeniu": "naturisti.ro",
-   "pret": "12.58",
-   "stare": "ok",
-   "verificat": "2026-11-20T17:43:27+00:00",
-   "vazut": "2026-11-20T17:43:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/nufar-detartrant-odorizant-750-ml/?srsltid=AYCX9vL_f6HQY1RWApRY7TL5eMOZkAivA09EYeLBc1PKNcaCc8ILflrw",
    "domeniu": "cobyul.ro",
    "pret": "12.35",
    "stare": "ok",
    "verificat": "2026-11-20T17:48:28+00:00",
    "vazut": "2026-11-20T17:48:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/nufar-detartrant-odorizant-750-ml-7757345?srsltid=AYCX9vJ5PnTtGoChwuO1RL8cPBnUQf8cUIlwzMK1lnTVFjOm9sA3FsF-",
+   "domeniu": "naturisti.ro",
+   "pret": "12.58",
+   "stare": "ok",
+   "verificat": "2026-11-20T23:47:46+00:00",
+   "vazut": "2026-11-20T23:47:46+00:00",
    "metoda": "cautare_google"
   }
  ]
