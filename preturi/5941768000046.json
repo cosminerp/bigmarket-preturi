@@ -2,24 +2,6 @@
  "ean": "5941768000046",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p424808",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "2.50",
-   "stare": "ok",
-   "verificat": "2026-11-20T17:29:47+00:00",
-   "vazut": "2026-11-20T17:29:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
-   "domeniu": "frunzaverde.ro",
-   "pret": "2.28",
-   "stare": "ok",
-   "verificat": "2026-11-20T17:29:50+00:00",
-   "vazut": "2026-11-20T17:29:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-cu-lapte-sly-fara-zahar-25-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.55",
@@ -63,6 +45,24 @@
    "stare": "ok",
    "verificat": "2026-11-20T23:29:00+00:00",
    "vazut": "2026-11-20T23:29:00+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p424808",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "2.50",
+   "stare": "ok",
+   "verificat": "2026-11-20T23:30:26+00:00",
+   "vazut": "2026-11-20T23:30:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
+   "domeniu": "frunzaverde.ro",
+   "pret": "2.28",
+   "stare": "ok",
+   "verificat": "2026-11-20T23:30:29+00:00",
+   "vazut": "2026-11-20T23:30:29+00:00",
    "metoda": "cautare_google"
   }
  ]
