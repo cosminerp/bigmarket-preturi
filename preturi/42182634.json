@@ -2,15 +2,6 @@
  "ean": "42182634",
  "preturi": [
   {
-   "url": "https://www.farmaciilenapofarm.ro/ingrijire-corp/vaselina-cosmetica-original-protecting-jelly-100-ml-vaseline?srsltid=AYCX9vKrxK6S4f9VeAw7WLYm8tIjt_9zVzNwx4_VBte60CHLPqPETUWH",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "11.42",
-   "stare": "ok",
-   "verificat": "2026-11-21T13:46:55+00:00",
-   "vazut": "2026-11-21T13:46:55+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/tratament-pentru-piele-unilever-vaseline-original-100-ml/p",
    "domeniu": "auchan.ro",
    "pret": "12.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T19:11:47+00:00",
    "metoda": "auchan_catalog",
    "nume": "Tratament pentru piele Vaseline Original, 100 ml"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/ingrijire-corp/vaselina-cosmetica-original-protecting-jelly-100-ml-vaseline?srsltid=AYCX9vKrxK6S4f9VeAw7WLYm8tIjt_9zVzNwx4_VBte60CHLPqPETUWH",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "11.42",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:50:51+00:00",
+   "vazut": "2026-11-21T19:50:51+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
