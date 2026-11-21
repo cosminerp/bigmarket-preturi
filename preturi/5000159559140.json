@@ -2,16 +2,6 @@
  "ean": "5000159559140",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/baton-de-ciocolata-cu-lapte-si-arahide-proaspat-prajite-snickers-50-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.39",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:08:43+00:00",
-   "vazut": "2026-11-21T11:08:43+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Baton de ciocolata cu lapte si arahide proaspat prajite Snickers, 50 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/snickers-50g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "4.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-21T13:49:40+00:00",
    "vazut": "2026-11-21T13:49:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/baton-de-ciocolata-cu-lapte-si-arahide-proaspat-prajite-snickers-50-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.39",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:23:08+00:00",
+   "vazut": "2026-11-21T19:23:08+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Baton de ciocolata cu lapte si arahide proaspat prajite Snickers, 50 g"
   }
  ]
 }

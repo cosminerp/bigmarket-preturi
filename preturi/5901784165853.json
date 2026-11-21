@@ -2,16 +2,6 @@
  "ean": "5901784165853",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/carneti-sticks-chilli-berlinki-85-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:12:49+00:00",
-   "vazut": "2026-11-21T11:12:49+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Carnati sticks chilli Berlinki, 85 g"
-  },
-  {
    "url": "https://promoazi.ro/carnati/carnati-sticks-chilli-berlinki-85g",
    "domeniu": "promoazi.ro",
    "pret": "8.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T13:53:28+00:00",
    "vazut": "2026-11-21T13:53:28+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/carneti-sticks-chilli-berlinki-85-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:27:26+00:00",
+   "vazut": "2026-11-21T19:27:26+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Carnati sticks chilli Berlinki, 85 g"
   }
  ]
 }

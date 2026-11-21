@@ -2,16 +2,6 @@
  "ean": "5941360008860",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/branza-grana-padano-delaco-200-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "29.69",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:11:31+00:00",
-   "vazut": "2026-11-21T11:11:31+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Branza grana padano Delaco, 200 g"
-  },
-  {
    "url": "https://promoazi.ro/cascaval/branza-grana-padano-delaco-200-g",
    "domeniu": "promoazi.ro",
    "pret": "29.69",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T14:08:46+00:00",
    "vazut": "2026-11-21T14:08:46+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/branza-grana-padano-delaco-200-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "29.69",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:26:04+00:00",
+   "vazut": "2026-11-21T19:26:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Branza grana padano Delaco, 200 g"
   }
  ]
 }

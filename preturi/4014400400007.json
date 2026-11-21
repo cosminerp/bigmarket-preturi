@@ -2,16 +2,6 @@
  "ean": "4014400400007",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/praline-toffifee-125g/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.69",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:07:51+00:00",
-   "vazut": "2026-11-21T11:07:51+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bomboane cu alune, nuga si caramel acoperite cu ciocolata Toffifee, 125 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/ciocolata-bomboane/praline-toffifee-125gr-5buc-bax-4014400400007",
    "domeniu": "snaemarket.ro",
    "pret": "8.85",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T13:46:37+00:00",
    "vazut": "2026-11-21T13:46:37+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/praline-toffifee-125g/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.69",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:22:14+00:00",
+   "vazut": "2026-11-21T19:22:14+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bomboane cu alune, nuga si caramel acoperite cu ciocolata Toffifee, 125 g"
   }
  ]
 }

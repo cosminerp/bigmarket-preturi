@@ -2,16 +2,6 @@
  "ean": "4770209049037",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/lapte-condensat-markomilk-8-grasime-397-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T10:55:10+00:00",
-   "vazut": "2026-11-21T10:55:10+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Lapte condensat Markomilk, 8% grasime, 397 g"
-  },
-  {
    "url": "https://promoazi.ro/smantana/lapte-condensat-markomilk-397g",
    "domeniu": "promoazi.ro",
    "pret": "15.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-21T13:47:07+00:00",
    "vazut": "2026-11-21T13:47:07+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/lapte-condensat-markomilk-8-grasime-397-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:08:50+00:00",
+   "vazut": "2026-11-21T19:08:50+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Lapte condensat Markomilk, 8% grasime, 397 g"
   }
  ]
 }

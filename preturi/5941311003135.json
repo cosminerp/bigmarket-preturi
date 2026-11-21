@@ -2,16 +2,6 @@
  "ean": "5941311003135",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-aroma-de-ardei-viva-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.89",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:12:56+00:00",
-   "vazut": "2026-11-21T11:12:56+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu aroma de ardei Viva, 100 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/viva-chips-ardei-100g-20buc-bax-5941311003135",
    "domeniu": "snaemarket.ro",
    "pret": "4.51",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T14:05:11+00:00",
    "vazut": "2026-11-21T14:05:11+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-aroma-de-ardei-viva-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.89",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:27:34+00:00",
+   "vazut": "2026-11-21T19:27:34+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu aroma de ardei Viva, 100 g"
   }
  ]
 }

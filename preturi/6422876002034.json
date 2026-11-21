@@ -2,16 +2,6 @@
  "ean": "6422876002034",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/hartie-igienica-umeda-doctor-wipes-42-buc/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.19",
-   "stare": "ok",
-   "verificat": "2026-11-21T10:54:54+00:00",
-   "vazut": "2026-11-21T10:54:54+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Hartie igienica umeda Doctor Wipes, 42 buc"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-umede/hartie-igienica-umeda-cu-extract-de-galbenele-42-bucati-doctor-wipes-p380920",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "4.16",
@@ -46,6 +36,16 @@
    "verificat": "2026-11-21T14:41:07+00:00",
    "vazut": "2026-11-21T14:41:07+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/hartie-igienica-umeda-doctor-wipes-42-buc/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.19",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:08:33+00:00",
+   "vazut": "2026-11-21T19:08:33+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Hartie igienica umeda Doctor Wipes, 42 buc"
   }
  ]
 }

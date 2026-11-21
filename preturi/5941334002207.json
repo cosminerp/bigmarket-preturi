@@ -2,17 +2,6 @@
  "ean": "5941334002207",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-vegetal-mandy-cu-masline-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.24",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:09:24+00:00",
-   "vazut": "2026-11-21T11:09:24+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pate vegetal Mandy cu masline 120 g",
-   "pret_vechi": "4.99"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/masline/mandy-pate-masline-120g-6buc-bax-5941334002207",
    "domeniu": "snaemarket.ro",
    "pret": "3.90",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-21T14:06:02+00:00",
    "vazut": "2026-11-21T14:06:02+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-vegetal-mandy-cu-masline-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.24",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:23:51+00:00",
+   "vazut": "2026-11-21T19:23:51+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pate vegetal Mandy cu masline 120 g",
+   "pret_vechi": "4.99"
   }
  ]
 }

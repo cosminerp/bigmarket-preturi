@@ -2,16 +2,6 @@
  "ean": "5941341024889",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-de-porc-cu-unt-120g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:07:41+00:00",
-   "vazut": "2026-11-21T11:07:41+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pate de porc cu unt, 120g"
-  },
-  {
    "url": "https://conservat.ro/pateuri-de-porc/161-bucegi-pate-de-porc-cu-unt-120g-5941341024889.html?srsltid=AYCX9vIGF6uNs2krxk5Ru3KU2kOPvpBA9gsx_mIdK-_0--EFmsUnhdPs",
    "domeniu": "conservat.ro",
    "pret": "6.10",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T14:06:34+00:00",
    "vazut": "2026-11-21T14:06:34+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-de-porc-cu-unt-120g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:22:04+00:00",
+   "vazut": "2026-11-21T19:22:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pate de porc cu unt, 120g"
   }
  ]
 }

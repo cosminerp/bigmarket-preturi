@@ -2,16 +2,6 @@
  "ean": "3577060130048",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/popcorn-cu-unt-chio-pentru-microunde-80-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.89",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:08:05+00:00",
-   "vazut": "2026-11-21T11:08:05+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Popcorn cu unt Chio, pentru microunde, 80 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/snacks/popcorn-microunde-unt-80gr-36buc-bax-3577060130048",
    "domeniu": "snaemarket.ro",
    "pret": "3.82",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-21T13:42:54+00:00",
    "vazut": "2026-11-21T13:42:54+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/popcorn-cu-unt-chio-pentru-microunde-80-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.89",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:22:29+00:00",
+   "vazut": "2026-11-21T19:22:29+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Popcorn cu unt Chio, pentru microunde, 80 g"
   }
  ]
 }

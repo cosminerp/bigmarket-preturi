@@ -2,17 +2,6 @@
  "ean": "7622210148483",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-cu-cacao-si-crema-cu-aroma-de-vanilie-oreo-double-cream-157-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.11",
-   "stare": "ok",
-   "verificat": "2026-11-21T10:55:50+00:00",
-   "vazut": "2026-11-21T10:55:50+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu cacao si crema cu aroma de vanilie Oreo Double Cream, 157 g",
-   "pret_vechi": "7.19"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/oreo-double-stuff-157gr-16buc-cut-7622210148483",
    "domeniu": "snaemarket.ro",
    "pret": "7.09",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-21T14:45:31+00:00",
    "vazut": "2026-11-21T14:45:31+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-cu-cacao-si-crema-cu-aroma-de-vanilie-oreo-double-cream-157-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.11",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:09:33+00:00",
+   "vazut": "2026-11-21T19:09:33+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu cacao si crema cu aroma de vanilie Oreo Double Cream, 157 g",
+   "pret_vechi": "7.19"
   }
  ]
 }

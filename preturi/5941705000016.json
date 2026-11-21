@@ -2,16 +2,6 @@
  "ean": "5941705000016",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ulei-de-floarea-soarelui-bunica-1-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.19",
-   "stare": "ok",
-   "verificat": "2026-11-21T11:08:15+00:00",
-   "vazut": "2026-11-21T11:08:15+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ulei de floarea soarelui Bunica, 1 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/ulei-bunica-1l-6buc-bax-5941705000016",
    "domeniu": "snaemarket.ro",
    "pret": "10.39",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-21T14:14:31+00:00",
    "vazut": "2026-11-21T14:14:31+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ulei-de-floarea-soarelui-bunica-1-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.19",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:22:40+00:00",
+   "vazut": "2026-11-21T19:22:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ulei de floarea soarelui Bunica, 1 l"
   }
  ]
 }

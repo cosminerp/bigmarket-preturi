@@ -2,16 +2,6 @@
  "ean": "42277767",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/crema-hidratanta-nivea-creme-30-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T10:57:38+00:00",
-   "vazut": "2026-11-21T10:57:38+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Crema hidratanta Nivea Creme 30 ml"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/crema-hidratanta-nivea-30-ml-7754000?srsltid=AYCX9vJJ1P4iYCTJLI__WXYq5k3cDePBSnaK7lailhw97vemmSiIV3w8",
    "domeniu": "naturisti.ro",
    "pret": "7.57",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-21T13:47:03+00:00",
    "vazut": "2026-11-21T13:47:03+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/crema-hidratanta-nivea-creme-30-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:11:28+00:00",
+   "vazut": "2026-11-21T19:11:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Crema hidratanta Nivea Creme 30 ml"
   }
  ]
 }
