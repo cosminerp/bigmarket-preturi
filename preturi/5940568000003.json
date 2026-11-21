@@ -2,15 +2,6 @@
  "ean": "5940568000003",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/monster-energy-500ml-doza/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:04:10+00:00",
-   "vazut": "2026-11-20T23:04:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-monster-green-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.79",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T11:11:15+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura energizanta Monster Original Green, 0.5 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/monster-energy-500ml-doza/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:55:25+00:00",
+   "vazut": "2026-11-21T13:55:25+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

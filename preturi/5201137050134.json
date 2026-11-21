@@ -2,24 +2,6 @@
  "ean": "5201137050134",
  "preturi": [
   {
-   "url": "https://veryretail.ro/p/peak-out-granule-forte-apa-rece-60-g-155",
-   "domeniu": "veryretail.ro",
-   "pret": "3.57",
-   "stare": "ok",
-   "verificat": "2026-11-20T22:56:54+00:00",
-   "vazut": "2026-11-20T22:56:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.kisshop.ro/cumpara/granule-desfundat-tevi-peak-out-apa-rece-60g-519?srsltid=AYCX9vL_7RutGWZ3yyyc-ol8USPIkjRCEZltXb34UznEDtLgaWR2yvku",
-   "domeniu": "kisshop.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:02:01+00:00",
-   "vazut": "2026-11-21T00:02:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/granule-forte-desfundat-tevi-peak-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.89",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T10:56:39+00:00",
    "metoda": "auchan_catalog",
    "nume": "Granule forte desfundat tevi Peak, 60 g"
+  },
+  {
+   "url": "https://veryretail.ro/p/peak-out-granule-forte-apa-rece-60-g-155",
+   "domeniu": "veryretail.ro",
+   "pret": "3.57",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:51:09+00:00",
+   "vazut": "2026-11-21T13:51:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/granule-desfundat-tevi-peak-out-apa-rece-60g-519?srsltid=AYCX9vL_7RutGWZ3yyyc-ol8USPIkjRCEZltXb34UznEDtLgaWR2yvku",
+   "domeniu": "kisshop.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:51:11+00:00",
+   "vazut": "2026-11-21T13:51:11+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

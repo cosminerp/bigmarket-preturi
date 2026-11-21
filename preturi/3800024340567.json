@@ -2,24 +2,6 @@
  "ean": "3800024340567",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/snacks/best-arahide-in-coaja-sarate-250gr-10buc-cut-3800024340567",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.30",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:57:57+00:00",
-   "vazut": "2026-11-20T23:57:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.pretistet.ro/produs/best-arahide-in-coaja-coapte-cu-sare-250-g/",
-   "domeniu": "pretistet.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:58:01+00:00",
-   "vazut": "2026-11-20T23:58:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/arahide-in-coaja-cu-sare-best-250-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T10:55:49+00:00",
    "metoda": "auchan_catalog",
    "nume": "Arahide in coaja cu sare Best, 250 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/snacks/best-arahide-in-coaja-sarate-250gr-10buc-cut-3800024340567",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.30",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:43:40+00:00",
+   "vazut": "2026-11-21T13:43:40+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/best-arahide-in-coaja-coapte-cu-sare-250-g/",
+   "domeniu": "pretistet.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:43:45+00:00",
+   "vazut": "2026-11-21T13:43:45+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "4823077649509",
  "preturi": [
   {
-   "url": "https://promoazi.ro/tablete-de-ciocolata/roshen-brut-bitter-ciocolata-neagra-80-cacao",
-   "domeniu": "promoazi.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T04:53:42+00:00",
-   "vazut": "2026-11-21T04:53:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-neagra-roshen-80-cacao-85g/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T02:10:01+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ciocolata neagra Roshen, 80% cacao, 85 g"
+  },
+  {
+   "url": "https://promoazi.ro/tablete-de-ciocolata/roshen-brut-bitter-ciocolata-neagra-80-cacao",
+   "domeniu": "promoazi.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:49:19+00:00",
+   "vazut": "2026-11-21T13:49:19+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

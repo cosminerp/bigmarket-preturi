@@ -2,24 +2,6 @@
  "ean": "5941265002840",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/salam-banatean-cris-tim-340g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "21.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:16:44+00:00",
-   "vazut": "2026-11-20T23:16:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste?p=4",
-   "domeniu": "eurodiscount.ro",
-   "pret": "19.43",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:16:46+00:00",
-   "vazut": "2026-11-20T23:16:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/salam-banatean-cris-tim-340-g/p",
    "domeniu": "auchan.ro",
    "pret": "17.79",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T10:54:30+00:00",
    "metoda": "auchan_catalog",
    "nume": "Salam banatean Cris-Tim, 340 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/salam-banatean-cris-tim-340g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "21.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:03:49+00:00",
+   "vazut": "2026-11-21T14:03:49+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste?p=4",
+   "domeniu": "eurodiscount.ro",
+   "pret": "19.43",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:03:51+00:00",
+   "vazut": "2026-11-21T14:03:51+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

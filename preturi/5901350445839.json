@@ -2,24 +2,6 @@
  "ean": "5901350445839",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-barbati/styling-par-barbati/vopsea-de-par-pentru-barbati-cameleo-3-0-dark-brown-s-delia-cosmetics-p336977",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "17.00",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:12:43+00:00",
-   "vazut": "2026-11-21T00:12:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-barbati/styling-par-barbati/vopsea-de-par-barba-mustata-si-perciuni-pentru-barbati-30-ml-cameleo-p377885",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "17.00",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:12:46+00:00",
-   "vazut": "2026-11-21T00:12:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/vopsea-pentru-par-barba-si-mustata-cameleo-men-3-0/p",
    "domeniu": "auchan.ro",
    "pret": "15.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T10:56:10+00:00",
    "metoda": "auchan_catalog",
    "nume": "Vopsea pentru par, barba si mustata Cameleo Men 3.0"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-barbati/styling-par-barbati/vopsea-de-par-pentru-barbati-cameleo-3-0-dark-brown-s-delia-cosmetics-p336977",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "17.00",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:53:19+00:00",
+   "vazut": "2026-11-21T13:53:19+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-barbati/styling-par-barbati/vopsea-de-par-barba-mustata-si-perciuni-pentru-barbati-30-ml-cameleo-p377885",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "17.00",
+   "stare": "ok",
+   "verificat": "2026-11-21T13:53:22+00:00",
+   "vazut": "2026-11-21T13:53:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

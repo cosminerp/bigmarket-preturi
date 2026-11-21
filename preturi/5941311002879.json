@@ -2,15 +2,6 @@
  "ean": "5941311002879",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/viva-chips-sare-100g-20buc-bax-5941311002879",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.51",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:18:40+00:00",
-   "vazut": "2026-11-20T23:18:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-sare-viva-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T11:10:28+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu sare Viva, 100 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/viva-chips-sare-100g-20buc-bax-5941311002879",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.51",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:05:08+00:00",
+   "vazut": "2026-11-21T14:05:08+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
