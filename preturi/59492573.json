@@ -2,33 +2,6 @@
  "ean": "59492573",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-0-5l-sgr-12buc-bax-59492573",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.32",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:36:11+00:00",
-   "vazut": "2026-11-21T14:36:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.zozocafe.ro/bautura-racoritoare-carbogazoasa-coca-cola-0-5-ro-sgr",
-   "domeniu": "zozocafe.ro",
-   "pret": "5.39",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:36:14+00:00",
-   "vazut": "2026-11-21T14:36:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-coca-cola-0-5l?srsltid=AYCX9vIEvRexbmsKUUZ3E20WkeJVBtb8g0mS24autC3a8API19oygAUt",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "8.78",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:36:16+00:00",
-   "vazut": "2026-11-21T14:36:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-21T19:19:33+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 0.5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-0-5l-sgr-12buc-bax-59492573",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.32",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:47:16+00:00",
+   "vazut": "2026-11-21T20:47:16+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.zozocafe.ro/bautura-racoritoare-carbogazoasa-coca-cola-0-5-ro-sgr",
+   "domeniu": "zozocafe.ro",
+   "pret": "5.39",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:47:20+00:00",
+   "vazut": "2026-11-21T20:47:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-coca-cola-0-5l?srsltid=AYCX9vIEvRexbmsKUUZ3E20WkeJVBtb8g0mS24autC3a8API19oygAUt",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "8.78",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:47:23+00:00",
+   "vazut": "2026-11-21T20:47:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "7622202022623",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/ciocolata-bomboane/africana-cioco-arahide-80gr-24buc-cut-7622202022623",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.62",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:45:02+00:00",
-   "vazut": "2026-11-21T14:45:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-cu-lapte-si-arahide-africana-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T19:17:37+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ciocolata cu lapte si arahide Africana, 80 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/ciocolata-bomboane/africana-cioco-arahide-80gr-24buc-cut-7622202022623",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.62",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:57:11+00:00",
+   "vazut": "2026-11-21T20:57:11+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

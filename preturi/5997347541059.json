@@ -2,24 +2,6 @@
  "ean": "5997347541059",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/mogyi-arahide-prajite-nesarate-300gr-20buc-bax-5997347541059",
-   "domeniu": "snaemarket.ro",
-   "pret": "10.53",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-21T14:37:52+00:00",
-   "vazut": "2026-11-18T10:00:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/arahide-prajite-fara-sare-mogyi-300g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "13.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:37:54+00:00",
-   "vazut": "2026-11-21T14:37:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/arahide-prajite-nesarate-mogyi-300-g/p",
    "domeniu": "auchan.ro",
    "pret": "12.29",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T19:26:10+00:00",
    "metoda": "auchan_catalog",
    "nume": "Arahide prajite nesarate Mogyi, 300 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/mogyi-arahide-prajite-nesarate-300gr-20buc-bax-5997347541059",
+   "domeniu": "snaemarket.ro",
+   "pret": "10.53",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-21T20:49:11+00:00",
+   "vazut": "2026-11-18T10:00:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/arahide-prajite-fara-sare-mogyi-300g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "13.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:49:14+00:00",
+   "vazut": "2026-11-21T20:49:14+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
