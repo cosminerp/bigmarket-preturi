@@ -2,16 +2,6 @@
  "ean": "4770209049129",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/lapte-condensat-caramelizat-markomilk-dulce-de-leche-397-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:13:48+00:00",
-   "vazut": "2026-11-20T20:13:48+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Lapte condensat caramelizat Markomilk Dulce de Leche, 397 g"
-  },
-  {
    "url": "https://promoazi.ro/smantana/lapte-condensat-caramelizat-markomilk-dulce-de-leche-397-g",
    "domeniu": "promoazi.ro",
    "pret": "15.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T04:49:35+00:00",
    "vazut": "2026-11-21T04:49:35+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/lapte-condensat-caramelizat-markomilk-dulce-de-leche-397-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T10:58:41+00:00",
+   "vazut": "2026-11-21T10:58:41+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Lapte condensat caramelizat Markomilk Dulce de Leche, 397 g"
   }
  ]
 }

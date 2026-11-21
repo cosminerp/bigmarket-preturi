@@ -2,16 +2,6 @@
  "ean": "4002468246613",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/sos-cu-cheddar-hochland-cheez-on-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:14:11+00:00",
-   "vazut": "2026-11-20T20:14:11+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Sos cu cheddar Hochland Cheez On, 100 g"
-  },
-  {
    "url": "https://promoazi.ro/crema-de-branza/hochcheez-on-sos-cheddar-100g",
    "domeniu": "promoazi.ro",
    "pret": "6.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T04:45:44+00:00",
    "vazut": "2026-11-21T04:45:44+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/sos-cu-cheddar-hochland-cheez-on-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T10:59:04+00:00",
+   "vazut": "2026-11-21T10:59:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Sos cu cheddar Hochland Cheez On, 100 g"
   }
  ]
 }

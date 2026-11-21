@@ -2,16 +2,6 @@
  "ean": "5201137050134",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/granule-forte-desfundat-tevi-peak-80-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.89",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:11:45+00:00",
-   "vazut": "2026-11-20T20:11:45+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Granule forte desfundat tevi Peak, 60 g"
-  },
-  {
    "url": "https://veryretail.ro/p/peak-out-granule-forte-apa-rece-60-g-155",
    "domeniu": "veryretail.ro",
    "pret": "3.57",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-21T00:02:01+00:00",
    "vazut": "2026-11-21T00:02:01+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/granule-forte-desfundat-tevi-peak-80-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.89",
+   "stare": "ok",
+   "verificat": "2026-11-21T10:56:39+00:00",
+   "vazut": "2026-11-21T10:56:39+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Granule forte desfundat tevi Peak, 60 g"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "7290102991426",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/balsam-concentrat-pentru-rufe-sano-blue-blossom-1-l-40-spalari/p",
-   "domeniu": "auchan.ro",
-   "pret": "17.59",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:13:00+00:00",
-   "vazut": "2026-11-20T20:13:00+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Balsam concentrat pentru rufe Sano Blue Blossom, 1 l, 40 spalari"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/balsam-rufe/balsam-de-rufe-ultra-concentrat-blue-blossom-maxima-1-litru-40-de-spalari-sano-p378117",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "14.50",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-21T00:07:28+00:00",
    "vazut": "2026-11-21T00:07:28+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/balsam-concentrat-pentru-rufe-sano-blue-blossom-1-l-40-spalari/p",
+   "domeniu": "auchan.ro",
+   "pret": "17.59",
+   "stare": "ok",
+   "verificat": "2026-11-21T10:57:54+00:00",
+   "vazut": "2026-11-21T10:57:54+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Balsam concentrat pentru rufe Sano Blue Blossom, 1 l, 40 spalari"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5942204005670",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-pepsi-max-taste-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "10.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:21:12+00:00",
-   "vazut": "2026-11-20T20:21:12+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Pepsi Zero Zahar, 2 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/pepsi-zero-2l-pet-sgr-6buc-bax-5942204005670",
    "domeniu": "snaemarket.ro",
    "pret": "8.19",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-21T00:33:32+00:00",
    "vazut": "2026-11-21T00:33:32+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-pepsi-max-taste-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T11:06:04+00:00",
+   "vazut": "2026-11-21T11:06:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Pepsi Zero Zahar, 2 l"
   }
  ]
 }

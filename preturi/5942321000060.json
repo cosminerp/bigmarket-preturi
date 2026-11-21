@@ -18,16 +18,6 @@
    "stare": "ok"
   },
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:20:17+00:00",
-   "vazut": "2026-11-20T20:20:17+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 2 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-2l-sgr-6buc-bax-5942321000060",
    "domeniu": "snaemarket.ro",
    "pret": "10.35",
@@ -53,6 +43,16 @@
    "verificat": "2026-11-20T23:43:14+00:00",
    "vazut": "2026-11-20T23:43:14+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T11:05:10+00:00",
+   "vazut": "2026-11-21T11:05:10+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 2 l"
   }
  ]
 }

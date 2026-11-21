@@ -2,16 +2,6 @@
  "ean": "4823077636257",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/jeleuri-cu-umplutura-cu-aroma-de-lamaie-roshen-yummi-gummi-sticks-70-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:10:07+00:00",
-   "vazut": "2026-11-20T20:10:07+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Jeleuri cu umplutura cu aroma de lamaie Roshen Yummi Gummi Sticks, 70 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/alte-dulciuri/rosh-yummi-gummi-sour-sticks-70-gr-40buc-bax-4823077636257",
    "domeniu": "snaemarket.ro",
    "pret": "3.51",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T00:01:01+00:00",
    "vazut": "2026-11-21T00:01:01+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/jeleuri-cu-umplutura-cu-aroma-de-lamaie-roshen-yummi-gummi-sticks-70-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T10:55:01+00:00",
+   "vazut": "2026-11-21T10:55:01+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Jeleuri cu umplutura cu aroma de lamaie Roshen Yummi Gummi Sticks, 70 g"
   }
  ]
 }

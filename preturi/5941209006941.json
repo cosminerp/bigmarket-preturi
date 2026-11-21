@@ -2,16 +2,6 @@
  "ean": "5941209006941",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/iaurt-cu-biscuiti-danone-delicios-125-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.39",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:21:40+00:00",
-   "vazut": "2026-11-20T20:21:40+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Iaurt cu biscuiti Danone Delicios, 125 g"
-  },
-  {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/danone-delicios-iaurt-biscuiti-125g.html",
    "domeniu": "eurodiscount.ro",
    "pret": "2.21",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-21T00:16:47+00:00",
    "vazut": "2026-11-21T00:16:47+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/iaurt-cu-biscuiti-danone-delicios-125-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.39",
+   "stare": "ok",
+   "verificat": "2026-11-21T11:06:33+00:00",
+   "vazut": "2026-11-21T11:06:33+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Iaurt cu biscuiti Danone Delicios, 125 g"
   }
  ]
 }
