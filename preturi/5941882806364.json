@@ -2,24 +2,6 @@
  "ean": "5941882806364",
  "preturi": [
   {
-   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g?srsltid=AYCX9vKpa7-TMfqAXPgNjxtfhFAGN47WTSruNG58rJkffBsJakODiknS",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "5.03",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:16:27+00:00",
-   "vazut": "2026-11-21T14:16:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-cu-glazura-de-lupin-66-g-7755278?srsltid=AYCX9vJTSYfqJHRMyPEOxIRagf2QWeXmqertSSaYwFph0CyVTNoT7Spx",
-   "domeniu": "naturisti.ro",
-   "pret": "5.30",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:16:28+00:00",
-   "vazut": "2026-11-21T14:16:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-din-orez-expandat-cu-glazura-de-lupin-p368960",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "4.50",
@@ -53,6 +35,24 @@
    "stare": "ok",
    "verificat": "2026-11-21T14:16:35+00:00",
    "vazut": "2026-11-21T14:16:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g?srsltid=AYCX9vKpa7-TMfqAXPgNjxtfhFAGN47WTSruNG58rJkffBsJakODiknS",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "5.03",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:23:45+00:00",
+   "vazut": "2026-11-21T20:23:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-cu-glazura-de-lupin-66-g-7755278?srsltid=AYCX9vJTSYfqJHRMyPEOxIRagf2QWeXmqertSSaYwFph0CyVTNoT7Spx",
+   "domeniu": "naturisti.ro",
+   "pret": "5.30",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:23:47+00:00",
+   "vazut": "2026-11-21T20:23:47+00:00",
    "metoda": "cautare_google"
   }
  ]
