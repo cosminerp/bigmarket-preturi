@@ -2,15 +2,6 @@
  "ean": "3800024049750",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/menaj/detergenti/savex-detergent-pudra-automat-color-4sp-320g-22buc-bax-3800024049750",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.11",
-   "stare": "ok",
-   "verificat": "2026-11-20T22:40:12+00:00",
-   "vazut": "2026-11-20T22:40:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/detergent-automat-savex-premium-color-320-g?srsltid=AYCX9vKT1SAldKhh89c_ufrJ-AC87aqrQarq1EVrOgU2Iq_dTbYmCcRa",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "4.99",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-20T22:41:35+00:00",
    "vazut": "2026-11-20T22:41:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/detergenti/savex-detergent-pudra-automat-color-4sp-320g-22buc-bax-3800024049750",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.11",
+   "stare": "ok",
+   "verificat": "2026-11-21T04:40:31+00:00",
+   "vazut": "2026-11-21T04:40:31+00:00",
    "metoda": "cautare_google"
   }
  ]
