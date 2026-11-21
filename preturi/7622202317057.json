@@ -2,15 +2,6 @@
  "ean": "7622202317057",
  "preturi": [
   {
-   "url": "https://promoazi.ro/saratele-si-grisine/rondele-gust-usturoi-bake-rolls-7-days-80g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.95",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:49:09+00:00",
-   "vazut": "2026-11-20T18:49:09+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rondele-cu-usturoi-bake-rolls-7-days-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.25",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-20T20:22:47+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rondele cu aroma de usturoi Tuc Bake Rolls, 80 g"
+  },
+  {
+   "url": "https://promoazi.ro/saratele-si-grisine/rondele-gust-usturoi-bake-rolls-7-days-80g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.95",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:50:22+00:00",
+   "vazut": "2026-11-21T00:50:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
