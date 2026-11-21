@@ -2,33 +2,6 @@
  "ean": "5948562511006",
  "preturi": [
   {
-   "url": "https://promoazi.ro/bere-si-cidru/corona-extra-033nrt-sgr",
-   "domeniu": "promoazi.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:31:13+00:00",
-   "vazut": "2026-11-21T14:31:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cosulmic.ro/produs/bere-corona-0-33l-12",
-   "domeniu": "cosulmic.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:31:15+00:00",
-   "vazut": "2026-11-21T14:31:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://kastelboutique.ro/produs/bere-corona-0-33l-sgr-5948562511006/",
-   "domeniu": "kastelboutique.ro",
-   "pret": "6.90",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:31:16+00:00",
-   "vazut": "2026-11-21T14:31:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-corona-extra-6-x-0-33-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "8.29",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-21T19:20:33+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Corona Extra, 0.33 l"
+  },
+  {
+   "url": "https://promoazi.ro/bere-si-cidru/corona-extra-033nrt-sgr",
+   "domeniu": "promoazi.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:41:56+00:00",
+   "vazut": "2026-11-21T20:41:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cosulmic.ro/produs/bere-corona-0-33l-12",
+   "domeniu": "cosulmic.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:41:57+00:00",
+   "vazut": "2026-11-21T20:41:57+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://kastelboutique.ro/produs/bere-corona-0-33l-sgr-5948562511006/",
+   "domeniu": "kastelboutique.ro",
+   "pret": "6.90",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:41:59+00:00",
+   "vazut": "2026-11-21T20:41:59+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

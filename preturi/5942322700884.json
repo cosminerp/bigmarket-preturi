@@ -2,15 +2,6 @@
  "ean": "5942322700884",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bauturi/sirop-de-fructe-de-padure-975-g-laurul-4026-4027-4028-4029-4030.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "21.12",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:25:58+00:00",
-   "vazut": "2026-11-21T14:25:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sirop-de-trandafiri-laurul-16-075-l/p",
    "domeniu": "auchan.ro",
    "pret": "18.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T19:12:32+00:00",
    "metoda": "auchan_catalog",
    "nume": "Sirop de trandafiri Laurul, 0.75 l"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi/sirop-de-fructe-de-padure-975-g-laurul-4026-4027-4028-4029-4030.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "21.12",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:36:12+00:00",
+   "vazut": "2026-11-21T20:36:12+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

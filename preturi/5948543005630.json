@@ -2,24 +2,6 @@
  "ean": "5948543005630",
  "preturi": [
   {
-   "url": "https://www.practi.ro/casa-si-gradina/igienol-curat-parfumat-1l-poiana-cu-lacramioare.html?srsltid=AYCX9vIwc0rongbzqtOqPi-OqeU5xZ47k_IUhtTrRuGhO3ao-bpt3rXq",
-   "domeniu": "practi.ro",
-   "pret": "12.30",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:30:56+00:00",
-   "vazut": "2026-11-21T14:30:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/dezinfectanti-si-solutii-de-curatare/solutie-concentrata-de-curatare-a-pardoselilor-poiana-cu-lacramioare-1-litru-igienol-p410154",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "9.50",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:30:58+00:00",
-   "vazut": "2026-11-21T14:30:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/solutie-curatare-pardoseli-igienol-poiana-cu-lacramioare-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "15.19",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T19:11:39+00:00",
    "metoda": "auchan_catalog",
    "nume": "Solutie curatare pardoseli Igienol Poiana cu Lacramioare, 1 l"
+  },
+  {
+   "url": "https://www.practi.ro/casa-si-gradina/igienol-curat-parfumat-1l-poiana-cu-lacramioare.html?srsltid=AYCX9vIwc0rongbzqtOqPi-OqeU5xZ47k_IUhtTrRuGhO3ao-bpt3rXq",
+   "domeniu": "practi.ro",
+   "pret": "12.30",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:41:37+00:00",
+   "vazut": "2026-11-21T20:41:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/dezinfectanti-si-solutii-de-curatare/solutie-concentrata-de-curatare-a-pardoselilor-poiana-cu-lacramioare-1-litru-igienol-p410154",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "9.50",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:41:40+00:00",
+   "vazut": "2026-11-21T20:41:40+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

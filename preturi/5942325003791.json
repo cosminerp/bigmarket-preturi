@@ -2,24 +2,6 @@
  "ean": "5942325003791",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/bucovina-apa-fructata-lamaie-1-5l-6buc-sgr-5942325003791",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.92",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:27:25+00:00",
-   "vazut": "2026-11-21T14:27:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/apa/apa-fructata-cu-aroma-de-lamaie-bucovina-15-l",
-   "domeniu": "promoazi.ro",
-   "pret": "5.69",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:27:27+00:00",
-   "vazut": "2026-11-21T14:27:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-fructata-culamaie-bucovina-1-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.39",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T19:20:05+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa fructata cu aroma de lamaie Bucovina, 1.5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/bucovina-apa-fructata-lamaie-1-5l-6buc-sgr-5942325003791",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.92",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:37:46+00:00",
+   "vazut": "2026-11-21T20:37:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/apa/apa-fructata-cu-aroma-de-lamaie-bucovina-15-l",
+   "domeniu": "promoazi.ro",
+   "pret": "5.69",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:37:48+00:00",
+   "vazut": "2026-11-21T20:37:48+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

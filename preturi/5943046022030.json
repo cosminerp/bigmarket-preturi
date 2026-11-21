@@ -2,33 +2,6 @@
  "ean": "5943046022030",
  "preturi": [
   {
-   "url": "https://www.greenonline.ro/ingrijire-personala/vopsea-de-par-permanenta-loncolor-ultra-1-negru-100ml.html",
-   "domeniu": "greenonline.ro",
-   "pret": "16.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:29:13+00:00",
-   "vazut": "2026-11-21T14:29:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/loncolor-vopsea-ultra-1-negru/?srsltid=AYCX9vLr1cMQnkKKbA4N3zQ2NXOEIyJ30A0YBEpHC2KFalwzUsKA1eSH",
-   "domeniu": "cobyul.ro",
-   "pret": "14.35",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:29:15+00:00",
-   "vazut": "2026-11-21T14:29:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.meiso.ro/cumpara/loncolor-ultra-vopsea-permanenta-de-par-cu-amoniac-1-negru-1032",
-   "domeniu": "meiso.ro",
-   "pret": "18.00",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:29:18+00:00",
-   "vazut": "2026-11-21T14:29:18+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/vopsea-permanenta-pentru-par-loncolor-ultra-1-negru/p",
    "domeniu": "auchan.ro",
    "pret": "16.49",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-21T19:11:21+00:00",
    "metoda": "auchan_catalog",
    "nume": "Vopsea permanenta pentru par Loncolor Ultra, 1 Negru"
+  },
+  {
+   "url": "https://www.greenonline.ro/ingrijire-personala/vopsea-de-par-permanenta-loncolor-ultra-1-negru-100ml.html",
+   "domeniu": "greenonline.ro",
+   "pret": "16.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:39:47+00:00",
+   "vazut": "2026-11-21T20:39:47+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/loncolor-vopsea-ultra-1-negru/?srsltid=AYCX9vLr1cMQnkKKbA4N3zQ2NXOEIyJ30A0YBEpHC2KFalwzUsKA1eSH",
+   "domeniu": "cobyul.ro",
+   "pret": "14.35",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:39:50+00:00",
+   "vazut": "2026-11-21T20:39:50+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.meiso.ro/cumpara/loncolor-ultra-vopsea-permanenta-de-par-cu-amoniac-1-negru-1032",
+   "domeniu": "meiso.ro",
+   "pret": "18.00",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:39:53+00:00",
+   "vazut": "2026-11-21T20:39:53+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
