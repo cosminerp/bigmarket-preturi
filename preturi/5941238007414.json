@@ -2,24 +2,6 @@
  "ean": "5941238007414",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/branza-topita-hochland-100-g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.95",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:02:55+00:00",
-   "vazut": "2026-11-21T14:02:55+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/crema-de-branza/branza-topita-cu-smantana-hochland-baton-100-g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:02:57+00:00",
-   "vazut": "2026-11-21T14:02:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-topita-cu-smantana-hochland-baton-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T19:23:46+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza topita cu smantana Hochland, baton, 100 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/branza-topita-hochland-100-g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.95",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:10:20+00:00",
+   "vazut": "2026-11-21T20:10:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/crema-de-branza/branza-topita-cu-smantana-hochland-baton-100-g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:10:22+00:00",
+   "vazut": "2026-11-21T20:10:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

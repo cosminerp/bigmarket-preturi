@@ -2,15 +2,6 @@
  "ean": "5941311002237",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/cereale-viva-fulgi-cacao-250g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "9.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:04:56+00:00",
-   "vazut": "2026-11-21T14:04:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cereale-viva-cacao-flakes-250g/p",
    "domeniu": "auchan.ro",
    "pret": "9.44",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Cereale cu cacao Viva Cacao Flakes, 250 g",
    "pret_vechi": "10.49"
+  },
+  {
+   "url": "https://pacomarket.ro/product/cereale-viva-fulgi-cacao-250g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "9.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:12:21+00:00",
+   "vazut": "2026-11-21T20:12:21+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

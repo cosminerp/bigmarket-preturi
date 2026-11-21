@@ -2,33 +2,6 @@
  "ean": "5941341001903",
  "preturi": [
   {
-   "url": "https://www.pretistet.ro/produs/sadu-pate-de-ficat-de-porc-cu-cheita-100gr/",
-   "domeniu": "pretistet.ro",
-   "pret": "3.29",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:06:17+00:00",
-   "vazut": "2026-11-21T14:06:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bacanie/conserve/sadu-pate-porc-100g-6buc-bax-5941341001903",
-   "domeniu": "snaemarket.ro",
-   "pret": "2.87",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:06:20+00:00",
-   "vazut": "2026-11-21T14:06:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://conservat.ro/porc-la-conserva/134-porc-la-conserva-5941341001903.html?srsltid=AYCX9vIrUJyF907w-fNVQA_A-doHwcuSZK9LZDeGZoC5C4-sSHQqF5NZ",
-   "domeniu": "conservat.ro",
-   "pret": "5.08",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:06:23+00:00",
-   "vazut": "2026-11-21T14:06:23+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pate-taranesc-de-porc-sadu-100g/p",
    "domeniu": "auchan.ro",
    "pret": "3.85",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-21T19:24:25+00:00",
    "metoda": "auchan_catalog",
    "nume": "Pate taranesc de porc Sadu, 100g"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/sadu-pate-de-ficat-de-porc-cu-cheita-100gr/",
+   "domeniu": "pretistet.ro",
+   "pret": "3.29",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:13:45+00:00",
+   "vazut": "2026-11-21T20:13:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/sadu-pate-porc-100g-6buc-bax-5941341001903",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.87",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:13:48+00:00",
+   "vazut": "2026-11-21T20:13:48+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://conservat.ro/porc-la-conserva/134-porc-la-conserva-5941341001903.html?srsltid=AYCX9vIrUJyF907w-fNVQA_A-doHwcuSZK9LZDeGZoC5C4-sSHQqF5NZ",
+   "domeniu": "conservat.ro",
+   "pret": "5.08",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:13:51+00:00",
+   "vazut": "2026-11-21T20:13:51+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,33 +2,6 @@
  "ean": "5941334002207",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/masline/mandy-pate-masline-120g-6buc-bax-5941334002207",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.90",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:05:56+00:00",
-   "vazut": "2026-11-21T14:05:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://conservat.ro/pateuri-vegetale/679-mandy-pate-vegetal-cu-masline-120g-5941334002207.html?srsltid=AYCX9vL8Bj5xIbb8oQBdElZAJPcRbzS14WrRO1q9DJkAagBfzW9ngUd6",
-   "domeniu": "conservat.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:05:59+00:00",
-   "vazut": "2026-11-21T14:05:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.miranoriental.ro/pateu-vegetal-cu-masline-mandy-120g",
-   "domeniu": "miranoriental.ro",
-   "pret": "4.33",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:06:02+00:00",
-   "vazut": "2026-11-21T14:06:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pate-vegetal-mandy-cu-masline-120-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.24",
@@ -38,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Pate vegetal Mandy cu masline 120 g",
    "pret_vechi": "4.99"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/masline/mandy-pate-masline-120g-6buc-bax-5941334002207",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.90",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:13:22+00:00",
+   "vazut": "2026-11-21T20:13:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://conservat.ro/pateuri-vegetale/679-mandy-pate-vegetal-cu-masline-120g-5941334002207.html?srsltid=AYCX9vL8Bj5xIbb8oQBdElZAJPcRbzS14WrRO1q9DJkAagBfzW9ngUd6",
+   "domeniu": "conservat.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:13:26+00:00",
+   "vazut": "2026-11-21T20:13:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miranoriental.ro/pateu-vegetal-cu-masline-mandy-120g",
+   "domeniu": "miranoriental.ro",
+   "pret": "4.33",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:13:29+00:00",
+   "vazut": "2026-11-21T20:13:29+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
