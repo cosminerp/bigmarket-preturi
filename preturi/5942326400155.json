@@ -2,15 +2,6 @@
  "ean": "5942326400155",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-5l-5942326400155",
-   "domeniu": "snaemarket.ro",
-   "pret": "8.87",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-20T18:32:37+00:00",
-   "vazut": "2026-11-18T11:34:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-plata-carpatica-5l/",
    "domeniu": "pacomarket.ro",
    "pret": "9.99",
@@ -37,6 +28,15 @@
    "vazut": "2026-11-20T20:22:35+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Aqua Carpatica, 5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-5l-5942326400155",
+   "domeniu": "snaemarket.ro",
+   "pret": "8.87",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-21T00:36:56+00:00",
+   "vazut": "2026-11-18T11:34:38+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "5942105009081",
  "preturi": [
   {
-   "url": "https://www.pretistet.ro/produs/heineken-bere-blonda-sticla-330-ml-ambalaj-returnabil/",
-   "domeniu": "pretistet.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:29:17+00:00",
-   "vazut": "2026-11-20T18:29:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-heineken-0-33l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.49",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-21T00:31:17+00:00",
    "vazut": "2026-11-21T00:31:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/heineken-bere-blonda-sticla-330-ml-ambalaj-returnabil/",
+   "domeniu": "pretistet.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:32:41+00:00",
+   "vazut": "2026-11-21T00:32:41+00:00",
    "metoda": "cautare_google"
   }
  ]
