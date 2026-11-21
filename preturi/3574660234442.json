@@ -2,24 +2,6 @@
  "ean": "3574660234442",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-intima/absorbante-si-tampoane/tampoane-pro-comfort-normal-8-bucati-o-b--p119088",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "7.00",
-   "stare": "ok",
-   "verificat": "2026-11-20T22:38:26+00:00",
-   "vazut": "2026-11-20T22:38:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.practi.ro/sanatate-si-cosmetica/tampoane-ob-procomfort-8buc-set-normal.html?srsltid=AYCX9vL7wHzowFXI0Srxn6VFv0do1raT0m01onzOy_gxAGEYeRBtKbLm",
-   "domeniu": "practi.ro",
-   "pret": "9.35",
-   "stare": "ok",
-   "verificat": "2026-11-20T22:38:36+00:00",
-   "vazut": "2026-11-20T22:38:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/tampoane-ob-procomfort-normal-8-bucati/p",
    "domeniu": "auchan.ro",
    "pret": "11.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T02:13:50+00:00",
    "metoda": "auchan_catalog",
    "nume": "Tampoane OB Procomfort normal, 8 bucati"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-intima/absorbante-si-tampoane/tampoane-pro-comfort-normal-8-bucati-o-b--p119088",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "7.00",
+   "stare": "ok",
+   "verificat": "2026-11-21T04:38:45+00:00",
+   "vazut": "2026-11-21T04:38:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.practi.ro/sanatate-si-cosmetica/tampoane-ob-procomfort-8buc-set-normal.html?srsltid=AYCX9vL7wHzowFXI0Srxn6VFv0do1raT0m01onzOy_gxAGEYeRBtKbLm",
+   "domeniu": "practi.ro",
+   "pret": "9.35",
+   "stare": "ok",
+   "verificat": "2026-11-21T04:38:48+00:00",
+   "vazut": "2026-11-21T04:38:48+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

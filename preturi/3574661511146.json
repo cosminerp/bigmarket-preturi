@@ -2,12 +2,21 @@
  "ean": "3574661511146",
  "preturi": [
   {
+   "url": "https://cobyul.ro/produs/carefree-panty-20-buc-cotton-fresh/?srsltid=AYCX9vLPQPAOksgPJ9qZ8P_Qc24n_YgUf4Go36RDrIBz1Ir8I3TWcTbs",
+   "domeniu": "cobyul.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-20T22:39:57+00:00",
+   "vazut": "2026-11-20T22:39:57+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.kisshop.ro/cumpara/absorbante-zilnice-carefree-cotton-feel-normal-20-buc-2683?srsltid=AYCX9vJWqqZzlhxiDkKdgCl6HWEMS0hSeYYPTRHtEwxtiaLcAOxhyUix",
    "domeniu": "kisshop.ro",
    "pret": "8.99",
    "stare": "ok",
-   "verificat": "2026-11-20T22:38:41+00:00",
-   "vazut": "2026-11-20T22:38:41+00:00",
+   "verificat": "2026-11-21T04:38:54+00:00",
+   "vazut": "2026-11-21T04:38:54+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "davart.ro",
    "pret": "8.00",
    "stare": "ok",
-   "verificat": "2026-11-20T22:38:43+00:00",
-   "vazut": "2026-11-20T22:38:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/carefree-panty-20-buc-cotton-fresh/?srsltid=AYCX9vLPQPAOksgPJ9qZ8P_Qc24n_YgUf4Go36RDrIBz1Ir8I3TWcTbs",
-   "domeniu": "cobyul.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-20T22:39:57+00:00",
-   "vazut": "2026-11-20T22:39:57+00:00",
+   "verificat": "2026-11-21T04:38:56+00:00",
+   "vazut": "2026-11-21T04:38:56+00:00",
    "metoda": "cautare_google"
   }
  ]
