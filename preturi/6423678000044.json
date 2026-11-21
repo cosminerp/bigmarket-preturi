@@ -2,21 +2,21 @@
  "ean": "6423678000044",
  "preturi": [
   {
-   "url": "https://gxcoffice.ro/produs/mop-bumbac-250-gr-cu-fibre-albe-si-montura-din-plastic/?srsltid=AYCX9vKby1aIvn2elVFGOmS2fo18LmL27gh1WkNWiUK6C7frNIpmec2g",
-   "domeniu": "gxcoffice.ro",
-   "pret": "8.00",
-   "stare": "ok",
-   "verificat": "2026-11-20T19:46:19+00:00",
-   "vazut": "2026-11-20T19:46:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/oti-mop-bumbac-250-gr/?srsltid=AYCX9vLiP92GI9iS6yrEtZrAB_qWXuYcESB3VaSFr4_VVnrliu6p2gUk",
    "domeniu": "cobyul.ro",
    "pret": "5.69",
    "stare": "ok",
    "verificat": "2026-11-21T00:04:42+00:00",
    "vazut": "2026-11-21T00:04:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://gxcoffice.ro/produs/mop-bumbac-250-gr-cu-fibre-albe-si-montura-din-plastic/?srsltid=AYCX9vKby1aIvn2elVFGOmS2fo18LmL27gh1WkNWiUK6C7frNIpmec2g",
+   "domeniu": "gxcoffice.ro",
+   "pret": "8.00",
+   "stare": "ok",
+   "verificat": "2026-11-21T01:47:30+00:00",
+   "vazut": "2026-11-21T01:47:30+00:00",
    "metoda": "cautare_google"
   }
  ]

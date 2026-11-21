@@ -2,15 +2,6 @@
  "ean": "4820215369695",
  "preturi": [
   {
-   "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-cu-pui-300g/?srsltid=AYCX9vLC9A6EaJzPhSJVBYmVfLlSeLyDjHekheI6KD7m2eQ0zaIZrbcN",
-   "domeniu": "club4labute.ro",
-   "pret": "5.00",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-20T19:46:08+00:00",
-   "vazut": "2026-11-19T04:33:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.fourpaws.ro/produse-pisici/hrana-uscata-completa-my-love-pentru-pisici-adulte-cu-pui-0-3-kg.html?srsltid=AYCX9vIRcc1UlKgLtqTTHbMsV5Q42ceZ2v1C3Bo7cQSf2975Mp-IKh_D",
    "domeniu": "fourpaws.ro",
    "pret": "3.30",
@@ -44,6 +35,15 @@
    "stare": "fără preț sau alt cod de bare",
    "verificat": "2026-11-20T22:48:28+00:00",
    "vazut": "2026-11-19T04:33:48+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-cu-pui-300g/?srsltid=AYCX9vLC9A6EaJzPhSJVBYmVfLlSeLyDjHekheI6KD7m2eQ0zaIZrbcN",
+   "domeniu": "club4labute.ro",
+   "pret": "5.00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-21T01:47:18+00:00",
+   "vazut": "2026-11-19T04:33:50+00:00",
    "metoda": "cautare_google"
   }
  ]
