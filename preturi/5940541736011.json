@@ -2,15 +2,6 @@
  "ean": "5940541736011",
  "preturi": [
   {
-   "url": "https://promoazi.ro/bere-si-cidru/bere-alba-nefiltrata-nenea-iancu-05-l",
-   "domeniu": "promoazi.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T13:55:22+00:00",
-   "vazut": "2026-11-21T13:55:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-alba-nefiltrata-nenea-iancu-sticla-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-21T20:00:26+00:00",
    "vazut": "2026-11-21T20:00:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/bere-si-cidru/bere-alba-nefiltrata-nenea-iancu-05-l",
+   "domeniu": "promoazi.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:01:45+00:00",
+   "vazut": "2026-11-21T20:01:45+00:00",
    "metoda": "cautare_google"
   }
  ]
