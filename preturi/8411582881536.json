@@ -2,15 +2,6 @@
  "ean": "8411582881536",
  "preturi": [
   {
-   "url": "https://www.miranoriental.ro/detergent-concentrat-pardoseli-asevi-portocala-1l",
-   "domeniu": "miranoriental.ro",
-   "pret": "12.17",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:25:12+00:00",
-   "vazut": "2026-11-21T00:25:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/solutie-pentru-pardoseli-asevi-cu-parfum-de-portocale-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "13.49",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-21T14:50:32+00:00",
    "vazut": "2026-11-21T14:50:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miranoriental.ro/detergent-concentrat-pardoseli-asevi-portocala-1l",
+   "domeniu": "miranoriental.ro",
+   "pret": "12.17",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:58:22+00:00",
+   "vazut": "2026-11-21T14:58:22+00:00",
    "metoda": "cautare_google"
   }
  ]
