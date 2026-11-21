@@ -2,15 +2,6 @@
  "ean": "5941905049297",
  "preturi": [
   {
-   "url": "https://promoazi.ro/sana-chefir-si-lapte-batut/artesana-sana-lapte-vaca",
-   "domeniu": "promoazi.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:17:52+00:00",
-   "vazut": "2026-11-21T14:17:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sana-din-lapte-de-vaca-artesana-350-ml/p",
    "domeniu": "auchan.ro",
    "pret": "9.79",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T19:24:16+00:00",
    "metoda": "auchan_catalog",
    "nume": "Sana din lapte de vaca Artesana, 350 ml"
+  },
+  {
+   "url": "https://promoazi.ro/sana-chefir-si-lapte-batut/artesana-sana-lapte-vaca",
+   "domeniu": "promoazi.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:26:35+00:00",
+   "vazut": "2026-11-21T20:26:35+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

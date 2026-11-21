@@ -2,51 +2,6 @@
  "ean": "5941882806371",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-din-orez-expandat-cu-glazura-alba-66-gr-sanovita-p367933",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "4.50",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:16:38+00:00",
-   "vazut": "2026-11-21T14:16:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-alba-66-g?srsltid=AYCX9vKMau4adkOtgF7frdE9wswAlBsRAaKs_O-mhdHup6Rv5aRLuCE_",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "5.05",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:16:40+00:00",
-   "vazut": "2026-11-21T14:16:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-expandat-cu-glazura-alba-66-g-7755261?srsltid=AYCX9vKJ7qEsc-ev2HnUMYo2vjluJ2cppigSb3rI0VaGvJtERUEBqvyb",
-   "domeniu": "naturisti.ro",
-   "pret": "5.31",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:16:41+00:00",
-   "vazut": "2026-11-21T14:16:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://frunzaverde.ro/magazin/alimentare/gustari/rondele-orez-cu-glazura-alba-66gr/?srsltid=AYCX9vJq8FiqHw2hSIEn6blBjdeLwqdAtITLyPRP3gzeXqGWteLADVEX",
-   "domeniu": "frunzaverde.ro",
-   "pret": "5.74",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:16:44+00:00",
-   "vazut": "2026-11-21T14:16:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-expandat-cu-glazura-alba-66-g-farmaciilenapofarm-86805",
-   "domeniu": "listacumparaturi.ro",
-   "pret": "5.05",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:16:46+00:00",
-   "vazut": "2026-11-21T14:16:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rondele-din-orez-expandat-cu-glazura-alba-sano-vita-66-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.19",
@@ -55,6 +10,51 @@
    "vazut": "2026-11-21T19:25:57+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rondele din orez cu glazura alba SanoVita, 66 g"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-din-orez-expandat-cu-glazura-alba-66-gr-sanovita-p367933",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "4.50",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:25:17+00:00",
+   "vazut": "2026-11-21T20:25:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-alba-66-g?srsltid=AYCX9vKMau4adkOtgF7frdE9wswAlBsRAaKs_O-mhdHup6Rv5aRLuCE_",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "5.05",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:25:20+00:00",
+   "vazut": "2026-11-21T20:25:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-expandat-cu-glazura-alba-66-g-7755261?srsltid=AYCX9vKJ7qEsc-ev2HnUMYo2vjluJ2cppigSb3rI0VaGvJtERUEBqvyb",
+   "domeniu": "naturisti.ro",
+   "pret": "5.31",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:25:22+00:00",
+   "vazut": "2026-11-21T20:25:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/gustari/rondele-orez-cu-glazura-alba-66gr/?srsltid=AYCX9vJq8FiqHw2hSIEn6blBjdeLwqdAtITLyPRP3gzeXqGWteLADVEX",
+   "domeniu": "frunzaverde.ro",
+   "pret": "5.74",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:25:25+00:00",
+   "vazut": "2026-11-21T20:25:25+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-expandat-cu-glazura-alba-66-g-farmaciilenapofarm-86805",
+   "domeniu": "listacumparaturi.ro",
+   "pret": "5.05",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:25:26+00:00",
+   "vazut": "2026-11-21T20:25:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

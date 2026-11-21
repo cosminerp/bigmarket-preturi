@@ -2,15 +2,6 @@
  "ean": "5942105008817",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/ciuc-radler-lamaie-si-zmeura-500ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T14:20:33+00:00",
-   "vazut": "2026-11-21T14:20:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-fara-alcool-cu-aroma-de-zmeura-ciuc-radler-0-5-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.59",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T19:10:20+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda fara alcool cu aroma de zmeura si lamaie Ciuc Radler, 0.5 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/ciuc-radler-lamaie-si-zmeura-500ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T20:29:10+00:00",
+   "vazut": "2026-11-21T20:29:10+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
