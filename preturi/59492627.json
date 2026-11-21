@@ -2,33 +2,6 @@
  "ean": "59492627",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/fanta-struguri-0-5l-sgr-12buc-bax-59492627",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.16",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:35:51+00:00",
-   "vazut": "2026-11-20T18:35:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-fanta-struguri-0-5l?srsltid=AYCX9vKaY5zh3CT4pOiO9Zei7T1I6zHkD28rv84l-jdKVgFIZWrsdGl9",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "8.21",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:35:53+00:00",
-   "vazut": "2026-11-20T18:35:53+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.zozocafe.ro/bautura-carbogazoasa-fanta-madness-pet-0-5l-sgr",
-   "domeniu": "zozocafe.ro",
-   "pret": "5.39",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:35:56+00:00",
-   "vazut": "2026-11-20T18:35:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-madness-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-20T20:21:59+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa cu aroma de struguri Fanta Madness, 0.5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/fanta-struguri-0-5l-sgr-12buc-bax-59492627",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.16",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:41:28+00:00",
+   "vazut": "2026-11-21T00:41:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-fanta-struguri-0-5l?srsltid=AYCX9vKaY5zh3CT4pOiO9Zei7T1I6zHkD28rv84l-jdKVgFIZWrsdGl9",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "8.21",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:41:32+00:00",
+   "vazut": "2026-11-21T00:41:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.zozocafe.ro/bautura-carbogazoasa-fanta-madness-pet-0-5l-sgr",
+   "domeniu": "zozocafe.ro",
+   "pret": "5.39",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:41:35+00:00",
+   "vazut": "2026-11-21T00:41:35+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

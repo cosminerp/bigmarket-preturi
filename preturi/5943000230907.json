@@ -2,33 +2,6 @@
  "ean": "5943000230907",
  "preturi": [
   {
-   "url": "https://www.dovermedfarma.ro/farmec-dizolvant-cu-acetona-50ml?srsltid=AYCX9vIoKdp3QGX8RykLbymo-dwQkEk0VZ1fCeDcrhIdztlsKUCygEs2",
-   "domeniu": "dovermedfarma.ro",
-   "pret": "7.36",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:33:11+00:00",
-   "vazut": "2026-11-20T18:33:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciilenapofarm.ro/manichiura-si-pedichiura/farmec-dizolvant-cu-acetona-x-50ml-23090?srsltid=AYCX9vLOA72t2IMERRr4cl7nHj4ZXYKZ_c-m-DPxZ9rY6IixFCcD6X4C",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "6.70",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:33:13+00:00",
-   "vazut": "2026-11-20T18:33:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/unghii/dizolvante/dizolvant-cu-acetona-50-ml-farmec-p117078",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:33:15+00:00",
-   "vazut": "2026-11-20T18:33:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/dizolvant-cu-acetona-farmec-50-ml/p",
    "domeniu": "auchan.ro",
    "pret": "6.15",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-20T20:11:27+00:00",
    "metoda": "auchan_catalog",
    "nume": "Dizolvant cu acetona Farmec 50 ml"
+  },
+  {
+   "url": "https://www.dovermedfarma.ro/farmec-dizolvant-cu-acetona-50ml?srsltid=AYCX9vIoKdp3QGX8RykLbymo-dwQkEk0VZ1fCeDcrhIdztlsKUCygEs2",
+   "domeniu": "dovermedfarma.ro",
+   "pret": "7.36",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:38:52+00:00",
+   "vazut": "2026-11-21T00:38:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/manichiura-si-pedichiura/farmec-dizolvant-cu-acetona-x-50ml-23090?srsltid=AYCX9vLOA72t2IMERRr4cl7nHj4ZXYKZ_c-m-DPxZ9rY6IixFCcD6X4C",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "6.70",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:38:55+00:00",
+   "vazut": "2026-11-21T00:38:55+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/unghii/dizolvante/dizolvant-cu-acetona-50-ml-farmec-p117078",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:38:58+00:00",
+   "vazut": "2026-11-21T00:38:58+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
