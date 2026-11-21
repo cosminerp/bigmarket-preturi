@@ -2,24 +2,6 @@
  "ean": "7891024132074",
  "preturi": [
   {
-   "url": "https://www.westchemicals.ro/produs/pasta-de-dinti-colgate-triple-action-100-ml/",
-   "domeniu": "westchemicals.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:09:29+00:00",
-   "vazut": "2026-11-21T00:09:29+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/menaj/uz-personal/colgate-triple-action-100ml-12buc-bax-7891024132074",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.94",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:09:33+00:00",
-   "vazut": "2026-11-21T00:09:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/paste-de-dinti-colgate-triple-action-100-ml/p",
    "domeniu": "auchan.ro",
    "pret": "9.15",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T11:11:10+00:00",
    "metoda": "auchan_catalog",
    "nume": "Paste de dinti Colgate Triple Action, 100 ml"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/pasta-de-dinti-colgate-triple-action-100-ml/",
+   "domeniu": "westchemicals.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:46:17+00:00",
+   "vazut": "2026-11-21T14:46:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/uz-personal/colgate-triple-action-100ml-12buc-bax-7891024132074",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.94",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:46:20+00:00",
+   "vazut": "2026-11-21T14:46:20+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

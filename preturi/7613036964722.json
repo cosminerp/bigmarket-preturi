@@ -2,24 +2,6 @@
  "ean": "7613036964722",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/friskies-somon-85g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.95",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:07:56+00:00",
-   "vazut": "2026-11-21T00:07:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://petshopazi.ro/produs/friskies-somon-in-sos-hrana-umeda-pisici-85-g",
-   "domeniu": "petshopazi.ro",
-   "pret": "1.89",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:07:58+00:00",
-   "vazut": "2026-11-21T00:07:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hrana-umeda-pentru-pisici-adulte-purina-friskies-somon-in-sos-85-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.39",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T11:12:57+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hrana umeda pentru pisici adulte Purina Friskies, somon in sos, 85 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/friskies-somon-85g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:44:17+00:00",
+   "vazut": "2026-11-21T14:44:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://petshopazi.ro/produs/friskies-somon-in-sos-hrana-umeda-pisici-85-g",
+   "domeniu": "petshopazi.ro",
+   "pret": "1.89",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:44:18+00:00",
+   "vazut": "2026-11-21T14:44:18+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

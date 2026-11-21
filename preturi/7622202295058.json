@@ -2,15 +2,6 @@
  "ean": "7622202295058",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/ciocolata-bomboane/milka-biscoff-90gr-24buc-cut-7622202295058",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.65",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:08:56+00:00",
-   "vazut": "2026-11-21T00:08:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-cu-lapte-si-biscuiti-caramelizati-milka-biscoff-90-g/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T11:11:54+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ciocolata cu lapte si biscuiti caramelizati Milka Biscoff, 90 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/ciocolata-bomboane/milka-biscoff-90gr-24buc-cut-7622202295058",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.65",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:45:20+00:00",
+   "vazut": "2026-11-21T14:45:20+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
