@@ -2,15 +2,6 @@
  "ean": "8000070038493",
  "preturi": [
   {
-   "url": "https://www.produseitalia.ro/cafea-produse-alimentare/cafea-boabe-espresso-crema-gusto-forte-lavazza-9008?tab=description",
-   "domeniu": "produseitalia.ro",
-   "pret": "128.95",
-   "stare": "ok",
-   "verificat": "2026-11-20T18:07:22+00:00",
-   "vazut": "2026-11-20T18:07:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cafea-boabe-lavazza-crema-e-gusto-forte-1-kg/p",
    "domeniu": "auchan.ro",
    "pret": "105.59",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-21T00:09:42+00:00",
    "vazut": "2026-11-21T00:09:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.produseitalia.ro/cafea-produse-alimentare/cafea-boabe-espresso-crema-gusto-forte-lavazza-9008?tab=description",
+   "domeniu": "produseitalia.ro",
+   "pret": "128.95",
+   "stare": "ok",
+   "verificat": "2026-11-21T00:11:00+00:00",
+   "vazut": "2026-11-21T00:11:00+00:00",
    "metoda": "cautare_google"
   }
  ]
