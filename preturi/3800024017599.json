@@ -2,33 +2,6 @@
  "ean": "3800024017599",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/detergent-pudra-manual-savex-whites-colors-2in1-400g-5278?srsltid=AYCX9vLnxU_Eu0JLoYKixTAEdaRBnIgEgJ0hRvywNRq-Cwri64xvkxO1",
-   "domeniu": "kisshop.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T13:42:59+00:00",
-   "vazut": "2026-11-21T13:42:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/menaj/detergenti/savex-detergent-pudra-manual-whites-colors-3sp-400g-22buc-bax-3800024017599",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.07",
-   "stare": "ok",
-   "verificat": "2026-11-21T13:43:02+00:00",
-   "vazut": "2026-11-21T13:43:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/savex-manual-400-gr-whitescolors/?srsltid=AYCX9vJPlFmWL1ixsn1cxv1tU_yq4QHsLUxgQljerB837Nq0i6TvvnLA",
-   "domeniu": "cobyul.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T13:43:04+00:00",
-   "vazut": "2026-11-21T13:43:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/detergent-pudra-manual-savex-white-colors-400-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-21T19:10:44+00:00",
    "metoda": "auchan_catalog",
    "nume": "Detergent pudra Savex Premium Whites & Colors HandWash, 3 spalari, 0.4 kg"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/detergent-pudra-manual-savex-whites-colors-2in1-400g-5278?srsltid=AYCX9vLnxU_Eu0JLoYKixTAEdaRBnIgEgJ0hRvywNRq-Cwri64xvkxO1",
+   "domeniu": "kisshop.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:44:29+00:00",
+   "vazut": "2026-11-21T19:44:29+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/detergenti/savex-detergent-pudra-manual-whites-colors-3sp-400g-22buc-bax-3800024017599",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.07",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:44:32+00:00",
+   "vazut": "2026-11-21T19:44:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/savex-manual-400-gr-whitescolors/?srsltid=AYCX9vJPlFmWL1ixsn1cxv1tU_yq4QHsLUxgQljerB837Nq0i6TvvnLA",
+   "domeniu": "cobyul.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:44:34+00:00",
+   "vazut": "2026-11-21T19:44:34+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
