@@ -2,15 +2,6 @@
  "ean": "5740900401402",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/lurpak-nesarat-200g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "14.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T13:52:00+00:00",
-   "vazut": "2026-11-21T13:52:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/amestec-tartinabil-nesarat-lurpak-200-g/p",
    "domeniu": "auchan.ro",
    "pret": "15.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T19:09:26+00:00",
    "metoda": "auchan_catalog",
    "nume": "Amestec tartinabil nesarat Lurpak, 200 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/lurpak-nesarat-200g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "14.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T19:57:16+00:00",
+   "vazut": "2026-11-21T19:57:16+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
