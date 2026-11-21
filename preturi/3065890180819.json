@@ -2,15 +2,6 @@
  "ean": "3065890180819",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/whiskas-cu-pui-in-aspic-85g-28buc-3065890180819",
-   "domeniu": "snaemarket.ro",
-   "pret": "2.44",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-20T22:35:47+00:00",
-   "vazut": "2026-11-18T02:36:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://evovet.ro/whiskas-hrana-umeda-pisici-cu-pui-in-sos-85-g/",
    "domeniu": "evovet.ro",
    "pret": "3.55",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-20T22:37:02+00:00",
    "vazut": "2026-11-20T22:37:02+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/whiskas-cu-pui-in-aspic-85g-28buc-3065890180819",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.44",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-21T04:36:03+00:00",
+   "vazut": "2026-11-18T02:36:34+00:00",
    "metoda": "cautare_google"
   }
  ]
