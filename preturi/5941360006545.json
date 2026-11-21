@@ -2,16 +2,6 @@
  "ean": "5941360006545",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/mascarpone-delaco-250-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.19",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:08:21+00:00",
-   "vazut": "2026-11-20T20:08:21+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Mascarpone Delaco, 250 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/mascarpone-delaco-250g/",
    "domeniu": "pacomarket.ro",
    "pret": "14.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-20T23:20:15+00:00",
    "vazut": "2026-11-20T23:20:15+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/mascarpone-delaco-250-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.19",
+   "stare": "ok",
+   "verificat": "2026-11-21T02:13:38+00:00",
+   "vazut": "2026-11-21T02:13:38+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Mascarpone Delaco, 250 g"
   }
  ]
 }

@@ -2,17 +2,6 @@
  "ean": "6425881211187",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/snacks-lotto-gold-60-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.69",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:06:22+00:00",
-   "vazut": "2026-11-20T20:06:22+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pufuleti din cereale Lotto Snacks, 60 g",
-   "pret_vechi": "2.99"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-gold-60gr-25buc-bax-6425881211187",
    "domeniu": "snaemarket.ro",
    "pret": "1.99",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-21T00:04:58+00:00",
    "vazut": "2026-11-21T00:04:58+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/snacks-lotto-gold-60-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.69",
+   "stare": "ok",
+   "verificat": "2026-11-21T02:11:38+00:00",
+   "vazut": "2026-11-21T02:11:38+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pufuleti din cereale Lotto Snacks, 60 g",
+   "pret_vechi": "2.99"
   }
  ]
 }

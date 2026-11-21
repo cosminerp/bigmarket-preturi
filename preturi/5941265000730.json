@@ -2,16 +2,6 @@
  "ean": "5941265000730",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/salam-sinaia-cris-tim-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:07:03+00:00",
-   "vazut": "2026-11-20T20:07:03+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Salam Sinaia Cris-Tim, 100 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/salam-sinaia-100g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "6.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-20T23:16:41+00:00",
    "vazut": "2026-11-20T23:16:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/salam-sinaia-cris-tim-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T02:12:20+00:00",
+   "vazut": "2026-11-21T02:12:20+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Salam Sinaia Cris-Tim, 100 g"
   }
  ]
 }

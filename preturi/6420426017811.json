@@ -2,16 +2,6 @@
  "ean": "6420426017811",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/folie-de-protectie-aragaz-60-x-60-cm/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:05:40+00:00",
-   "vazut": "2026-11-20T20:05:40+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Folie de protectie aragaz 60 x 60 cm"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/folie-protectie-aragaz-60-x-60-cm-optima-11681?srsltid=AYCX9vKVSQ3Gvw0ucWxvKtvmEtEeMJCa6csIIHLVbpdLREsb7lrbNQ3G",
    "domeniu": "kisshop.ro",
    "pret": "6.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-20T23:56:01+00:00",
    "vazut": "2026-11-20T23:56:01+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/folie-de-protectie-aragaz-60-x-60-cm/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-21T02:10:55+00:00",
+   "vazut": "2026-11-21T02:10:55+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Folie de protectie aragaz 60 x 60 cm"
   }
  ]
 }

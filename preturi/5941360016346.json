@@ -2,17 +2,6 @@
  "ean": "5941360016346",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cascaval-delaco-sofia-400-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "17.99",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:09:18+00:00",
-   "vazut": "2026-11-20T20:09:18+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cascaval Delaco Sofia, 400 g",
-   "pret_vechi": "27.99"
-  },
-  {
    "url": "https://pacomarket.ro/product/delaco-cascaval-sofia-400g/",
    "domeniu": "pacomarket.ro",
    "pret": "24.99",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-20T23:20:40+00:00",
    "vazut": "2026-11-20T23:20:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cascaval-delaco-sofia-400-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "17.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T02:14:37+00:00",
+   "vazut": "2026-11-21T02:14:37+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cascaval Delaco Sofia, 400 g",
+   "pret_vechi": "27.99"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5941238005069",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/telemea-de-vaca-natur-hochland-200-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.89",
-   "stare": "ok",
-   "verificat": "2026-11-20T20:04:53+00:00",
-   "vazut": "2026-11-20T20:04:53+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Telemea de vaca natur Hochland, 200 g"
-  },
-  {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-telemea-vaca-200g-10.html",
    "domeniu": "eurodiscount.ro",
    "pret": "12.50",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-20T23:16:00+00:00",
    "vazut": "2026-11-20T23:16:00+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/telemea-de-vaca-natur-hochland-200-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.89",
+   "stare": "ok",
+   "verificat": "2026-11-21T02:10:07+00:00",
+   "vazut": "2026-11-21T02:10:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Telemea de vaca natur Hochland, 200 g"
   }
  ]
 }
