@@ -2,15 +2,6 @@
  "ean": "8720182258137",
  "preturi": [
   {
-   "url": "https://promomix.ro/produs/sapun-solid-dove-90g-relaxing/7442?srsltid=AYCX9vK2uQZBVwPyQoV85QbouC71nT06T9QWhQW1joYW-ZQTxTRMpqs3",
-   "domeniu": "promomix.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-20T19:40:11+00:00",
-   "vazut": "2026-11-20T19:40:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sapun-solid-dove-relaxing-90-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -45,6 +36,15 @@
    "stare": "ok",
    "verificat": "2026-11-21T00:46:04+00:00",
    "vazut": "2026-11-21T00:46:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promomix.ro/produs/sapun-solid-dove-90g-relaxing/7442?srsltid=AYCX9vK2uQZBVwPyQoV85QbouC71nT06T9QWhQW1joYW-ZQTxTRMpqs3",
+   "domeniu": "promomix.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-21T01:40:54+00:00",
+   "vazut": "2026-11-21T01:40:54+00:00",
    "metoda": "cautare_google"
   }
  ]
