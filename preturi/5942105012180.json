@@ -2,15 +2,6 @@
  "ean": "5942105012180",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/neumarkt-bere-1l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:33:09+00:00",
-   "vazut": "2026-11-21T00:33:09+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-neumarkt-1l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.85",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T11:05:48+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Neumarkt, 1 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/neumarkt-bere-1l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:21:32+00:00",
+   "vazut": "2026-11-21T14:21:32+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

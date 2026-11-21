@@ -2,15 +2,6 @@
  "ean": "59458852",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/condimente/dr-oetker-esenta-vanilie-38ml-16buc-bax-59458852",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.86",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:47:23+00:00",
-   "vazut": "2026-11-20T23:47:23+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/esenta-de-vanilie-dr-oetker-38-ml/p",
    "domeniu": "auchan.ro",
    "pret": "5.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T11:09:13+00:00",
    "metoda": "auchan_catalog",
    "nume": "Esenta de vanilie Dr.Oetker 38 ml"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/condimente/dr-oetker-esenta-vanilie-38ml-16buc-bax-59458852",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.86",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:29:49+00:00",
+   "vazut": "2026-11-21T14:29:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

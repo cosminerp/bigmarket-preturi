@@ -2,15 +2,6 @@
  "ean": "5941869100973",
  "preturi": [
   {
-   "url": "https://promoazi.ro/congelate/cuburi-de-gheata-instant-ice-to-go-150-g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.09",
-   "stare": "ok",
-   "verificat": "2026-11-20T23:30:47+00:00",
-   "vazut": "2026-11-20T23:30:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cuburi-de-gheata-instant-ice-to-go-150-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.09",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-21T11:11:42+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cuburi de gheata Instant Ice To Go, 150 g"
+  },
+  {
+   "url": "https://promoazi.ro/congelate/cuburi-de-gheata-instant-ice-to-go-150-g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.09",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:15:28+00:00",
+   "vazut": "2026-11-21T14:15:28+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

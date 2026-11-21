@@ -2,24 +2,6 @@
  "ean": "5941882808344",
  "preturi": [
   {
-   "url": "https://promoazi.ro/alimente-de-baza/mix-5-seminte-sano-vita-200g",
-   "domeniu": "promoazi.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:30:06+00:00",
-   "vazut": "2026-11-21T00:30:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://farmascan.ro/shop/produs/mix-5-seminte-200-g-sanovita-85565",
-   "domeniu": "farmascan.ro",
-   "pret": "8.16",
-   "stare": "ok",
-   "verificat": "2026-11-21T00:30:09+00:00",
-   "vazut": "2026-11-21T00:30:09+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/mix-5-seminte-sanovita-200-g/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-21T10:55:59+00:00",
    "metoda": "auchan_catalog",
    "nume": "Mix 5 seminte SanoVita, 200 g"
+  },
+  {
+   "url": "https://promoazi.ro/alimente-de-baza/mix-5-seminte-sano-vita-200g",
+   "domeniu": "promoazi.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:17:30+00:00",
+   "vazut": "2026-11-21T14:17:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://farmascan.ro/shop/produs/mix-5-seminte-200-g-sanovita-85565",
+   "domeniu": "farmascan.ro",
+   "pret": "8.16",
+   "stare": "ok",
+   "verificat": "2026-11-21T14:17:32+00:00",
+   "vazut": "2026-11-21T14:17:32+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
