@@ -2,21 +2,21 @@
  "ean": "5903936039364",
  "preturi": [
   {
-   "url": "https://zoom-shop.ro/produs/pungi-alimentare-cu-fermoar-stella-pack-3l-10-buc-cutie/",
-   "domeniu": "zoom-shop.ro",
-   "pret": "10.05",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:59:07+00:00",
-   "vazut": "2026-11-21T19:59:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/st-pungi-congelator-cu-fermoar-3l-10-set/?srsltid=AYCX9vLu3qkgMtj6TVEbvlZP7bM_6rmBb6H7lZ2pY1XFZUCSzGYR8iCI",
    "domeniu": "cobyul.ro",
    "pret": "8.05",
    "stare": "ok",
    "verificat": "2026-11-22T02:02:24+00:00",
    "vazut": "2026-11-22T02:02:24+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://zoom-shop.ro/produs/pungi-alimentare-cu-fermoar-stella-pack-3l-10-buc-cutie/",
+   "domeniu": "zoom-shop.ro",
+   "pret": "10.05",
+   "stare": "ok",
+   "verificat": "2026-11-22T02:03:43+00:00",
+   "vazut": "2026-11-22T02:03:43+00:00",
    "metoda": "cautare_google"
   }
  ]
