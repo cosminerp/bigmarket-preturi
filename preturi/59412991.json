@@ -2,15 +2,6 @@
  "ean": "59412991",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-zero-cofeina-zahar-calorii-pet-500ml-sgr-12buc-set-59412991",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.17",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:20:52+00:00",
-   "vazut": "2026-11-22T08:20:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-zero-zahar-zero-cofeina-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-22T11:24:03+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Coca-Cola Zero Zahar Zero Cofeina, 0.5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-zero-cofeina-zahar-calorii-pet-500ml-sgr-12buc-set-59412991",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.17",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:25:27+00:00",
+   "vazut": "2026-11-22T14:25:27+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

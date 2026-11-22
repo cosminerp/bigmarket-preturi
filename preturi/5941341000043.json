@@ -2,24 +2,6 @@
  "ean": "5941341000043",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/conserve/bucegi-pate-porc-200gr-6buc-bax-5941341000043",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.36",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:24:13+00:00",
-   "vazut": "2026-11-22T08:24:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://conservat.ro/pateuri-de-porc/457-bucegi-pate-de-porc-200g-5941341000043.html?srsltid=AYCX9vLDMWNLaJbb6_2RdwKQTzZnmdMmaefaFPef5i8VFTZckhelMRkV",
-   "domeniu": "conservat.ro",
-   "pret": "8.14",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:24:15+00:00",
-   "vazut": "2026-11-22T08:24:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pate-de-porc-bucegi-200g/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-22T11:25:50+00:00",
    "metoda": "auchan_catalog",
    "nume": "Conserva pate de porc Bucegi, 200g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/bucegi-pate-porc-200gr-6buc-bax-5941341000043",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.36",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:27:26+00:00",
+   "vazut": "2026-11-22T14:27:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://conservat.ro/pateuri-de-porc/457-bucegi-pate-de-porc-200g-5941341000043.html?srsltid=AYCX9vLDMWNLaJbb6_2RdwKQTzZnmdMmaefaFPef5i8VFTZckhelMRkV",
+   "domeniu": "conservat.ro",
+   "pret": "8.14",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:27:29+00:00",
+   "vazut": "2026-11-22T14:27:29+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
