@@ -9,6 +9,17 @@
    "verificat": "2026-11-22T14:34:47+00:00",
    "vazut": "2026-11-22T14:34:47+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/turta-dulce-cu-nuca-boromir-300-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.53",
+   "stare": "ok",
+   "verificat": "2026-11-22T19:38:40+00:00",
+   "vazut": "2026-11-22T19:38:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Turta dulce cu nuca Boromir, 300 g",
+   "pret_vechi": "12.19"
   }
  ]
 }

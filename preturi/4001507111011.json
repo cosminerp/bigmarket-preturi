@@ -9,6 +9,16 @@
    "verificat": "2026-11-22T19:56:39+00:00",
    "vazut": "2026-11-22T19:56:39+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/fulgi-de-ovaz-fortin-500-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-22T19:40:16+00:00",
+   "vazut": "2026-11-22T19:40:16+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Fulgi fini de ovaz Fortin, 500 g"
   }
  ]
 }

@@ -1,0 +1,16 @@
+{
+ "ean": "9000101810080",
+ "preturi": [
+  {
+   "url": "https://www.auchan.ro/detergent-lichid-pentru-rufe-perwoll-renew-color-20-spalari-1000-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "22.56",
+   "stare": "ok",
+   "verificat": "2026-11-22T19:53:02+00:00",
+   "vazut": "2026-11-22T19:53:02+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Detergent lichid pentru rufe Perwoll Renew Color, 20 spalari, 1 l",
+   "pret_vechi": "29.99"
+  }
+ ]
+}
