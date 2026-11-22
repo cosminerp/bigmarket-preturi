@@ -2,15 +2,6 @@
  "ean": "6422876002850",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/servetele-si-igienizanti/servetele-umede/servetelele-umede-pentru-suprafete-multiple-100-bucati-doctor-wipes-p383815",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "14.74",
-   "stare": "ok",
-   "verificat": "2026-11-21T20:53:04+00:00",
-   "vazut": "2026-11-21T20:53:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/servetele-umede-multisuprafete-cu-otet-si-bicarbonat-25-x-22-cm-doctor-13703?srsltid=AYCX9vIck45PkoutC-pQOGCWFbtJ5lvq52sjFKwg-R82Te1NItMJQNo7",
    "domeniu": "kisshop.ro",
    "pret": "23.99",
@@ -44,6 +35,15 @@
    "stare": "ok",
    "verificat": "2026-11-21T20:53:14+00:00",
    "vazut": "2026-11-21T20:53:14+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/servetele-si-igienizanti/servetele-umede/servetelele-umede-pentru-suprafete-multiple-100-bucati-doctor-wipes-p383815",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "14.74",
+   "stare": "ok",
+   "verificat": "2026-11-22T03:00:33+00:00",
+   "vazut": "2026-11-22T03:00:33+00:00",
    "metoda": "cautare_google"
   }
  ]
