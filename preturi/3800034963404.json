@@ -12,15 +12,6 @@
    "nume": "Odorizant auto lichid Mon Areon cu parfum de pepene Galben 5ml"
   },
   {
-   "url": "https://www.kisshop.ro/cumpara/odorizant-auto-areon-melon-5-ml-12892?srsltid=AYCX9vI8YG5HTX6nJuJ9GrzSEGTDNucjGpZzMQnmbkLStusPrzz0rRgx",
-   "domeniu": "kisshop.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T16:12:40+00:00",
-   "vazut": "2026-11-22T16:12:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/odorizante/areon-mon-liquid-5ml-melon-3800034963404",
    "domeniu": "snaemarket.ro",
    "pret": "6.52",
@@ -45,6 +36,15 @@
    "stare": "ok",
    "verificat": "2026-11-22T19:52:11+00:00",
    "vazut": "2026-11-22T19:52:11+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/odorizant-auto-areon-melon-5-ml-12892?srsltid=AYCX9vI8YG5HTX6nJuJ9GrzSEGTDNucjGpZzMQnmbkLStusPrzz0rRgx",
+   "domeniu": "kisshop.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T22:20:21+00:00",
+   "vazut": "2026-11-22T22:20:21+00:00",
    "metoda": "cautare_google"
   }
  ]
