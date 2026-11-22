@@ -2,16 +2,6 @@
  "ean": "5942045179523",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-bruna-guinness-stout-0-44l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:08:13+00:00",
-   "vazut": "2026-11-21T19:08:13+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere bruna Guinness Draught, 0.44 l"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/bere-neagra-guiness-doza-24-x-0-44l.html",
    "domeniu": "vivomarket.ro",
    "pret": "378.24",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T20:28:22+00:00",
    "vazut": "2026-11-21T20:28:22+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-bruna-guinness-stout-0-44l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T01:12:41+00:00",
+   "vazut": "2026-11-22T01:12:41+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere bruna Guinness Draught, 0.44 l"
   }
  ]
 }

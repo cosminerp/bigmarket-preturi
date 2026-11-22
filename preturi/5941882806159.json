@@ -2,17 +2,6 @@
  "ean": "5941882806159",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pasta-vegetala-din-linte-rosie-cu-ardei-picant-sanovita-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:09:28+00:00",
-   "vazut": "2026-11-21T19:09:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pasta vegetala din linte rosie cu ardei picant SanoVita, 100 g",
-   "pret_vechi": "6.59"
-  },
-  {
    "url": "https://frunzaverde.ro/magazin/alimentare/creme-tartinabile/pasta-vegetala-din-linte-rosie-cu-ardei-picant-100-g-sanovita/?srsltid=AYCX9vIvbzo6uvuO2RA429UngR68-dlIES03_oMFOwtQyBvxRer7bk23",
    "domeniu": "frunzaverde.ro",
    "pret": "6.54",
@@ -47,6 +36,17 @@
    "verificat": "2026-11-21T20:23:34+00:00",
    "vazut": "2026-11-21T20:23:34+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pasta-vegetala-din-linte-rosie-cu-ardei-picant-sanovita-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-22T01:14:04+00:00",
+   "vazut": "2026-11-22T01:14:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pasta vegetala din linte rosie cu ardei picant SanoVita, 100 g",
+   "pret_vechi": "6.59"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5941768000046",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ciocolata-cu-lapte-sly-fara-zahar-25-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.55",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:08:18+00:00",
-   "vazut": "2026-11-21T19:08:18+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
-  },
-  {
    "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-lapte-fara-zahar-25g-sly-4909",
    "domeniu": "nosugarshop.ro",
    "pret": "2.99",
@@ -64,6 +54,16 @@
    "verificat": "2026-11-21T20:22:34+00:00",
    "vazut": "2026-11-21T20:22:34+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ciocolata-cu-lapte-sly-fara-zahar-25-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.55",
+   "stare": "ok",
+   "verificat": "2026-11-22T01:12:47+00:00",
+   "vazut": "2026-11-22T01:12:47+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
   }
  ]
 }

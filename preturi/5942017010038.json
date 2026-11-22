@@ -2,16 +2,6 @@
  "ean": "5942017010038",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cocktail-cu-suc-de-portocale-piersici-si-merisoare-zarea-to-go-sex-on-the-beach-0-75-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "28.89",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:10:23+00:00",
-   "vazut": "2026-11-21T19:10:23+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cocktail cu suc de portocale, piersici si merisoare Zarea To Go Sex on The Beach, 0.75 l"
-  },
-  {
    "url": "https://promoazi.ro/vinuri/cocktail-cu-suc-de-portocale-piersici-si-merisoare-zarea-to-go-sex-on-the-beach-075-l",
    "domeniu": "promoazi.ro",
    "pret": "19.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-21T20:28:02+00:00",
    "vazut": "2026-11-21T20:28:02+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cocktail-cu-suc-de-portocale-piersici-si-merisoare-zarea-to-go-sex-on-the-beach-0-75-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "28.89",
+   "stare": "ok",
+   "verificat": "2026-11-22T01:15:02+00:00",
+   "vazut": "2026-11-22T01:15:02+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cocktail cu suc de portocale, piersici si merisoare Zarea To Go Sex on The Beach, 0.75 l"
   }
  ]
 }
