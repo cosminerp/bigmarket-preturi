@@ -2,24 +2,6 @@
  "ean": "5949096219451",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/san-benedetto-ice-tea-lamaie-1-5l-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:59:48+00:00",
-   "vazut": "2026-11-22T08:59:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/ceaiuri-si-energizante/bautura-necarbogazoasa-cu-aroma-de-lamaie-san-benedetto-the-15-l",
-   "domeniu": "promoazi.ro",
-   "pret": "10.39",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:59:50+00:00",
-   "vazut": "2026-11-22T08:59:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-necarbogazoasa-san-benedetto-thelamaie-1-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "10.39",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-22T11:23:15+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura necarbogazoasa cu aroma de lamaie San Benedetto The, 1.5 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/san-benedetto-ice-tea-lamaie-1-5l-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T15:04:54+00:00",
+   "vazut": "2026-11-22T15:04:54+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/ceaiuri-si-energizante/bautura-necarbogazoasa-cu-aroma-de-lamaie-san-benedetto-the-15-l",
+   "domeniu": "promoazi.ro",
+   "pret": "10.39",
+   "stare": "ok",
+   "verificat": "2026-11-22T15:04:57+00:00",
+   "vazut": "2026-11-22T15:04:57+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
