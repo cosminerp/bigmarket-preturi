@@ -2,15 +2,6 @@
  "ean": "5943046030998",
  "preturi": [
   {
-   "url": "https://www.fashiondays.ro/p/vopsea-de-par-permanenta-ultra-100-ml-4-15-femei-loncolor-p3321160-1/",
-   "domeniu": "fashiondays.ro",
-   "pret": "16.19",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-22T08:53:42+00:00",
-   "vazut": "2026-11-19T17:20:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.meiso.ro/cumpara/loncolor-ultra-vopsea-permanenta-de-par-cu-amoniac-4-15-ciocolata-1022",
    "domeniu": "meiso.ro",
    "pret": "18.00",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-22T11:15:46+00:00",
    "metoda": "auchan_catalog",
    "nume": "Vopsea de par Loncolor Ultra 4.15, 100 ml"
+  },
+  {
+   "url": "https://www.fashiondays.ro/p/vopsea-de-par-permanenta-ultra-100-ml-4-15-femei-loncolor-p3321160-1/",
+   "domeniu": "fashiondays.ro",
+   "pret": "16.19",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:58:57+00:00",
+   "vazut": "2026-11-22T14:58:57+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
