@@ -2,16 +2,6 @@
  "ean": "5941238010612",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/branza-topita-cu-cascaval-hochland-felii-140-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.15",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:23:50+00:00",
-   "vazut": "2026-11-21T19:23:50+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Branza topita cu cascaval Hochland, felii, 140 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/felii-br-top-cascaval-140g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "8.49",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-22T08:19:45+00:00",
    "vazut": "2026-11-22T08:19:45+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/branza-topita-cu-cascaval-hochland-felii-140-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.15",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:25:42+00:00",
+   "vazut": "2026-11-22T11:25:42+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Branza topita cu cascaval Hochland, felii, 140 g"
   }
  ]
 }

@@ -2,17 +2,6 @@
  "ean": "8720182951090",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bors-magic--cu-verdeturi-delikat-65-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.77",
-   "stare": "ok",
-   "verificat": "2026-11-22T01:16:19+00:00",
-   "vazut": "2026-11-22T01:16:19+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bors Magic cu verdeturi Delikat, 65 g",
-   "pret_vechi": "3.69"
-  },
-  {
    "url": "https://pacomarket.ro/product/delikat-bors-magic-cu-verdeturi-65g/",
    "domeniu": "pacomarket.ro",
    "pret": "3.99",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-22T09:25:40+00:00",
    "vazut": "2026-11-22T09:25:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bors-magic--cu-verdeturi-delikat-65-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.77",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:32:57+00:00",
+   "vazut": "2026-11-22T11:32:57+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bors Magic cu verdeturi Delikat, 65 g",
+   "pret_vechi": "3.69"
   }
  ]
 }

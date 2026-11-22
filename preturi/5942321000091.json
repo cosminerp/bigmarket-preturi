@@ -2,16 +2,6 @@
  "ean": "5942321000091",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-zero-0-33-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:19:50+00:00",
-   "vazut": "2026-11-21T19:19:50+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Coca-Cola Zero Zahar, 0.33 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/coca-cola-zero-330ml-doza/",
    "domeniu": "pacomarket.ro",
    "pret": "4.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T08:47:18+00:00",
    "vazut": "2026-11-22T08:47:18+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-zero-0-33-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:21:51+00:00",
+   "vazut": "2026-11-22T11:21:51+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Coca-Cola Zero Zahar, 0.33 l"
   }
  ]
 }

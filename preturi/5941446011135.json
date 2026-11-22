@@ -2,16 +2,6 @@
  "ean": "5941446011135",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-nadia-cu-cacao-si-crema-de-cacao-boromir-240-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.49",
-   "stare": "ok",
-   "verificat": "2026-11-22T01:16:42+00:00",
-   "vazut": "2026-11-22T01:16:42+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu cacao si crema cu cacao Nadia, produs de post, 240 g"
-  },
-  {
    "url": "https://promoazi.ro/biscuiti/biscuiti-cu-cacao-si-crema-cu-cacao-nadia-produs-de-post-240-g",
    "domeniu": "promoazi.ro",
    "pret": "12.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T08:30:05+00:00",
    "vazut": "2026-11-22T08:30:05+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-nadia-cu-cacao-si-crema-de-cacao-boromir-240-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.49",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:33:18+00:00",
+   "vazut": "2026-11-22T11:33:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu cacao si crema cu cacao Nadia, produs de post, 240 g"
   }
  ]
 }

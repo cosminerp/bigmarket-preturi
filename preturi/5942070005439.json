@@ -2,16 +2,6 @@
  "ean": "5942070005439",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-becks-0-75l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:26:14+00:00",
-   "vazut": "2026-11-21T19:26:14+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Beck's, 0.75 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/beck-s-sticla-0-75-l/",
    "domeniu": "pacomarket.ro",
    "pret": "9.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T08:39:18+00:00",
    "vazut": "2026-11-22T08:39:18+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-becks-0-75l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:27:59+00:00",
+   "vazut": "2026-11-22T11:27:59+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Beck's, 0.75 l"
   }
  ]
 }

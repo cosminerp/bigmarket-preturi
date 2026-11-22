@@ -2,16 +2,6 @@
  "ean": "5940577000056",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-energizanta-hell-black-cherry-0-25l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:23:18+00:00",
-   "vazut": "2026-11-21T19:23:18+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura energizanta Hell Black Cherry, 0.25 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/hell-energizant-black-cherry-250ml-doza/",
    "domeniu": "pacomarket.ro",
    "pret": "3.95",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T08:08:39+00:00",
    "vazut": "2026-11-22T08:08:39+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-energizanta-hell-black-cherry-0-25l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:25:11+00:00",
+   "vazut": "2026-11-22T11:25:11+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura energizanta Hell Black Cherry, 0.25 l"
   }
  ]
 }

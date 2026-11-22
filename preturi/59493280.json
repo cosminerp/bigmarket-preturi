@@ -2,16 +2,6 @@
  "ean": "59493280",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-kids-0-25l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.39",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:21:53+00:00",
-   "vazut": "2026-11-21T19:21:53+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Aqua Carpatica Kids, 0.25 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/aqua-carpatica-kids-250ml-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "3.65",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T09:01:53+00:00",
    "vazut": "2026-11-22T09:01:53+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-kids-0-25l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.39",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:23:47+00:00",
+   "vazut": "2026-11-22T11:23:47+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Aqua Carpatica Kids, 0.25 l"
   }
  ]
 }

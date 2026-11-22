@@ -2,16 +2,6 @@
  "ean": "5942219115852",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-borsec-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.65",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:21:03+00:00",
-   "vazut": "2026-11-21T19:21:03+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa carbogazoasa minerala Borsec, 1 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-minerala-borsec-1l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "3.45",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T08:44:40+00:00",
    "vazut": "2026-11-22T08:44:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-borsec-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.65",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:22:59+00:00",
+   "vazut": "2026-11-22T11:22:59+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa carbogazoasa minerala Borsec, 1 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5948562511006",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-corona-extra-6-x-0-33-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:20:33+00:00",
-   "vazut": "2026-11-21T19:20:33+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Corona Extra, 0.33 l"
-  },
-  {
    "url": "https://promoazi.ro/bere-si-cidru/corona-extra-033nrt-sgr",
    "domeniu": "promoazi.ro",
    "pret": "8.29",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-22T08:55:32+00:00",
    "vazut": "2026-11-22T08:55:32+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-corona-extra-6-x-0-33-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:22:31+00:00",
+   "vazut": "2026-11-22T11:22:31+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Corona Extra, 0.33 l"
   }
  ]
 }

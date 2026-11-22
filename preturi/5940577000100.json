@@ -2,17 +2,6 @@
  "ean": "5940577000100",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-tutti-fruity-xixo-0-25l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "1.89",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:23:19+00:00",
-   "vazut": "2026-11-21T19:23:19+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa tutti fruity Xixo, 0.25 l",
-   "pret_vechi": "3.10"
-  },
-  {
    "url": "https://pacomarket.ro/product/xixo-ice-tea-tutti-fruity-250ml/",
    "domeniu": "pacomarket.ro",
    "pret": "2.99",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-22T08:08:48+00:00",
    "vazut": "2026-11-22T08:08:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-tutti-fruity-xixo-0-25l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.89",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:25:13+00:00",
+   "vazut": "2026-11-22T11:25:13+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa tutti fruity Xixo, 0.25 l",
+   "pret_vechi": "3.10"
   }
  ]
 }

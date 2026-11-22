@@ -2,16 +2,6 @@
  "ean": "5941623002291",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cafea-macinata-doncafe-selected-250-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "21.89",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:27:03+00:00",
-   "vazut": "2026-11-21T19:27:03+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cafea macinata Doncafe Selected, 250 g"
-  },
-  {
    "url": "https://promoazi.ro/cafea/doncafe-elita-cafea-macinata-vacuum-250g",
    "domeniu": "promoazi.ro",
    "pret": "21.89",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T08:32:33+00:00",
    "vazut": "2026-11-22T08:32:33+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cafea-macinata-doncafe-selected-250-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "21.89",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:28:46+00:00",
+   "vazut": "2026-11-22T11:28:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cafea macinata Doncafe Selected, 250 g"
   }
  ]
 }

@@ -36,6 +36,17 @@
    "verificat": "2026-11-22T08:49:49+00:00",
    "vazut": "2026-11-22T08:49:49+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-bucovina-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:11:04+00:00",
+   "vazut": "2026-11-22T11:11:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Bucovina, 2 l",
+   "pret_vechi": "4.49"
   }
  ]
 }

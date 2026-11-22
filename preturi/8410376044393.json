@@ -2,17 +2,6 @@
  "ean": "8410376044393",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-sandwich-gullon-210-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "18.86",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:26:42+00:00",
-   "vazut": "2026-11-21T19:26:42+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti sandwich Gullon, fara zahar adaugat, 210 g",
-   "pret_vechi": "22.19"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/gustari/biscuiti/biscuiti-sandwich-cacao-cu-crema-210-g-gullon-p347643",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "14.00",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-22T09:21:04+00:00",
    "vazut": "2026-11-22T09:21:04+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-sandwich-gullon-210-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "18.86",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:28:27+00:00",
+   "vazut": "2026-11-22T11:28:27+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti sandwich Gullon, fara zahar adaugat, 210 g",
+   "pret_vechi": "22.19"
   }
  ]
 }

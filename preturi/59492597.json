@@ -2,16 +2,6 @@
  "ean": "59492597",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-033-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.79",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:19:58+00:00",
-   "vazut": "2026-11-21T19:19:58+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 0.33 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/coca-cola-330ml-nrg/",
    "domeniu": "pacomarket.ro",
    "pret": "6.99",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-22T09:01:10+00:00",
    "vazut": "2026-11-22T09:01:10+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-033-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.79",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:21:59+00:00",
+   "vazut": "2026-11-22T11:21:59+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 0.33 l"
   }
  ]
 }

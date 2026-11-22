@@ -2,16 +2,6 @@
  "ean": "5942016307191",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-timisoreana-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.15",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:19:35+00:00",
-   "vazut": "2026-11-21T19:19:35+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Timisoreana, 0.5 l"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/bere-timisoreana-doza-0-5l-sgr-24?srsltid=AYCX9vLfz606K1jRSwKrT-N5KDuwGnbCOJpSKZpjWfZqZYXGKPlc8iYX",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "5.33",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T08:38:13+00:00",
    "vazut": "2026-11-22T08:38:13+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-timisoreana-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.15",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:21:37+00:00",
+   "vazut": "2026-11-22T11:21:37+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Timisoreana, 0.5 l"
   }
  ]
 }

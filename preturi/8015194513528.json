@@ -2,16 +2,6 @@
  "ean": "8015194513528",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/solutie-degresant-universal-chante-clair-cu-inalbitor-625-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "26.49",
-   "stare": "ok",
-   "verificat": "2026-11-22T01:15:03+00:00",
-   "vazut": "2026-11-22T01:15:03+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Solutie degresant universal Chanteclair cu inalbitor, 625 ml"
-  },
-  {
    "url": "https://cobyul.ro/produs/chante-clair-degresant-625-ml-candegina/?srsltid=AYCX9vLCL2Yf9xqzlKsL-tGQOqZYIhWGc-Dytq4zOAv_8qIz2kP-91Td",
    "domeniu": "cobyul.ro",
    "pret": "13.75",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T09:18:09+00:00",
    "vazut": "2026-11-22T09:18:09+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/solutie-degresant-universal-chante-clair-cu-inalbitor-625-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "26.49",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:31:46+00:00",
+   "vazut": "2026-11-22T11:31:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Solutie degresant universal Chanteclair cu inalbitor, 625 ml"
   }
  ]
 }

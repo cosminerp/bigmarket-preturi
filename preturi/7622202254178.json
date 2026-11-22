@@ -2,16 +2,6 @@
  "ean": "7622202254178",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/croissant-cu-crema-de-ciocolata-milka-50-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:22:03+00:00",
-   "vazut": "2026-11-21T19:22:03+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Croissant cu crema cu ciocolata Milka, 50 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/milka-croissant-ciocolata-50g/",
    "domeniu": "pacomarket.ro",
    "pret": "4.45",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T09:13:51+00:00",
    "vazut": "2026-11-22T09:13:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/croissant-cu-crema-de-ciocolata-milka-50-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:23:57+00:00",
+   "vazut": "2026-11-22T11:23:57+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Croissant cu crema cu ciocolata Milka, 50 g"
   }
  ]
 }

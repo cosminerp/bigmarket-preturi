@@ -2,16 +2,6 @@
  "ean": "5711953151941",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-frappuccino-starbucks-cu-caramel-250ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "14.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T19:12:47+00:00",
-   "vazut": "2026-11-21T19:12:47+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura din lapte cu cafea Frappuccino Starbucks, aroma de caramel, 250 ml"
-  },
-  {
    "url": "https://promoazi.ro/bauturi-din-lapte-si-ice-coffee/bautura-din-lapte-cu-cafea-frappuccino-starbucks-aroma-de-caramel-250-ml",
    "domeniu": "promoazi.ro",
    "pret": "14.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T08:03:40+00:00",
    "vazut": "2026-11-22T08:03:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-frappuccino-starbucks-cu-caramel-250ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "14.49",
+   "stare": "ok",
+   "verificat": "2026-11-22T11:15:04+00:00",
+   "vazut": "2026-11-22T11:15:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura din lapte cu cafea Frappuccino Starbucks, aroma de caramel, 250 ml"
   }
  ]
 }
