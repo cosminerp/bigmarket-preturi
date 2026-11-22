@@ -28,15 +28,6 @@
    "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 2 l"
   },
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-2l-sgr-6buc-bax-5942321000060",
-   "domeniu": "snaemarket.ro",
-   "pret": "10.35",
-   "stare": "ok",
-   "verificat": "2026-11-22T02:40:49+00:00",
-   "vazut": "2026-11-22T02:40:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/coca-cola-2l-pet-2/",
    "domeniu": "pacomarket.ro",
    "pret": "11.95",
@@ -52,6 +43,15 @@
    "stare": "ok",
    "verificat": "2026-11-22T02:40:53+00:00",
    "vazut": "2026-11-22T02:40:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-2l-sgr-6buc-bax-5942321000060",
+   "domeniu": "snaemarket.ro",
+   "pret": "10.35",
+   "stare": "ok",
+   "verificat": "2026-11-22T08:45:35+00:00",
+   "vazut": "2026-11-22T08:45:35+00:00",
    "metoda": "cautare_google"
   }
  ]
