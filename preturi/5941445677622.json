@@ -2,24 +2,6 @@
  "ean": "5941445677622",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/chio-chips-ar-cascaval-125g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:29:21+00:00",
-   "vazut": "2026-11-22T08:29:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-cascaval-125gr-10buc-bax-5941445677622",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.48",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:29:24+00:00",
-   "vazut": "2026-11-22T08:29:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chio-chipsuri-cu-cascaval125-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-22T11:28:21+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu cascaval Chio, 125 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/chio-chips-ar-cascaval-125g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:32:46+00:00",
+   "vazut": "2026-11-22T14:32:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-cascaval-125gr-10buc-bax-5941445677622",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.48",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:32:49+00:00",
+   "vazut": "2026-11-22T14:32:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

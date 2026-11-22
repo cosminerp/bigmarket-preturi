@@ -2,42 +2,6 @@
  "ean": "5941393006130",
  "preturi": [
   {
-   "url": "https://www.pretistet.ro/produs/antrefrig-pate-din-ficat-de-porc-cu-cheita-100gr/",
-   "domeniu": "pretistet.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:26:07+00:00",
-   "vazut": "2026-11-22T08:26:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bacanie/conserve/pate-antrefrig-100gr-6buc-bax-5941393006130",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.33",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:26:10+00:00",
-   "vazut": "2026-11-22T08:26:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/pate-antrefrig-porc-100g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "3.95",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:26:13+00:00",
-   "vazut": "2026-11-22T08:26:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/pate/pate-porc-100g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.49",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:26:15+00:00",
-   "vazut": "2026-11-22T08:26:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pate-de-porc-antrefrig-100g/p",
    "domeniu": "auchan.ro",
    "pret": "3.49",
@@ -47,6 +11,42 @@
    "metoda": "auchan_catalog",
    "nume": "Pate de porc Antrefrig, 100g",
    "pret_vechi": "5.49"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/antrefrig-pate-din-ficat-de-porc-cu-cheita-100gr/",
+   "domeniu": "pretistet.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:30:57+00:00",
+   "vazut": "2026-11-22T14:30:57+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/pate-antrefrig-100gr-6buc-bax-5941393006130",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.33",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:31:00+00:00",
+   "vazut": "2026-11-22T14:31:00+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/pate-antrefrig-porc-100g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "3.95",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:31:03+00:00",
+   "vazut": "2026-11-22T14:31:03+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/pate/pate-porc-100g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.49",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:31:05+00:00",
+   "vazut": "2026-11-22T14:31:05+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
