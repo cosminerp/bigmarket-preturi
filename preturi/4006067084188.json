@@ -2,15 +2,6 @@
  "ean": "4006067084188",
  "preturi": [
   {
-   "url": "https://www.coffee-store.ro/cafea-instant/cafea-instant-davidoff-caf%C3%A9-rich-aroma-100g.html?srsltid=AYCX9vI4B7aODFfkqrPZ4gMaJ2onUu3n1hun7VFhno7KX0pkSiWh0tFQ",
-   "domeniu": "coffee-store.ro",
-   "pret": "37.00",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-22T07:53:15+00:00",
-   "vazut": "2026-11-19T04:32:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cafea-instant-davidoff-rich-aroma-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "41.59",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-22T11:15:40+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cafea instant Davidoff Rich Aroma 100 g"
+  },
+  {
+   "url": "https://www.coffee-store.ro/cafea-instant/cafea-instant-davidoff-caf%C3%A9-rich-aroma-100g.html?srsltid=AYCX9vI4B7aODFfkqrPZ4gMaJ2onUu3n1hun7VFhno7KX0pkSiWh0tFQ",
+   "domeniu": "coffee-store.ro",
+   "pret": "37.00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-22T13:56:15+00:00",
+   "vazut": "2026-11-19T04:32:33+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
