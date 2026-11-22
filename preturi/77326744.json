@@ -2,12 +2,21 @@
  "ean": "77326744",
  "preturi": [
   {
+   "url": "https://www.kisshop.ro/cumpara/solutie-lipit-picatura-gel-3g-4527?srsltid=AYCX9vK81ilHy6rZqcmlVjdQFVydcILyaiY1r-c6UtoVr0FAHFJDoTHQ",
+   "domeniu": "kisshop.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-21T21:12:19+00:00",
+   "vazut": "2026-11-21T21:12:19+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://cobyul.ro/produs/picatura-gel/?srsltid=AYCX9vJ4pd_2rAfmvpKOfANAQT-VT6FhIlcLaIvVFw-MdBiC46mNSjKB",
    "domeniu": "cobyul.ro",
    "pret": "5.09",
    "stare": "ok",
-   "verificat": "2026-11-21T20:59:49+00:00",
-   "vazut": "2026-11-21T20:59:49+00:00",
+   "verificat": "2026-11-22T03:07:29+00:00",
+   "vazut": "2026-11-22T03:07:29+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "serviotomesti.ro",
    "pret": "8.00",
    "stare": "ok",
-   "verificat": "2026-11-21T20:59:52+00:00",
-   "vazut": "2026-11-21T20:59:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.kisshop.ro/cumpara/solutie-lipit-picatura-gel-3g-4527?srsltid=AYCX9vK81ilHy6rZqcmlVjdQFVydcILyaiY1r-c6UtoVr0FAHFJDoTHQ",
-   "domeniu": "kisshop.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-21T21:12:19+00:00",
-   "vazut": "2026-11-21T21:12:19+00:00",
+   "verificat": "2026-11-22T03:07:32+00:00",
+   "vazut": "2026-11-22T03:07:32+00:00",
    "metoda": "cautare_google"
   }
  ]
