@@ -2,24 +2,6 @@
  "ean": "7290102991426",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/balsam-rufe/balsam-de-rufe-ultra-concentrat-blue-blossom-maxima-1-litru-40-de-spalari-sano-p378117",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "14.50",
-   "stare": "ok",
-   "verificat": "2026-11-22T09:10:33+00:00",
-   "vazut": "2026-11-22T09:10:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.westchemicals.ro/produs/balsam-de-rufe-ultra-concentrat-sano-blue-blossom-50-spalari-1l/",
-   "domeniu": "westchemicals.ro",
-   "pret": "17.90",
-   "stare": "ok",
-   "verificat": "2026-11-22T09:10:37+00:00",
-   "vazut": "2026-11-22T09:10:37+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/balsam-concentrat-pentru-rufe-sano-blue-blossom-1-l-40-spalari/p",
    "domeniu": "auchan.ro",
    "pret": "17.59",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-22T11:33:06+00:00",
    "metoda": "auchan_catalog",
    "nume": "Balsam concentrat pentru rufe Sano Blue Blossom, 1 l, 40 spalari"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/spalat-si-curatenie/balsam-rufe/balsam-de-rufe-ultra-concentrat-blue-blossom-maxima-1-litru-40-de-spalari-sano-p378117",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "14.50",
+   "stare": "ok",
+   "verificat": "2026-11-22T15:17:01+00:00",
+   "vazut": "2026-11-22T15:17:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/balsam-de-rufe-ultra-concentrat-sano-blue-blossom-50-spalari-1l/",
+   "domeniu": "westchemicals.ro",
+   "pret": "17.90",
+   "stare": "ok",
+   "verificat": "2026-11-22T15:17:05+00:00",
+   "vazut": "2026-11-22T15:17:05+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
