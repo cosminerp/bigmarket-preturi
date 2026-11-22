@@ -6,8 +6,8 @@
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "10.50",
    "stare": "ok",
-   "verificat": "2026-11-22T08:03:58+00:00",
-   "vazut": "2026-11-22T08:03:58+00:00",
+   "verificat": "2026-11-22T14:06:31+00:00",
+   "vazut": "2026-11-22T14:06:31+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +15,17 @@
    "domeniu": "ancoora.ro",
    "pret": "11.50",
    "stare": "ok",
-   "verificat": "2026-11-22T08:04:00+00:00",
-   "vazut": "2026-11-22T08:04:00+00:00",
+   "verificat": "2026-11-22T14:06:33+00:00",
+   "vazut": "2026-11-22T14:06:33+00:00",
    "metoda": "cautare_google"
   },
   {
    "url": "https://shopping.klikads.ro/produs/bd4241c0-22df-4cbd-8841-611609702bde%3A17029",
    "domeniu": "shopping.klikads.ro",
    "pret": "10.91",
-   "stare": "pagina nu mai există",
-   "verificat": "2026-11-22T08:04:04+00:00",
-   "vazut": "2026-11-20T22:57:47+00:00",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:06:38+00:00",
+   "vazut": "2026-11-22T14:06:38+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -33,8 +33,8 @@
    "domeniu": "comenzi.bebetei.ro",
    "pret": "10.50",
    "stare": "ok",
-   "verificat": "2026-11-22T08:04:06+00:00",
-   "vazut": "2026-11-22T08:04:06+00:00",
+   "verificat": "2026-11-22T14:06:40+00:00",
+   "vazut": "2026-11-22T14:06:40+00:00",
    "metoda": "cautare_google"
   }
  ]

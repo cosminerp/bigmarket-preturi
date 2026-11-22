@@ -2,15 +2,6 @@
  "ean": "5054563278241",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/pasta-de-dinti-pentru-copii-aquafresh-splash-3-8-ani-50ml?srsltid=AYCX9vJ9HqLuqFAwXhm_Gmn7LkV0ewSAwEdjMgZ5pIN1OM6cTgmNO9oH",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "14.94",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:02:12+00:00",
-   "vazut": "2026-11-22T08:02:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pasta-de-dinti-pentru-copii-aquafresh-splash-3-8-ani-50-ml/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-22T11:14:54+00:00",
    "metoda": "auchan_catalog",
    "nume": "Pasta de dinti pentru copii Aquafresh Splash, 3-8 ani, 50 ml"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/pasta-de-dinti-pentru-copii-aquafresh-splash-3-8-ani-50ml?srsltid=AYCX9vJ9HqLuqFAwXhm_Gmn7LkV0ewSAwEdjMgZ5pIN1OM6cTgmNO9oH",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "14.94",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:04:41+00:00",
+   "vazut": "2026-11-22T14:04:41+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
