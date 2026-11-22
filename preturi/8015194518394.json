@@ -2,15 +2,6 @@
  "ean": "8015194518394",
  "preturi": [
   {
-   "url": "https://roua.ro/produse-pentru-bucatarie/2115403504-detergent-chanteclaire-anticalcar-cu-otet-force-hygiene-actiune-extra-rapida-625-ml-8015194518394.html?srsltid=AYCX9vIHCh9dW_zqQ5w-uTF_I7fPk0xDs9gsERMYR5h3aBn34PWTA7nD",
-   "domeniu": "roua.ro",
-   "pret": "15.78",
-   "stare": "ok",
-   "verificat": "2026-11-22T15:25:06+00:00",
-   "vazut": "2026-11-22T15:25:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/servetele-si-igienizanti/igienizanti-suprafete/degresant-universal-anticalcar-extra-rapido-625-ml-chante-clair-p396772",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "14.00",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-22T21:28:52+00:00",
    "vazut": "2026-11-22T21:28:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://roua.ro/produse-pentru-bucatarie/2115403504-detergent-chanteclaire-anticalcar-cu-otet-force-hygiene-actiune-extra-rapida-625-ml-8015194518394.html?srsltid=AYCX9vIHCh9dW_zqQ5w-uTF_I7fPk0xDs9gsERMYR5h3aBn34PWTA7nD",
+   "domeniu": "roua.ro",
+   "pret": "15.78",
+   "stare": "ok",
+   "verificat": "2026-11-22T21:30:20+00:00",
+   "vazut": "2026-11-22T21:30:20+00:00",
    "metoda": "cautare_google"
   }
  ]
