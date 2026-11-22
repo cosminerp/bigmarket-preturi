@@ -2,15 +2,6 @@
  "ean": "5941348025773",
  "preturi": [
   {
-   "url": "https://promoazi.ro/salam/salam-de-vara-uscat-caroli-330-g",
-   "domeniu": "promoazi.ro",
-   "pret": "16.99",
-   "stare": "ok",
-   "verificat": "2026-11-21T20:14:22+00:00",
-   "vazut": "2026-11-21T20:14:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/salam-de-vara-uscat-caroli-330-g/p",
    "domeniu": "auchan.ro",
    "pret": "16.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-22T01:13:05+00:00",
    "metoda": "auchan_catalog",
    "nume": "Salam de vara uscat Caroli, 330 g"
+  },
+  {
+   "url": "https://promoazi.ro/salam/salam-de-vara-uscat-caroli-330-g",
+   "domeniu": "promoazi.ro",
+   "pret": "16.99",
+   "stare": "ok",
+   "verificat": "2026-11-22T02:20:23+00:00",
+   "vazut": "2026-11-22T02:20:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

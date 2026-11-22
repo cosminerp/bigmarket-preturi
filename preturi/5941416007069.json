@@ -2,15 +2,6 @@
  "ean": "5941416007069",
  "preturi": [
   {
-   "url": "https://promoazi.ro/salam-crud-uscat/ceafa-cruda-uscata-feliata-moldova-in-bucate-80-g",
-   "domeniu": "promoazi.ro",
-   "pret": "12.49",
-   "stare": "ok",
-   "verificat": "2026-11-21T20:17:17+00:00",
-   "vazut": "2026-11-21T20:17:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ceafa-cruda-uscata-feliata-moldova-in-bucate-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "12.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-22T01:15:34+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ceafa cruda uscata feliata Moldova in bucate, 80 g"
+  },
+  {
+   "url": "https://promoazi.ro/salam-crud-uscat/ceafa-cruda-uscata-feliata-moldova-in-bucate-80-g",
+   "domeniu": "promoazi.ro",
+   "pret": "12.49",
+   "stare": "ok",
+   "verificat": "2026-11-22T02:21:49+00:00",
+   "vazut": "2026-11-22T02:21:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
