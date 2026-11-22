@@ -2,15 +2,6 @@
  "ean": "8410376029079",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/gustari/biscuiti/biscuiti-cu-ciocolata-neagra-si-indulcitori-ronditas-186-g-gullon-p347637",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "15.50",
-   "stare": "ok",
-   "verificat": "2026-11-22T03:13:15+00:00",
-   "vazut": "2026-11-22T03:13:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.nosugarshop.ro/cumpara/biscuiti-ronditas-32-ciocolata-fara-zahar-vegetarian-186g-gullon-5037",
    "domeniu": "nosugarshop.ro",
    "pret": "16.00",
@@ -35,6 +26,15 @@
    "stare": "ok",
    "verificat": "2026-11-22T03:13:24+00:00",
    "vazut": "2026-11-22T03:13:24+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/gustari/biscuiti/biscuiti-cu-ciocolata-neagra-si-indulcitori-ronditas-186-g-gullon-p347637",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "15.50",
+   "stare": "ok",
+   "verificat": "2026-11-22T09:19:15+00:00",
+   "vazut": "2026-11-22T09:19:15+00:00",
    "metoda": "cautare_google"
   }
  ]
