@@ -10,24 +10,6 @@
    "stare": "ok"
   },
   {
-   "url": "https://pacomarket.ro/product/apa-plata-borsec-2l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.35",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:44:45+00:00",
-   "vazut": "2026-11-22T08:44:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/apa-plata-borsec-2l?srsltid=AYCX9vK3xgJD0lfFf3k4CAmceI11b8YAh-MJc3onpBWyBVGTqKn5yiqD",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "5.85",
-   "stare": "ok",
-   "verificat": "2026-11-22T08:44:49+00:00",
-   "vazut": "2026-11-22T08:44:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-plata-borsec-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.49",
@@ -36,6 +18,24 @@
    "vazut": "2026-11-22T11:21:26+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Borsec, 2 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-borsec-2l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.35",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:50:23+00:00",
+   "vazut": "2026-11-22T14:50:23+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-plata-borsec-2l?srsltid=AYCX9vK3xgJD0lfFf3k4CAmceI11b8YAh-MJc3onpBWyBVGTqKn5yiqD",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "5.85",
+   "stare": "ok",
+   "verificat": "2026-11-22T14:50:25+00:00",
+   "vazut": "2026-11-22T14:50:25+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
