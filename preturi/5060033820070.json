@@ -2,21 +2,21 @@
  "ean": "5060033820070",
  "preturi": [
   {
-   "url": "https://www.materiale.ro/spray-lenor-spring-500-ml",
-   "domeniu": "materiale.ro",
-   "pret": "26.00",
-   "stare": "ok",
-   "verificat": "2026-11-22T14:04:56+00:00",
-   "vazut": "2026-11-22T14:04:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/odorizant-textile-spray-anti-sifonare-lenor-spring-awakening-500-ml-10987?srsltid=AYCX9vKqfL7ja5f9hDy3bXBqF9a9TrHWDfSUZ-eaFthZn1S51KrWYoFh",
    "domeniu": "kisshop.ro",
    "pret": "31.99",
    "stare": "ok",
    "verificat": "2026-11-22T15:53:40+00:00",
    "vazut": "2026-11-22T15:53:40+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.materiale.ro/spray-lenor-spring-500-ml",
+   "domeniu": "materiale.ro",
+   "pret": "26.00",
+   "stare": "ok",
+   "verificat": "2026-11-22T20:07:47+00:00",
+   "vazut": "2026-11-22T20:07:47+00:00",
    "metoda": "cautare_google"
   }
  ]
