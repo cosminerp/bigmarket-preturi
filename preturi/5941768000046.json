@@ -12,15 +12,6 @@
    "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
   },
   {
-   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
-   "domeniu": "frunzaverde.ro",
-   "pret": "2.28",
-   "stare": "ok",
-   "verificat": "2026-11-23T14:46:04+00:00",
-   "vazut": "2026-11-23T14:46:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-lapte-fara-zahar-25g-sly-4909",
    "domeniu": "nosugarshop.ro",
    "pret": "2.99",
@@ -63,6 +54,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T14:55:24+00:00",
    "vazut": "2026-11-23T14:55:24+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
+   "domeniu": "frunzaverde.ro",
+   "pret": "2.28",
+   "stare": "ok",
+   "verificat": "2026-11-23T20:48:45+00:00",
+   "vazut": "2026-11-23T20:48:45+00:00",
    "metoda": "cautare_google"
   }
  ]
