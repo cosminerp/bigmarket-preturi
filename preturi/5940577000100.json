@@ -2,33 +2,6 @@
  "ean": "5940577000100",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/xixo-ice-tea-tutti-fruity-250ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:15:25+00:00",
-   "vazut": "2026-11-22T20:15:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.special-boutique.ro/cumpara/xixo-soft-tutti-fruty-250-ml-sgr-12322?srsltid=AYCX9vLpzmnL9CVoPDt2SO7zDJrqCeZs8FaAGSc-_Ojwb3xaY3fFEfU0",
-   "domeniu": "special-boutique.ro",
-   "pret": "2.69",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:15:28+00:00",
-   "vazut": "2026-11-22T20:15:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://magazin.dorsanimpex.ro/xixo-soft-drink-tutti-fruity-250ml-24-sgr",
-   "domeniu": "magazin.dorsanimpex.ro",
-   "pret": "67.20",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:15:31+00:00",
-   "vazut": "2026-11-22T20:15:31+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-tutti-fruity-xixo-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "1.89",
@@ -38,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa tutti fruity Xixo, 0.25 l",
    "pret_vechi": "3.10"
+  },
+  {
+   "url": "https://pacomarket.ro/product/xixo-ice-tea-tutti-fruity-250ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:19:37+00:00",
+   "vazut": "2026-11-23T02:19:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.special-boutique.ro/cumpara/xixo-soft-tutti-fruty-250-ml-sgr-12322?srsltid=AYCX9vLpzmnL9CVoPDt2SO7zDJrqCeZs8FaAGSc-_Ojwb3xaY3fFEfU0",
+   "domeniu": "special-boutique.ro",
+   "pret": "2.69",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:19:39+00:00",
+   "vazut": "2026-11-23T02:19:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://magazin.dorsanimpex.ro/xixo-soft-drink-tutti-fruity-250ml-24-sgr",
+   "domeniu": "magazin.dorsanimpex.ro",
+   "pret": "67.20",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:19:42+00:00",
+   "vazut": "2026-11-23T02:19:42+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

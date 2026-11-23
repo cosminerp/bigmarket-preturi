@@ -2,21 +2,21 @@
  "ean": "5906927004068",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/candela-rezerva-memoria-bispol-wo4/?srsltid=AYCX9vJ7g-hiszP1F080Q58zrY6az0TazUotMxKjCFCoquDC-utDQF7Q",
-   "domeniu": "cobyul.ro",
-   "pret": "5.95",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:13:07+00:00",
-   "vazut": "2026-11-22T20:13:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/lumanare-rosie-cu-ulei-vegetal-bispol-memoria-wo4c-3-5-zile-4660?srsltid=AYCX9vKI82q7p2U8K8gdaDgubr6T-8qk8Le7RfyQjFimNplCyuzG_9zR",
    "domeniu": "kisshop.ro",
    "pret": "6.99",
    "stare": "ok",
    "verificat": "2026-11-22T20:13:09+00:00",
    "vazut": "2026-11-22T20:13:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/candela-rezerva-memoria-bispol-wo4/?srsltid=AYCX9vJ7g-hiszP1F080Q58zrY6az0TazUotMxKjCFCoquDC-utDQF7Q",
+   "domeniu": "cobyul.ro",
+   "pret": "5.95",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:17:04+00:00",
+   "vazut": "2026-11-23T02:17:04+00:00",
    "metoda": "cautare_google"
   }
  ]
