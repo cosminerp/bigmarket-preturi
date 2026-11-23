@@ -2,33 +2,6 @@
  "ean": "5000204704846",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-copii/protectie-anti-insecte/spray-repelent-anti-tantari-multi-insect-100-ml-autan-p304767",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "24.50",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:09:00+00:00",
-   "vazut": "2026-11-23T08:09:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/menaj/uz-personal/autan-multi-insect-spray-100ml-5000204704846",
-   "domeniu": "snaemarket.ro",
-   "pret": "27.20",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:09:03+00:00",
-   "vazut": "2026-11-23T08:09:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.ducfarm.ro/protectie-anti-insecte-si-anti-paraziti/spray-repelent-anti-tantari-multi-insect-100-ml-autan?srsltid=AYCX9vLewfiiMwIW0tREPKm-EuAtcNMwQ09dp1NA0LMkSxN9dYA4_UJg",
-   "domeniu": "ducfarm.ro",
-   "pret": "33.50",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:09:05+00:00",
-   "vazut": "2026-11-23T08:09:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/spray-repelent-pentru-insecte-autan-protection-plus-100-ml/p",
    "domeniu": "auchan.ro",
    "pret": "28.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-23T12:21:34+00:00",
    "metoda": "auchan_catalog",
    "nume": "Spray repelent pentru insecte Autan Protection Plus 100 ml"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-copii/protectie-anti-insecte/spray-repelent-anti-tantari-multi-insect-100-ml-autan-p304767",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "24.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:11:34+00:00",
+   "vazut": "2026-11-23T14:11:34+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/uz-personal/autan-multi-insect-spray-100ml-5000204704846",
+   "domeniu": "snaemarket.ro",
+   "pret": "27.20",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:11:37+00:00",
+   "vazut": "2026-11-23T14:11:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.ducfarm.ro/protectie-anti-insecte-si-anti-paraziti/spray-repelent-anti-tantari-multi-insect-100-ml-autan?srsltid=AYCX9vLewfiiMwIW0tREPKm-EuAtcNMwQ09dp1NA0LMkSxN9dYA4_UJg",
+   "domeniu": "ducfarm.ro",
+   "pret": "33.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:11:39+00:00",
+   "vazut": "2026-11-23T14:11:39+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
