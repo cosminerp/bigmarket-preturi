@@ -2,15 +2,6 @@
  "ean": "5941000031968",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/lays-chips-ar-gratar-125g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:19:26+00:00",
-   "vazut": "2026-11-22T20:19:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chips-cu-barbeque-lay-s-125-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T01:50:56+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chips cu barbeque Lay's, 125 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/lays-chips-ar-gratar-125g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:25:45+00:00",
+   "vazut": "2026-11-23T02:25:45+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

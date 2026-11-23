@@ -2,24 +2,6 @@
  "ean": "5941000032330",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-wavy-piri-piri-nou-115gr-21buc-bax-5941000032330",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:19:48+00:00",
-   "vazut": "2026-11-22T20:19:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/lays-wavy-piri-piri-115g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:19:51+00:00",
-   "vazut": "2026-11-22T20:19:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-gust-picant-piri-piri-lay-s-wavy-115-g/p",
    "domeniu": "auchan.ro",
    "pret": "11.59",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-23T02:01:22+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu gust picant Piri-piri Lay's Wavy, 115 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-wavy-piri-piri-nou-115gr-21buc-bax-5941000032330",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:26:07+00:00",
+   "vazut": "2026-11-23T02:26:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/lays-wavy-piri-piri-115g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:26:10+00:00",
+   "vazut": "2026-11-23T02:26:10+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "5940577000056",
  "preturi": [
   {
-   "url": "https://corsomarket.ro/product/hell-energizant-black-cherry-0-25l/?srsltid=AYCX9vIKtUmAfQSN8ElpQo-wecV7qExH4TxLas4WdCswkHMhUtE522v7",
-   "domeniu": "corsomarket.ro",
-   "pret": "5.50",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:15:22+00:00",
-   "vazut": "2026-11-22T20:15:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-hell-black-cherry-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T02:18:53+00:00",
    "vazut": "2026-11-23T02:18:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://corsomarket.ro/product/hell-energizant-black-cherry-0-25l/?srsltid=AYCX9vIKtUmAfQSN8ElpQo-wecV7qExH4TxLas4WdCswkHMhUtE522v7",
+   "domeniu": "corsomarket.ro",
+   "pret": "5.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:23:15+00:00",
+   "vazut": "2026-11-23T02:23:15+00:00",
    "metoda": "cautare_google"
   }
  ]
