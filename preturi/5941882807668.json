@@ -2,42 +2,6 @@
  "ean": "5941882807668",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-din-orez-cu-glazura-de-capsuni-66-g-sanovita-p388704",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "4.50",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:54:22+00:00",
-   "vazut": "2026-11-23T08:54:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-cu-glazura-de-capsuni-66-g?srsltid=AYCX9vIXCnvwoD-Xybbfok2tVa7r4LlJ47_2UcqvHwhUJ05SMyzf15Gq",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "5.05",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:54:24+00:00",
-   "vazut": "2026-11-23T08:54:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-expandat-cu-glazura-de-capsuni-66-g-7755262?srsltid=AYCX9vJik_HX5DrBGFiL3oRQAi1MgcWrMyy_3rsbkn8LxYtV0iik1lOR",
-   "domeniu": "naturisti.ro",
-   "pret": "5.31",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:54:26+00:00",
-   "vazut": "2026-11-23T08:54:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.pretistet.ro/produs/sanovita-rondele-din-orez-expandat-cu-glazura-de-capsuni-66-g/",
-   "domeniu": "pretistet.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:54:30+00:00",
-   "vazut": "2026-11-23T08:54:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-cu-glazura-de-capsuni-66-g-farmaciilenapofarm-88599",
    "domeniu": "listacumparaturi.ro",
    "pret": "5.05",
@@ -63,6 +27,42 @@
    "stare": "ok",
    "verificat": "2026-11-23T14:46:18+00:00",
    "vazut": "2026-11-23T14:46:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-din-orez-cu-glazura-de-capsuni-66-g-sanovita-p388704",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "4.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:58:31+00:00",
+   "vazut": "2026-11-23T14:58:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-cu-glazura-de-capsuni-66-g?srsltid=AYCX9vIXCnvwoD-Xybbfok2tVa7r4LlJ47_2UcqvHwhUJ05SMyzf15Gq",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "5.05",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:58:33+00:00",
+   "vazut": "2026-11-23T14:58:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-expandat-cu-glazura-de-capsuni-66-g-7755262?srsltid=AYCX9vJik_HX5DrBGFiL3oRQAi1MgcWrMyy_3rsbkn8LxYtV0iik1lOR",
+   "domeniu": "naturisti.ro",
+   "pret": "5.31",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:58:35+00:00",
+   "vazut": "2026-11-23T14:58:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/sanovita-rondele-din-orez-expandat-cu-glazura-de-capsuni-66-g/",
+   "domeniu": "pretistet.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:58:39+00:00",
+   "vazut": "2026-11-23T14:58:39+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,33 +2,6 @@
  "ean": "5941882806159",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/pateu-din-linte-rosie-cu-ardei-picant-100-g-7749108?srsltid=AYCX9vJjoOt4H-pLHl79uD3IYPmnqwbKrwk8GOsdktCZ9ctHgKTrdxbI",
-   "domeniu": "naturisti.ro",
-   "pret": "5.94",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:53:28+00:00",
-   "vazut": "2026-11-23T08:53:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimentatie-bebe-si-copii/hrana/unturi-si-creme-tartinabile/pasta-vegetala-tartinabila-din-linte-rosie-cu-ardei-picant-100-gr-vegielife-sanovita-p362163",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "5.00",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:53:31+00:00",
-   "vazut": "2026-11-23T08:53:31+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.raftonline.ro/cumpara/pasta-vegetala-linte-rosie-ardei-picant100gr-221937?srsltid=AYCX9vJI--hsXQrJRcqX6xvQCW6ORO8aHA0pt8tzfiub_Hk7FWpE1LDT",
-   "domeniu": "raftonline.ro",
-   "pret": "17.13",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:53:35+00:00",
-   "vazut": "2026-11-23T08:53:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pasta-vegetala-din-linte-rosie-cu-ardei-picant-sanovita-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.49",
@@ -46,6 +19,33 @@
    "stare": "ok",
    "verificat": "2026-11-23T14:46:09+00:00",
    "vazut": "2026-11-23T14:46:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/pateu-din-linte-rosie-cu-ardei-picant-100-g-7749108?srsltid=AYCX9vJjoOt4H-pLHl79uD3IYPmnqwbKrwk8GOsdktCZ9ctHgKTrdxbI",
+   "domeniu": "naturisti.ro",
+   "pret": "5.94",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:57:39+00:00",
+   "vazut": "2026-11-23T14:57:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimentatie-bebe-si-copii/hrana/unturi-si-creme-tartinabile/pasta-vegetala-tartinabila-din-linte-rosie-cu-ardei-picant-100-gr-vegielife-sanovita-p362163",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "5.00",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:57:41+00:00",
+   "vazut": "2026-11-23T14:57:41+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.raftonline.ro/cumpara/pasta-vegetala-linte-rosie-ardei-picant100gr-221937?srsltid=AYCX9vJI--hsXQrJRcqX6xvQCW6ORO8aHA0pt8tzfiub_Hk7FWpE1LDT",
+   "domeniu": "raftonline.ro",
+   "pret": "17.13",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:57:48+00:00",
+   "vazut": "2026-11-23T14:57:48+00:00",
    "metoda": "cautare_google"
   }
  ]
