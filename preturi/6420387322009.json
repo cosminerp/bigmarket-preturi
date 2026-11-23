@@ -2,21 +2,21 @@
  "ean": "6420387322009",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/caiet-de-geografie-24-file-17x24cm-60-70g-mp-1buc-743?srsltid=AYCX9vIf_RXsWBdaqTKVlRJex2u8DogY84BxPP5w8l52UFsCMup0wXQc",
-   "domeniu": "kisshop.ro",
-   "pret": "3.04",
-   "stare": "ok",
-   "verificat": "2026-11-23T15:30:40+00:00",
-   "vazut": "2026-11-23T15:30:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.mam-bricolaj.ro/cumpara/caiet-geografie-24-file-diverse-modele-17-x-24-cm-51299?srsltid=AYCX9vJiHTuHGbs6qUUKJ81kxxE-fkVZQFqKs4IAizZrMOvMZnqC0nW5",
    "domeniu": "mam-bricolaj.ro",
    "pret": "3.95",
    "stare": "ok",
    "verificat": "2026-11-23T15:34:38+00:00",
    "vazut": "2026-11-23T15:34:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/caiet-de-geografie-24-file-17x24cm-60-70g-mp-1buc-743?srsltid=AYCX9vIf_RXsWBdaqTKVlRJex2u8DogY84BxPP5w8l52UFsCMup0wXQc",
+   "domeniu": "kisshop.ro",
+   "pret": "3.04",
+   "stare": "ok",
+   "verificat": "2026-11-23T21:35:13+00:00",
+   "vazut": "2026-11-23T21:35:13+00:00",
    "metoda": "cautare_google"
   }
  ]
