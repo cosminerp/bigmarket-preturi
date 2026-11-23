@@ -2,12 +2,21 @@
  "ean": "5941141004395",
  "preturi": [
   {
+   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/ceaiuri/ceai-fructele-carpatilor-aromfruct-20-plicuri-fares-p311454",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "5.50",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-23T14:36:57+00:00",
+   "vazut": "2026-11-16T03:35:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.farmaciilenapofarm.ro/ceaiuri/ceai-fructele-carpatilor-aromfruct-20-plicuri-fares?srsltid=AYCX9vLv1j8c-ac0JpPc-1fVULOMDZJvrwofKly_i3BViej00Nyohgmj",
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "5.56",
    "stare": "ok",
-   "verificat": "2026-11-23T08:33:48+00:00",
-   "vazut": "2026-11-23T08:33:48+00:00",
+   "verificat": "2026-11-23T14:39:47+00:00",
+   "vazut": "2026-11-23T14:39:47+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "comparafarmacii.ro",
    "pret": "5.56",
    "stare": "ok",
-   "verificat": "2026-11-23T08:37:21+00:00",
-   "vazut": "2026-11-23T08:37:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/ceaiuri/ceai-fructele-carpatilor-aromfruct-20-plicuri-fares-p311454",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "5.50",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-23T14:36:57+00:00",
-   "vazut": "2026-11-16T03:35:53+00:00",
+   "verificat": "2026-11-23T14:39:49+00:00",
+   "vazut": "2026-11-23T14:39:49+00:00",
    "metoda": "cautare_google"
   }
  ]
