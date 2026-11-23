@@ -2,24 +2,6 @@
  "ean": "5942321000343",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/schweppes-tonic-regular-1-5l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "11.49",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:58:12+00:00",
-   "vazut": "2026-11-22T20:58:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.pretistet.ro/produs/schweppes-kinley-tonic-bautura-racoritoare-carbogazoasa-1-5lambalaj-returnabil/",
-   "domeniu": "pretistet.ro",
-   "pret": "11.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:58:17+00:00",
-   "vazut": "2026-11-22T20:58:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-schweppes-tonic-water-1-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "11.39",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-23T02:00:15+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa tonica Schweppes Tonic Water, 1.5 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/schweppes-tonic-regular-1-5l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "11.49",
+   "stare": "ok",
+   "verificat": "2026-11-23T03:02:52+00:00",
+   "vazut": "2026-11-23T03:02:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/schweppes-kinley-tonic-bautura-racoritoare-carbogazoasa-1-5lambalaj-returnabil/",
+   "domeniu": "pretistet.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T03:02:55+00:00",
+   "vazut": "2026-11-23T03:02:55+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
