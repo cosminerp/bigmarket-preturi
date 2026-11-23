@@ -2,24 +2,6 @@
  "ean": "5941341045051",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/conserve/sadu-pate-porc-200gr-6buc-bax-5941341045051",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.50",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:32:30+00:00",
-   "vazut": "2026-11-22T20:32:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://conservat.ro/pateuri-de-porc/133-sadu-pate-de-porc-200g-5941341045051.html?srsltid=AYCX9vJ-gSxqYeg-QDhFTGfbHtf-89VVu14AWNg0XC5QktoCScjDzi_m",
-   "domeniu": "conservat.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:32:32+00:00",
-   "vazut": "2026-11-22T20:32:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pate-de-porc-sadu-200g/p",
    "domeniu": "auchan.ro",
    "pret": "4.19",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-23T02:04:22+00:00",
    "metoda": "auchan_catalog",
    "nume": "Pate de porc Sadu, 200g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/sadu-pate-porc-200gr-6buc-bax-5941341045051",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:37:22+00:00",
+   "vazut": "2026-11-23T02:37:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://conservat.ro/pateuri-de-porc/133-sadu-pate-de-porc-200g-5941341045051.html?srsltid=AYCX9vJ-gSxqYeg-QDhFTGfbHtf-89VVu14AWNg0XC5QktoCScjDzi_m",
+   "domeniu": "conservat.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:37:25+00:00",
+   "vazut": "2026-11-23T02:37:25+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

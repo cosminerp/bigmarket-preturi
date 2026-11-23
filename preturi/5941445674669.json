@@ -2,24 +2,6 @@
  "ean": "5941445674669",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/pom-bar-cheese-50g-20buc-bax-5941445674669",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.06",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-22T20:34:42+00:00",
-   "vazut": "2026-11-18T10:03:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/pom-bar-cu-ar-cascaval-50g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.75",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:34:46+00:00",
-   "vazut": "2026-11-22T20:34:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/snacksuri-din-cartofi-cu-gust-de-cascaval-pombar-50-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-23T02:06:27+00:00",
    "metoda": "auchan_catalog",
    "nume": "Snacksuri din cartofi cu gust de cascaval Pombar, 50 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/pom-bar-cheese-50g-20buc-bax-5941445674669",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.06",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-23T02:39:19+00:00",
+   "vazut": "2026-11-18T10:03:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/pom-bar-cu-ar-cascaval-50g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.75",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:39:22+00:00",
+   "vazut": "2026-11-23T02:39:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
