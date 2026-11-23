@@ -2,42 +2,6 @@
  "ean": "5940577000353",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/bautura-energizanta-hell-double-espresso-250ml?srsltid=AYCX9vKCq2iIuMFIvsicD9UXggWZ66IPPmGXs9MPtVKA8TAekq4A0awh",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "7.98",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:24:10+00:00",
-   "vazut": "2026-11-23T08:24:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/hell-double-espresso-250ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:24:14+00:00",
-   "vazut": "2026-11-23T08:24:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/ceaiuri-si-energizante/hell-ice-coffee-double-espresso-250ml",
-   "domeniu": "promoazi.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:24:16+00:00",
-   "vazut": "2026-11-23T08:24:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.vivomarket.ro/bauturi/energizant-coffee-espresso-hell-24-x-250-ml.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "168.96",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:24:19+00:00",
-   "vazut": "2026-11-23T08:24:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-coffee-double-espresso-hell-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "7.49",
@@ -46,6 +10,42 @@
    "vazut": "2026-11-23T12:40:03+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hell Ice Coffee Double Espresso, 0.25 l"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bautura-energizanta-hell-double-espresso-250ml?srsltid=AYCX9vKCq2iIuMFIvsicD9UXggWZ66IPPmGXs9MPtVKA8TAekq4A0awh",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "7.98",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:25:45+00:00",
+   "vazut": "2026-11-23T14:25:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/hell-double-espresso-250ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:25:49+00:00",
+   "vazut": "2026-11-23T14:25:49+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/ceaiuri-si-energizante/hell-ice-coffee-double-espresso-250ml",
+   "domeniu": "promoazi.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:25:52+00:00",
+   "vazut": "2026-11-23T14:25:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi/energizant-coffee-espresso-hell-24-x-250-ml.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "168.96",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:25:54+00:00",
+   "vazut": "2026-11-23T14:25:54+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
