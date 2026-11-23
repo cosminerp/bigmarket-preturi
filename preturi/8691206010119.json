@@ -2,21 +2,21 @@
  "ean": "8691206010119",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/sitil-special-crema-de-pantofi-cu-burete-negru-1647?srsltid=AYCX9vJ6jK7tb7kt0n9E02G3PXk1GB6IKGgw2EztCWEgGSmgPdIo0i8R",
-   "domeniu": "kisshop.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:48:27+00:00",
-   "vazut": "2026-11-23T03:48:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/sitil-crema-solida-60-ml-neagra/?srsltid=AYCX9vLxxSHZRr4RmqkcCLuGvQf6V5ZNzf9QxfWQ9tNF4pEazUnSnJs2",
    "domeniu": "cobyul.ro",
    "pret": "2.99",
    "stare": "ok",
    "verificat": "2026-11-23T09:43:39+00:00",
    "vazut": "2026-11-23T09:43:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/sitil-special-crema-de-pantofi-cu-burete-negru-1647?srsltid=AYCX9vJ6jK7tb7kt0n9E02G3PXk1GB6IKGgw2EztCWEgGSmgPdIo0i8R",
+   "domeniu": "kisshop.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:50:21+00:00",
+   "vazut": "2026-11-23T09:50:21+00:00",
    "metoda": "cautare_google"
   }
  ]
