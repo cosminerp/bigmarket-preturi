@@ -2,42 +2,6 @@
  "ean": "5941882806364",
  "preturi": [
   {
-   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g?srsltid=AYCX9vKpa7-TMfqAXPgNjxtfhFAGN47WTSruNG58rJkffBsJakODiknS",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "5.03",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:48:41+00:00",
-   "vazut": "2026-11-23T02:48:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-cu-glazura-de-lupin-66-g-7755278?srsltid=AYCX9vJTSYfqJHRMyPEOxIRagf2QWeXmqertSSaYwFph0CyVTNoT7Spx",
-   "domeniu": "naturisti.ro",
-   "pret": "5.30",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:50:07+00:00",
-   "vazut": "2026-11-23T02:50:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-din-orez-expandat-cu-glazura-de-lupin-p368960",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "4.50",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:50:11+00:00",
-   "vazut": "2026-11-23T02:50:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.raftonline.ro/cumpara/rondele-orez-glazura-lupin-66gr-221956?srsltid=AYCX9vLQWUjbTvneQBnoLqOE1iWQrx4Jgw92r2cENSpU45NjdcilVgmv",
-   "domeniu": "raftonline.ro",
-   "pret": "13.76",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:50:14+00:00",
-   "vazut": "2026-11-23T02:50:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g-farmaciilenapofarm-83425",
    "domeniu": "listacumparaturi.ro",
    "pret": "5.03",
@@ -53,6 +17,42 @@
    "stare": "ok",
    "verificat": "2026-11-23T08:41:02+00:00",
    "vazut": "2026-11-23T08:41:02+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g?srsltid=AYCX9vKpa7-TMfqAXPgNjxtfhFAGN47WTSruNG58rJkffBsJakODiknS",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "5.03",
+   "stare": "ok",
+   "verificat": "2026-11-23T08:53:49+00:00",
+   "vazut": "2026-11-23T08:53:49+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-cu-glazura-de-lupin-66-g-7755278?srsltid=AYCX9vJTSYfqJHRMyPEOxIRagf2QWeXmqertSSaYwFph0CyVTNoT7Spx",
+   "domeniu": "naturisti.ro",
+   "pret": "5.30",
+   "stare": "ok",
+   "verificat": "2026-11-23T08:53:51+00:00",
+   "vazut": "2026-11-23T08:53:51+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-din-orez-expandat-cu-glazura-de-lupin-p368960",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "4.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T08:53:53+00:00",
+   "vazut": "2026-11-23T08:53:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.raftonline.ro/cumpara/rondele-orez-glazura-lupin-66gr-221956?srsltid=AYCX9vLQWUjbTvneQBnoLqOE1iWQrx4Jgw92r2cENSpU45NjdcilVgmv",
+   "domeniu": "raftonline.ro",
+   "pret": "13.76",
+   "stare": "ok",
+   "verificat": "2026-11-23T08:53:55+00:00",
+   "vazut": "2026-11-23T08:53:55+00:00",
    "metoda": "cautare_google"
   }
  ]
