@@ -2,15 +2,6 @@
  "ean": "5941882806364",
  "preturi": [
   {
-   "url": "https://frunzaverde.ro/magazin/alimentare/gustari/rondele-orez-glazura-lupin-66gr/?srsltid=AYCX9vID6bTEjViYsly3D4WspBvaY1GcywF43jgmdRP6kAN9fPepG_vi",
-   "domeniu": "frunzaverde.ro",
-   "pret": "5.72",
-   "stare": "ok",
-   "verificat": "2026-11-21T20:25:13+00:00",
-   "vazut": "2026-11-21T20:25:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g?srsltid=AYCX9vKpa7-TMfqAXPgNjxtfhFAGN47WTSruNG58rJkffBsJakODiknS",
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "5.03",
@@ -53,6 +44,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T02:50:16+00:00",
    "vazut": "2026-11-23T02:50:16+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/gustari/rondele-orez-glazura-lupin-66gr/?srsltid=AYCX9vID6bTEjViYsly3D4WspBvaY1GcywF43jgmdRP6kAN9fPepG_vi",
+   "domeniu": "frunzaverde.ro",
+   "pret": "5.72",
+   "stare": "ok",
+   "verificat": "2026-11-23T08:41:02+00:00",
+   "vazut": "2026-11-23T08:41:02+00:00",
    "metoda": "cautare_google"
   }
  ]

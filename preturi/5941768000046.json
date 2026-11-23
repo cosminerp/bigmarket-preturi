@@ -2,15 +2,6 @@
  "ean": "5941768000046",
  "preturi": [
   {
-   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
-   "domeniu": "frunzaverde.ro",
-   "pret": "2.28",
-   "stare": "ok",
-   "verificat": "2026-11-21T20:22:34+00:00",
-   "vazut": "2026-11-21T20:22:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-cu-lapte-sly-fara-zahar-25-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.99",
@@ -63,6 +54,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T02:47:24+00:00",
    "vazut": "2026-11-23T02:47:24+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
+   "domeniu": "frunzaverde.ro",
+   "pret": "2.28",
+   "stare": "ok",
+   "verificat": "2026-11-23T08:40:54+00:00",
+   "vazut": "2026-11-23T08:40:54+00:00",
    "metoda": "cautare_google"
   }
  ]
