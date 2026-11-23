@@ -2,42 +2,6 @@
  "ean": "6420387321002",
  "preturi": [
   {
-   "url": "https://roua.ro/caiete/1511120616-caiet-pigna-biologie-24-file-6420387321002.html?srsltid=AYCX9vLxsU7aSSBfp89Y8RRsfPI2de99wa2lsM7n5iMvv945my0l5cMC",
-   "domeniu": "roua.ro",
-   "pret": "1.63",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:20:27+00:00",
-   "vazut": "2026-11-23T03:20:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.officegalaxy.ro/caiete/160-caiet-a5-special-pigna-biologie-24-file.html?srsltid=AYCX9vIXnF3PyNeLQTeXaF0mubSZZV5z28VCco0n_ObsI_O2hxzyyeAz",
-   "domeniu": "officegalaxy.ro",
-   "pret": "2.46",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:20:30+00:00",
-   "vazut": "2026-11-23T03:20:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.kisshop.ro/cumpara/caiet-de-biologie-24file-17x24cm-60-70g-mp-1-buc-741?srsltid=AYCX9vLpTDVhzi2RAjm7AoiLjGq6eJeI5qcBKStULQ4m9lZN0LyEwk0f",
-   "domeniu": "kisshop.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:20:33+00:00",
-   "vazut": "2026-11-23T03:20:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.mam-bricolaj.ro/cumpara/caiet-biologie-24-file-diverse-modele-17-x-24-cm-51297?srsltid=AYCX9vIgzMcXgESrYqH40l7onJOKEg4651_r_lvpgWiUshrlPSGrlVOO",
-   "domeniu": "mam-bricolaj.ro",
-   "pret": "3.95",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:20:35+00:00",
-   "vazut": "2026-11-23T03:20:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.librariacompas.ro/rechizite-scolare/caiet-biologie-24-file-pigna.html?srsltid=AYCX9vKPlMIkigh-YwIEkDS2x-QV7G6fixihm_c_vL0z-CFtDz9t5bor",
    "domeniu": "librariacompas.ro",
    "pret": "3.49",
@@ -53,6 +17,42 @@
    "stare": "ok",
    "verificat": "2026-11-23T09:24:31+00:00",
    "vazut": "2026-11-23T09:24:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://roua.ro/caiete/1511120616-caiet-pigna-biologie-24-file-6420387321002.html?srsltid=AYCX9vLxsU7aSSBfp89Y8RRsfPI2de99wa2lsM7n5iMvv945my0l5cMC",
+   "domeniu": "roua.ro",
+   "pret": "1.63",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:25:55+00:00",
+   "vazut": "2026-11-23T09:25:55+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.officegalaxy.ro/caiete/160-caiet-a5-special-pigna-biologie-24-file.html?srsltid=AYCX9vIXnF3PyNeLQTeXaF0mubSZZV5z28VCco0n_ObsI_O2hxzyyeAz",
+   "domeniu": "officegalaxy.ro",
+   "pret": "2.46",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:25:58+00:00",
+   "vazut": "2026-11-23T09:25:58+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/caiet-de-biologie-24file-17x24cm-60-70g-mp-1-buc-741?srsltid=AYCX9vLpTDVhzi2RAjm7AoiLjGq6eJeI5qcBKStULQ4m9lZN0LyEwk0f",
+   "domeniu": "kisshop.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:26:00+00:00",
+   "vazut": "2026-11-23T09:26:00+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.mam-bricolaj.ro/cumpara/caiet-biologie-24-file-diverse-modele-17-x-24-cm-51297?srsltid=AYCX9vIgzMcXgESrYqH40l7onJOKEg4651_r_lvpgWiUshrlPSGrlVOO",
+   "domeniu": "mam-bricolaj.ro",
+   "pret": "3.95",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:26:03+00:00",
+   "vazut": "2026-11-23T09:26:03+00:00",
    "metoda": "cautare_google"
   }
  ]
