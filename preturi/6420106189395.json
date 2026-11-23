@@ -2,12 +2,21 @@
  "ean": "6420106189395",
  "preturi": [
   {
+   "url": "https://frunzaverde.ro/magazin/alimentare/pulberi-alimentare/pudra-de-roscove-250gr/?srsltid=AYCX9vJMyYOUdKn2UZtniK_kQE4Q5T4uZtvk9kBDmKLdbhCTmoInO39H",
+   "domeniu": "frunzaverde.ro",
+   "pret": "8.05",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:46:22+00:00",
+   "vazut": "2026-11-23T14:46:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "http://www.naturisti.ro/cumpara/pudra-de-roscove-250g-7746103?srsltid=AYCX9vLvXKV3N1yzWRi35_pCtnTel4YWmNgIe8bqDJxhe7L_5ek1Zc-u",
    "domeniu": "naturisti.ro",
    "pret": "8.12",
    "stare": "ok",
-   "verificat": "2026-11-23T09:23:51+00:00",
-   "vazut": "2026-11-23T09:23:51+00:00",
+   "verificat": "2026-11-23T15:29:48+00:00",
+   "vazut": "2026-11-23T15:29:48+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,7 +24,7 @@
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "7.86",
    "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-23T09:23:54+00:00",
+   "verificat": "2026-11-23T15:29:51+00:00",
    "vazut": "2026-11-23T03:18:22+00:00",
    "metoda": "cautare_google"
   },
@@ -24,17 +33,8 @@
    "domeniu": "raftonline.ro",
    "pret": "15.61",
    "stare": "ok",
-   "verificat": "2026-11-23T09:24:01+00:00",
-   "vazut": "2026-11-23T09:24:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://frunzaverde.ro/magazin/alimentare/pulberi-alimentare/pudra-de-roscove-250gr/?srsltid=AYCX9vJMyYOUdKn2UZtniK_kQE4Q5T4uZtvk9kBDmKLdbhCTmoInO39H",
-   "domeniu": "frunzaverde.ro",
-   "pret": "8.05",
-   "stare": "ok",
-   "verificat": "2026-11-23T14:46:22+00:00",
-   "vazut": "2026-11-23T14:46:22+00:00",
+   "verificat": "2026-11-23T15:29:57+00:00",
+   "vazut": "2026-11-23T15:29:57+00:00",
    "metoda": "cautare_google"
   }
  ]

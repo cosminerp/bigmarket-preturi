@@ -2,15 +2,6 @@
  "ean": "6260140700701",
  "preturi": [
   {
-   "url": "https://promoazi.ro/cani-si-cesti/cana-sticla-florance-capacitate-250ml",
-   "domeniu": "promoazi.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:23:48+00:00",
-   "vazut": "2026-11-23T09:23:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cana-de-sticla-florance-cu-capacitate-de-250ml/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T12:24:30+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cana de sticla Florance cu capacitate de 250ml"
+  },
+  {
+   "url": "https://promoazi.ro/cani-si-cesti/cana-sticla-florance-capacitate-250ml",
+   "domeniu": "promoazi.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:29:46+00:00",
+   "vazut": "2026-11-23T15:29:46+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
