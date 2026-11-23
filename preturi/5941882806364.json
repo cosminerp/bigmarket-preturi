@@ -11,15 +11,6 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g?srsltid=AYCX9vKpa7-TMfqAXPgNjxtfhFAGN47WTSruNG58rJkffBsJakODiknS",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "5.03",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:44:14+00:00",
-   "vazut": "2026-11-22T20:44:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-cu-glazura-de-lupin-66-g-7755278?srsltid=AYCX9vJTSYfqJHRMyPEOxIRagf2QWeXmqertSSaYwFph0CyVTNoT7Spx",
    "domeniu": "naturisti.ro",
    "pret": "5.30",
@@ -53,6 +44,15 @@
    "stare": "ok",
    "verificat": "2026-11-22T20:45:48+00:00",
    "vazut": "2026-11-22T20:45:48+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/gustari/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g?srsltid=AYCX9vKpa7-TMfqAXPgNjxtfhFAGN47WTSruNG58rJkffBsJakODiknS",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "5.03",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:48:41+00:00",
+   "vazut": "2026-11-23T02:48:41+00:00",
    "metoda": "cautare_google"
   }
  ]
