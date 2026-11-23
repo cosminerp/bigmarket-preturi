@@ -2,21 +2,21 @@
  "ean": "9000101820485",
  "preturi": [
   {
-   "url": "https://www.pravaliadecuratenie.ro/baie/odorizant-toalet%C4%83-4-%C3%AEn-1-50g-bref-power-aktiv-pin.html",
-   "domeniu": "pravaliadecuratenie.ro",
-   "pret": "10.00",
-   "stare": "ok",
-   "verificat": "2026-11-23T15:58:34+00:00",
-   "vazut": "2026-11-23T15:58:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://ali-market.ro/ro/odorizant-wc/bref-odorizant-toaleta-power-aktiv-50g-pine-00007061-13962",
    "domeniu": "ali-market.ro",
    "pret": "4.26",
    "stare": "ok",
    "verificat": "2026-11-23T21:57:52+00:00",
    "vazut": "2026-11-23T21:57:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pravaliadecuratenie.ro/baie/odorizant-toalet%C4%83-4-%C3%AEn-1-50g-bref-power-aktiv-pin.html",
+   "domeniu": "pravaliadecuratenie.ro",
+   "pret": "10.00",
+   "stare": "ok",
+   "verificat": "2026-11-23T21:59:44+00:00",
+   "vazut": "2026-11-23T21:59:44+00:00",
    "metoda": "cautare_google"
   }
  ]
