@@ -2,15 +2,6 @@
  "ean": "5941882806364",
  "preturi": [
   {
-   "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g-farmaciilenapofarm-83425",
-   "domeniu": "listacumparaturi.ro",
-   "pret": "5.03",
-   "stare": "ok",
-   "verificat": "2026-11-23T15:01:48+00:00",
-   "vazut": "2026-11-23T15:01:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://frunzaverde.ro/magazin/alimentare/gustari/rondele-orez-glazura-lupin-66gr/?srsltid=AYCX9vID6bTEjViYsly3D4WspBvaY1GcywF43jgmdRP6kAN9fPepG_vi",
    "domeniu": "frunzaverde.ro",
    "pret": "5.72",
@@ -53,6 +44,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T21:01:21+00:00",
    "vazut": "2026-11-23T21:01:21+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-expandat-cu-glazura-de-lupin-66-g-farmaciilenapofarm-83425",
+   "domeniu": "listacumparaturi.ro",
+   "pret": "5.03",
+   "stare": "ok",
+   "verificat": "2026-11-23T21:03:21+00:00",
+   "vazut": "2026-11-23T21:03:21+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -12,15 +12,6 @@
    "nume": "Bere blonda Stella Artois, 0.33 l"
   },
   {
-   "url": "https://pacomarket.ro/product/stella-artois-330ml-sticla/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T15:03:15+00:00",
-   "vazut": "2026-11-23T15:03:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://alcooldiscount.ro/bere-blonda-stella-artois-5-alc-033l-romania.html",
    "domeniu": "alcooldiscount.ro",
    "pret": "8.90",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T15:03:20+00:00",
    "vazut": "2026-11-23T15:03:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/stella-artois-330ml-sticla/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T21:06:26+00:00",
+   "vazut": "2026-11-23T21:06:26+00:00",
    "metoda": "cautare_google"
   }
  ]
