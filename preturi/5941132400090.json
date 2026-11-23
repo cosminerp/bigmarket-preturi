@@ -2,15 +2,6 @@
  "ean": "5941132400090",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/alte-produse-bacanie/cacao-dr-oetker-50g-30buc-bax-5941132400090",
-   "domeniu": "snaemarket.ro",
-   "pret": "5.91",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:33:34+00:00",
-   "vazut": "2026-11-23T08:33:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cacao-dr--oetker-50-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.15",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T12:38:30+00:00",
    "metoda": "auchan_catalog",
    "nume": "Pudra de cacao Dr.Oetker, 50 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/alte-produse-bacanie/cacao-dr-oetker-50g-30buc-bax-5941132400090",
+   "domeniu": "snaemarket.ro",
+   "pret": "5.91",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:36:48+00:00",
+   "vazut": "2026-11-23T14:36:48+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
