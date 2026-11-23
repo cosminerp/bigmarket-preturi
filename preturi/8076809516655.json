@@ -2,15 +2,6 @@
  "ean": "8076809516655",
  "preturi": [
   {
-   "url": "https://alimentaricasaitalia.ro/products/mulino-bianco-cracker-integrali-500g?srsltid=AYCX9vJAojxirbdl8P0zgb5dVk3ZlNh5fu-fK5aQk2M8cTpwxfXpoewz",
-   "domeniu": "alimentaricasaitalia.ro",
-   "pret": "24.90",
-   "stare": "ok",
-   "verificat": "2026-11-23T15:44:21+00:00",
-   "vazut": "2026-11-23T15:44:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.produseitalia.ro/produse-alimentare/crackers-integrali-mulino-bianco-8152?tab=description",
    "domeniu": "produseitalia.ro",
    "pret": "21.95",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T21:48:37+00:00",
    "vazut": "2026-11-23T21:48:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://alimentaricasaitalia.ro/products/mulino-bianco-cracker-integrali-500g?srsltid=AYCX9vJAojxirbdl8P0zgb5dVk3ZlNh5fu-fK5aQk2M8cTpwxfXpoewz",
+   "domeniu": "alimentaricasaitalia.ro",
+   "pret": "24.90",
+   "stare": "ok",
+   "verificat": "2026-11-23T21:50:14+00:00",
+   "vazut": "2026-11-23T21:50:14+00:00",
    "metoda": "cautare_google"
   }
  ]
