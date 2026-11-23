@@ -12,21 +12,21 @@
    "nume": "Vopsea permanenta pentru par Loncolor Ultra, 1.2 Negru albastru"
   },
   {
-   "url": "https://cobyul.ro/produs/loncolor-vopsea-ultra-1-2-negru-albastrui/?srsltid=AYCX9vLuf0p89okIR1ivQ_boCBRZHFDY_bDcrLxjgbfsJaWR9y-SzukS",
-   "domeniu": "cobyul.ro",
-   "pret": "14.35",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:08:43+00:00",
-   "vazut": "2026-11-23T03:08:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.meiso.ro/cumpara/loncolor-ultra-vopsea-permanenta-de-par-cu-amoniac-1-2-negru-albastru-1031",
    "domeniu": "meiso.ro",
    "pret": "18.00",
    "stare": "ok",
    "verificat": "2026-11-23T03:14:22+00:00",
    "vazut": "2026-11-23T03:14:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/loncolor-vopsea-ultra-1-2-negru-albastrui/?srsltid=AYCX9vLuf0p89okIR1ivQ_boCBRZHFDY_bDcrLxjgbfsJaWR9y-SzukS",
+   "domeniu": "cobyul.ro",
+   "pret": "14.35",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:13:35+00:00",
+   "vazut": "2026-11-23T09:13:35+00:00",
    "metoda": "cautare_google"
   }
  ]

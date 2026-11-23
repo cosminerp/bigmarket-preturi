@@ -2,15 +2,6 @@
  "ean": "5949040204762",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/toortitzi-chili-lime-80g-12buc-bax-5949040204762",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.40",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-23T03:12:25+00:00",
-   "vazut": "2026-11-18T13:03:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/rondele-alka-tortizzi-chili-80-g?srsltid=AYCX9vLa4J1jVv9YGbZxbIjcP6zwRKITiUdoxPxobDrUjaO03uCEzAtv",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "4.48",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T03:12:32+00:00",
    "vazut": "2026-11-23T03:12:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/toortitzi-chili-lime-80g-12buc-bax-5949040204762",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.40",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-23T09:17:47+00:00",
+   "vazut": "2026-11-18T13:03:38+00:00",
    "metoda": "cautare_google"
   }
  ]
