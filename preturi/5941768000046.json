@@ -12,12 +12,21 @@
    "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
   },
   {
+   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
+   "domeniu": "frunzaverde.ro",
+   "pret": "2.28",
+   "stare": "ok",
+   "verificat": "2026-11-23T08:40:54+00:00",
+   "vazut": "2026-11-23T08:40:54+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-lapte-fara-zahar-25g-sly-4909",
    "domeniu": "nosugarshop.ro",
    "pret": "2.99",
    "stare": "ok",
-   "verificat": "2026-11-23T02:47:14+00:00",
-   "vazut": "2026-11-23T02:47:14+00:00",
+   "verificat": "2026-11-23T08:51:01+00:00",
+   "vazut": "2026-11-23T08:51:01+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -25,8 +34,8 @@
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "2.50",
    "stare": "ok",
-   "verificat": "2026-11-23T02:47:18+00:00",
-   "vazut": "2026-11-23T02:47:18+00:00",
+   "verificat": "2026-11-23T08:51:04+00:00",
+   "vazut": "2026-11-23T08:51:04+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -34,8 +43,8 @@
    "domeniu": "naturisti.ro",
    "pret": "2.59",
    "stare": "ok",
-   "verificat": "2026-11-23T02:47:19+00:00",
-   "vazut": "2026-11-23T02:47:19+00:00",
+   "verificat": "2026-11-23T08:51:06+00:00",
+   "vazut": "2026-11-23T08:51:06+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -43,8 +52,8 @@
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "2.38",
    "stare": "ok",
-   "verificat": "2026-11-23T02:47:21+00:00",
-   "vazut": "2026-11-23T02:47:21+00:00",
+   "verificat": "2026-11-23T08:51:08+00:00",
+   "vazut": "2026-11-23T08:51:08+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -52,17 +61,8 @@
    "domeniu": "comenzi.bebetei.ro",
    "pret": "2.50",
    "stare": "ok",
-   "verificat": "2026-11-23T02:47:24+00:00",
-   "vazut": "2026-11-23T02:47:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
-   "domeniu": "frunzaverde.ro",
-   "pret": "2.28",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:40:54+00:00",
-   "vazut": "2026-11-23T08:40:54+00:00",
+   "verificat": "2026-11-23T08:51:10+00:00",
+   "vazut": "2026-11-23T08:51:10+00:00",
    "metoda": "cautare_google"
   }
  ]
