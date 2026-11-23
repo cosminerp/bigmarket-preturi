@@ -2,21 +2,21 @@
  "ean": "5906615038368",
  "preturi": [
   {
-   "url": "https://www.mamuthygiene.ro/ro/MERCATOR-gogrip-greennitril-vedokesztyu-zold-puder",
-   "domeniu": "mamuthygiene.ro",
-   "pret": "50.56",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:13:03+00:00",
-   "vazut": "2026-11-22T20:13:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.tesamedical.ro/manu-i-nitril-premium-verzi-mercator-gogrip-green-textura-3d-ultra-rezistente-l",
    "domeniu": "tesamedical.ro",
    "pret": "35.00",
    "stare": "ok",
    "verificat": "2026-11-23T02:16:25+00:00",
    "vazut": "2026-11-23T02:16:25+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.mamuthygiene.ro/ro/MERCATOR-gogrip-greennitril-vedokesztyu-zold-puder",
+   "domeniu": "mamuthygiene.ro",
+   "pret": "50.69",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:29:38+00:00",
+   "vazut": "2026-11-23T02:29:38+00:00",
    "metoda": "cautare_google"
   }
  ]

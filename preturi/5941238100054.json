@@ -2,15 +2,6 @@
  "ean": "5941238100054",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/tri-br-mixtett-albastru-140g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-22T20:27:46+00:00",
-   "vazut": "2026-11-22T20:27:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-topita-hochland-mix-de-branza-140-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.45",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T02:05:09+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza topita Hochland, mix de branza, 140 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/tri-br-mixtett-albastru-140g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:32:49+00:00",
+   "vazut": "2026-11-23T02:32:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
