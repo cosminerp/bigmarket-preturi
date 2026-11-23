@@ -2,12 +2,21 @@
  "ean": "77326744",
  "preturi": [
   {
+   "url": "https://cobyul.ro/produs/picatura-gel/?srsltid=AYCX9vJ4pd_2rAfmvpKOfANAQT-VT6FhIlcLaIvVFw-MdBiC46mNSjKB",
+   "domeniu": "cobyul.ro",
+   "pret": "5.09",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:34:35+00:00",
+   "vazut": "2026-11-23T09:34:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.serviotomesti.ro/rechizite-%C8%99i-birotic%C4%83/adeziv-instant-pic%C4%83tura-gel-3g-precizie-%C8%99i-putere-pentru-lipiri-f%C4%83r%C4%83-scurgeri.html",
    "domeniu": "serviotomesti.ro",
    "pret": "8.00",
    "stare": "ok",
-   "verificat": "2026-11-23T03:30:58+00:00",
-   "vazut": "2026-11-23T03:30:58+00:00",
+   "verificat": "2026-11-23T09:35:50+00:00",
+   "vazut": "2026-11-23T09:35:50+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "kisshop.ro",
    "pret": "6.50",
    "stare": "ok",
-   "verificat": "2026-11-23T03:31:00+00:00",
-   "vazut": "2026-11-23T03:31:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/picatura-gel/?srsltid=AYCX9vJ4pd_2rAfmvpKOfANAQT-VT6FhIlcLaIvVFw-MdBiC46mNSjKB",
-   "domeniu": "cobyul.ro",
-   "pret": "5.09",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:34:35+00:00",
-   "vazut": "2026-11-23T09:34:35+00:00",
+   "verificat": "2026-11-23T09:35:52+00:00",
+   "vazut": "2026-11-23T09:35:52+00:00",
    "metoda": "cautare_google"
   }
  ]
