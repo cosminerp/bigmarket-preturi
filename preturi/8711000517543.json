@@ -2,15 +2,6 @@
  "ean": "8711000517543",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/jacobs-kronung-250-g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "17.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:46:31+00:00",
-   "vazut": "2026-11-23T09:46:31+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pachetcafea-macinata-jacobs-kronung-alintaroma-250grame/p",
    "domeniu": "auchan.ro",
    "pret": "28.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T12:37:59+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cafea macinata Jacobs Kronung Alintaroma, 250 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/jacobs-kronung-250-g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "17.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:51:40+00:00",
+   "vazut": "2026-11-23T15:51:40+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
