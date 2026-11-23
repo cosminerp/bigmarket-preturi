@@ -2,15 +2,6 @@
  "ean": "8076809580618",
  "preturi": [
   {
-   "url": "https://alimentaricasaitalia.ro/products/mulino-bianco-barilla-biscui%C8%9Bi-nascondini-350-gr?srsltid=AYCX9vKHM55m4zZdyslDIus3rvPOmGtVtrNQ188cEGSEj-WuCT878fWE",
-   "domeniu": "alimentaricasaitalia.ro",
-   "pret": "19.90",
-   "stare": "ok",
-   "verificat": "2026-11-22T21:31:07+00:00",
-   "vazut": "2026-11-22T21:31:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-cu-ciocolata-mulino-bianco-nascondini-330-g/p",
    "domeniu": "auchan.ro",
    "pret": "14.99",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Biscuiti cu ciocolata Mulino Bianco Nascondini, 330 g",
    "pret_vechi": "18.99"
+  },
+  {
+   "url": "https://alimentaricasaitalia.ro/products/mulino-bianco-barilla-biscui%C8%9Bi-nascondini-350-gr?srsltid=AYCX9vKHM55m4zZdyslDIus3rvPOmGtVtrNQ188cEGSEj-WuCT878fWE",
+   "domeniu": "alimentaricasaitalia.ro",
+   "pret": "19.90",
+   "stare": "ok",
+   "verificat": "2026-11-23T03:36:14+00:00",
+   "vazut": "2026-11-23T03:36:14+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
