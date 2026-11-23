@@ -2,24 +2,6 @@
  "ean": "8410376057270",
  "preturi": [
   {
-   "url": "https://www.nosugarshop.ro/cumpara/biscuiti-cu-ciocolata-neagra-fara-zahar-150g-gullon-9467",
-   "domeniu": "nosugarshop.ro",
-   "pret": "23.50",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:41:19+00:00",
-   "vazut": "2026-11-23T09:41:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.trifolia.ro/alimentare/biscuiti-cu-ciocolata-neagra-fara-zahar-150-g.html?srsltid=AYCX9vLakod8sWZ0B9QGXFYEl3m-mCfT95H0CseUalaJcykrQ4KfORII",
-   "domeniu": "trifolia.ro",
-   "pret": "24.50",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:41:22+00:00",
-   "vazut": "2026-11-23T09:41:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-cu-ciocolata-neagra-gullon-fara-zahar-150-g/p",
    "domeniu": "auchan.ro",
    "pret": "29.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-23T12:41:34+00:00",
    "metoda": "auchan_catalog",
    "nume": "Biscuiti cu ciocolata neagra Gullon, fara zahar adaugat, 150 g"
+  },
+  {
+   "url": "https://www.nosugarshop.ro/cumpara/biscuiti-cu-ciocolata-neagra-fara-zahar-150g-gullon-9467",
+   "domeniu": "nosugarshop.ro",
+   "pret": "23.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:46:45+00:00",
+   "vazut": "2026-11-23T15:46:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/biscuiti-cu-ciocolata-neagra-fara-zahar-150-g.html?srsltid=AYCX9vLakod8sWZ0B9QGXFYEl3m-mCfT95H0CseUalaJcykrQ4KfORII",
+   "domeniu": "trifolia.ro",
+   "pret": "24.50",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:46:47+00:00",
+   "vazut": "2026-11-23T15:46:47+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

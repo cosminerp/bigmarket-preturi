@@ -2,15 +2,6 @@
  "ean": "8697400271899",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/conserve/defne-gogosari-720ml-12buc-bax-8697400271899",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.20",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:45:48+00:00",
-   "vazut": "2026-11-23T09:45:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/gogosari-in-otet-defne-650-g/p",
    "domeniu": "auchan.ro",
    "pret": "11.69",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Gogosari sferturi in otet Defne, 650 g",
    "pret_vechi": "12.99"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/conserve/defne-gogosari-720ml-12buc-bax-8697400271899",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.20",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:49:25+00:00",
+   "vazut": "2026-11-23T15:49:25+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
