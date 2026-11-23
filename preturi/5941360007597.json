@@ -2,33 +2,6 @@
  "ean": "5941360007597",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/delaco-mozzarella-gourmet-350g.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "21.41",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:43:14+00:00",
-   "vazut": "2026-11-23T08:43:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/delaco-mozzarella-gourmet-350g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "13.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:43:17+00:00",
-   "vazut": "2026-11-23T08:43:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/mozzarella/mozzarella-gourmet-delaco-350g",
-   "domeniu": "promoazi.ro",
-   "pret": "13.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:43:19+00:00",
-   "vazut": "2026-11-23T08:43:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/mozzarella-gourmet-delaco-350-g/p",
    "domeniu": "auchan.ro",
    "pret": "19.89",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-23T12:40:29+00:00",
    "metoda": "auchan_catalog",
    "nume": "Mozzarella gourmet Delaco, 350 g"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/delaco-mozzarella-gourmet-350g.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "21.41",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:45:34+00:00",
+   "vazut": "2026-11-23T14:45:34+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/delaco-mozzarella-gourmet-350g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "13.49",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:45:37+00:00",
+   "vazut": "2026-11-23T14:45:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/mozzarella/mozzarella-gourmet-delaco-350g",
+   "domeniu": "promoazi.ro",
+   "pret": "13.49",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:45:39+00:00",
+   "vazut": "2026-11-23T14:45:39+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,24 +2,6 @@
  "ean": "5941360013192",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/delaco-telemea-vaca-cutie-400-g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "22.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:43:33+00:00",
-   "vazut": "2026-11-23T08:43:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/telemea/telemea-vaca-in-saramura-400g",
-   "domeniu": "promoazi.ro",
-   "pret": "24.39",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:43:35+00:00",
-   "vazut": "2026-11-23T08:43:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/telemea-de-vaca-delaco-in-saramura-400-g/p",
    "domeniu": "auchan.ro",
    "pret": "24.39",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-23T12:22:47+00:00",
    "metoda": "auchan_catalog",
    "nume": "Telemea de vaca in saramura Delaco, 400 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/delaco-telemea-vaca-cutie-400-g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "22.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:45:53+00:00",
+   "vazut": "2026-11-23T14:45:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/telemea/telemea-vaca-in-saramura-400g",
+   "domeniu": "promoazi.ro",
+   "pret": "24.39",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:45:55+00:00",
+   "vazut": "2026-11-23T14:45:55+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
