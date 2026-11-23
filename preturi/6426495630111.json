@@ -2,21 +2,21 @@
  "ean": "6426495630111",
  "preturi": [
   {
-   "url": "https://www.xperto.ro/saci-menaj-60l-15buc-rola-acasa-si-industrial?srsltid=AYCX9vKz4sTpbaqbkhGid9jKx1_6V9nQpPoCsrYSEe05gihs8i-KpTSH",
-   "domeniu": "xperto.ro",
-   "pret": "5.60",
-   "stare": "ok",
-   "verificat": "2026-11-22T21:20:19+00:00",
-   "vazut": "2026-11-22T21:20:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://fermier.ro/products/saci-menajeri-negri-60-l-15-bucrola-produsi-in-romania?srsltid=AYCX9vLIa86IlDHzeFTeD32ZKAJOiTMCtRISiGekiOosL8v-uMjFFKR-",
    "domeniu": "fermier.ro",
    "pret": "3.90",
    "stare": "ok",
    "verificat": "2026-11-23T03:23:56+00:00",
    "vazut": "2026-11-23T03:23:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.xperto.ro/saci-menaj-60l-15buc-rola-acasa-si-industrial?srsltid=AYCX9vKz4sTpbaqbkhGid9jKx1_6V9nQpPoCsrYSEe05gihs8i-KpTSH",
+   "domeniu": "xperto.ro",
+   "pret": "5.60",
+   "stare": "ok",
+   "verificat": "2026-11-23T03:25:35+00:00",
+   "vazut": "2026-11-23T03:25:35+00:00",
    "metoda": "cautare_google"
   }
  ]

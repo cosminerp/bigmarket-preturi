@@ -2,15 +2,6 @@
  "ean": "7613036964685",
  "preturi": [
   {
-   "url": "https://www.ehranaanimale.ro/pisici/hrana-umeda-pentru-pisici-friskies-adult-curcan-in-sos-85-g.html",
-   "domeniu": "ehranaanimale.ro",
-   "pret": "1.89",
-   "stare": "ok",
-   "verificat": "2026-11-22T21:22:05+00:00",
-   "vazut": "2026-11-22T21:22:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hrana-umeda-pisici-friskies-cu-vitel-si-curcan-plic-85g/p",
    "domeniu": "auchan.ro",
    "pret": "2.39",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T02:06:14+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hrana umeda pentru pisici Purina Friskies, vitel si curcan, plic, 85 g"
+  },
+  {
+   "url": "https://www.ehranaanimale.ro/pisici/hrana-umeda-pentru-pisici-friskies-adult-curcan-in-sos-85-g.html",
+   "domeniu": "ehranaanimale.ro",
+   "pret": "1.89",
+   "stare": "ok",
+   "verificat": "2026-11-23T03:27:22+00:00",
+   "vazut": "2026-11-23T03:27:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
