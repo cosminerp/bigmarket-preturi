@@ -2,42 +2,6 @@
  "ean": "5946035073020",
  "preturi": [
   {
-   "url": "https://www.cisko-briko.ro/produse-curatenie/detartrant-clasic-nufar-1-l.html?srsltid=AYCX9vJmBObf84WJ0BpoFDH95HjUgsETuN9dapQPLiN7qMEoHlPrWUl6",
-   "domeniu": "cisko-briko.ro",
-   "pret": "15.00",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:14:43+00:00",
-   "vazut": "2026-11-23T09:14:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.naturisti.ro/cumpara/nufar-detartrant-clasic-1-l-7757354?srsltid=AYCX9vIB7EHD4hBy7PnePpVaylAxi40gpLKEFa6GaK1MzA7SNpo_Ljvs",
-   "domeniu": "naturisti.ro",
-   "pret": "14.40",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:14:45+00:00",
-   "vazut": "2026-11-23T09:14:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.cuccos.ro/toate-produsele--41/nufar-detatrant-1l--100609.htm?srsltid=AYCX9vLx2aPqHeU8ZgPlSWH4XLDFeAEaQ2_At-w9gseKdgPCIkCXbhb8",
-   "domeniu": "cuccos.ro",
-   "pret": "12.70",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:14:49+00:00",
-   "vazut": "2026-11-23T09:14:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.greenonline.ro/produse-curatenie/detartrant-clasic-nufar-1l.html",
-   "domeniu": "greenonline.ro",
-   "pret": "14.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:14:51+00:00",
-   "vazut": "2026-11-23T09:14:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/detartrant-clasic-nufar-1l/p",
    "domeniu": "auchan.ro",
    "pret": "12.89",
@@ -46,6 +10,42 @@
    "vazut": "2026-11-23T12:42:53+00:00",
    "metoda": "auchan_catalog",
    "nume": "Detartrant clasic Nufar 1L"
+  },
+  {
+   "url": "https://www.cisko-briko.ro/produse-curatenie/detartrant-clasic-nufar-1-l.html?srsltid=AYCX9vJmBObf84WJ0BpoFDH95HjUgsETuN9dapQPLiN7qMEoHlPrWUl6",
+   "domeniu": "cisko-briko.ro",
+   "pret": "15.00",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:19:37+00:00",
+   "vazut": "2026-11-23T15:19:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/nufar-detartrant-clasic-1-l-7757354?srsltid=AYCX9vIB7EHD4hBy7PnePpVaylAxi40gpLKEFa6GaK1MzA7SNpo_Ljvs",
+   "domeniu": "naturisti.ro",
+   "pret": "14.40",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:19:38+00:00",
+   "vazut": "2026-11-23T15:19:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.cuccos.ro/toate-produsele--41/nufar-detatrant-1l--100609.htm?srsltid=AYCX9vLx2aPqHeU8ZgPlSWH4XLDFeAEaQ2_At-w9gseKdgPCIkCXbhb8",
+   "domeniu": "cuccos.ro",
+   "pret": "12.70",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:19:40+00:00",
+   "vazut": "2026-11-23T15:19:40+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.greenonline.ro/produse-curatenie/detartrant-clasic-nufar-1l.html",
+   "domeniu": "greenonline.ro",
+   "pret": "14.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:19:43+00:00",
+   "vazut": "2026-11-23T15:19:43+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
