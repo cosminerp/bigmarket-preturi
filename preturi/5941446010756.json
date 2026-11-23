@@ -2,15 +2,6 @@
  "ean": "5941446010756",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/turta-dulce-cu-ciocolata-si-nuci260g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:47:47+00:00",
-   "vazut": "2026-11-23T08:47:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/turta-dulce-cu-nuca-si-ciocolata-boromir-260-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.39",
@@ -28,6 +19,15 @@
    "stare": "ok",
    "verificat": "2026-11-23T14:50:42+00:00",
    "vazut": "2026-11-23T14:50:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/turta-dulce-cu-ciocolata-si-nuci260g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:52:01+00:00",
+   "vazut": "2026-11-23T14:52:01+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,12 +2,21 @@
  "ean": "5941768000022",
  "preturi": [
   {
+   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-laptecappucino-fara-zahar-25gr/?srsltid=AYCX9vJp0Sey59SJ4Lvpezx1gLUJ7VVuUyWnm52kDeqjmSD14pZ0G1aQ",
+   "domeniu": "frunzaverde.ro",
+   "pret": "2.28",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:46:01+00:00",
+   "vazut": "2026-11-23T14:46:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-cappuccino-fara-zahar-25g-sly-4908",
    "domeniu": "nosugarshop.ro",
    "pret": "2.99",
    "stare": "ok",
-   "verificat": "2026-11-23T08:50:51+00:00",
-   "vazut": "2026-11-23T08:50:51+00:00",
+   "verificat": "2026-11-23T14:55:05+00:00",
+   "vazut": "2026-11-23T14:55:05+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,16 +24,16 @@
    "domeniu": "naturisti.ro",
    "pret": "2.59",
    "stare": "ok",
-   "verificat": "2026-11-23T08:50:54+00:00",
-   "vazut": "2026-11-23T08:50:54+00:00",
+   "verificat": "2026-11-23T14:55:07+00:00",
+   "vazut": "2026-11-23T14:55:07+00:00",
    "metoda": "cautare_google"
   },
   {
    "url": "https://www.farmaciilenapofarm.ro/gustari/ciocolata-sly-diet-cappuccino-25g-x-1buc?srsltid=AYCX9vIH5uD6NACFms20uWdaiPvIWgJCuBAFTtnfNhckIHZUfjTov3SP",
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "2.40",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:50:56+00:00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-23T14:55:10+00:00",
    "vazut": "2026-11-23T08:50:56+00:00",
    "metoda": "cautare_google"
   },
@@ -33,17 +42,8 @@
    "domeniu": "comenzi.bebetei.ro",
    "pret": "2.50",
    "stare": "ok",
-   "verificat": "2026-11-23T08:50:59+00:00",
-   "vazut": "2026-11-23T08:50:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-laptecappucino-fara-zahar-25gr/?srsltid=AYCX9vJp0Sey59SJ4Lvpezx1gLUJ7VVuUyWnm52kDeqjmSD14pZ0G1aQ",
-   "domeniu": "frunzaverde.ro",
-   "pret": "2.28",
-   "stare": "ok",
-   "verificat": "2026-11-23T14:46:01+00:00",
-   "vazut": "2026-11-23T14:46:01+00:00",
+   "verificat": "2026-11-23T14:55:13+00:00",
+   "vazut": "2026-11-23T14:55:13+00:00",
    "metoda": "cautare_google"
   }
  ]
