@@ -2,24 +2,6 @@
  "ean": "6420387321002",
  "preturi": [
   {
-   "url": "https://www.librariacompas.ro/rechizite-scolare/caiet-biologie-24-file-pigna.html?srsltid=AYCX9vKPlMIkigh-YwIEkDS2x-QV7G6fixihm_c_vL0z-CFtDz9t5bor",
-   "domeniu": "librariacompas.ro",
-   "pret": "3.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:18:51+00:00",
-   "vazut": "2026-11-23T03:18:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.bubikids.ro/cumpara/caiet-de-biologie-17-x-24-cm-24-file-9331",
-   "domeniu": "bubikids.ro",
-   "pret": "3.00",
-   "stare": "ok",
-   "verificat": "2026-11-23T03:18:54+00:00",
-   "vazut": "2026-11-23T03:18:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://roua.ro/caiete/1511120616-caiet-pigna-biologie-24-file-6420387321002.html?srsltid=AYCX9vLxsU7aSSBfp89Y8RRsfPI2de99wa2lsM7n5iMvv945my0l5cMC",
    "domeniu": "roua.ro",
    "pret": "1.63",
@@ -53,6 +35,24 @@
    "stare": "ok",
    "verificat": "2026-11-23T03:20:35+00:00",
    "vazut": "2026-11-23T03:20:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.librariacompas.ro/rechizite-scolare/caiet-biologie-24-file-pigna.html?srsltid=AYCX9vKPlMIkigh-YwIEkDS2x-QV7G6fixihm_c_vL0z-CFtDz9t5bor",
+   "domeniu": "librariacompas.ro",
+   "pret": "3.49",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:24:29+00:00",
+   "vazut": "2026-11-23T09:24:29+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.bubikids.ro/cumpara/caiet-de-biologie-17-x-24-cm-24-file-9331",
+   "domeniu": "bubikids.ro",
+   "pret": "3.00",
+   "stare": "ok",
+   "verificat": "2026-11-23T09:24:31+00:00",
+   "vazut": "2026-11-23T09:24:31+00:00",
    "metoda": "cautare_google"
   }
  ]
