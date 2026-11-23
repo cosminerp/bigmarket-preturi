@@ -12,21 +12,21 @@
    "nume": "Bautura necarbogazoasa cu suc de piersici Granini, 1.5 l"
   },
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/granini-piersica-1-5l-sgr-6buc-bax-5942045321564",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.24",
-   "stare": "ok",
-   "verificat": "2026-11-23T15:02:47+00:00",
-   "vazut": "2026-11-23T15:02:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://promoazi.ro/sucuri-si-nectaruri/bautura-racoritoare-necarbogazoasa-granini-piersica-15l",
    "domeniu": "promoazi.ro",
    "pret": "9.29",
    "stare": "ok",
    "verificat": "2026-11-23T21:06:04+00:00",
    "vazut": "2026-11-23T21:06:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/granini-piersica-1-5l-sgr-6buc-bax-5942045321564",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.24",
+   "stare": "ok",
+   "verificat": "2026-11-23T21:07:54+00:00",
+   "vazut": "2026-11-23T21:07:54+00:00",
    "metoda": "cautare_google"
   }
  ]
