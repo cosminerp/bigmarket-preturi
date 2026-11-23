@@ -2,15 +2,6 @@
  "ean": "3800024311123",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-cu-pizza-75gr-24buc-bax-3800024311123",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.20",
-   "stare": "ok",
-   "verificat": "2026-11-23T01:52:33+00:00",
-   "vazut": "2026-11-23T01:52:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/snacks-lotto-cu-aroma-de-pizza-75-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T02:00:38+00:00",
    "metoda": "auchan_catalog",
    "nume": "Snacks Lotto cu aroma de pizza, 75 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-cu-pizza-75gr-24buc-bax-3800024311123",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.20",
+   "stare": "ok",
+   "verificat": "2026-11-23T07:54:07+00:00",
+   "vazut": "2026-11-23T07:54:07+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
