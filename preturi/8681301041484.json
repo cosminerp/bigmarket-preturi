@@ -2,21 +2,21 @@
  "ean": "8681301041484",
  "preturi": [
   {
-   "url": "https://www.greenonline.ro/produse-curatenie/odorizant-de-camera-eyfel-pin-cu-menta-120ml.html",
-   "domeniu": "greenonline.ro",
-   "pret": "20.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T15:50:50+00:00",
-   "vazut": "2026-11-23T15:50:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.edituraprestige.ro/relaxare/odorizant-camera-eyfel-pin-menta-120-ml.html",
    "domeniu": "edituraprestige.ro",
    "pret": "23.80",
    "stare": "ok",
    "verificat": "2026-11-23T21:59:33+00:00",
    "vazut": "2026-11-23T21:59:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.greenonline.ro/produse-curatenie/odorizant-de-camera-eyfel-pin-cu-menta-120ml.html",
+   "domeniu": "greenonline.ro",
+   "pret": "20.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T22:02:32+00:00",
+   "vazut": "2026-11-23T22:02:32+00:00",
    "metoda": "cautare_google"
   }
  ]
