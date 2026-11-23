@@ -2,21 +2,21 @@
  "ean": "5946071000011",
  "preturi": [
   {
-   "url": "https://www.cridem.ro/apa-distilata-15l?srsltid=AYCX9vLHHxhOGMvuiWEdBBtlAr7a-4mJ6W0Nf6czEUTSDV_5uf_2jmIu",
-   "domeniu": "cridem.ro",
-   "pret": "4.82",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-23T15:19:53+00:00",
-   "vazut": "2026-11-23T09:15:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-distilata-1-5l/",
    "domeniu": "pacomarket.ro",
    "pret": "3.49",
    "stare": "ok",
    "verificat": "2026-11-23T15:19:56+00:00",
    "vazut": "2026-11-23T15:19:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.cridem.ro/apa-distilata-15l?srsltid=AYCX9vLHHxhOGMvuiWEdBBtlAr7a-4mJ6W0Nf6czEUTSDV_5uf_2jmIu",
+   "domeniu": "cridem.ro",
+   "pret": "4.82",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-23T21:22:45+00:00",
+   "vazut": "2026-11-23T09:15:05+00:00",
    "metoda": "cautare_google"
   }
  ]
