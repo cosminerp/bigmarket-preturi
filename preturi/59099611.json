@@ -2,15 +2,6 @@
  "ean": "59099611",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/deodorante-si-antiperspirante/antiperspirant-stick-clasic-72h-50-ml-dove-p477990",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "12.00",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:20:14+00:00",
-   "vazut": "2026-11-23T08:20:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/deodorant-stick-dove-advanced-care-original-50-ml/p",
    "domeniu": "auchan.ro",
    "pret": "30.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T12:23:59+00:00",
    "metoda": "auchan_catalog",
    "nume": "Deodorant stick Dove Advanced Care Original, 50 ml"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/deodorante-si-antiperspirante/antiperspirant-stick-clasic-72h-50-ml-dove-p477990",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "12.00",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:21:44+00:00",
+   "vazut": "2026-11-23T14:21:44+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
