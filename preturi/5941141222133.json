@@ -17,7 +17,7 @@
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "5.00",
    "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-23T14:37:08+00:00",
+   "verificat": "2026-11-23T20:39:36+00:00",
    "vazut": "2026-11-22T08:17:59+00:00",
    "metoda": "cautare_google"
   },
@@ -26,8 +26,8 @@
    "domeniu": "ducfarm.ro",
    "pret": "5.90",
    "stare": "ok",
-   "verificat": "2026-11-23T14:37:10+00:00",
-   "vazut": "2026-11-23T14:37:10+00:00",
+   "verificat": "2026-11-23T20:39:39+00:00",
+   "vazut": "2026-11-23T20:39:39+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -35,8 +35,8 @@
    "domeniu": "e-apotheka.ro",
    "pret": "5.20",
    "stare": "ok",
-   "verificat": "2026-11-23T14:37:12+00:00",
-   "vazut": "2026-11-23T14:37:12+00:00",
+   "verificat": "2026-11-23T20:39:43+00:00",
+   "vazut": "2026-11-23T20:39:43+00:00",
    "metoda": "cautare_google"
   }
  ]
