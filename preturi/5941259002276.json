@@ -2,16 +2,6 @@
  "ean": "5941259002276",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/salam-feliat-palaciego-campofrio-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:28:10+00:00",
-   "vazut": "2026-11-22T11:28:10+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Salam feliat Palaciego Campofrio, 100 g"
-  },
-  {
    "url": "https://promoazi.ro/salam-crud-uscat/salam-palaciego-campofrio-100g",
    "domeniu": "promoazi.ro",
    "pret": "15.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T20:27:48+00:00",
    "vazut": "2026-11-22T20:27:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/salam-feliat-palaciego-campofrio-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:05:32+00:00",
+   "vazut": "2026-11-23T02:05:32+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Salam feliat Palaciego Campofrio, 100 g"
   }
  ]
 }

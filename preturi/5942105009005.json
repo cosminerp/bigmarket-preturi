@@ -2,16 +2,6 @@
  "ean": "5942105009005",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-bruna-silva-strong-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.15",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:27:06+00:00",
-   "vazut": "2026-11-22T11:27:06+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere bruna Silva Strong, doza, 0.5 l"
-  },
-  {
    "url": "https://lorimermarket.ro/product/silva-bere-bruna/",
    "domeniu": "lorimermarket.ro",
    "pret": "6.19",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T20:51:57+00:00",
    "vazut": "2026-11-22T20:51:57+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-bruna-silva-strong-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.15",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:04:25+00:00",
+   "vazut": "2026-11-23T02:04:25+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere bruna Silva Strong, doza, 0.5 l"
   }
  ]
 }

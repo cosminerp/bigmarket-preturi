@@ -2,16 +2,6 @@
  "ean": "8720182258137",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/sapun-solid-dove-relaxing-90-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:26:49+00:00",
-   "vazut": "2026-11-22T11:26:49+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Sapun solid Dove Relaxing, 90 g"
-  },
-  {
    "url": "https://cobyul.ro/produs/dove-sapun-solid-90-gr-coconut-milk/?srsltid=AYCX9vJXqADPtpuCRjLl3x_FPHhv_KZDBUKnbN9_KqTsBWHaI5VCcO7c",
    "domeniu": "cobyul.ro",
    "pret": "4.15",
@@ -46,6 +36,16 @@
    "verificat": "2026-11-22T21:38:03+00:00",
    "vazut": "2026-11-22T21:38:03+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/sapun-solid-dove-relaxing-90-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:04:08+00:00",
+   "vazut": "2026-11-23T02:04:08+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Sapun solid Dove Relaxing, 90 g"
   }
  ]
 }

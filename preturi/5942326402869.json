@@ -2,16 +2,6 @@
  "ean": "5942326402869",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-aqua-carpatica-cu-grapefruit-roz-doza-0-33-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:22:54+00:00",
-   "vazut": "2026-11-22T11:22:54+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Aqua Carpatica Flavours cu aroma de grapefruit roz, 0.33 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/aqua-carpatica-flavours-grapefruit-roz-330ml-sgr-24buc-bax-5942326402869",
    "domeniu": "snaemarket.ro",
    "pret": "4.82",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T21:01:15+00:00",
    "vazut": "2026-11-22T21:01:15+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-aqua-carpatica-cu-grapefruit-roz-doza-0-33-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:00:03+00:00",
+   "vazut": "2026-11-23T02:00:03+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Aqua Carpatica Flavours cu aroma de grapefruit roz, 0.33 l"
   }
  ]
 }

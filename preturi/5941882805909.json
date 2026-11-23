@@ -11,17 +11,6 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.auchan.ro/pasta-vegetala-tartinabila-din-linte-rosie-cu-ardei-rosu-sanovita-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:29:45+00:00",
-   "vazut": "2026-11-22T11:29:45+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pasta vegetala din linte rosie cu ardei rosu Sanovita, 100 g",
-   "pret_vechi": "6.59"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/pateu-din-linte-rosie-cu-ardei-100-g-7749111?srsltid=AYCX9vKWdo5IylNZT6i2JsCbGe9qWz2tzF80wk0I1en-roGS_DvEFsEM",
    "domeniu": "naturisti.ro",
    "pret": "5.94",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-22T20:43:48+00:00",
    "vazut": "2026-11-22T20:43:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pasta-vegetala-tartinabila-din-linte-rosie-cu-ardei-rosu-sanovita-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "nu mai e în stoc / nu mai există",
+   "verificat": "2026-11-23T02:07:10+00:00",
+   "vazut": "2026-11-22T11:29:45+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pasta vegetala din linte rosie cu ardei rosu Sanovita, 100 g",
+   "pret_vechi": "6.59"
   }
  ]
 }

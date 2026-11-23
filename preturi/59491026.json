@@ -2,16 +2,6 @@
  "ean": "59491026",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-ciucas-0-33l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.19",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:21:47+00:00",
-   "vazut": "2026-11-22T11:21:47+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Ciucas, 0.33 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/ciucas-bere-330ml-sticla/",
    "domeniu": "pacomarket.ro",
    "pret": "4.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T21:09:51+00:00",
    "vazut": "2026-11-22T21:09:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-ciucas-0-33l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.19",
+   "stare": "ok",
+   "verificat": "2026-11-23T01:58:52+00:00",
+   "vazut": "2026-11-23T01:58:52+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Ciucas, 0.33 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5942218004614",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-necarbogazoasa-de-fructe-rosii-santal-1-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.15",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:23:24+00:00",
-   "vazut": "2026-11-22T11:23:24+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura necarbogazoasa cu aroma de fructe rosii Santal, 1.5 l"
-  },
-  {
    "url": "https://promoazi.ro/sucuri-necarbogazoase/bautura-necarbogazoasa-cu-aroma-de-fructe-rosii-santal-15-l",
    "domeniu": "promoazi.ro",
    "pret": "8.15",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T20:54:56+00:00",
    "vazut": "2026-11-22T20:54:56+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-necarbogazoasa-de-fructe-rosii-santal-1-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.15",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:00:34+00:00",
+   "vazut": "2026-11-23T02:00:34+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura necarbogazoasa cu aroma de fructe rosii Santal, 1.5 l"
   }
  ]
 }

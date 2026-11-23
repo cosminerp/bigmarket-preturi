@@ -2,16 +2,6 @@
  "ean": "5941194000191",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/croco-crackers-cu-sare-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.95",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:25:02+00:00",
-   "vazut": "2026-11-22T11:25:02+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Croco Crackers cu sare 100 g"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/crackers-croco-sare-100g?srsltid=AYCX9vLo_Y05McXh4AievcKoy5M_mBpg1b-gJPIOQMGjsPEzjBHgA59_",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "2.41",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-22T20:25:05+00:00",
    "vazut": "2026-11-22T20:25:05+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/croco-crackers-cu-sare-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:02:14+00:00",
+   "vazut": "2026-11-23T02:02:14+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Croco Crackers cu sare 100 g"
   }
  ]
 }

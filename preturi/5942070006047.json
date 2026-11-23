@@ -2,16 +2,6 @@
  "ean": "5942070006047",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-stella-artois-0-33l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:27:38+00:00",
-   "vazut": "2026-11-22T11:27:38+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Stella Artois, 0.33 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/stella-artois-330ml-sticla/",
    "domeniu": "pacomarket.ro",
    "pret": "6.99",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-22T20:49:55+00:00",
    "vazut": "2026-11-22T20:49:55+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-stella-artois-0-33l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:04:59+00:00",
+   "vazut": "2026-11-23T02:04:59+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Stella Artois, 0.33 l"
   }
  ]
 }

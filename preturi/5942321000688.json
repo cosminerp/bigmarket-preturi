@@ -2,16 +2,6 @@
  "ean": "5942321000688",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-carbogazoasa-poiana-negri-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.25",
-   "stare": "ok",
-   "verificat": "2026-11-22T11:27:12+00:00",
-   "vazut": "2026-11-22T11:27:12+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa minerala naturala carbogazoasa Dorna Poiana Negri Apriga, 2 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-minerala-poiana-negri-apriga-2l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "3.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-22T20:58:38+00:00",
    "vazut": "2026-11-22T20:58:38+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-carbogazoasa-poiana-negri-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.25",
+   "stare": "ok",
+   "verificat": "2026-11-23T02:04:31+00:00",
+   "vazut": "2026-11-23T02:04:31+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa minerala naturala carbogazoasa Dorna Poiana Negri Apriga, 2 l"
   }
  ]
 }
