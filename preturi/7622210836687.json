@@ -2,15 +2,6 @@
  "ean": "7622210836687",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/bisc-oreo-choco-brownie-154gr-16buc-cut-7622210836687",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:34:03+00:00",
-   "vazut": "2026-11-23T09:34:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-oreo-choco-brownie-154-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.11",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Biscuiti Oreo Choco Brownie 154 g",
    "pret_vechi": "7.19"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/bisc-oreo-choco-brownie-154gr-16buc-cut-7622210836687",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:38:50+00:00",
+   "vazut": "2026-11-23T15:38:50+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

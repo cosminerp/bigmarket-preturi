@@ -2,15 +2,6 @@
  "ean": "7613034955098",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/ciocolata-after-eight-classic-200gr/",
-   "domeniu": "pacomarket.ro",
-   "pret": "27.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:32:31+00:00",
-   "vazut": "2026-11-23T09:32:31+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-cu-menta-after-eight-200-g/p",
    "domeniu": "auchan.ro",
    "pret": "20.29",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T12:21:21+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ciocolata cu menta After Eight, 200 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/ciocolata-after-eight-classic-200gr/",
+   "domeniu": "pacomarket.ro",
+   "pret": "27.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:37:24+00:00",
+   "vazut": "2026-11-23T15:37:24+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
