@@ -2,15 +2,6 @@
  "ean": "5201347176136",
  "preturi": [
   {
-   "url": "https://www.1001cosmetice.ro/cumpara/rezerva-odorizant-automat-de-camera-lavanda-si-musetel-air-wick-250-ml-57720",
-   "domeniu": "1001cosmetice.ro",
-   "pret": "14.00",
-   "stare": "ok",
-   "verificat": "2026-11-23T08:12:10+00:00",
-   "vazut": "2026-11-23T08:12:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rezerva-odorizant-electric-de-camera-airwick-freshmatic-levantica-250-ml/p",
    "domeniu": "auchan.ro",
    "pret": "28.29",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-23T12:27:10+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rezerva odorizant electric de camera Airwick Freshmatic Levantica, 250 ml"
+  },
+  {
+   "url": "https://www.1001cosmetice.ro/cumpara/rezerva-odorizant-automat-de-camera-lavanda-si-musetel-air-wick-250-ml-57720",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "14.00",
+   "stare": "ok",
+   "verificat": "2026-11-23T14:14:21+00:00",
+   "vazut": "2026-11-23T14:14:21+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
