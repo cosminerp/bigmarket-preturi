@@ -2,16 +2,6 @@
  "ean": "5941065009827",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/iaurt-bio-napolact-140-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.89",
-   "stare": "nu mai e în stoc / nu mai există",
-   "verificat": "2026-11-16T11:10:41+00:00",
-   "vazut": "2026-11-15T19:49:42+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Iaurt BIO Napolact, 140 g"
-  },
-  {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/napolact-bio-iaurt-natural-pahar-3-8-140g.html",
    "domeniu": "eurodiscount.ro",
    "pret": "3.99",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-23T08:31:07+00:00",
    "vazut": "2026-11-23T08:31:07+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/iaurt-bio-napolact-140-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.89",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:20:55+00:00",
+   "vazut": "2026-11-23T12:20:55+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Iaurt BIO Napolact, 140 g"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5941065012056",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/unt-napolact-82-grasime-180-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.89",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:01:26+00:00",
-   "vazut": "2026-11-23T02:01:26+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Unt Napolact, 82% grasime, 180 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/unt-napolact-82-180g/",
    "domeniu": "pacomarket.ro",
    "pret": "15.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T08:31:13+00:00",
    "vazut": "2026-11-23T08:31:13+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/unt-napolact-82-grasime-180-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.89",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:36:40+00:00",
+   "vazut": "2026-11-23T12:36:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Unt Napolact, 82% grasime, 180 g"
   }
  ]
 }

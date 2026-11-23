@@ -2,16 +2,6 @@
  "ean": "5948865000016",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chibrituri-match-point-standard/p",
-   "domeniu": "auchan.ro",
-   "pret": "1.75",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:00:43+00:00",
-   "vazut": "2026-11-23T02:00:43+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chibrituri Match Point standard"
-  },
-  {
    "url": "https://www.vivomarket.ro/curatenie-intretinere/cutii-chibrituri-10-pachete-match-point.html",
    "domeniu": "vivomarket.ro",
    "pret": "21.10",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-23T09:16:28+00:00",
    "vazut": "2026-11-23T09:16:28+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chibrituri-match-point-standard/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.75",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:35:53+00:00",
+   "vazut": "2026-11-23T12:35:53+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chibrituri Match Point standard"
   }
  ]
 }

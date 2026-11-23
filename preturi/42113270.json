@@ -2,16 +2,6 @@
  "ean": "42113270",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/guma-de-mestecat-cu-aroma-de-pepene-rosu-orbit-watermelon-10-bucati-14-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:00:14+00:00",
-   "vazut": "2026-11-23T02:00:14+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Guma de mestecat cu aroma de pepene verde Orbit Watermelon, 10 bucati, 14 g"
-  },
-  {
    "url": "https://cobyul.ro/produs/orbit-pastile-10-buc-watermelon/?srsltid=AYCX9vKuMpWstAhKOw24u8DVpLJmn7aPpawnd8WPkRoKfdJp9QudIS0q",
    "domeniu": "cobyul.ro",
    "pret": "3.55",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T08:03:07+00:00",
    "vazut": "2026-11-23T08:03:07+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/guma-de-mestecat-cu-aroma-de-pepene-rosu-orbit-watermelon-10-bucati-14-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:35:21+00:00",
+   "vazut": "2026-11-23T12:35:21+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Guma de mestecat cu aroma de pepene verde Orbit Watermelon, 10 bucati, 14 g"
   }
  ]
 }

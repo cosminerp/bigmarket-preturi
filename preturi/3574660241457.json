@@ -2,16 +2,6 @@
  "ean": "3574660241457",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/tampoane-ob-procomfort-mini-8-bucati/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.19",
-   "stare": "ok",
-   "verificat": "2026-11-23T01:52:35+00:00",
-   "vazut": "2026-11-23T01:52:35+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Tampoane OB Procomfort Mini, 8 bucati"
-  },
-  {
    "url": "https://www.farmaciilenapofarm.ro/igiena-intima/o-b-procomfort-mini-x-8buc?srsltid=AYCX9vJRqhhRmu0PON303_JjXJbe2FVWXjDEVG3BosR_7aFTCaWn-7mL",
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "6.40",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T07:50:25+00:00",
    "vazut": "2026-11-23T07:50:25+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/tampoane-ob-procomfort-mini-8-bucati/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.19",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:26:51+00:00",
+   "vazut": "2026-11-23T12:26:51+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Tampoane OB Procomfort Mini, 8 bucati"
   }
  ]
 }

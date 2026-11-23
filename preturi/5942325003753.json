@@ -2,17 +2,6 @@
  "ean": "5942325003753",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-bucovina-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T01:51:12+00:00",
-   "vazut": "2026-11-23T01:51:12+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Bucovina, 2 l",
-   "pret_vechi": "4.49"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-plata-bucovina-2l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "3.75",
@@ -47,6 +36,17 @@
    "verificat": "2026-11-23T09:09:51+00:00",
    "vazut": "2026-11-23T09:09:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-bucovina-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:25:23+00:00",
+   "vazut": "2026-11-23T12:25:23+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Bucovina, 2 l",
+   "pret_vechi": "4.49"
   }
  ]
 }

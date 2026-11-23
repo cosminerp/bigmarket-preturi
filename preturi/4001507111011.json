@@ -2,16 +2,6 @@
  "ean": "4001507111011",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/fulgi-de-ovaz-fortin-500-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-22T19:40:16+00:00",
-   "vazut": "2026-11-22T19:40:16+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Fulgi fini de ovaz Fortin, 500 g"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/fulgi-de-ovaz-fortin-500-g-7745950?srsltid=AYCX9vID3PZy2RUgjJS2pTLdFavmngq17xRFf8Rf4LLK9G9mvkgWDUPc",
    "domeniu": "naturisti.ro",
    "pret": "10.74",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T08:00:15+00:00",
    "vazut": "2026-11-23T08:00:15+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/fulgi-de-ovaz-fortin-500-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.29",
+   "stare": "nu mai e în stoc / nu mai există",
+   "verificat": "2026-11-23T12:24:25+00:00",
+   "vazut": "2026-11-22T19:40:16+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Fulgi fini de ovaz Fortin, 500 g"
   }
  ]
 }

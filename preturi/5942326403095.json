@@ -2,16 +2,6 @@
  "ean": "5942326403095",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-aqua-carpatica-flavours-cu-aroma-de-mandarine-0-33l/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:05:04+00:00",
-   "vazut": "2026-11-23T02:05:04+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Aqua Carpatica Flavours cu aroma de mandarine, 0.33 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/aqua-carpatica-flavours-mandarine-330ml-sgr-24buc-bax-5942326403095",
    "domeniu": "snaemarket.ro",
    "pret": "4.82",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T09:12:30+00:00",
    "vazut": "2026-11-23T09:12:30+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-aqua-carpatica-flavours-cu-aroma-de-mandarine-0-33l/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:40:34+00:00",
+   "vazut": "2026-11-23T12:40:34+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Aqua Carpatica Flavours cu aroma de mandarine, 0.33 l"
   }
  ]
 }

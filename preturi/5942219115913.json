@@ -2,16 +2,6 @@
  "ean": "5942219115913",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-borsec-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.29",
-   "stare": "ok",
-   "verificat": "2026-11-23T01:58:45+00:00",
-   "vazut": "2026-11-23T01:58:45+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Borsec, 0.5 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-plata-borsec-500ml-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "2.95",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T09:04:54+00:00",
    "vazut": "2026-11-23T09:04:54+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-borsec-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.29",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:33:40+00:00",
+   "vazut": "2026-11-23T12:33:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Borsec, 0.5 l"
   }
  ]
 }

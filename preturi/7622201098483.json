@@ -2,16 +2,6 @@
  "ean": "7622201098483",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ciocolata-aerata-cu-lapte-milka-90-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:05:18+00:00",
-   "vazut": "2026-11-23T02:05:18+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ciocolata aerata cu lapte Milka, 90 g"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/ciocolata-milka-bubbly-cu-lapte-tableta-90g?srsltid=AYCX9vJ2rdjqHdSEOCB0ca8SsQjaBE4B4N3yKNdHIyhQifJ39p9rgvOp",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "8.74",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-23T09:32:58+00:00",
    "vazut": "2026-11-23T09:32:58+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ciocolata-aerata-cu-lapte-milka-90-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:40:49+00:00",
+   "vazut": "2026-11-23T12:40:49+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ciocolata aerata cu lapte Milka, 90 g"
   }
  ]
 }

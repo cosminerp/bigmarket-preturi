@@ -2,16 +2,6 @@
  "ean": "8719200240810",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/margarina-delma-sandwich-225-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-22T19:32:57+00:00",
-   "vazut": "2026-11-22T19:32:57+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Margarina Delma Sandwich, 225 g"
-  },
-  {
    "url": "https://promoazi.ro/unt-margarina-amestecuri-tartinabile/margarina-delma-sandwich-225g",
    "domeniu": "promoazi.ro",
    "pret": "4.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-23T09:47:14+00:00",
    "vazut": "2026-11-23T09:47:14+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/margarina-delma-sandwich-225-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:24:14+00:00",
+   "vazut": "2026-11-23T12:24:14+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Margarina Delma Sandwich, 225 g"
   }
  ]
 }

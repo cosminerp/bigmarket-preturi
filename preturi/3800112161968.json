@@ -2,17 +2,6 @@
  "ean": "3800112161968",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/crema-pentru-gatit-uht-cucina-d-oro-23-grasime-200-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:03:57+00:00",
-   "vazut": "2026-11-23T02:03:57+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Crema pentru gatit UHT Cucina D'Oro, 23% grasime, 200 ml",
-   "pret_vechi": "5.99"
-  },
-  {
    "url": "https://pacomarket.ro/product/produs-veg-pt-gatit-cucina-d-oro-200ml/",
    "domeniu": "pacomarket.ro",
    "pret": "4.49",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-23T07:58:01+00:00",
    "vazut": "2026-11-23T07:58:01+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/crema-pentru-gatit-uht-cucina-d-oro-23-grasime-200-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:39:20+00:00",
+   "vazut": "2026-11-23T12:39:20+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Crema pentru gatit UHT Cucina D'Oro, 23% grasime, 200 ml",
+   "pret_vechi": "5.99"
   }
  ]
 }

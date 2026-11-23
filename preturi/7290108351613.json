@@ -2,16 +2,6 @@
  "ean": "7290108351613",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/detergent-lichid-sano-fresh-home-luxury-pentru-pardoseli-2l/p",
-   "domeniu": "auchan.ro",
-   "pret": "18.89",
-   "stare": "ok",
-   "verificat": "2026-11-23T01:52:05+00:00",
-   "vazut": "2026-11-23T01:52:05+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Detergent lichid Sano Fresh Home luxury, pentru pardoseli, 2L"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/detergenti/sano-floor-fresh-home-luxury-hotel-2l-6buc-bax-7290108351613",
    "domeniu": "snaemarket.ro",
    "pret": "20.70",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-23T09:32:14+00:00",
    "vazut": "2026-11-23T09:32:14+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/detergent-lichid-sano-fresh-home-luxury-pentru-pardoseli-2l/p",
+   "domeniu": "auchan.ro",
+   "pret": "18.89",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:26:19+00:00",
+   "vazut": "2026-11-23T12:26:19+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Detergent lichid Sano Fresh Home luxury, pentru pardoseli, 2L"
   }
  ]
 }

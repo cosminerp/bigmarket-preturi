@@ -2,16 +2,6 @@
  "ean": "5942105011916",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-amstel-sticla-0-33-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.25",
-   "stare": "ok",
-   "verificat": "2026-11-23T02:01:37+00:00",
-   "vazut": "2026-11-23T02:01:37+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Amstel, sticla, 0.33 l"
-  },
-  {
    "url": "https://alcooldiscount.ro/bere-blonda-filtrata-amstel-5-alc-033l-romania.html",
    "domeniu": "alcooldiscount.ro",
    "pret": "4.24",
@@ -46,6 +36,16 @@
    "verificat": "2026-11-23T09:00:29+00:00",
    "vazut": "2026-11-23T09:00:29+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-amstel-sticla-0-33-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.25",
+   "stare": "ok",
+   "verificat": "2026-11-23T12:36:53+00:00",
+   "vazut": "2026-11-23T12:36:53+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Amstel, sticla, 0.33 l"
   }
  ]
 }
