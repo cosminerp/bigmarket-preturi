@@ -2,24 +2,6 @@
  "ean": "5942219116590",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/apa-borsec-minerala-0-75-sgr-6buc-bax-5942219116590",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.27",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:05:17+00:00",
-   "vazut": "2026-11-23T09:05:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/apa-minerala-naturala-borsec-0-75l?srsltid=AYCX9vKRqYCabPCyQRIutzc6_ctEA7yhOm8VOIQ2F3hafvXS4YrsWczB",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "6.47",
-   "stare": "ok",
-   "verificat": "2026-11-23T09:05:19+00:00",
-   "vazut": "2026-11-23T09:05:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-minerala-naturala-carbogazoasa-borsec-blue-0-75-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "5.29",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-23T12:34:21+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa minerala naturala carbogazoasa Borsec Blue, 0.75 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/apa-borsec-minerala-0-75-sgr-6buc-bax-5942219116590",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.27",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:10:27+00:00",
+   "vazut": "2026-11-23T15:10:27+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-minerala-naturala-borsec-0-75l?srsltid=AYCX9vKRqYCabPCyQRIutzc6_ctEA7yhOm8VOIQ2F3hafvXS4YrsWczB",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "6.47",
+   "stare": "ok",
+   "verificat": "2026-11-23T15:10:30+00:00",
+   "vazut": "2026-11-23T15:10:30+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
