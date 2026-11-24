@@ -2,16 +2,6 @@
  "ean": "5941872202497",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cascaval-de-ibanesti-mirdatod-feliat-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:24:29+00:00",
-   "vazut": "2026-11-24T02:24:29+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cascaval de Ibanesti Mirdatod, feliat, 120 g"
-  },
-  {
    "url": "https://promoazi.ro/cascaval/cascaval-de-ibanesti-mirdatod-feliat-120-g",
    "domeniu": "promoazi.ro",
    "pret": "7.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T10:12:49+00:00",
    "vazut": "2026-11-16T10:40:04+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cascaval-de-ibanesti-mirdatod-feliat-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:49:41+00:00",
+   "vazut": "2026-11-24T13:49:41+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cascaval de Ibanesti Mirdatod, feliat, 120 g"
   }
  ]
 }

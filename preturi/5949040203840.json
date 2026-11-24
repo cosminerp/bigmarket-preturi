@@ -2,16 +2,6 @@
  "ean": "5949040203840",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/toortitzi-alka-cu-sare-200-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:31:01+00:00",
-   "vazut": "2026-11-24T02:31:01+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Toortitzi Alka cu sare, 200 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/toortitzi-cu-sare-200g-12buc-bax-5949040203840",
    "domeniu": "snaemarket.ro",
    "pret": "6.22",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T10:33:47+00:00",
    "vazut": "2026-11-18T10:12:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/toortitzi-alka-cu-sare-200-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:56:30+00:00",
+   "vazut": "2026-11-24T13:56:30+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Toortitzi Alka cu sare, 200 g"
   }
  ]
 }

@@ -2,17 +2,6 @@
  "ean": "5946035070234",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/solutie-pentru-scos-pete-nufar-0-5-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:10:22+00:00",
-   "vazut": "2026-11-24T02:10:22+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Solutie pentru scos pete Nufar, 0.5 l",
-   "pret_vechi": "14.89"
-  },
-  {
    "url": "https://www.cuccos.ro/toate-produsele--41/nufar-spray-scos-pete-500ml--89577.htm?srsltid=AYCX9vKw_SVzOjKnYaPzvZ3sgwXQPGSt6SUleSkDZgR-xs4WUWS9K9Z_",
    "domeniu": "cuccos.ro",
    "pret": "14.80",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-24T10:29:30+00:00",
    "vazut": "2026-11-24T10:29:30+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/solutie-pentru-scos-pete-nufar-0-5-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:34:52+00:00",
+   "vazut": "2026-11-24T13:34:52+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Solutie pentru scos pete Nufar, 0.5 l",
+   "pret_vechi": "14.89"
   }
  ]
 }

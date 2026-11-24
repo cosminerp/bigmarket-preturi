@@ -4,12 +4,13 @@
   {
    "url": "https://www.auchan.ro/sos-pesto-alla-genovese-barilla-190-g/p",
    "domeniu": "auchan.ro",
-   "pret": "16.99",
-   "stare": "nu mai e în stoc / nu mai există",
-   "verificat": "2026-11-17T07:55:50+00:00",
-   "vazut": "2026-11-16T22:05:11+00:00",
+   "pret": "13.59",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:33:50+00:00",
+   "vazut": "2026-11-24T13:33:50+00:00",
    "metoda": "auchan_catalog",
-   "nume": "Sos pesto cu busuioc Barilla alla Genovese, 190 g"
+   "nume": "Sos pesto cu busuioc Barilla alla Genovese, 190 g",
+   "pret_vechi": "16.99"
   }
  ]
 }

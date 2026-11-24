@@ -2,17 +2,6 @@
  "ean": "5943000092543",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/crema-depilatoare-farmec-men/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:12:44+00:00",
-   "vazut": "2026-11-24T02:12:44+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Crema depilatoare Farmec Men, 150 ml",
-   "pret_vechi": "11.89"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/uz-personal/farmec-crema-depilatoare-men-150ml-10buc-cut-5943000092543",
    "domeniu": "snaemarket.ro",
    "pret": "11.29",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-24T10:28:20+00:00",
    "vazut": "2026-11-24T10:28:20+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/crema-depilatoare-farmec-men/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:37:30+00:00",
+   "vazut": "2026-11-24T13:37:30+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Crema depilatoare Farmec Men, 150 ml",
+   "pret_vechi": "11.89"
   }
  ]
 }

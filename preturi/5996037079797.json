@@ -2,16 +2,6 @@
  "ean": "5996037079797",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/dezinfectant-domestos-extended-power-750-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.89",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:12:54+00:00",
-   "vazut": "2026-11-24T02:12:54+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Dezinfectant Domestos Extended Power, 750 ml"
-  },
-  {
    "url": "https://veryretail.ro/p/domestos-dezinfectant-pentru-wc-750-ml-pine-36",
    "domeniu": "veryretail.ro",
    "pret": "10.81",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T10:36:56+00:00",
    "vazut": "2026-11-24T10:36:56+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/dezinfectant-domestos-extended-power-750-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.89",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:37:43+00:00",
+   "vazut": "2026-11-24T13:37:43+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Dezinfectant Domestos Extended Power, 750 ml"
   }
  ]
 }

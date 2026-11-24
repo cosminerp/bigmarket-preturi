@@ -2,16 +2,6 @@
  "ean": "5942321000213",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-madness-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:23:35+00:00",
-   "vazut": "2026-11-24T02:23:35+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa cu aroma de struguri Fanta Madness, 2 l"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/bautura-carbogazoasa-fanta-struguri-2l?srsltid=AYCX9vJsYe2AvXbJlq6A0Xx_pQTFlZY-ZN6CuGtEKJT1KU7Ng_etuRL5",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "13.96",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T10:24:30+00:00",
    "vazut": "2026-11-24T10:24:30+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-madness-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:48:42+00:00",
+   "vazut": "2026-11-24T13:48:42+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa cu aroma de struguri Fanta Madness, 2 l"
   }
  ]
 }

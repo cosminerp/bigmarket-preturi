@@ -2,16 +2,6 @@
  "ean": "5941035012970",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/prajitura-casei-cu-portocala-si-crema-de-ciocolata-alka-330-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.69",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:15:02+00:00",
-   "vazut": "2026-11-24T02:15:02+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Prajitura casei cu portocala si crema de ciocolata Alka, 330 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/prajituri-fursecuri/alka-prajitura-casei-portocala-si-crema-ciocolata-330g-5941035012970",
    "domeniu": "snaemarket.ro",
    "pret": "13.24",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T09:53:51+00:00",
    "vazut": "2026-11-24T09:53:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/prajitura-casei-cu-portocala-si-crema-de-ciocolata-alka-330-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.69",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:39:55+00:00",
+   "vazut": "2026-11-24T13:39:55+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Prajitura casei cu portocala si crema de ciocolata Alka, 330 g"
   }
  ]
 }

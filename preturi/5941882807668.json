@@ -2,16 +2,6 @@
  "ean": "5941882807668",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/rondele-din-orez-sanovita-glazura-de-capsuni-66-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.19",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:11:39+00:00",
-   "vazut": "2026-11-24T02:11:39+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Rondele din orez cu glazura de capsuni SanoVita, 66 g"
-  },
-  {
    "url": "https://frunzaverde.ro/magazin/alimentare/gustari/rondele-orez-cu-glazura-capsuni-66gr/?srsltid=AYCX9vLewHSLsYuuAOYwTeoVDAPE_WPPhxJhDy5INh0yCck_I9b1Nlaq",
    "domeniu": "frunzaverde.ro",
    "pret": "5.74",
@@ -64,6 +54,16 @@
    "verificat": "2026-11-24T10:14:29+00:00",
    "vazut": "2026-11-24T10:14:29+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/rondele-din-orez-sanovita-glazura-de-capsuni-66-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.39",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:36:17+00:00",
+   "vazut": "2026-11-24T13:36:17+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Rondele din orez cu glazura de capsuni SanoVita, 66 g"
   }
  ]
 }

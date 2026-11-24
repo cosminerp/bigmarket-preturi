@@ -2,16 +2,6 @@
  "ean": "5940714373128",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/nenea-iancu-bere-nefiltrata-national-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.95",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:10:40+00:00",
-   "vazut": "2026-11-24T02:10:40+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere nefiltrata Nenea Iancu National, 0.5 l"
-  },
-  {
    "url": "https://promoazi.ro/bere-cidru/bere-nefiltrata-nenea-iancu-national-500ml",
    "domeniu": "promoazi.ro",
    "pret": "4.89",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T09:50:11+00:00",
    "vazut": "2026-11-24T09:50:11+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/nenea-iancu-bere-nefiltrata-national-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.95",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:35:12+00:00",
+   "vazut": "2026-11-24T13:35:12+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere nefiltrata Nenea Iancu National, 0.5 l"
   }
  ]
 }

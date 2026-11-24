@@ -2,16 +2,6 @@
  "ean": "5941035012505",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-cu-crema-de-frisca-si-crema-de-lamaie-alka-ego-143-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.19",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:29:27+00:00",
-   "vazut": "2026-11-24T02:29:27+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu crema de frisca si crema de lamaie Alka Ego, 143 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/alka-ego-biscuiti-cu-crema-de-frisca-si-crema-de-lamaie-135g-5941035012505",
    "domeniu": "snaemarket.ro",
    "pret": "5.53",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-24T09:53:36+00:00",
    "vazut": "2026-11-24T09:53:36+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-cu-crema-de-frisca-si-crema-de-lamaie-alka-ego-143-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.19",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:54:57+00:00",
+   "vazut": "2026-11-24T13:54:57+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu crema de frisca si crema de lamaie Alka Ego, 143 g"
   }
  ]
 }

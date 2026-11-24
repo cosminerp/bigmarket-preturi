@@ -2,16 +2,6 @@
  "ean": "5940620000057",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-energizanta-burn-original-0-25l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:22:20+00:00",
-   "vazut": "2026-11-24T02:22:20+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura energizanta Burn Original, 0.25 l"
-  },
-  {
    "url": "https://corsomarket.ro/product/burn-energy-0-25l/?srsltid=AYCX9vLJdHuzIXre9W6jDVWRyo0Q4qu7dFZt-VfbTd-OsRLExV6TV_74",
    "domeniu": "corsomarket.ro",
    "pret": "5.50",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-24T09:53:14+00:00",
    "vazut": "2026-11-24T09:53:14+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-energizanta-burn-original-0-25l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:47:24+00:00",
+   "vazut": "2026-11-24T13:47:24+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura energizanta Burn Original, 0.25 l"
   }
  ]
 }

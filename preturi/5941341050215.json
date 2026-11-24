@@ -2,16 +2,6 @@
  "ean": "5941341050215",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/roua-castraveti-murati-1-4cm-350g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:14:37+00:00",
-   "vazut": "2026-11-24T02:14:37+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Castraveti murati 1-4 cm Roua, 350 g"
-  },
-  {
    "url": "https://promoazi.ro/muraturi/castraveti-murati-1-4-cm-roua-350g",
    "domeniu": "promoazi.ro",
    "pret": "7.89",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T10:03:20+00:00",
    "vazut": "2026-11-24T10:03:20+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/roua-castraveti-murati-1-4cm-350g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:39:28+00:00",
+   "vazut": "2026-11-24T13:39:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Castraveti murati 1-4 cm Roua, 350 g"
   }
  ]
 }

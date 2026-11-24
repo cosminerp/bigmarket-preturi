@@ -2,16 +2,6 @@
  "ean": "5941265031581",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/crenvursti-din-piept-de-pui-extra-cris-tim-250-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:24:11+00:00",
-   "vazut": "2026-11-24T02:24:11+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Crenvursti din piept de pui extra Cris-Tim, 250 g"
-  },
-  {
    "url": "https://promoazi.ro/mezeluri/crenvursti-din-piept-de-pui-extra-cris-tim-250-g",
    "domeniu": "promoazi.ro",
    "pret": "9.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T09:58:31+00:00",
    "vazut": "2026-11-24T09:58:31+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/crenvursti-din-piept-de-pui-extra-cris-tim-250-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:49:22+00:00",
+   "vazut": "2026-11-24T13:49:22+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Crenvursti din piept de pui extra Cris-Tim, 250 g"
   }
  ]
 }

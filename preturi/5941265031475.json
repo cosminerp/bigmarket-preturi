@@ -2,16 +2,6 @@
  "ean": "5941265031475",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/rulada-de-pui-matache-macelaru-feliata-150-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T02:26:17+00:00",
-   "vazut": "2026-11-24T02:26:17+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Sunca din piept de pui Matache Macelaru, 150 g"
-  },
-  {
    "url": "https://promoazi.ro/mezeluri/sunca-din-piept-de-pui-matache-macelaru-150-g",
    "domeniu": "promoazi.ro",
    "pret": "9.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T09:58:29+00:00",
    "vazut": "2026-11-24T09:58:29+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/rulada-de-pui-matache-macelaru-feliata-150-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T13:51:28+00:00",
+   "vazut": "2026-11-24T13:51:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Sunca din piept de pui Matache Macelaru, 150 g"
   }
  ]
 }
