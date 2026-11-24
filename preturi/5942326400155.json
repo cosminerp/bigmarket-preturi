@@ -2,33 +2,6 @@
  "ean": "5942326400155",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-5l-5942326400155",
-   "domeniu": "snaemarket.ro",
-   "pret": "8.87",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-24T10:26:57+00:00",
-   "vazut": "2026-11-18T11:34:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/apa-plata-carpatica-5l/",
-   "domeniu": "pacomarket.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:26:59+00:00",
-   "vazut": "2026-11-24T10:26:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.ovmpaper.ro/aqua-carpatica-apa-plata-5-litri-bax-2-x-pet?srsltid=AYCX9vK6RMkK8z1MVJsH1q3CXoFQL525_XKwMVtjbWdlJxyBX_cvvxVK",
-   "domeniu": "ovmpaper.ro",
-   "pret": "28.01",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:27:03+00:00",
-   "vazut": "2026-11-24T10:27:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-5-l/p",
    "domeniu": "auchan.ro",
    "pret": "9.69",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-24T13:49:24+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Aqua Carpatica, 5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-5l-5942326400155",
+   "domeniu": "snaemarket.ro",
+   "pret": "8.87",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-24T16:37:32+00:00",
+   "vazut": "2026-11-18T11:34:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-carpatica-5l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:37:35+00:00",
+   "vazut": "2026-11-24T16:37:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.ovmpaper.ro/aqua-carpatica-apa-plata-5-litri-bax-2-x-pet?srsltid=AYCX9vK6RMkK8z1MVJsH1q3CXoFQL525_XKwMVtjbWdlJxyBX_cvvxVK",
+   "domeniu": "ovmpaper.ro",
+   "pret": "28.01",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:37:38+00:00",
+   "vazut": "2026-11-24T16:37:38+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

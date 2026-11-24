@@ -2,33 +2,6 @@
  "ean": "5943000092468",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p330731",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "14.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:28:08+00:00",
-   "vazut": "2026-11-24T10:28:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p167135",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "14.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:28:11+00:00",
-   "vazut": "2026-11-24T10:28:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.dovermedfarma.ro/farmec-crema-depilatoare-rapida-argan-150ml?srsltid=AYCX9vKb6qV2QpzUhph85ioGnQM5ATbuk5tD365sDCiHzZ6xyhx0g_GH",
-   "domeniu": "dovermedfarma.ro",
-   "pret": "14.63",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:28:15+00:00",
-   "vazut": "2026-11-24T10:28:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/crema-depilatoare-rapida-farmec-cu-argan/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -38,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Crema depilatoare rapida Farmec cu argan, 150 ml",
    "pret_vechi": "11.89"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p330731",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "14.00",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:38:43+00:00",
+   "vazut": "2026-11-24T16:38:43+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p167135",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "14.00",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:38:46+00:00",
+   "vazut": "2026-11-24T16:38:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.dovermedfarma.ro/farmec-crema-depilatoare-rapida-argan-150ml?srsltid=AYCX9vKb6qV2QpzUhph85ioGnQM5ATbuk5tD365sDCiHzZ6xyhx0g_GH",
+   "domeniu": "dovermedfarma.ro",
+   "pret": "14.63",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:38:50+00:00",
+   "vazut": "2026-11-24T16:38:50+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

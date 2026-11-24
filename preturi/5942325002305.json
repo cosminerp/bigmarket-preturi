@@ -2,24 +2,6 @@
  "ean": "5942325002305",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/tymbark-cool-piersica-2l-sgr-6buc-bax-5942325002305",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.30",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:25:41+00:00",
-   "vazut": "2026-11-24T10:25:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/bauturi-nealcoolice/bautura-necarbogazoasa-suc-piersici-tymbark-cool-2l",
-   "domeniu": "promoazi.ro",
-   "pret": "9.29",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:25:43+00:00",
-   "vazut": "2026-11-24T10:25:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-necarbogazoasa-cu-piersici-tymbark-cool-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "9.29",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-24T13:50:52+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura necarbogazoasa cu suc de piersici Tymbark Cool, 2 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/tymbark-cool-piersica-2l-sgr-6buc-bax-5942325002305",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.30",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:36:13+00:00",
+   "vazut": "2026-11-24T16:36:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/bauturi-nealcoolice/bautura-necarbogazoasa-suc-piersici-tymbark-cool-2l",
+   "domeniu": "promoazi.ro",
+   "pret": "9.29",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:36:14+00:00",
+   "vazut": "2026-11-24T16:36:14+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
