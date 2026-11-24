@@ -2,15 +2,6 @@
  "ean": "5941311004613",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/olla-alunite-cacao-200g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:45:19+00:00",
-   "vazut": "2026-11-23T20:45:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/snacks-alunite-cu-cacao-olla-200g/p",
    "domeniu": "auchan.ro",
    "pret": "5.39",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Snacks alunite umplute cu crema de cacao Olla, 200 g",
    "pret_vechi": "5.99"
+  },
+  {
+   "url": "https://pacomarket.ro/product/olla-alunite-cacao-200g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:52:13+00:00",
+   "vazut": "2026-11-24T03:52:13+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "5000204751390",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/raid-rezerva-lichida-21-ml/?srsltid=AYCX9vJd5ZOBRy8sNwSc-buuKEflFUKyMAhqlxIpnfcUU1GyjK0dSxgr",
-   "domeniu": "cobyul.ro",
-   "pret": "19.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:13:27+00:00",
-   "vazut": "2026-11-23T20:13:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rezerva-pentru-aparat-electric-raid-impotriva-tantarilor-1-bucata-pentru-30-de-nopti-21-ml-1/p",
    "domeniu": "auchan.ro",
    "pret": "17.19",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T02:15:12+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rezerva pentru aparat electric Raid impotriva tantarilor, 1 bucata, pentru 30 de nopti, 21 ml"
+  },
+  {
+   "url": "https://cobyul.ro/produs/raid-rezerva-lichida-21-ml/?srsltid=AYCX9vJd5ZOBRy8sNwSc-buuKEflFUKyMAhqlxIpnfcUU1GyjK0dSxgr",
+   "domeniu": "cobyul.ro",
+   "pret": "19.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:36:26+00:00",
+   "vazut": "2026-11-24T03:36:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

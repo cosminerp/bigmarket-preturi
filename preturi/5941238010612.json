@@ -2,30 +2,12 @@
  "ean": "5941238010612",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/felii-br-top-cascaval-140g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:42:43+00:00",
-   "vazut": "2026-11-23T20:42:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-felii-cascaval-140g-32.html",
    "domeniu": "eurodiscount.ro",
    "pret": "8.30",
    "stare": "ok",
    "verificat": "2026-11-23T20:42:46+00:00",
    "vazut": "2026-11-23T20:42:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/crema-de-branza/branza-topita-cu-cascaval-hochland-felii-140-g",
-   "domeniu": "promoazi.ro",
-   "pret": "7.15",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:42:49+00:00",
-   "vazut": "2026-11-23T20:42:49+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -37,6 +19,24 @@
    "vazut": "2026-11-24T02:26:22+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza topita cu cascaval Hochland, felii, 140 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/felii-br-top-cascaval-140g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:49:40+00:00",
+   "vazut": "2026-11-24T03:49:40+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/crema-de-branza/branza-topita-cu-cascaval-hochland-felii-140-g",
+   "domeniu": "promoazi.ro",
+   "pret": "7.15",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:49:44+00:00",
+   "vazut": "2026-11-24T03:49:44+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

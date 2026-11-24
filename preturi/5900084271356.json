@@ -2,15 +2,6 @@
  "ean": "5900084271356",
  "preturi": [
   {
-   "url": "https://promoazi.ro/bacanie/galeo-sweet-paprika-overfill-20-204g",
-   "domeniu": "promoazi.ro",
-   "pret": "2.09",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:18:48+00:00",
-   "vazut": "2026-11-23T20:18:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/galeo-boia-de-ardei-dulce-20-4g/p",
    "domeniu": "auchan.ro",
    "pret": "2.09",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T02:29:53+00:00",
    "metoda": "auchan_catalog",
    "nume": "Boia de ardei dulce Galeo, 20.4 g"
+  },
+  {
+   "url": "https://promoazi.ro/bacanie/galeo-sweet-paprika-overfill-20-204g",
+   "domeniu": "promoazi.ro",
+   "pret": "2.09",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:38:32+00:00",
+   "vazut": "2026-11-24T03:38:32+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

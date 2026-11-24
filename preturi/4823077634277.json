@@ -2,15 +2,6 @@
  "ean": "4823077634277",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/rosh-lovita-cu-jeleu-capsuni-135gr-21buc-bax-4823077634277",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.94",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:09:07+00:00",
-   "vazut": "2026-11-23T20:09:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-glazurati-si-umplutura-de-jeleu-cu-aroma-de-capsuni-lovita-135-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Biscuiti glazurati si umplutura de jeleu cu aroma de capsuni Lovita, 135 g",
    "pret_vechi": "6.49"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/rosh-lovita-cu-jeleu-capsuni-135gr-21buc-bax-4823077634277",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.94",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:34:58+00:00",
+   "vazut": "2026-11-24T03:34:58+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

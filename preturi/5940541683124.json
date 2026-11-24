@@ -2,15 +2,6 @@
  "ean": "5940541683124",
  "preturi": [
   {
-   "url": "https://www.rebeshop.ro/cumpara/vin-cricova-chateau-chardonnay-demisec-0-75l-468",
-   "domeniu": "rebeshop.ro",
-   "pret": "24.90",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:25:17+00:00",
-   "vazut": "2026-11-23T20:25:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/vin-alb-demisec-cricova-chardonnay-0-75l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "19.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T02:14:59+00:00",
    "metoda": "auchan_catalog",
    "nume": "Vin alb demisec Cricova, Chardonnay, 0.75 l"
+  },
+  {
+   "url": "https://www.rebeshop.ro/cumpara/vin-cricova-chateau-chardonnay-demisec-0-75l-468",
+   "domeniu": "rebeshop.ro",
+   "pret": "24.90",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:41:49+00:00",
+   "vazut": "2026-11-24T03:41:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
