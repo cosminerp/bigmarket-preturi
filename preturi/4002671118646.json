@@ -13,15 +13,6 @@
    "pret_vechi": "7.89"
   },
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-almette-crema-verdeata-150g-8.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "9.44",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:32:08+00:00",
-   "vazut": "2026-11-24T03:32:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://promoazi.ro/feliate/crema-branza-verdeata-almette-150g",
    "domeniu": "promoazi.ro",
    "pret": "6.49",
@@ -37,6 +28,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T09:35:43+00:00",
    "vazut": "2026-11-24T09:35:43+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-almette-crema-verdeata-150g-8.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "9.44",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:39:28+00:00",
+   "vazut": "2026-11-24T09:39:28+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,21 +2,21 @@
  "ean": "4823077636356",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/alte-dulciuri/rosh-yummi-gummi-galaxy-life-70-gr-22buc-bax-4823077636356",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.51",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:35:10+00:00",
-   "vazut": "2026-11-24T03:35:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.cafea-premium.ro/dulciuri/roshen-yummi-gummi-galaxy-life-jeleuri-cu-forme-spatiale-70g.html",
    "domeniu": "cafea-premium.ro",
    "pret": "6.40",
    "stare": "ok",
    "verificat": "2026-11-24T03:35:13+00:00",
    "vazut": "2026-11-24T03:35:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/alte-dulciuri/rosh-yummi-gummi-galaxy-life-70-gr-22buc-bax-4823077636356",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.51",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:40:18+00:00",
+   "vazut": "2026-11-24T09:40:18+00:00",
    "metoda": "cautare_google"
   }
  ]

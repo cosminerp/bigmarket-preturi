@@ -2,15 +2,6 @@
  "ean": "4012700987013",
  "preturi": [
   {
-   "url": "https://www.miralde.ro/rechizite-%C8%99i-birotic%C4%83/carioc%C4%83-corectoare-pelikan-cu-v%C3%A2rf-f.html?srsltid=AYCX9vId8c7fMS1ifrSpMPjBDImpvv8tM8pL1qF0FV0_mpTXJdEX3hBE",
-   "domeniu": "miralde.ro",
-   "pret": "7.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:33:01+00:00",
-   "vazut": "2026-11-24T03:33:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://gxcoffice.ro/produs/pic-corector-pelikan-super-pirat-varf-tip-f/?srsltid=AYCX9vKxyiN5-akFbQYtsjVfBijt8u4599XoDqLDEMnZbb3iYdjYsYSu",
    "domeniu": "gxcoffice.ro",
    "pret": "3.88",
@@ -35,6 +26,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T09:36:31+00:00",
    "vazut": "2026-11-24T09:36:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miralde.ro/rechizite-%C8%99i-birotic%C4%83/carioc%C4%83-corectoare-pelikan-cu-v%C3%A2rf-f.html?srsltid=AYCX9vId8c7fMS1ifrSpMPjBDImpvv8tM8pL1qF0FV0_mpTXJdEX3hBE",
+   "domeniu": "miralde.ro",
+   "pret": "7.00",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:39:41+00:00",
+   "vazut": "2026-11-24T09:39:41+00:00",
    "metoda": "cautare_google"
   }
  ]

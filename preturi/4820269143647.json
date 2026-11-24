@@ -2,15 +2,6 @@
  "ean": "4820269143647",
  "preturi": [
   {
-   "url": "https://www.fourpaws.ro/produse-pisici/my-love-hrana-uscata-pentru-pisici-adulte-cu-vita-300g.html?srsltid=AYCX9vJOy3FtgE_24t-kKgtj83Vpj4MrgAY0b3rq-DKQAoISpb4cF0dr",
-   "domeniu": "fourpaws.ro",
-   "pret": "4.90",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:34:16+00:00",
-   "vazut": "2026-11-24T03:34:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-adulte-cu-vita-300g/?srsltid=AYCX9vKqErcSIClBsRrtuWCBqsvsAaDt9WNcU0NFYaAdHMEPO-YAYFEY",
    "domeniu": "club4labute.ro",
    "pret": "5.40",
@@ -35,6 +26,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T09:37:43+00:00",
    "vazut": "2026-11-24T09:37:43+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.fourpaws.ro/produse-pisici/my-love-hrana-uscata-pentru-pisici-adulte-cu-vita-300g.html?srsltid=AYCX9vJOy3FtgE_24t-kKgtj83Vpj4MrgAY0b3rq-DKQAoISpb4cF0dr",
+   "domeniu": "fourpaws.ro",
+   "pret": "4.90",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:39:46+00:00",
+   "vazut": "2026-11-24T09:39:46+00:00",
    "metoda": "cautare_google"
   }
  ]
