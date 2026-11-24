@@ -2,12 +2,21 @@
  "ean": "6420387321002",
  "preturi": [
   {
+   "url": "https://www.librariacompas.ro/rechizite-scolare/caiet-biologie-24-file-pigna.html?srsltid=AYCX9vKPlMIkigh-YwIEkDS2x-QV7G6fixihm_c_vL0z-CFtDz9t5bor",
+   "domeniu": "librariacompas.ro",
+   "pret": "3.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T10:42:40+00:00",
+   "vazut": "2026-11-24T10:42:40+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.bubikids.ro/cumpara/caiet-de-biologie-17-x-24-cm-24-file-9331",
    "domeniu": "bubikids.ro",
    "pret": "3.00",
    "stare": "ok",
-   "verificat": "2026-11-24T10:38:27+00:00",
-   "vazut": "2026-11-24T10:38:27+00:00",
+   "verificat": "2026-11-24T16:50:20+00:00",
+   "vazut": "2026-11-24T16:50:20+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,8 +24,8 @@
    "domeniu": "roua.ro",
    "pret": "1.63",
    "stare": "ok",
-   "verificat": "2026-11-24T10:38:30+00:00",
-   "vazut": "2026-11-24T10:38:30+00:00",
+   "verificat": "2026-11-24T16:50:23+00:00",
+   "vazut": "2026-11-24T16:50:23+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -24,8 +33,8 @@
    "domeniu": "officegalaxy.ro",
    "pret": "2.46",
    "stare": "ok",
-   "verificat": "2026-11-24T10:38:35+00:00",
-   "vazut": "2026-11-24T10:38:35+00:00",
+   "verificat": "2026-11-24T16:50:29+00:00",
+   "vazut": "2026-11-24T16:50:29+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -33,8 +42,8 @@
    "domeniu": "kisshop.ro",
    "pret": "2.99",
    "stare": "ok",
-   "verificat": "2026-11-24T10:38:36+00:00",
-   "vazut": "2026-11-24T10:38:36+00:00",
+   "verificat": "2026-11-24T16:50:31+00:00",
+   "vazut": "2026-11-24T16:50:31+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -42,17 +51,8 @@
    "domeniu": "mam-bricolaj.ro",
    "pret": "3.95",
    "stare": "ok",
-   "verificat": "2026-11-24T10:38:39+00:00",
-   "vazut": "2026-11-24T10:38:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.librariacompas.ro/rechizite-scolare/caiet-biologie-24-file-pigna.html?srsltid=AYCX9vKPlMIkigh-YwIEkDS2x-QV7G6fixihm_c_vL0z-CFtDz9t5bor",
-   "domeniu": "librariacompas.ro",
-   "pret": "3.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:42:40+00:00",
-   "vazut": "2026-11-24T10:42:40+00:00",
+   "verificat": "2026-11-24T16:50:34+00:00",
+   "vazut": "2026-11-24T16:50:34+00:00",
    "metoda": "cautare_google"
   }
  ]
