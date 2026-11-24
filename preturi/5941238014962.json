@@ -2,15 +2,6 @@
  "ean": "5941238014962",
  "preturi": [
   {
-   "url": "https://promoazi.ro/telemea/branza-extra-cremoasa-vaca-400g",
-   "domeniu": "promoazi.ro",
-   "pret": "27.85",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:57:37+00:00",
-   "vazut": "2026-11-24T09:57:37+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-extra-cremoasa-de-vaca-hochland-400-g/p",
    "domeniu": "auchan.ro",
    "pret": "28.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T13:40:07+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza extra cremoasa de vaca in saramura Hochland, 400 g"
+  },
+  {
+   "url": "https://promoazi.ro/telemea/branza-extra-cremoasa-vaca-400g",
+   "domeniu": "promoazi.ro",
+   "pret": "27.85",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:02:43+00:00",
+   "vazut": "2026-11-24T16:02:43+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

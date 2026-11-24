@@ -2,33 +2,6 @@
  "ean": "5941238100047",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-triunghi-smantana-140g-32.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "8.30",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:57:44+00:00",
-   "vazut": "2026-11-24T09:57:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/crema-de-branza/branza-topita-smantana-hochland-140g",
-   "domeniu": "promoazi.ro",
-   "pret": "7.39",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:57:46+00:00",
-   "vazut": "2026-11-24T09:57:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/tri-br-smantana-140g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:57:49+00:00",
-   "vazut": "2026-11-24T09:57:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-topita-cu-sumantana-hochland-140-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.45",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-24T13:51:16+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza topita cu smantana Hochland, 140 g"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-triunghi-smantana-140g-32.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "8.30",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:02:50+00:00",
+   "vazut": "2026-11-24T16:02:50+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/crema-de-branza/branza-topita-smantana-hochland-140g",
+   "domeniu": "promoazi.ro",
+   "pret": "7.39",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:02:52+00:00",
+   "vazut": "2026-11-24T16:02:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/tri-br-smantana-140g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:02:55+00:00",
+   "vazut": "2026-11-24T16:02:55+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

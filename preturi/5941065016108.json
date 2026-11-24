@@ -2,15 +2,6 @@
  "ean": "5941065016108",
  "preturi": [
   {
-   "url": "https://promoazi.ro/iaurt/iaurt-de-baut-napolact-pofticios-multifruct-200-g",
-   "domeniu": "promoazi.ro",
-   "pret": "4.29",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:54:57+00:00",
-   "vazut": "2026-11-24T09:54:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/iaurt-de-baut-napolact-pofticios-multifruct-200-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.29",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Iaurt de baut Napolact Pofticios Multifruct, 200 g",
    "pret_vechi": "5.39"
+  },
+  {
+   "url": "https://promoazi.ro/iaurt/iaurt-de-baut-napolact-pofticios-multifruct-200-g",
+   "domeniu": "promoazi.ro",
+   "pret": "4.29",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:00:05+00:00",
+   "vazut": "2026-11-24T16:00:05+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
