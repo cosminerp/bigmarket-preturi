@@ -2,15 +2,6 @@
  "ean": "5940620000057",
  "preturi": [
   {
-   "url": "https://www.edituraprestige.ro/bacanie/bautura-energizanta-burn-doza-250-ml.html",
-   "domeniu": "edituraprestige.ro",
-   "pret": "5.70",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:53:14+00:00",
-   "vazut": "2026-11-24T09:53:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-burn-original-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.99",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T15:54:43+00:00",
    "vazut": "2026-11-24T15:54:43+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.edituraprestige.ro/bacanie/bautura-energizanta-burn-doza-250-ml.html",
+   "domeniu": "edituraprestige.ro",
+   "pret": "5.70",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:05:26+00:00",
+   "vazut": "2026-11-24T16:05:26+00:00",
    "metoda": "cautare_google"
   }
  ]
