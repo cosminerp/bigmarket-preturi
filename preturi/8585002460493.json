@@ -2,15 +2,6 @@
  "ean": "8585002460493",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/condimente/condimente-maggi-gaina-200g-12buc-bax-8585002460493",
-   "domeniu": "snaemarket.ro",
-   "pret": "8.91",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:51:54+00:00",
-   "vazut": "2026-11-23T21:51:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/baza-pentru-mancare-maggi-cu-gust-de-gaina-200g/p",
    "domeniu": "auchan.ro",
    "pret": "9.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T02:14:03+00:00",
    "metoda": "auchan_catalog",
    "nume": "Baza pentru mancare Maggi cu gust de gaina, 200g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/condimente/condimente-maggi-gaina-200g-12buc-bax-8585002460493",
+   "domeniu": "snaemarket.ro",
+   "pret": "8.91",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:41:35+00:00",
+   "vazut": "2026-11-24T04:41:35+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
