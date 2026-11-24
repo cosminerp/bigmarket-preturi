@@ -2,24 +2,6 @@
  "ean": "5941882806296",
  "preturi": [
   {
-   "url": "https://www.trifolia.ro/alimentare/rondele-simple-din-orez-expandat-56g.html?srsltid=AYCX9vJOuzKPq5LXN5GlmWdnH_NwPhRnev5eLkuDdNULy1Be2KoTH8Rs",
-   "domeniu": "trifolia.ro",
-   "pret": "2.64",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-24T10:13:35+00:00",
-   "vazut": "2026-11-17T15:49:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/snacks/rondele-simple-din-orez-sano-vita-56-g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.19",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:13:37+00:00",
-   "vazut": "2026-11-24T10:13:37+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rondele-simple-din-orez-sano-vita-56-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.19",
@@ -54,6 +36,24 @@
    "stare": "ok",
    "verificat": "2026-11-24T16:20:47+00:00",
    "vazut": "2026-11-24T16:20:47+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/rondele-simple-din-orez-expandat-56g.html?srsltid=AYCX9vJOuzKPq5LXN5GlmWdnH_NwPhRnev5eLkuDdNULy1Be2KoTH8Rs",
+   "domeniu": "trifolia.ro",
+   "pret": "2.64",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-24T16:22:30+00:00",
+   "vazut": "2026-11-17T15:49:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/snacks/rondele-simple-din-orez-sano-vita-56-g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.19",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:22:32+00:00",
+   "vazut": "2026-11-24T16:22:32+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,24 +2,6 @@
  "ean": "5942017009032",
  "preturi": [
   {
-   "url": "https://alcooldiscount.ro/zarea-cocktail-to-go-hugo-lamaie-menta-si-soc-075l-8-alc-romania.html",
-   "domeniu": "alcooldiscount.ro",
-   "pret": "31.27",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:16:30+00:00",
-   "vazut": "2026-11-24T10:16:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/zarea-cocktail-to-go-hugo-lamaiementasoc-750ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "34.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:16:33+00:00",
-   "vazut": "2026-11-24T10:16:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cocktail-zarea-hugo-8-alcool-0-75l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "21.99",
@@ -29,6 +11,24 @@
    "metoda": "auchan_catalog",
    "nume": "Cocktail cu suc de lamaie si extracte de menta si soc Zarea Cocktail To Go Hugo, 0.75 l",
    "pret_vechi": "28.89"
+  },
+  {
+   "url": "https://alcooldiscount.ro/zarea-cocktail-to-go-hugo-lamaie-menta-si-soc-075l-8-alc-romania.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "31.27",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:25:46+00:00",
+   "vazut": "2026-11-24T16:25:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/zarea-cocktail-to-go-hugo-lamaiementasoc-750ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "34.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:25:49+00:00",
+   "vazut": "2026-11-24T16:25:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
