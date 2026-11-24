@@ -2,15 +2,6 @@
  "ean": "5946004016720",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/sapunuri/sapun-lichid-vis-de-lavanda-300-ml-igienol-p471092",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "11.00",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:22:12+00:00",
-   "vazut": "2026-11-23T21:22:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.practi.ro/sanatate-si-cosmetica/igienol-sapun-lichid-cu-pompita-300-ml-vis-de-lavanda.html?srsltid=AYCX9vJvOgw7kqX7oI3B3Ug2WZm73gxxMtjvoqomGcdfvQBrFsqzzGFE",
    "domeniu": "practi.ro",
    "pret": "12.25",
@@ -20,12 +11,21 @@
    "metoda": "cautare_google"
   },
   {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/sapunuri/sapun-lichid-vis-de-lavanda-300-ml-igienol-p471092",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "11.00",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:18:39+00:00",
+   "vazut": "2026-11-24T04:18:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://cobyul.ro/produs/igienol-sapun-lichid-300-ml-lavanda/?srsltid=AYCX9vIITCdfxivbz2tecJvhZ7P8OFNqL4tbUUGxahydHK0_dO3KnYZR",
    "domeniu": "cobyul.ro",
    "pret": "11.35",
    "stare": "ok",
-   "verificat": "2026-11-23T21:22:16+00:00",
-   "vazut": "2026-11-23T21:22:16+00:00",
+   "verificat": "2026-11-24T04:18:42+00:00",
+   "vazut": "2026-11-24T04:18:42+00:00",
    "metoda": "cautare_google"
   }
  ]

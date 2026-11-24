@@ -2,24 +2,6 @@
  "ean": "5942321000114",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/coca-cola-zero-2l-pet-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "11.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:15:45+00:00",
-   "vazut": "2026-11-23T21:15:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-zero-2l-sgr-6buc-bax-5942321000114",
-   "domeniu": "snaemarket.ro",
-   "pret": "10.90",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:15:49+00:00",
-   "vazut": "2026-11-23T21:15:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-zero-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "12.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-24T02:22:49+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Coca-Cola Zero Zahar, 2 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/coca-cola-zero-2l-pet-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "11.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:13:18+00:00",
+   "vazut": "2026-11-24T04:13:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-zero-2l-sgr-6buc-bax-5942321000114",
+   "domeniu": "snaemarket.ro",
+   "pret": "10.90",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:13:21+00:00",
+   "vazut": "2026-11-24T04:13:21+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

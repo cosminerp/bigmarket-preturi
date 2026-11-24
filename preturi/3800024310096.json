@@ -2,15 +2,6 @@
  "ean": "3800024310096",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bacanie/pufuleti-monsters-lotto-5-x-35-g.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "10.13",
-   "stare": "ok",
-   "verificat": "2026-11-23T19:56:37+00:00",
-   "vazut": "2026-11-23T19:56:37+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-monsters-cu-rosii-35gr-40buc-bax-3800024310096",
    "domeniu": "snaemarket.ro",
    "pret": "51.71",
@@ -44,6 +35,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T03:29:56+00:00",
    "vazut": "2026-11-24T03:29:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/pufuleti-monsters-lotto-5-x-35-g.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "10.13",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:54:25+00:00",
+   "vazut": "2026-11-24T03:54:25+00:00",
    "metoda": "cautare_google"
   }
  ]

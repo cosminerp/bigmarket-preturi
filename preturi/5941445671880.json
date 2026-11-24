@@ -2,33 +2,6 @@
  "ean": "5941445671880",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-snack-cu-cascaval-65gr-12buc-bax-5941445671880",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.92",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:51:13+00:00",
-   "vazut": "2026-11-23T20:51:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/chio-snacks-cheese-65g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:51:15+00:00",
-   "vazut": "2026-11-23T20:51:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/dulciuri-si-snacks/chio-snack-cartofi-gust-cascaval",
-   "domeniu": "promoazi.ro",
-   "pret": "4.85",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:51:17+00:00",
-   "vazut": "2026-11-23T20:51:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chips-chio-snack-cu-cascaval-65-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.19",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-24T02:27:29+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu gust de cartofi si cascaval Chio Chips Snack, 65 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-snack-cu-cascaval-65gr-12buc-bax-5941445671880",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.92",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:57:07+00:00",
+   "vazut": "2026-11-24T03:57:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/chio-snacks-cheese-65g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:57:10+00:00",
+   "vazut": "2026-11-24T03:57:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/dulciuri-si-snacks/chio-snack-cartofi-gust-cascaval",
+   "domeniu": "promoazi.ro",
+   "pret": "4.85",
+   "stare": "ok",
+   "verificat": "2026-11-24T03:57:12+00:00",
+   "vazut": "2026-11-24T03:57:12+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "5942016310139",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/cooler-hydrate-menta-lime-0-5l-sgr-12buc-bax-5942016310139",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.17",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:05:03+00:00",
-   "vazut": "2026-11-23T21:05:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-carbogazoasa-cu-aroma-de-menta-si-lime-cooler-hydrate-0-5-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T02:27:10+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa carbogazoasa cu aroma de menta si lime Cooler Hydrate, 0.5 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/cooler-hydrate-menta-lime-0-5l-sgr-12buc-bax-5942016310139",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.17",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:06:56+00:00",
+   "vazut": "2026-11-24T04:06:56+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

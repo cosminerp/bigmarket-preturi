@@ -2,42 +2,6 @@
  "ean": "5941882808023",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-ovaz-fini-750-g-sanovita-p468972",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "11.05",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:02:00+00:00",
-   "vazut": "2026-11-23T21:02:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
-   "domeniu": "naturina.ro",
-   "pret": "22.41",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:03:27+00:00",
-   "vazut": "2026-11-23T21:03:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://farmascan.ro/shop/produs/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-10450",
-   "domeniu": "farmascan.ro",
-   "pret": "12.90",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:03:30+00:00",
-   "vazut": "2026-11-23T21:03:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://listacumparaturi.ro/produse/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-springfarma-127071",
-   "domeniu": "listacumparaturi.ro",
-   "pret": "12.90",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:03:31+00:00",
-   "vazut": "2026-11-23T21:03:31+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/fulgi-de-ovaz-fini-sanovita-750-g/p",
    "domeniu": "auchan.ro",
    "pret": "11.99",
@@ -47,6 +11,42 @@
    "metoda": "auchan_catalog",
    "nume": "Fulgi fini de ovaz SanoVita, 750 g",
    "pret_vechi": "13.99"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-ovaz-fini-750-g-sanovita-p468972",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "11.05",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:05:15+00:00",
+   "vazut": "2026-11-24T04:05:15+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
+   "domeniu": "naturina.ro",
+   "pret": "22.41",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:05:18+00:00",
+   "vazut": "2026-11-24T04:05:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://farmascan.ro/shop/produs/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-10450",
+   "domeniu": "farmascan.ro",
+   "pret": "12.90",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:05:21+00:00",
+   "vazut": "2026-11-24T04:05:21+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://listacumparaturi.ro/produse/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-springfarma-127071",
+   "domeniu": "listacumparaturi.ro",
+   "pret": "12.90",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:05:22+00:00",
+   "vazut": "2026-11-24T04:05:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

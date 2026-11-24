@@ -2,33 +2,6 @@
  "ean": "5942219115944",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/apa-plata-aquatique-2l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "3.45",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:13:27+00:00",
-   "vazut": "2026-11-23T21:13:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aquatique-apa-plata-2l-sgr-4buc-bax-5942219115944",
-   "domeniu": "snaemarket.ro",
-   "pret": "2.76",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:13:30+00:00",
-   "vazut": "2026-11-23T21:13:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.pretistet.ro/produs/aquatique-apa-minerala-naturala-plata-oligominerala-2-l-ambalaj-returnabil/",
-   "domeniu": "pretistet.ro",
-   "pret": "3.89",
-   "stare": "ok",
-   "verificat": "2026-11-23T21:13:33+00:00",
-   "vazut": "2026-11-23T21:13:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-plata-aquatique-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-24T02:21:51+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Aquatique, 2 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-aquatique-2l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "3.45",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:12:31+00:00",
+   "vazut": "2026-11-24T04:12:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aquatique-apa-plata-2l-sgr-4buc-bax-5942219115944",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.76",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:12:34+00:00",
+   "vazut": "2026-11-24T04:12:34+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/aquatique-apa-minerala-naturala-plata-oligominerala-2-l-ambalaj-returnabil/",
+   "domeniu": "pretistet.ro",
+   "pret": "3.89",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:12:38+00:00",
+   "vazut": "2026-11-24T04:12:38+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
