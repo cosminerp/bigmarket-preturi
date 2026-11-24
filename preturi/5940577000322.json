@@ -2,15 +2,6 @@
  "ean": "5940577000322",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/hell-coffee-latte-250ml-doza/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:48:38+00:00",
-   "vazut": "2026-11-24T09:48:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/energizant-coffee-latte-hell-24-x-250-ml.html",
    "domeniu": "vivomarket.ro",
    "pret": "168.96",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-24T13:55:21+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hell Ice Coffee Latte, 0.25 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/hell-coffee-latte-250ml-doza/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:52:13+00:00",
+   "vazut": "2026-11-24T15:52:13+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
