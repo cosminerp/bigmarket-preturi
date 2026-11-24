@@ -12,15 +12,6 @@
    "nume": "Napolitana cu crema cu cacao Sly, fara zahar, 20 g"
   },
   {
-   "url": "https://www.trifolia.ro/alimentare/napolitane-cacao-fara-zahar-20gr.html?srsltid=AYCX9vIpapw_N2R-xBpiOzv-CHfIEd5ADnb8_iaVxdTz5V2VCf96OBhe",
-   "domeniu": "trifolia.ro",
-   "pret": "2.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T04:20:57+00:00",
-   "vazut": "2026-11-24T04:20:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/napolitane-cu-crema-de-cacao-fara-zahar-20-g-sly-nutritia-p410450",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "1.50",
@@ -54,6 +45,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T10:12:31+00:00",
    "vazut": "2026-11-24T10:12:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/napolitane-cacao-fara-zahar-20gr.html?srsltid=AYCX9vIpapw_N2R-xBpiOzv-CHfIEd5ADnb8_iaVxdTz5V2VCf96OBhe",
+   "domeniu": "trifolia.ro",
+   "pret": "2.00",
+   "stare": "ok",
+   "verificat": "2026-11-24T10:31:50+00:00",
+   "vazut": "2026-11-24T10:31:50+00:00",
    "metoda": "cautare_google"
   }
  ]
