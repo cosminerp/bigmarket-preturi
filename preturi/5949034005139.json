@@ -2,21 +2,21 @@
  "ean": "5949034005139",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bacanie/zahar-brun-cubic-500-g-pirifan.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "15.98",
-   "stare": "ok",
-   "verificat": "2026-11-24T04:22:40+00:00",
-   "vazut": "2026-11-24T04:22:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://grupdzc.ro/pirifan-zahar-brun-cubic-inima-naturii-500g?srsltid=AYCX9vL7XLb7LMPhAWZgJzItGUA0QeU2gNDbLyuKZyzmuw-NOE3Ygwxt",
    "domeniu": "grupdzc.ro",
    "pret": "10.09",
    "stare": "ok",
    "verificat": "2026-11-24T10:33:10+00:00",
    "vazut": "2026-11-24T10:33:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/zahar-brun-cubic-500-g-pirifan.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "15.98",
+   "stare": "ok",
+   "verificat": "2026-11-24T10:42:25+00:00",
+   "vazut": "2026-11-24T10:42:25+00:00",
    "metoda": "cautare_google"
   }
  ]
