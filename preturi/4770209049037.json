@@ -2,24 +2,6 @@
  "ean": "4770209049037",
  "preturi": [
   {
-   "url": "https://promoazi.ro/smantana/lapte-condensat-markomilk-397g",
-   "domeniu": "promoazi.ro",
-   "pret": "15.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:37:04+00:00",
-   "vazut": "2026-11-24T09:37:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.vivomarket.ro/bacanie/lapte-condensat-markomilk-8-grasime-397-g.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "11.50",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:37:06+00:00",
-   "vazut": "2026-11-24T09:37:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/lapte-condensat-markomilk-8-grasime-397-g/p",
    "domeniu": "auchan.ro",
    "pret": "15.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-24T13:56:50+00:00",
    "metoda": "auchan_catalog",
    "nume": "Lapte condensat Markomilk, 8% grasime, 397 g"
+  },
+  {
+   "url": "https://promoazi.ro/smantana/lapte-condensat-markomilk-397g",
+   "domeniu": "promoazi.ro",
+   "pret": "15.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:39:08+00:00",
+   "vazut": "2026-11-24T15:39:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/lapte-condensat-markomilk-8-grasime-397-g.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "11.50",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:39:10+00:00",
+   "vazut": "2026-11-24T15:39:10+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

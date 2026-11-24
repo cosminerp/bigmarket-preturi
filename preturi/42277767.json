@@ -2,33 +2,6 @@
  "ean": "42277767",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/crema-hidratanta-nivea-30-ml-7754000?srsltid=AYCX9vJJ1P4iYCTJLI__WXYq5k3cDePBSnaK7lailhw97vemmSiIV3w8",
-   "domeniu": "naturisti.ro",
-   "pret": "7.57",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:36:56+00:00",
-   "vazut": "2026-11-24T09:36:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://mikey.ro/product/crema-by-nivea-unisex-30ml/?srsltid=AYCX9vIROdLAJMzPW7Vdv-f0XFmPTWym0e_NqS2vTnhaIST8VQKM7dUA",
-   "domeniu": "mikey.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:36:59+00:00",
-   "vazut": "2026-11-24T09:36:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/creme-si-lotiuni/crema-hranitoare-30-ml-nivea-p379873",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "5.50",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:37:02+00:00",
-   "vazut": "2026-11-24T09:37:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/crema-hidratanta-nivea-creme-30-ml/p",
    "domeniu": "auchan.ro",
    "pret": "6.49",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-24T13:36:34+00:00",
    "metoda": "auchan_catalog",
    "nume": "Crema hidratanta Nivea Creme 30 ml"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/crema-hidratanta-nivea-30-ml-7754000?srsltid=AYCX9vJJ1P4iYCTJLI__WXYq5k3cDePBSnaK7lailhw97vemmSiIV3w8",
+   "domeniu": "naturisti.ro",
+   "pret": "7.57",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:39:01+00:00",
+   "vazut": "2026-11-24T15:39:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://mikey.ro/product/crema-by-nivea-unisex-30ml/?srsltid=AYCX9vIROdLAJMzPW7Vdv-f0XFmPTWym0e_NqS2vTnhaIST8VQKM7dUA",
+   "domeniu": "mikey.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:39:04+00:00",
+   "vazut": "2026-11-24T15:39:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-corp/creme-si-lotiuni/crema-hranitoare-30-ml-nivea-p379873",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "5.50",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:39:06+00:00",
+   "vazut": "2026-11-24T15:39:06+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

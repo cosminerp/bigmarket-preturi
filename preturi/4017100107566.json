@@ -2,33 +2,6 @@
  "ean": "4017100107566",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/leibniz-biscuti-200g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "13.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:36:36+00:00",
-   "vazut": "2026-11-24T09:36:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/biscuiti-cu-unt-200-g-leibniz-p367938",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "11.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:36:39+00:00",
-   "vazut": "2026-11-24T09:36:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/biscuiti-si-napolitane/biscuiti-cu-unt-leibniz-200-g",
-   "domeniu": "promoazi.ro",
-   "pret": "10.45",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:36:41+00:00",
-   "vazut": "2026-11-24T09:36:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-cu-unt-leibniz-200-g/p",
    "domeniu": "auchan.ro",
    "pret": "11.69",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-24T13:54:12+00:00",
    "metoda": "auchan_catalog",
    "nume": "Biscuiti cu unt Leibniz, 200 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/leibniz-biscuti-200g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "13.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:38:43+00:00",
+   "vazut": "2026-11-24T15:38:43+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/biscuiti-cu-unt-200-g-leibniz-p367938",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "11.00",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:38:45+00:00",
+   "vazut": "2026-11-24T15:38:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/biscuiti-si-napolitane/biscuiti-cu-unt-leibniz-200-g",
+   "domeniu": "promoazi.ro",
+   "pret": "10.45",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:38:47+00:00",
+   "vazut": "2026-11-24T15:38:47+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
