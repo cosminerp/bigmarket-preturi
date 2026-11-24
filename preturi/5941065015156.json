@@ -2,16 +2,6 @@
  "ean": "5941065015156",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/lapte-de-vaca-bio-napolact-3-8-grasime-1-5-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "16.19",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:20:52+00:00",
-   "vazut": "2026-11-23T12:20:52+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Lapte de consum integral BIO Napolact, 3.8% grasime, 1.5 l"
-  },
-  {
    "url": "https://promoazi.ro/lapte/lapte-de-consum-integral-bio-napolact-38-grasime-15-l",
    "domeniu": "promoazi.ro",
    "pret": "16.19",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T20:37:10+00:00",
    "vazut": "2026-11-23T20:37:10+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/lapte-de-vaca-bio-napolact-3-8-grasime-1-5-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "16.19",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:09:40+00:00",
+   "vazut": "2026-11-24T02:09:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Lapte de consum integral BIO Napolact, 3.8% grasime, 1.5 l"
   }
  ]
 }

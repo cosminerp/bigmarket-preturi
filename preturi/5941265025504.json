@@ -2,17 +2,6 @@
  "ean": "5941265025504",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bacon-cris-tim-300-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "16.48",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:39:56+00:00",
-   "vazut": "2026-11-23T12:39:56+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bacon Cris-Tim, 300 g",
-   "pret_vechi": "19.39"
-  },
-  {
    "url": "https://promoazi.ro/mezeluri/bacon-cris-tim-300-g",
    "domeniu": "promoazi.ro",
    "pret": "19.39",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-23T20:43:42+00:00",
    "vazut": "2026-11-23T20:43:42+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bacon-cris-tim-300-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "16.48",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:27:55+00:00",
+   "vazut": "2026-11-24T02:27:55+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bacon Cris-Tim, 300 g",
+   "pret_vechi": "19.39"
   }
  ]
 }

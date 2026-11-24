@@ -2,16 +2,6 @@
  "ean": "5942326400155",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-5-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.69",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:36:05+00:00",
-   "vazut": "2026-11-23T12:36:05+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Aqua Carpatica, 5 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-5l-5942326400155",
    "domeniu": "snaemarket.ro",
    "pret": "8.87",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-23T21:20:14+00:00",
    "vazut": "2026-11-23T21:20:14+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-5-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.69",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:24:13+00:00",
+   "vazut": "2026-11-24T02:24:13+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Aqua Carpatica, 5 l"
   }
  ]
 }

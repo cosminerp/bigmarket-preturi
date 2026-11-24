@@ -2,17 +2,6 @@
  "ean": "8718951137615",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/solutie-de-curatare-ajax-triple-action-500-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.39",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:21:42+00:00",
-   "vazut": "2026-11-23T12:21:42+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Solutie de curatare Ajax Triple Action, 500 ml",
-   "pret_vechi": "10.99"
-  },
-  {
    "url": "https://cobyul.ro/produs/ajax-geam-pistol-500-ml-triple-action/?srsltid=AYCX9vLWMjgATQuFzyUpixNe-oQ8UZrwd8jgixdDzCooRILMYVku9dke",
    "domeniu": "cobyul.ro",
    "pret": "8.79",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-23T21:56:26+00:00",
    "vazut": "2026-11-23T21:56:26+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/solutie-de-curatare-ajax-triple-action-500-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.39",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:10:25+00:00",
+   "vazut": "2026-11-24T02:10:25+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Solutie de curatare Ajax Triple Action, 500 ml",
+   "pret_vechi": "10.99"
   }
  ]
 }

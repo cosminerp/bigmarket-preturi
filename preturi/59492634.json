@@ -2,16 +2,6 @@
  "ean": "59492634",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-schweppes-bitterlemon-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.59",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:35:54+00:00",
-   "vazut": "2026-11-23T12:35:54+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Schweppes Bitter Lemon, 0.5 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/schweppes-bitter-lemon-0-5l-sgr-12buc-bax-59492634",
    "domeniu": "snaemarket.ro",
    "pret": "6.72",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-23T21:31:07+00:00",
    "vazut": "2026-11-23T21:31:07+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-schweppes-bitterlemon-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.59",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:24:03+00:00",
+   "vazut": "2026-11-24T02:24:03+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Schweppes Bitter Lemon, 0.5 l"
   }
  ]
 }

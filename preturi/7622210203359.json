@@ -2,16 +2,6 @@
  "ean": "7622210203359",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-milka-choco-cow-40-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "1.89",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:35:20+00:00",
-   "vazut": "2026-11-23T12:35:20+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu ciocolata cu lapte Milka Choco Cow, 40 g"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/biscui%C8%9Bi-milka-choco-cow-40-g?srsltid=AYCX9vI5JpUN7tw3kMJiqQjWaatx2X_gMmBciHyCUkoDctIfpXFjv9sV",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "2.30",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T21:44:43+00:00",
    "vazut": "2026-11-23T21:44:43+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-milka-choco-cow-40-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.89",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:23:30+00:00",
+   "vazut": "2026-11-24T02:23:30+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu ciocolata cu lapte Milka Choco Cow, 40 g"
   }
  ]
 }

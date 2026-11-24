@@ -2,16 +2,6 @@
  "ean": "5941768000046",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ciocolata-cu-lapte-sly-fara-zahar-25-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:42:56+00:00",
-   "vazut": "2026-11-23T12:42:56+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
-  },
-  {
    "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
    "domeniu": "frunzaverde.ro",
    "pret": "2.28",
@@ -64,6 +54,16 @@
    "verificat": "2026-11-23T20:59:48+00:00",
    "vazut": "2026-11-23T20:59:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ciocolata-cu-lapte-sly-fara-zahar-25-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:30:47+00:00",
+   "vazut": "2026-11-24T02:30:47+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
   }
  ]
 }

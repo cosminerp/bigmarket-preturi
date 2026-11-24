@@ -2,17 +2,6 @@
  "ean": "5941141222133",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ceai-fares-de-menta-20-g-20-de-plicuri/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.04",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:39:52+00:00",
-   "vazut": "2026-11-23T12:39:52+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ceai Fares de menta 20 g / 20 de plicuri",
-   "pret_vechi": "4.49"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/digestie/antidiareice/ceai-de-menta-d-125-20-plicuri-fares-p303174",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "5.00",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-23T20:39:43+00:00",
    "vazut": "2026-11-23T20:39:43+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ceai-fares-de-menta-20-g-20-de-plicuri/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.04",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:27:52+00:00",
+   "vazut": "2026-11-24T02:27:52+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ceai Fares de menta 20 g / 20 de plicuri",
+   "pret_vechi": "4.49"
   }
  ]
 }

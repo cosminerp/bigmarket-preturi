@@ -2,16 +2,6 @@
  "ean": "5942247100868",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-naturala-tusnad-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.39",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:33:28+00:00",
-   "vazut": "2026-11-23T12:33:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa carbogazoasa minerala naturala Tusnad, 2 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-minerala-tusnad-2l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "4.25",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T21:13:41+00:00",
    "vazut": "2026-11-23T21:13:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-naturala-tusnad-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.39",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:21:46+00:00",
+   "vazut": "2026-11-24T02:21:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa carbogazoasa minerala naturala Tusnad, 2 l"
   }
  ]
 }

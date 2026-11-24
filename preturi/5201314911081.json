@@ -2,16 +2,6 @@
  "ean": "5201314911081",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/burete-vase-metalic-fino-1-bucata/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:40:07+00:00",
-   "vazut": "2026-11-23T12:40:07+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Burete vase metalic Fino, 1 bucata"
-  },
-  {
    "url": "https://www.greenonline.ro/produse-curatenie/burete-pentru-vase-teflon-fino-1-bucata.html",
    "domeniu": "greenonline.ro",
    "pret": "3.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T20:16:09+00:00",
    "vazut": "2026-11-23T20:16:09+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/burete-vase-metalic-fino-1-bucata/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:28:06+00:00",
+   "vazut": "2026-11-24T02:28:06+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Burete vase metalic Fino, 1 bucata"
   }
  ]
 }

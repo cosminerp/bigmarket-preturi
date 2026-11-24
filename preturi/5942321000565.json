@@ -2,16 +2,6 @@
  "ean": "5942321000565",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-minerala-naturala-dorna-izvorul-alb-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:43:50+00:00",
-   "vazut": "2026-11-23T12:43:50+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa minerala naturala plata Dorna Izvorul Alb, 0.5 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-plata-dorna-500ml-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "3.25",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T21:16:30+00:00",
    "vazut": "2026-11-23T21:16:30+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-minerala-naturala-dorna-izvorul-alb-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:31:38+00:00",
+   "vazut": "2026-11-24T02:31:38+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa minerala naturala plata Dorna Izvorul Alb, 0.5 l"
   }
  ]
 }

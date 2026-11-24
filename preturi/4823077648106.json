@@ -2,16 +2,6 @@
  "ean": "4823077648106",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-cu-unt-roshen-classic-140-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.79",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:41:42+00:00",
-   "vazut": "2026-11-23T12:41:42+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu unt Roshen Classic, 140 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/rosh-bisc-cu-unt-140gr-12buc-bax-4823077648106",
    "domeniu": "snaemarket.ro",
    "pret": "4.91",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T20:11:17+00:00",
    "vazut": "2026-11-23T20:11:17+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-cu-unt-roshen-classic-140-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.79",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:29:34+00:00",
+   "vazut": "2026-11-24T02:29:34+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu unt Roshen Classic, 140 g"
   }
  ]
 }

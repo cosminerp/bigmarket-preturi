@@ -2,17 +2,6 @@
  "ean": "5941334002122",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-vegetal-mandy-original-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.24",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:35:10+00:00",
-   "vazut": "2026-11-23T12:35:10+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pate vegetal Mandy original 120 g",
-   "pret_vechi": "4.99"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/conserve/mandy-pate-vegetal-120g-6buc-bax-5941334002122",
    "domeniu": "snaemarket.ro",
    "pret": "4.11",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-23T20:46:50+00:00",
    "vazut": "2026-11-23T20:46:50+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-vegetal-mandy-original-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.24",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:23:21+00:00",
+   "vazut": "2026-11-24T02:23:21+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pate vegetal Mandy original 120 g",
+   "pret_vechi": "4.99"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "4017100107566",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-cu-unt-leibniz-200-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.69",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:40:45+00:00",
-   "vazut": "2026-11-23T12:40:45+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu unt Leibniz, 200 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/leibniz-biscuti-200g/",
    "domeniu": "pacomarket.ro",
    "pret": "13.99",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-23T20:05:55+00:00",
    "vazut": "2026-11-23T20:05:55+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-cu-unt-leibniz-200-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.69",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:28:42+00:00",
+   "vazut": "2026-11-24T02:28:42+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu unt Leibniz, 200 g"
   }
  ]
 }

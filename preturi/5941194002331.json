@@ -2,16 +2,6 @@
  "ean": "5941194002331",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-croco-cu-crema-de-cacao-25g/p",
-   "domeniu": "auchan.ro",
-   "pret": "0.99",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:33:36+00:00",
-   "vazut": "2026-11-23T12:33:36+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti Croco cu crema de cacao 25g"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/eugenii-croco-25gr-96?srsltid=AYCX9vJXrpsh38AaqlfwX0V9z3Hc7LHfclqxExUwXAPK-kgJxQDbMOt0",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "1.03",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-23T20:40:34+00:00",
    "vazut": "2026-11-23T20:40:34+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-croco-cu-crema-de-cacao-25g/p",
+   "domeniu": "auchan.ro",
+   "pret": "0.99",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:21:53+00:00",
+   "vazut": "2026-11-24T02:21:53+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti Croco cu crema de cacao 25g"
   }
  ]
 }

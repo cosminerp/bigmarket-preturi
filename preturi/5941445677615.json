@@ -2,16 +2,6 @@
  "ean": "5941445677615",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chio-chipsuri-cu-barbeque125-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-23T12:42:34+00:00",
-   "vazut": "2026-11-23T12:42:34+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu barbeque Chio, 125 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/chio-chips-ar-barbecue-125g/",
    "domeniu": "pacomarket.ro",
    "pret": "8.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-23T20:52:56+00:00",
    "vazut": "2026-11-23T20:52:56+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chio-chipsuri-cu-barbeque125-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T02:30:26+00:00",
+   "vazut": "2026-11-24T02:30:26+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu barbeque Chio, 125 g"
   }
  ]
 }
