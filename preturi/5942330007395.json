@@ -12,12 +12,21 @@
    "nume": "Bautura carbogazoasa cu aroma de soc si lamaie Biborteni, 2 l"
   },
   {
+   "url": "https://www.vivomarket.ro/bauturi/bautura-racoritoare-soc-lamaie-6-x-2-l-biborteni.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "49.44",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:17:25+00:00",
+   "vazut": "2026-11-24T04:17:25+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.pretistet.ro/produs/biborteni-soc-si-lamaie-2l-bautura-racoritoare-naturala-ambalaj-returnabil/",
    "domeniu": "pretistet.ro",
    "pret": "6.99",
    "stare": "ok",
-   "verificat": "2026-11-24T04:17:20+00:00",
-   "vazut": "2026-11-24T04:17:20+00:00",
+   "verificat": "2026-11-24T10:28:02+00:00",
+   "vazut": "2026-11-24T10:28:02+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -25,17 +34,8 @@
    "domeniu": "promoazi.ro",
    "pret": "5.49",
    "stare": "ok",
-   "verificat": "2026-11-24T04:17:22+00:00",
-   "vazut": "2026-11-24T04:17:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.vivomarket.ro/bauturi/bautura-racoritoare-soc-lamaie-6-x-2-l-biborteni.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "49.44",
-   "stare": "ok",
-   "verificat": "2026-11-24T04:17:25+00:00",
-   "vazut": "2026-11-24T04:17:25+00:00",
+   "verificat": "2026-11-24T10:28:04+00:00",
+   "vazut": "2026-11-24T10:28:04+00:00",
    "metoda": "cautare_google"
   }
  ]

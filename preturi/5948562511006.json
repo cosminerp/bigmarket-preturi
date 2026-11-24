@@ -12,15 +12,6 @@
    "nume": "Bere blonda Corona Extra, 0.33 l"
   },
   {
-   "url": "https://promoazi.ro/bere-si-cidru/corona-extra-033nrt-sgr",
-   "domeniu": "promoazi.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-24T04:21:35+00:00",
-   "vazut": "2026-11-24T04:21:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cosulmic.ro/produs/bere-corona-0-33l-12",
    "domeniu": "cosulmic.ro",
    "pret": "8.29",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T04:21:40+00:00",
    "vazut": "2026-11-24T04:21:40+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/bere-si-cidru/corona-extra-033nrt-sgr",
+   "domeniu": "promoazi.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-24T10:30:19+00:00",
+   "vazut": "2026-11-24T10:30:19+00:00",
    "metoda": "cautare_google"
   }
  ]
