@@ -2,15 +2,6 @@
  "ean": "5941141222133",
  "preturi": [
   {
-   "url": "https://www.e-apotheka.ro/dieta-si-wellness/contribuie-la-func%C8%9Bionarea-normal%C4%83-a-tractului-intestinal-sus%C8%9Bine-o-bun%C4%83-digestie-ajut%C4%83-la-calmarea-irita%C8%9Biilor-g%C3%A2tului-%C8%99i-faringelui-de-la-origini-legendare-povestite-%C3%AEn-mitologia-greac%C4%83-%C5%9Fi-p%C3%A2n%C4%83-azi-.html?srsltid=AYCX9vI8UUA4YZ2FyMlH0Q2QHJ9IF2B-IOtVY-zPtB3QOtBjtE7duxjy",
-   "domeniu": "e-apotheka.ro",
-   "pret": "5.20",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:54:44+00:00",
-   "vazut": "2026-11-24T10:54:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ceai-fares-de-menta-20-g-20-de-plicuri/p",
    "domeniu": "auchan.ro",
    "pret": "4.04",
@@ -37,6 +28,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T16:01:05+00:00",
    "vazut": "2026-11-24T16:01:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.e-apotheka.ro/dieta-si-wellness/contribuie-la-func%C8%9Bionarea-normal%C4%83-a-tractului-intestinal-sus%C8%9Bine-o-bun%C4%83-digestie-ajut%C4%83-la-calmarea-irita%C8%9Biilor-g%C3%A2tului-%C8%99i-faringelui-de-la-origini-legendare-povestite-%C3%AEn-mitologia-greac%C4%83-%C5%9Fi-p%C3%A2n%C4%83-azi-.html?srsltid=AYCX9vI8UUA4YZ2FyMlH0Q2QHJ9IF2B-IOtVY-zPtB3QOtBjtE7duxjy",
+   "domeniu": "e-apotheka.ro",
+   "pret": "5.20",
+   "stare": "ok",
+   "verificat": "2026-11-24T17:16:43+00:00",
+   "vazut": "2026-11-24T17:16:43+00:00",
    "metoda": "cautare_google"
   }
  ]
