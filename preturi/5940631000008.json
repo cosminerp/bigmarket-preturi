@@ -2,24 +2,6 @@
  "ean": "5940631000008",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/bautura-energizanta-red-bull-250ml?srsltid=AYCX9vITdp1rdqez-yPjgkA-qKdEYG322bAfA-LluS8RjtYTSMaKZFeG",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "8.32",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:50:02+00:00",
-   "vazut": "2026-11-24T09:50:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/red-bull-250ml-doza/",
-   "domeniu": "pacomarket.ro",
-   "pret": "7.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:50:05+00:00",
-   "vazut": "2026-11-24T09:50:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-red-bull-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "5.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-24T13:46:59+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura energizanta Red Bull, 0.25 l"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bautura-energizanta-red-bull-250ml?srsltid=AYCX9vITdp1rdqez-yPjgkA-qKdEYG322bAfA-LluS8RjtYTSMaKZFeG",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "8.32",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:55:11+00:00",
+   "vazut": "2026-11-24T15:55:11+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/red-bull-250ml-doza/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:55:14+00:00",
+   "vazut": "2026-11-24T15:55:14+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

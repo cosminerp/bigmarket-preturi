@@ -2,15 +2,6 @@
  "ean": "5941000033191",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/star-krax-bacon-60gr-23buc-bax-5941000033191",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.51",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:51:29+00:00",
-   "vazut": "2026-11-24T09:51:29+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/snacksuri-cu-gust-de-bacon-star-krax-60-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Snacksuri cu gust de bacon Star Krax, 60 g",
    "pret_vechi": "4.95"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/star-krax-bacon-60gr-23buc-bax-5941000033191",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.51",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:56:45+00:00",
+   "vazut": "2026-11-24T15:56:45+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
