@@ -2,15 +2,6 @@
  "ean": "8001090444875",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-intima/absorbante-si-tampoane/absorbante-platinum-ultra-normal-plus-marimea-1-8-bucati-always-p339547",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "9.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:48:26+00:00",
-   "vazut": "2026-11-24T10:48:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/absorbante-always-platinum-normal-8-bucati/p",
    "domeniu": "auchan.ro",
    "pret": "6.79",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Absorbante Always Platinum Normal, 8 bucati",
    "pret_vechi": "12.49"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-intima/absorbante-si-tampoane/absorbante-platinum-ultra-normal-plus-marimea-1-8-bucati-always-p339547",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "9.00",
+   "stare": "ok",
+   "verificat": "2026-11-24T16:59:52+00:00",
+   "vazut": "2026-11-24T16:59:52+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "8007990003082",
  "preturi": [
   {
-   "url": "https://promoazi.ro/smantana-vegetala/crema-vegetala-hulala-500-ml",
-   "domeniu": "promoazi.ro",
-   "pret": "14.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:50:06+00:00",
-   "vazut": "2026-11-24T10:50:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/crema-vegetala-hulala-500-ml/p",
    "domeniu": "auchan.ro",
    "pret": "14.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T13:35:09+00:00",
    "metoda": "auchan_catalog",
    "nume": "Crema vegetala Hulala, 500 ml"
+  },
+  {
+   "url": "https://promoazi.ro/smantana-vegetala/crema-vegetala-hulala-500-ml",
+   "domeniu": "promoazi.ro",
+   "pret": "14.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T17:01:18+00:00",
+   "vazut": "2026-11-24T17:01:18+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
