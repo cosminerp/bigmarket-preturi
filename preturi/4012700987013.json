@@ -2,24 +2,6 @@
  "ean": "4012700987013",
  "preturi": [
   {
-   "url": "https://gxcoffice.ro/produs/pic-corector-pelikan-super-pirat-varf-tip-f/?srsltid=AYCX9vKxyiN5-akFbQYtsjVfBijt8u4599XoDqLDEMnZbb3iYdjYsYSu",
-   "domeniu": "gxcoffice.ro",
-   "pret": "3.88",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:32:54+00:00",
-   "vazut": "2026-11-24T03:32:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://folder.ro/pic-si-corectoare/2612-pic-pelikan-super-pirat-f-4012700987013.html",
-   "domeniu": "folder.ro",
-   "pret": "5.20",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:32:57+00:00",
-   "vazut": "2026-11-24T03:32:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.miralde.ro/rechizite-%C8%99i-birotic%C4%83/carioc%C4%83-corectoare-pelikan-cu-v%C3%A2rf-f.html?srsltid=AYCX9vId8c7fMS1ifrSpMPjBDImpvv8tM8pL1qF0FV0_mpTXJdEX3hBE",
    "domeniu": "miralde.ro",
    "pret": "7.00",
@@ -29,12 +11,30 @@
    "metoda": "cautare_google"
   },
   {
+   "url": "https://gxcoffice.ro/produs/pic-corector-pelikan-super-pirat-varf-tip-f/?srsltid=AYCX9vKxyiN5-akFbQYtsjVfBijt8u4599XoDqLDEMnZbb3iYdjYsYSu",
+   "domeniu": "gxcoffice.ro",
+   "pret": "3.88",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:36:23+00:00",
+   "vazut": "2026-11-24T09:36:23+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://folder.ro/pic-si-corectoare/2612-pic-pelikan-super-pirat-f-4012700987013.html",
+   "domeniu": "folder.ro",
+   "pret": "5.20",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:36:25+00:00",
+   "vazut": "2026-11-24T09:36:25+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.kisshop.ro/cumpara/corector-cu-rescriere-pelikan-super-pirat-850f-11172?srsltid=AYCX9vKyzIJ4KtOC0IFfOaF6zMH6vLoa4uoqLl0iNtESZskI5nH7jj7W",
    "domeniu": "kisshop.ro",
    "pret": "5.99",
    "stare": "ok",
-   "verificat": "2026-11-24T03:33:02+00:00",
-   "vazut": "2026-11-24T03:33:02+00:00",
+   "verificat": "2026-11-24T09:36:31+00:00",
+   "vazut": "2026-11-24T09:36:31+00:00",
    "metoda": "cautare_google"
   }
  ]

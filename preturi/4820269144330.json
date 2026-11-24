@@ -2,15 +2,6 @@
  "ean": "4820269144330",
  "preturi": [
   {
-   "url": "http://www.safepet.ro/cumpara/my-love-adult-cat-hrana-uscata-completa-pui-vita-si-legume-300g-5170?srsltid=AYCX9vL06Gz0gy3aUn5xJYiwJSXiOW_OLHfH987WCIDErBZEcfuT755E",
-   "domeniu": "safepet.ro",
-   "pret": "4.60",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:34:22+00:00",
-   "vazut": "2026-11-24T03:34:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.epetshop.ro/produse-pisici/my-love-hrana-uscata-pisici-adulte-cu-pui-vita-si-legume-300g.html",
    "domeniu": "epetshop.ro",
    "pret": "4.90",
@@ -20,12 +11,21 @@
    "metoda": "cautare_google"
   },
   {
+   "url": "http://www.safepet.ro/cumpara/my-love-adult-cat-hrana-uscata-completa-pui-vita-si-legume-300g-5170?srsltid=AYCX9vL06Gz0gy3aUn5xJYiwJSXiOW_OLHfH987WCIDErBZEcfuT755E",
+   "domeniu": "safepet.ro",
+   "pret": "4.60",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:37:45+00:00",
+   "vazut": "2026-11-24T09:37:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.petvet-shop.ro/cumpara/my-love-adult-cat-hrana-uscata-completa-pui-vita-si-legume-300g-9596",
    "domeniu": "petvet-shop.ro",
    "pret": "4.60",
    "stare": "ok",
-   "verificat": "2026-11-24T03:34:27+00:00",
-   "vazut": "2026-11-24T03:34:27+00:00",
+   "verificat": "2026-11-24T09:37:49+00:00",
+   "vazut": "2026-11-24T09:37:49+00:00",
    "metoda": "cautare_google"
   }
  ]

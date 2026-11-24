@@ -2,15 +2,6 @@
  "ean": "4820269143647",
  "preturi": [
   {
-   "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-adulte-cu-vita-300g/?srsltid=AYCX9vKqErcSIClBsRrtuWCBqsvsAaDt9WNcU0NFYaAdHMEPO-YAYFEY",
-   "domeniu": "club4labute.ro",
-   "pret": "5.40",
-   "stare": "ok",
-   "verificat": "2026-11-24T03:34:14+00:00",
-   "vazut": "2026-11-24T03:34:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.fourpaws.ro/produse-pisici/my-love-hrana-uscata-pentru-pisici-adulte-cu-vita-300g.html?srsltid=AYCX9vJOy3FtgE_24t-kKgtj83Vpj4MrgAY0b3rq-DKQAoISpb4cF0dr",
    "domeniu": "fourpaws.ro",
    "pret": "4.90",
@@ -20,12 +11,21 @@
    "metoda": "cautare_google"
   },
   {
+   "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-adulte-cu-vita-300g/?srsltid=AYCX9vKqErcSIClBsRrtuWCBqsvsAaDt9WNcU0NFYaAdHMEPO-YAYFEY",
+   "domeniu": "club4labute.ro",
+   "pret": "5.40",
+   "stare": "ok",
+   "verificat": "2026-11-24T09:37:38+00:00",
+   "vazut": "2026-11-24T09:37:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "http://www.safepet.ro/cumpara/my-love-adult-cat-hrana-uscata-completa-vita-300g-5076?srsltid=AYCX9vL4GYpfHTBqjaE1Jw4SUcbw6ZplnqihD89o-W6fmKDSUKsOq9Bm",
    "domeniu": "safepet.ro",
    "pret": "4.60",
    "stare": "ok",
-   "verificat": "2026-11-24T03:34:18+00:00",
-   "vazut": "2026-11-24T03:34:18+00:00",
+   "verificat": "2026-11-24T09:37:41+00:00",
+   "vazut": "2026-11-24T09:37:41+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -33,8 +33,8 @@
    "domeniu": "petvet-shop.ro",
    "pret": "4.60",
    "stare": "ok",
-   "verificat": "2026-11-24T03:34:21+00:00",
-   "vazut": "2026-11-24T03:34:21+00:00",
+   "verificat": "2026-11-24T09:37:43+00:00",
+   "vazut": "2026-11-24T09:37:43+00:00",
    "metoda": "cautare_google"
   }
  ]
