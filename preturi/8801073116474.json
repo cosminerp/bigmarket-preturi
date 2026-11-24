@@ -2,15 +2,6 @@
  "ean": "8801073116474",
  "preturi": [
   {
-   "url": "https://www.k-mart.ro/ramyun/ramen-buldak-cheese-140g-samyang.html",
-   "domeniu": "k-mart.ro",
-   "pret": "15.50",
-   "stare": "ok",
-   "verificat": "2026-11-23T23:33:21+00:00",
-   "vazut": "2026-11-23T23:33:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/taitei-instant-picanti-cu-aroma-de-pui-si-branza-samyang-140-g/p",
    "domeniu": "auchan.ro",
    "pret": "12.49",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T04:48:26+00:00",
    "vazut": "2026-11-24T04:48:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.k-mart.ro/ramyun/ramen-buldak-cheese-140g-samyang.html",
+   "domeniu": "k-mart.ro",
+   "pret": "15.50",
+   "stare": "ok",
+   "verificat": "2026-11-24T05:33:30+00:00",
+   "vazut": "2026-11-24T05:33:30+00:00",
    "metoda": "cautare_google"
   }
  ]
