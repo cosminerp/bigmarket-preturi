@@ -2,15 +2,6 @@
  "ean": "4823077642401",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/roshen-wafers-lamaie-72-gr-22buc-bax-4823077642401",
-   "domeniu": "snaemarket.ro",
-   "pret": "2.30",
-   "stare": "ok",
-   "verificat": "2026-11-24T09:40:46+00:00",
-   "vazut": "2026-11-24T09:40:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/napolitane-cu-crema-de-lamaie-roshen-72-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.29",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T13:37:36+00:00",
    "metoda": "auchan_catalog",
    "nume": "Napolitane cu crema cu aroma de lamaie Roshen, 72 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/roshen-wafers-lamaie-72-gr-22buc-bax-4823077642401",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.30",
+   "stare": "ok",
+   "verificat": "2026-11-24T15:44:17+00:00",
+   "vazut": "2026-11-24T15:44:17+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
