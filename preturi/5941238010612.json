@@ -2,15 +2,6 @@
  "ean": "5941238010612",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-felii-cascaval-140g-32.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "8.30",
-   "stare": "ok",
-   "verificat": "2026-11-23T20:42:46+00:00",
-   "vazut": "2026-11-23T20:42:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-topita-cu-cascaval-hochland-felii-140-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.15",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T03:49:44+00:00",
    "vazut": "2026-11-24T03:49:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-felii-cascaval-140g-32.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "8.30",
+   "stare": "ok",
+   "verificat": "2026-11-24T04:52:32+00:00",
+   "vazut": "2026-11-24T04:52:32+00:00",
    "metoda": "cautare_google"
   }
  ]
