@@ -2,15 +2,6 @@
  "ean": "8801073116474",
  "preturi": [
   {
-   "url": "https://www.razvanbotezatu.ro/samyang-buldag-cheese-140-g-20752",
-   "domeniu": "razvanbotezatu.ro",
-   "pret": "14.05",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:59:57+00:00",
-   "vazut": "2026-11-24T10:59:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.k-mart.ro/ramyun/ramen-buldak-cheese-140g-samyang.html",
    "domeniu": "k-mart.ro",
    "pret": "15.50",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-24T13:34:22+00:00",
    "metoda": "auchan_catalog",
    "nume": "Taitei instant picanti cu aroma de pui si branza Samyang, 140 g"
+  },
+  {
+   "url": "https://www.razvanbotezatu.ro/samyang-buldag-cheese-140-g-20752",
+   "domeniu": "razvanbotezatu.ro",
+   "pret": "14.05",
+   "stare": "ok",
+   "verificat": "2026-11-24T17:10:33+00:00",
+   "vazut": "2026-11-24T17:10:33+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

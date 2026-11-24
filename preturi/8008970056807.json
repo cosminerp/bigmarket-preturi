@@ -2,21 +2,21 @@
  "ean": "8008970056807",
  "preturi": [
   {
-   "url": "https://www.practi.ro/sanatate-si-cosmetica/wash-and-go-sampon-360ml-jasmine.html?srsltid=AYCX9vIwLNKfEUIATWbNZBw-_hXeq94FGPckGyAnaHGQ-3KzNL_kh9Sw",
-   "domeniu": "practi.ro",
-   "pret": "11.30",
-   "stare": "ok",
-   "verificat": "2026-11-24T11:02:32+00:00",
-   "vazut": "2026-11-24T11:02:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.beautydays.ro/cumpara/sampon-wash-go-jasmine-360-ml-6807-44575?srsltid=AYCX9vISH-FzxBIkSYDFbZrYNYXMUPzRNodS9sZEGzUP6WpBbLq4qtH9",
    "domeniu": "beautydays.ro",
    "pret": "13.70",
    "stare": "ok",
    "verificat": "2026-11-24T17:01:28+00:00",
    "vazut": "2026-11-24T17:01:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.practi.ro/sanatate-si-cosmetica/wash-and-go-sampon-360ml-jasmine.html?srsltid=AYCX9vIwLNKfEUIATWbNZBw-_hXeq94FGPckGyAnaHGQ-3KzNL_kh9Sw",
+   "domeniu": "practi.ro",
+   "pret": "11.30",
+   "stare": "ok",
+   "verificat": "2026-11-24T17:06:37+00:00",
+   "vazut": "2026-11-24T17:06:37+00:00",
    "metoda": "cautare_google"
   }
  ]

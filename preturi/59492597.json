@@ -2,15 +2,6 @@
  "ean": "59492597",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bauturi/bautura-carbogazoasa-sticla-12-x-033-l-coca-cola.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "99.90",
-   "stare": "ok",
-   "verificat": "2026-11-24T10:55:15+00:00",
-   "vazut": "2026-11-24T10:55:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-033-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.79",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-24T16:47:35+00:00",
    "vazut": "2026-11-24T16:47:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi/bautura-carbogazoasa-sticla-12-x-033-l-coca-cola.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "99.90",
+   "stare": "ok",
+   "verificat": "2026-11-24T17:05:56+00:00",
+   "vazut": "2026-11-24T17:05:56+00:00",
    "metoda": "cautare_google"
   }
  ]
