@@ -2,15 +2,6 @@
  "ean": "8411582881543",
  "preturi": [
   {
-   "url": "https://www.1001cosmetice.ro/cumpara/asevi-solutie-pardoseli-mio-44797",
-   "domeniu": "1001cosmetice.ro",
-   "pret": "14.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:14:46+00:00",
-   "vazut": "2026-11-25T01:14:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/solutie-pardoseli-asevi-mio-1l-515?srsltid=AYCX9vKG-GiGcnfxROh4AFOxQNhRAncOzr6VFaNUyKMFPSxe4ykYPGRK",
    "domeniu": "kisshop.ro",
    "pret": "13.50",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-25T08:43:08+00:00",
    "metoda": "auchan_catalog",
    "nume": "Solutie pentru pardoseli Asevi Mio, 1 l"
+  },
+  {
+   "url": "https://www.1001cosmetice.ro/cumpara/asevi-solutie-pardoseli-mio-44797",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "14.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:51:03+00:00",
+   "vazut": "2026-11-25T11:51:03+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

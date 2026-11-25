@@ -2,24 +2,6 @@
  "ean": "8717163286975",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/domestos-750-ml-atlantic/?srsltid=AYCX9vKrEogmIHQosbOhfkSE3bBrYcF48StYWj4FmcnIg1fC0XSjNJiX",
-   "domeniu": "cobyul.ro",
-   "pret": "10.19",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:17:50+00:00",
-   "vazut": "2026-11-25T01:17:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/dezinfectant-toaleta-domestos-atlantic-750ml?srsltid=AYCX9vKF7wI7367CYigXgunpDpdcyOR5cx1jIavwlwIYH7xVrEcwyC5s",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "14.83",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:17:52+00:00",
-   "vazut": "2026-11-25T01:17:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/dezinfectant-domestos-thick-bleach-atlantic-750-ml/p",
    "domeniu": "auchan.ro",
    "pret": "15.89",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T08:24:08+00:00",
    "metoda": "auchan_catalog",
    "nume": "Dezinfectant Domestos thick bleach atlantic, 750 ml"
+  },
+  {
+   "url": "https://cobyul.ro/produs/domestos-750-ml-atlantic/?srsltid=AYCX9vKrEogmIHQosbOhfkSE3bBrYcF48StYWj4FmcnIg1fC0XSjNJiX",
+   "domeniu": "cobyul.ro",
+   "pret": "10.19",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:55:27+00:00",
+   "vazut": "2026-11-25T11:55:27+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/dezinfectant-toaleta-domestos-atlantic-750ml?srsltid=AYCX9vKF7wI7367CYigXgunpDpdcyOR5cx1jIavwlwIYH7xVrEcwyC5s",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "14.83",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:55:29+00:00",
+   "vazut": "2026-11-25T11:55:29+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,21 +2,21 @@
  "ean": "8410376061789",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-fara-gluten/biscuiti-fara-gluten-sandwich-cu-ciocolata-225-g-gullon-p382064",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "19.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:14:39+00:00",
-   "vazut": "2026-11-25T01:14:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.adiograsime.ro/cumpara/biscuiti-sandwich-cu-crema-de-ciocolata-fara-gluten-gullon-225g-1079?srsltid=AYCX9vIe_cz2vcI96DyEYpvZk3mmiI5RkRC92Q495G7skjQtr7dq3qnv",
    "domeniu": "adiograsime.ro",
    "pret": "22.75",
    "stare": "ok",
    "verificat": "2026-11-25T11:45:21+00:00",
    "vazut": "2026-11-25T11:45:21+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-fara-gluten/biscuiti-fara-gluten-sandwich-cu-ciocolata-225-g-gullon-p382064",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "19.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:50:50+00:00",
+   "vazut": "2026-11-25T11:50:50+00:00",
    "metoda": "cautare_google"
   }
  ]

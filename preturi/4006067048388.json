@@ -2,15 +2,6 @@
  "ean": "4006067048388",
  "preturi": [
   {
-   "url": "https://www.coffee-store.ro/cafea-m%C4%83cinat%C4%83/cafea-macinata-davidoff-caf%C3%A9-rich-aroma-250g.html?srsltid=AYCX9vLu4-ybrKNMS-2DpROiHnKN0NjeV09D0n-bMQww7EDkQVo4Hflx",
-   "domeniu": "coffee-store.ro",
-   "pret": "36.50",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-25T00:59:04+00:00",
-   "vazut": "2026-11-20T22:44:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cafea-macinata-davidoff-rich-aroma-250-g/p",
    "domeniu": "auchan.ro",
    "pret": "41.59",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:25:06+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cafea macinata Davidoff Rich Aroma, 250 g"
+  },
+  {
+   "url": "https://www.coffee-store.ro/cafea-m%C4%83cinat%C4%83/cafea-macinata-davidoff-caf%C3%A9-rich-aroma-250g.html?srsltid=AYCX9vLu4-ybrKNMS-2DpROiHnKN0NjeV09D0n-bMQww7EDkQVo4Hflx",
+   "domeniu": "coffee-store.ro",
+   "pret": "36.50",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T11:46:38+00:00",
+   "vazut": "2026-11-20T22:44:39+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "8411582888764",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/asevi-pardoseli-1l-pet/?srsltid=AYCX9vKmYXCOJLYM7y1aDO4fjz06DETU-dgo8s8_lrcAAuKCQZh_X85t",
-   "domeniu": "cobyul.ro",
-   "pret": "11.39",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:14:49+00:00",
-   "vazut": "2026-11-25T01:14:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/solutie-concentrata-pentru-pardoseli-asevi-pet-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "13.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:23:53+00:00",
    "metoda": "auchan_catalog",
    "nume": "Solutie concentrata pentru pardoseli Asevi Pet, 1 l"
+  },
+  {
+   "url": "https://cobyul.ro/produs/asevi-pardoseli-1l-pet/?srsltid=AYCX9vKmYXCOJLYM7y1aDO4fjz06DETU-dgo8s8_lrcAAuKCQZh_X85t",
+   "domeniu": "cobyul.ro",
+   "pret": "11.39",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:51:09+00:00",
+   "vazut": "2026-11-25T11:51:09+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "8410376064469",
  "preturi": [
   {
-   "url": "https://www.nosugarshop.ro/cumpara/biscuiti-snack-cu-glazura-ciocolata-neagra-6x25g-fara-zahar-150g-9469",
-   "domeniu": "nosugarshop.ro",
-   "pret": "17.20",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:14:40+00:00",
-   "vazut": "2026-11-25T01:14:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-glazurati-cu-ciocolata-neagra-fara-zahar-adaugat-gullon-zero-6-x-25g/p",
    "domeniu": "auchan.ro",
    "pret": "30.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:24:37+00:00",
    "metoda": "auchan_catalog",
    "nume": "Biscuiti glazurati cu ciocolata neagra fara zahar adaugat Gullon Zero, 6 x 25 g"
+  },
+  {
+   "url": "https://www.nosugarshop.ro/cumpara/biscuiti-snack-cu-glazura-ciocolata-neagra-6x25g-fara-zahar-150g-9469",
+   "domeniu": "nosugarshop.ro",
+   "pret": "17.20",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:50:53+00:00",
+   "vazut": "2026-11-25T11:50:53+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
