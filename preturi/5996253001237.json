@@ -2,15 +2,6 @@
  "ean": "5996253001237",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/chio-gold-fischli-80g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.35",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:02:49+00:00",
-   "vazut": "2026-11-25T01:02:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-cu-susan-chio-goldfischli-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.69",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:39:43+00:00",
    "metoda": "auchan_catalog",
    "nume": "Biscuiti cu susan Goldfish, 80 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/chio-gold-fischli-80g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.35",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:31:12+00:00",
+   "vazut": "2026-11-25T11:31:12+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

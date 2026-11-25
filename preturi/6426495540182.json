@@ -2,21 +2,21 @@
  "ean": "6426495540182",
  "preturi": [
   {
-   "url": "https://fermier.ro/products/efekt-solutie-curatare-geamuri-cu-amoniac-750-ml?srsltid=AYCX9vIR9eicflX1cArakYqHpeGM9LeIQS9kU80WmE19g_XoYpVjdusw",
-   "domeniu": "fermier.ro",
-   "pret": "12.10",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:07:10+00:00",
-   "vazut": "2026-11-25T01:07:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.pravaliadecuratenie.ro/igiena-casei/efekt-windows-geamuri-amoniac.html",
    "domeniu": "pravaliadecuratenie.ro",
    "pret": "14.00",
    "stare": "ok",
    "verificat": "2026-11-25T01:07:13+00:00",
    "vazut": "2026-11-25T01:07:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://fermier.ro/products/efekt-solutie-curatare-geamuri-cu-amoniac-750-ml?srsltid=AYCX9vIR9eicflX1cArakYqHpeGM9LeIQS9kU80WmE19g_XoYpVjdusw",
+   "domeniu": "fermier.ro",
+   "pret": "12.10",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:35:55+00:00",
+   "vazut": "2026-11-25T11:35:55+00:00",
    "metoda": "cautare_google"
   }
  ]

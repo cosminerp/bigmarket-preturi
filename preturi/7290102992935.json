@@ -2,24 +2,6 @@
  "ean": "7290102992935",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/detergent-vase-rezerva-sano-spark-lamaie-700-ml-13316?srsltid=AYCX9vLg_-n7hr0_ilx7iXcG2jQ_wT3ZZFQHhtJHPHpj9_5D6x-TA-zP",
-   "domeniu": "kisshop.ro",
-   "pret": "11.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:08:24+00:00",
-   "vazut": "2026-11-25T01:08:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.pravaliadecuratenie.ro/bucatarie/rezerva-sano-detergent-lichid-pentru-vase-lamaie-700-ml.html",
-   "domeniu": "pravaliadecuratenie.ro",
-   "pret": "11.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:08:25+00:00",
-   "vazut": "2026-11-25T01:08:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rezerva-detergent-lichid-pentru-vase-sano-spark-lamaie-700-ml/p",
    "domeniu": "auchan.ro",
    "pret": "7.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T08:21:42+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rezerva detergent lichid pentru vase Sano Spark Lamaie, 700 ml"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/detergent-vase-rezerva-sano-spark-lamaie-700-ml-13316?srsltid=AYCX9vLg_-n7hr0_ilx7iXcG2jQ_wT3ZZFQHhtJHPHpj9_5D6x-TA-zP",
+   "domeniu": "kisshop.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:38:08+00:00",
+   "vazut": "2026-11-25T11:38:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pravaliadecuratenie.ro/bucatarie/rezerva-sano-detergent-lichid-pentru-vase-lamaie-700-ml.html",
+   "domeniu": "pravaliadecuratenie.ro",
+   "pret": "11.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:38:11+00:00",
+   "vazut": "2026-11-25T11:38:11+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

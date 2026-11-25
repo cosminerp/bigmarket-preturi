@@ -2,15 +2,6 @@
  "ean": "6420211000349",
  "preturi": [
   {
-   "url": "https://promoazi.ro/snacks/pufuleti-gusto-cu-surprize-60-g",
-   "domeniu": "promoazi.ro",
-   "pret": "4.29",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:04:06+00:00",
-   "vazut": "2026-11-25T01:04:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pufuleti-gusto-cu-surprize-60-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:25:40+00:00",
    "metoda": "auchan_catalog",
    "nume": "Pufuleti Gusto cu surprize, 60 g"
+  },
+  {
+   "url": "https://promoazi.ro/snacks/pufuleti-gusto-cu-surprize-60-g",
+   "domeniu": "promoazi.ro",
+   "pret": "4.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:32:37+00:00",
+   "vazut": "2026-11-25T11:32:37+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
