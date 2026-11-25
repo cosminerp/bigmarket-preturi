@@ -2,16 +2,6 @@
  "ean": "5942330007395",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-cu-aroma-de-soc-si-lamaie-biborteni-2-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.15",
-   "stare": "ok",
-   "verificat": "2026-11-24T23:52:01+00:00",
-   "vazut": "2026-11-24T23:52:01+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa cu aroma de soc si lamaie Biborteni, 2 l"
-  },
-  {
    "url": "https://www.pretistet.ro/produs/biborteni-soc-si-lamaie-2l-bautura-racoritoare-naturala-ambalaj-returnabil/",
    "domeniu": "pretistet.ro",
    "pret": "6.99",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-25T00:53:26+00:00",
    "vazut": "2026-11-25T00:53:26+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-cu-aroma-de-soc-si-lamaie-biborteni-2-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.15",
+   "stare": "ok",
+   "verificat": "2026-11-25T08:21:28+00:00",
+   "vazut": "2026-11-25T08:21:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa cu aroma de soc si lamaie Biborteni, 2 l"
   }
  ]
 }

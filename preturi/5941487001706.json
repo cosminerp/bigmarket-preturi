@@ -2,16 +2,6 @@
  "ean": "5941487001706",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/arpacas-boromir-1-kg/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.95",
-   "stare": "ok",
-   "verificat": "2026-11-24T23:53:22+00:00",
-   "vazut": "2026-11-24T23:53:22+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Arpacas Boromir, 1 Kg"
-  },
-  {
    "url": "https://pacomarket.ro/product/arpacas-din-grau-1kg-boromir/",
    "domeniu": "pacomarket.ro",
    "pret": "4.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-25T00:37:40+00:00",
    "vazut": "2026-11-25T00:37:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/arpacas-boromir-1-kg/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.95",
+   "stare": "ok",
+   "verificat": "2026-11-25T08:23:02+00:00",
+   "vazut": "2026-11-25T08:23:02+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Arpacas Boromir, 1 Kg"
   }
  ]
 }

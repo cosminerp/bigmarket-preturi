@@ -2,16 +2,6 @@
  "ean": "5942328201156",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-aromatizata-vitamin-aqua-mg-0-60l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:03:25+00:00",
-   "vazut": "2026-11-25T00:03:25+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa aromatizata Vitamin Aqua Mg, 0.6 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/vitamin-aqua-mg-cu-arome-600ml/",
    "domeniu": "pacomarket.ro",
    "pret": "6.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T00:53:05+00:00",
    "vazut": "2026-11-25T00:53:05+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-aromatizata-vitamin-aqua-mg-0-60l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-25T08:34:12+00:00",
+   "vazut": "2026-11-25T08:34:12+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa aromatizata Vitamin Aqua Mg, 0.6 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "7622300441692",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-milka-chocominis-37-5-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.15",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:04:28+00:00",
-   "vazut": "2026-11-25T00:04:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti umpluti cu crema cu lapte si glazura cu ciocolata Milka Chocominis, 37.5 g"
-  },
-  {
    "url": "https://anvelopia.ro/anvelope-camioane-michelin-remix-315-60-r225-7622300441692",
    "domeniu": "anvelopia.ro",
    "pret": "2741.62",
@@ -19,6 +9,17 @@
    "verificat": "2026-11-25T01:10:21+00:00",
    "vazut": "2026-11-25T01:10:21+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-milka-chocominis-37-5-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.69",
+   "stare": "ok",
+   "verificat": "2026-11-25T08:35:19+00:00",
+   "vazut": "2026-11-25T08:35:19+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti umpluti cu crema cu lapte si glazura cu ciocolata Milka Chocominis, 37.5 g",
+   "pret_vechi": "1.99"
   }
  ]
 }

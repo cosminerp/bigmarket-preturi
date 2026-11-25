@@ -2,16 +2,6 @@
  "ean": "5942247100899",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/sgr-apa-carbogazoasa-minerala-naturala-slab-carbogazoasa-tusnad-2-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.39",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:03:04+00:00",
-   "vazut": "2026-11-25T00:03:04+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa minerala naturala slab carbogazoasa Tusnad, 2 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/tusnad-slab-carbogazificata-2l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "4.25",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T00:49:09+00:00",
    "vazut": "2026-11-25T00:49:09+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/sgr-apa-carbogazoasa-minerala-naturala-slab-carbogazoasa-tusnad-2-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.39",
+   "stare": "ok",
+   "verificat": "2026-11-25T08:33:48+00:00",
+   "vazut": "2026-11-25T08:33:48+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa minerala naturala slab carbogazoasa Tusnad, 2 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5948543005630",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/solutie-curatare-pardoseli-igienol-poiana-cu-lacramioare-1-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.19",
-   "stare": "ok",
-   "verificat": "2026-11-24T23:54:18+00:00",
-   "vazut": "2026-11-24T23:54:18+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Solutie curatare pardoseli Igienol Poiana cu Lacramioare, 1 l"
-  },
-  {
    "url": "https://www.practi.ro/casa-si-gradina/igienol-curat-parfumat-1l-poiana-cu-lacramioare.html?srsltid=AYCX9vIwc0rongbzqtOqPi-OqeU5xZ47k_IUhtTrRuGhO3ao-bpt3rXq",
    "domeniu": "practi.ro",
    "pret": "12.30",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-25T00:55:28+00:00",
    "vazut": "2026-11-25T00:55:28+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/solutie-curatare-pardoseli-igienol-poiana-cu-lacramioare-1-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.19",
+   "stare": "ok",
+   "verificat": "2026-11-25T08:24:07+00:00",
+   "vazut": "2026-11-25T08:24:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Solutie curatare pardoseli Igienol Poiana cu Lacramioare, 1 l"
   }
  ]
 }
