@@ -2,21 +2,21 @@
  "ean": "3014260287047",
  "preturi": [
   {
-   "url": "https://www.practi.ro/sanatate-si-cosmetica/2buc-x-gillette-aparat-ras-2lame.html?srsltid=AYCX9vJ7q6jB-KH9yMNmZYygk9YlKsDwjafsdFhKtzUuLPGjMs4XV5wH",
-   "domeniu": "practi.ro",
-   "pret": "2.90",
-   "stare": "ok",
-   "verificat": "2026-11-24T15:30:31+00:00",
-   "vazut": "2026-11-24T15:30:31+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/gillette-2/?srsltid=AYCX9vIv3_2vT7o2FxmM9VxeJ6iiE0sLDCuEf46eG4atFDTFMRS_Fma_",
    "domeniu": "cobyul.ro",
    "pret": "1.29",
    "stare": "ok",
    "verificat": "2026-11-25T00:06:20+00:00",
    "vazut": "2026-11-25T00:06:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.practi.ro/sanatate-si-cosmetica/2buc-x-gillette-aparat-ras-2lame.html?srsltid=AYCX9vJ7q6jB-KH9yMNmZYygk9YlKsDwjafsdFhKtzUuLPGjMs4XV5wH",
+   "domeniu": "practi.ro",
+   "pret": "2.90",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:59:02+00:00",
+   "vazut": "2026-11-25T00:59:02+00:00",
    "metoda": "cautare_google"
   }
  ]

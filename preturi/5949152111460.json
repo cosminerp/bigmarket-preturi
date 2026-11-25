@@ -2,24 +2,6 @@
  "ean": "5949152111460",
  "preturi": [
   {
-   "url": "https://www.1001cosmetice.ro/cumpara/rezerva-odorizant-automat-de-camera-air-wick-frezie-si-iasomie-250-ml-56965",
-   "domeniu": "1001cosmetice.ro",
-   "pret": "14.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:46:58+00:00",
-   "vazut": "2026-11-24T16:46:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/menaj/odorizante/airwick-rezerva-aparat-camera-250ml-frezie-iasomie-6buc-bax-5949152111460",
-   "domeniu": "snaemarket.ro",
-   "pret": "12.90",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:47:02+00:00",
-   "vazut": "2026-11-24T16:47:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rezerva-odorizant-de-camera-airwick-freshmatic-frezie-si-iasomie-250-ml/p",
    "domeniu": "auchan.ro",
    "pret": "28.29",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-24T23:57:10+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rezerva odorizant de camera Airwick Freshmatic Frezie si Iasomie, 250 ml"
+  },
+  {
+   "url": "https://www.1001cosmetice.ro/cumpara/rezerva-odorizant-automat-de-camera-air-wick-frezie-si-iasomie-250-ml-56965",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "14.00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T01:01:24+00:00",
+   "vazut": "2026-11-24T16:46:58+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/odorizante/airwick-rezerva-aparat-camera-250ml-frezie-iasomie-6buc-bax-5949152111460",
+   "domeniu": "snaemarket.ro",
+   "pret": "12.90",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:01:27+00:00",
+   "vazut": "2026-11-25T01:01:27+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

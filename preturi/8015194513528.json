@@ -2,24 +2,6 @@
  "ean": "8015194513528",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/chante-clair-degresant-625-ml-candegina/?srsltid=AYCX9vLCL2Yf9xqzlKsL-tGQOqZYIhWGc-Dytq4zOAv_8qIz2kP-91Td",
-   "domeniu": "cobyul.ro",
-   "pret": "13.75",
-   "stare": "ok",
-   "verificat": "2026-11-24T17:01:39+00:00",
-   "vazut": "2026-11-24T17:01:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-baii/degresant-chante-clair-cu-clor-8015194513528.html",
-   "domeniu": "magazinitalian.ro",
-   "pret": "17.50",
-   "stare": "ok",
-   "verificat": "2026-11-24T17:01:41+00:00",
-   "vazut": "2026-11-24T17:01:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/solutie-degresant-universal-chante-clair-cu-inalbitor-625-ml/p",
    "domeniu": "auchan.ro",
    "pret": "26.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-24T23:53:12+00:00",
    "metoda": "auchan_catalog",
    "nume": "Solutie degresant universal Chanteclair cu inalbitor, 625 ml"
+  },
+  {
+   "url": "https://cobyul.ro/produs/chante-clair-degresant-625-ml-candegina/?srsltid=AYCX9vLCL2Yf9xqzlKsL-tGQOqZYIhWGc-Dytq4zOAv_8qIz2kP-91Td",
+   "domeniu": "cobyul.ro",
+   "pret": "13.75",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:13:10+00:00",
+   "vazut": "2026-11-25T01:13:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-baii/degresant-chante-clair-cu-clor-8015194513528.html",
+   "domeniu": "magazinitalian.ro",
+   "pret": "17.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:13:11+00:00",
+   "vazut": "2026-11-25T01:13:11+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

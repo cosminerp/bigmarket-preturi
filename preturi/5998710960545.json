@@ -2,15 +2,6 @@
  "ean": "5998710960545",
  "preturi": [
   {
-   "url": "https://www.zozocafe.ro/cacao-instant-cu-vitamine-nestle-nesquik-200g",
-   "domeniu": "zozocafe.ro",
-   "pret": "12.34",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:49:20+00:00",
-   "vazut": "2026-11-24T16:49:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cacao-instant-cu-vitamine-nestle-nesquik-200g/p",
    "domeniu": "auchan.ro",
    "pret": "12.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T23:56:46+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura solubila cacao instant cu vitamine Nestle Nesquik, 200g"
+  },
+  {
+   "url": "https://www.zozocafe.ro/cacao-instant-cu-vitamine-nestle-nesquik-200g",
+   "domeniu": "zozocafe.ro",
+   "pret": "12.34",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:03:24+00:00",
+   "vazut": "2026-11-25T01:03:24+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

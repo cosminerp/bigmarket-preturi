@@ -2,42 +2,6 @@
  "ean": "8700216835657",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/ariel-automat-390-gr-6-spalari-color/?srsltid=AYCX9vIUFP074_I0OfVOBtU1e-ZGL9po2wccypfm7YdUCKDbK9BsLY8b",
-   "domeniu": "cobyul.ro",
-   "pret": "11.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T17:08:32+00:00",
-   "vazut": "2026-11-24T17:08:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/detergent-lichid/ariel-color-laundry-powder-detergent-390-g-6-washes",
-   "domeniu": "promoazi.ro",
-   "pret": "13.39",
-   "stare": "ok",
-   "verificat": "2026-11-24T17:08:33+00:00",
-   "vazut": "2026-11-24T17:08:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/ariel-dero-automat-color-390g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "11.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T17:08:36+00:00",
-   "vazut": "2026-11-24T17:08:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.soforia.ro/produs/ariel-detergent-pudra-rufe-colorate-instant-dissolution-color-390-g-6-spalari/?srsltid=AYCX9vLBFVx6N4QLuG3R4ft8tKL_9v2iL3rJwKVJCs1RFwJuhOMHzm7n",
-   "domeniu": "soforia.ro",
-   "pret": "9.90",
-   "stare": "ok",
-   "verificat": "2026-11-24T17:08:40+00:00",
-   "vazut": "2026-11-24T17:08:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/detergent-pudra-automat-ariel-instant-dissolution-color-390-g-6-spalari/p",
    "domeniu": "auchan.ro",
    "pret": "18.49",
@@ -46,6 +10,42 @@
    "vazut": "2026-11-24T23:56:06+00:00",
    "metoda": "auchan_catalog",
    "nume": "Detergent pudra automat Ariel Instant Dissolution Color, 6 spalari, 390 g"
+  },
+  {
+   "url": "https://cobyul.ro/produs/ariel-automat-390-gr-6-spalari-color/?srsltid=AYCX9vIUFP074_I0OfVOBtU1e-ZGL9po2wccypfm7YdUCKDbK9BsLY8b",
+   "domeniu": "cobyul.ro",
+   "pret": "11.49",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:17:17+00:00",
+   "vazut": "2026-11-25T01:17:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/detergent-lichid/ariel-color-laundry-powder-detergent-390-g-6-washes",
+   "domeniu": "promoazi.ro",
+   "pret": "13.39",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:17:19+00:00",
+   "vazut": "2026-11-25T01:17:19+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/ariel-dero-automat-color-390g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:17:21+00:00",
+   "vazut": "2026-11-25T01:17:21+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.soforia.ro/produs/ariel-detergent-pudra-rufe-colorate-instant-dissolution-color-390-g-6-spalari/?srsltid=AYCX9vLBFVx6N4QLuG3R4ft8tKL_9v2iL3rJwKVJCs1RFwJuhOMHzm7n",
+   "domeniu": "soforia.ro",
+   "pret": "9.90",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:17:23+00:00",
+   "vazut": "2026-11-25T01:17:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
