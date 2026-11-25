@@ -2,24 +2,6 @@
  "ean": "5942070005453",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/bergenbier-330ml-sticla/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.29",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:44:27+00:00",
-   "vazut": "2026-11-25T00:44:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/bauturi/bere-blonda-bergenbier-033-l",
-   "domeniu": "promoazi.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:44:29+00:00",
-   "vazut": "2026-11-25T00:44:29+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-bergenbier-0-33l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T08:22:20+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Bergenbier, 0.33 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/bergenbier-330ml-sticla/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:11:13+00:00",
+   "vazut": "2026-11-25T11:11:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/bauturi/bere-blonda-bergenbier-033-l",
+   "domeniu": "promoazi.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-25T11:11:15+00:00",
+   "vazut": "2026-11-25T11:11:15+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

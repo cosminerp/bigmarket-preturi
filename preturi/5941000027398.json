@@ -2,15 +2,6 @@
  "ean": "5941000027398",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/pufuleti-chipsuri",
-   "domeniu": "eurodiscount.ro",
-   "pret": "4.94",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:21:24+00:00",
-   "vazut": "2026-11-25T00:21:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-chips-gratar-nou-promo1-60gr-28buc-bax-5941000027398",
    "domeniu": "snaemarket.ro",
    "pret": "3.80",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T10:46:01+00:00",
    "vazut": "2026-11-25T10:46:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/pufuleti-chipsuri",
+   "domeniu": "eurodiscount.ro",
+   "pret": "4.94",
+   "stare": "ok",
+   "verificat": "2026-11-25T10:56:12+00:00",
+   "vazut": "2026-11-25T10:56:12+00:00",
    "metoda": "cautare_google"
   }
  ]

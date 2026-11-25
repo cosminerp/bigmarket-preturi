@@ -2,15 +2,6 @@
  "ean": "5941384006255",
  "preturi": [
   {
-   "url": "https://promoazi.ro/bacanie/croissant-cu-crema-de-cacao-elmas-gigant-160-g",
-   "domeniu": "promoazi.ro",
-   "pret": "5.39",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:31:06+00:00",
-   "vazut": "2026-11-25T00:31:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/croissant-cu-crema-de-cacao-elmas-gigant-160-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.69",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:34:30+00:00",
    "metoda": "auchan_catalog",
    "nume": "Croissant cu crema de cacao Elmas Gigant, 160 g"
+  },
+  {
+   "url": "https://promoazi.ro/bacanie/croissant-cu-crema-de-cacao-elmas-gigant-160-g",
+   "domeniu": "promoazi.ro",
+   "pret": "5.39",
+   "stare": "ok",
+   "verificat": "2026-11-25T10:59:39+00:00",
+   "vazut": "2026-11-25T10:59:39+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
