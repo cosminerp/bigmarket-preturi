@@ -2,24 +2,6 @@
  "ean": "5940541736011",
  "preturi": [
   {
-   "url": "https://promoazi.ro/bere-si-cidru/bere-alba-nefiltrata-nenea-iancu-05-l",
-   "domeniu": "promoazi.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:43:28+00:00",
-   "vazut": "2026-11-25T10:43:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.vivomarket.ro/bauturi/bere-alba-nefiltrata-nenea-iancu-sticla-20-x-0-5l.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "262.08",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:56:09+00:00",
-   "vazut": "2026-11-25T10:56:09+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-alba-nefiltrata-nenea-iancu-sticla-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "10.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T19:28:40+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere alba nefiltrata Nenea Iancu, 0.5 l"
+  },
+  {
+   "url": "https://promoazi.ro/bere-si-cidru/bere-alba-nefiltrata-nenea-iancu-05-l",
+   "domeniu": "promoazi.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T20:51:19+00:00",
+   "vazut": "2026-11-25T20:51:19+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi/bere-alba-nefiltrata-nenea-iancu-sticla-20-x-0-5l.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "262.08",
+   "stare": "ok",
+   "verificat": "2026-11-25T20:51:21+00:00",
+   "vazut": "2026-11-25T20:51:21+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

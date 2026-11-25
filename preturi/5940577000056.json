@@ -2,24 +2,6 @@
  "ean": "5940577000056",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/hell-energizant-black-cherry-250ml-doza/",
-   "domeniu": "pacomarket.ro",
-   "pret": "3.95",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:43:40+00:00",
-   "vazut": "2026-11-25T10:43:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://corsomarket.ro/product/hell-energizant-black-cherry-0-25l/?srsltid=AYCX9vIKtUmAfQSN8ElpQo-wecV7qExH4TxLas4WdCswkHMhUtE522v7",
-   "domeniu": "corsomarket.ro",
-   "pret": "5.50",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:43:42+00:00",
-   "vazut": "2026-11-25T10:43:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-hell-black-cherry-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T19:26:30+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura energizanta Hell Black Cherry, 0.25 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/hell-energizant-black-cherry-250ml-doza/",
+   "domeniu": "pacomarket.ro",
+   "pret": "3.95",
+   "stare": "ok",
+   "verificat": "2026-11-25T20:51:32+00:00",
+   "vazut": "2026-11-25T20:51:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://corsomarket.ro/product/hell-energizant-black-cherry-0-25l/?srsltid=AYCX9vIKtUmAfQSN8ElpQo-wecV7qExH4TxLas4WdCswkHMhUtE522v7",
+   "domeniu": "corsomarket.ro",
+   "pret": "5.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T20:51:34+00:00",
+   "vazut": "2026-11-25T20:51:34+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

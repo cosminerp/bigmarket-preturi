@@ -2,24 +2,6 @@
  "ean": "5941065009810",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/lapte-eco-3-8-napolact-cutie-1l/",
-   "domeniu": "pacomarket.ro",
-   "pret": "15.99",
-   "stare": "pagina nu mai există",
-   "verificat": "2026-11-25T10:48:07+00:00",
-   "vazut": "2026-11-16T21:36:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/lapte/lapte-bio-38-grasime-napolact-1l",
-   "domeniu": "promoazi.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:48:09+00:00",
-   "vazut": "2026-11-25T10:48:09+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/lapte-de-consum-bio-napolact-3-8-grasime-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "8.99",
@@ -29,6 +11,24 @@
    "metoda": "auchan_catalog",
    "nume": "Lapte de consum integral BIO Napolact, 3.8% grasime, 1 l",
    "pret_vechi": "10.79"
+  },
+  {
+   "url": "https://pacomarket.ro/product/lapte-eco-3-8-napolact-cutie-1l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "15.99",
+   "stare": "pagina nu mai există",
+   "verificat": "2026-11-25T20:55:53+00:00",
+   "vazut": "2026-11-16T21:36:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/lapte/lapte-bio-38-grasime-napolact-1l",
+   "domeniu": "promoazi.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T20:55:55+00:00",
+   "vazut": "2026-11-25T20:55:55+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

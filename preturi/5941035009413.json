@@ -2,15 +2,6 @@
  "ean": "5941035009413",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/napolitane-alfers-cu-lamaie-170-g?srsltid=AYCX9vKiznpgCeUpZquV2uURF5vYXJH1s4tEl2QvS1srfRL8Df0raESK",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "6.44",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:47:03+00:00",
-   "vazut": "2026-11-25T10:47:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/napolitane-alfers-cu-crema-de-lamaie-170g/p",
    "domeniu": "auchan.ro",
    "pret": "5.15",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T19:25:56+00:00",
    "metoda": "auchan_catalog",
    "nume": "Napolitane cu crema cu aroma de lamaie Alfers, 170 g"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/napolitane-alfers-cu-lamaie-170-g?srsltid=AYCX9vKiznpgCeUpZquV2uURF5vYXJH1s4tEl2QvS1srfRL8Df0raESK",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "6.44",
+   "stare": "ok",
+   "verificat": "2026-11-25T20:54:48+00:00",
+   "vazut": "2026-11-25T20:54:48+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

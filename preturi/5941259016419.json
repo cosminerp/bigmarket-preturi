@@ -2,15 +2,6 @@
  "ean": "5941259016419",
  "preturi": [
   {
-   "url": "https://promoazi.ro/carnati/crenvursti-cu-piept-de-pui-caroli-450-g",
-   "domeniu": "promoazi.ro",
-   "pret": "18.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:51:40+00:00",
-   "vazut": "2026-11-25T10:51:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/crenvursti-cu-piept-de-pui-caroli-450-g/p",
    "domeniu": "auchan.ro",
    "pret": "18.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T19:29:18+00:00",
    "metoda": "auchan_catalog",
    "nume": "Crenvursti cu piept de pui Caroli, 450 g"
+  },
+  {
+   "url": "https://promoazi.ro/carnati/crenvursti-cu-piept-de-pui-caroli-450-g",
+   "domeniu": "promoazi.ro",
+   "pret": "18.49",
+   "stare": "ok",
+   "verificat": "2026-11-25T20:59:22+00:00",
+   "vazut": "2026-11-25T20:59:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
