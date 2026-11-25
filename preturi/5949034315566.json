@@ -2,17 +2,6 @@
  "ean": "5949034315566",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/hrana-umeda-pentru-caini-adulti-lolo-vanat-1-24-kg/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:38:59+00:00",
-   "vazut": "2026-11-25T08:38:59+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Hrana umeda pentru caini adulti Lolo, vanat, 1.24 kg",
-   "pret_vechi": "9.99"
-  },
-  {
    "url": "https://promoazi.ro/hrana-umeda-caini/hrana-umeda-pentru-caini-adulti-lolo-vanat-124-kg",
    "domeniu": "promoazi.ro",
    "pret": "8.99",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-25T11:27:30+00:00",
    "vazut": "2026-11-25T11:27:30+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/hrana-umeda-pentru-caini-adulti-lolo-vanat-1-24-kg/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:27:46+00:00",
+   "vazut": "2026-11-25T19:27:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Hrana umeda pentru caini adulti Lolo, vanat, 1.24 kg",
+   "pret_vechi": "9.99"
   }
  ]
 }

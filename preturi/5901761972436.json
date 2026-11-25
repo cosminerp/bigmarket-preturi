@@ -2,16 +2,6 @@
  "ean": "5901761972436",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/tratament-unghii-nail-golden-8in1-eveline-12ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:27:33+00:00",
-   "vazut": "2026-11-25T08:27:33+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Tratament unghii nail golden 8in1 Eveline, 12ml"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/tratament-profesional-8in1-golden-shine-nail-therapy-12-ml-eveline-5645?srsltid=AYCX9vLt_mknWZAGZdFVQy01VrpDcJ-9ojO79pIxmSg4Z9N_Dgb6lkAh",
    "domeniu": "kisshop.ro",
    "pret": "14.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T10:41:20+00:00",
    "vazut": "2026-11-25T10:41:20+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/tratament-unghii-nail-golden-8in1-eveline-12ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:16:44+00:00",
+   "vazut": "2026-11-25T19:16:44+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Tratament unghii nail golden 8in1 Eveline, 12ml"
   }
  ]
 }

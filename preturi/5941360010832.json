@@ -2,17 +2,6 @@
  "ean": "5941360010832",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/mix-de-branzeturi-delaco-formaggio-per-pasta-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:36:03+00:00",
-   "vazut": "2026-11-25T08:36:03+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Mix de branzeturi Delaco Formaggio Per Pasta, 100 g",
-   "pret_vechi": "10.79"
-  },
-  {
    "url": "https://pacomarket.ro/product/delaco-cuore-di-formaggi-100g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "9.99",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-25T10:59:16+00:00",
    "vazut": "2026-11-25T10:59:16+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/mix-de-branzeturi-delaco-formaggio-per-pasta-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:25:02+00:00",
+   "vazut": "2026-11-25T19:25:02+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Mix de branzeturi Delaco Formaggio Per Pasta, 100 g",
+   "pret_vechi": "10.79"
   }
  ]
 }

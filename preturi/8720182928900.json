@@ -2,17 +2,6 @@
  "ean": "8720182928900",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/baza-pentru-mancare-cu-gust-de-gaina-delikat-75-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.66",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:23:14+00:00",
-   "vazut": "2026-11-25T08:23:14+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Baza pentru mancare cu gust de gaina Delikat, 75 g",
-   "pret_vechi": "3.55"
-  },
-  {
    "url": "https://pacomarket.ro/product/delikat-gaina-75g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "3.99",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-25T11:57:22+00:00",
    "vazut": "2026-11-25T11:57:22+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/baza-pentru-mancare-cu-gust-de-gaina-delikat-75-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.66",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:12:33+00:00",
+   "vazut": "2026-11-25T19:12:33+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Baza pentru mancare cu gust de gaina Delikat, 75 g",
+   "pret_vechi": "3.55"
   }
  ]
 }

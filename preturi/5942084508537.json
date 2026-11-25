@@ -2,16 +2,6 @@
  "ean": "5942084508537",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/vin-alb-sec-castel-huniade-sauvignon-blanc-0-187l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.19",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:24:51+00:00",
-   "vazut": "2026-11-25T08:24:51+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Vin alb sec Castel Huniade, Sauvignon Blanc 0.187 l"
-  },
-  {
    "url": "https://www.rebeshop.ro/cumpara/recas-castel-huniade-sauvignon-blanc-0-187l-1406",
    "domeniu": "rebeshop.ro",
    "pret": "8.50",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T11:11:42+00:00",
    "vazut": "2026-11-25T11:11:42+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/vin-alb-sec-castel-huniade-sauvignon-blanc-0-187l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.19",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:14:03+00:00",
+   "vazut": "2026-11-25T19:14:03+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Vin alb sec Castel Huniade, Sauvignon Blanc 0.187 l"
   }
  ]
 }

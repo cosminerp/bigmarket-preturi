@@ -2,16 +2,6 @@
  "ean": "5941832002884",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/orez-basmati-riso-scotti-easycook-2-x-125-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.19",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:25:52+00:00",
-   "vazut": "2026-11-25T08:25:52+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Orez basmati Riso Scotti Easycook, 2 x 125 g"
-  },
-  {
    "url": "https://www.eurodiscount.ro/faina-zahar-orez-sare",
    "domeniu": "eurodiscount.ro",
    "pret": "6.83",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T11:06:16+00:00",
    "vazut": "2026-11-25T11:06:16+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/orez-basmati-riso-scotti-easycook-2-x-125-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.19",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:15:01+00:00",
+   "vazut": "2026-11-25T19:15:01+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Orez basmati Riso Scotti Easycook, 2 x 125 g"
   }
  ]
 }

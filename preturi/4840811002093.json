@@ -2,16 +2,6 @@
  "ean": "4840811002093",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/seminte-pestrite-de-floarea-soarelui-prajite-cu-sare-banzai-165-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "nu mai e în stoc / nu mai există",
-   "verificat": "2026-11-18T11:34:32+00:00",
-   "vazut": "2026-11-18T02:55:08+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Seminte pestrite de floarea-soarelui prajite cu sare Banzai, 165 g"
-  },
-  {
    "url": "https://promoazi.ro/seminte-nuci-fructe-uscate/seminte-pestrite-de-floarea-soarelui-prajite-cu-sare-banzai-165-g",
    "domeniu": "promoazi.ro",
    "pret": "8.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T10:36:48+00:00",
    "vazut": "2026-11-25T10:36:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/seminte-pestrite-de-floarea-soarelui-prajite-cu-sare-banzai-165-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:10:28+00:00",
+   "vazut": "2026-11-25T19:10:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Seminte pestrite de floarea-soarelui prajite cu sare Banzai, 165 g"
   }
  ]
 }

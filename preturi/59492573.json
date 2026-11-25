@@ -2,16 +2,6 @@
  "ean": "59492573",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:33:41+00:00",
-   "vazut": "2026-11-25T08:33:41+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 0.5 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-0-5l-sgr-12buc-bax-59492573",
    "domeniu": "snaemarket.ro",
    "pret": "5.32",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-25T11:29:58+00:00",
    "vazut": "2026-11-25T11:29:58+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:22:48+00:00",
+   "vazut": "2026-11-25T19:22:48+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 0.5 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5941360003759",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cascaval-delaco-sofia-250-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "18.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:42:35+00:00",
-   "vazut": "2026-11-25T08:42:35+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cascaval Delaco Sofia, 250 g"
-  },
-  {
    "url": "https://promoazi.ro/cascaval/cascaval-sofia-250g",
    "domeniu": "promoazi.ro",
    "pret": "11.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T10:58:48+00:00",
    "vazut": "2026-11-25T10:58:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cascaval-delaco-sofia-250-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "18.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:31:08+00:00",
+   "vazut": "2026-11-25T19:31:08+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cascaval Delaco Sofia, 250 g"
   }
  ]
 }

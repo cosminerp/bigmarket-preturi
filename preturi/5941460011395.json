@@ -2,16 +2,6 @@
  "ean": "5941460011395",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/salam-de-sibiu-agricola-300-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "33.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:42:10+00:00",
-   "vazut": "2026-11-25T08:42:10+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Salam de Sibiu Agricola, 300 g"
-  },
-  {
    "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste/salbac-salam-sibiu-300g.html",
    "domeniu": "eurodiscount.ro",
    "pret": "39.90",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-25T11:02:32+00:00",
    "vazut": "2026-11-25T11:02:32+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/salam-de-sibiu-agricola-300-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "33.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:30:46+00:00",
+   "vazut": "2026-11-25T19:30:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Salam de Sibiu Agricola, 300 g"
   }
  ]
 }

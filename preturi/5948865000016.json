@@ -2,16 +2,6 @@
  "ean": "5948865000016",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chibrituri-match-point-standard/p",
-   "domeniu": "auchan.ro",
-   "pret": "1.75",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:35:52+00:00",
-   "vazut": "2026-11-25T08:35:52+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chibrituri Match Point standard"
-  },
-  {
    "url": "https://oti.ro/products/chibrituri-oti-38-buc-cutie-10-cutii-set?srsltid=AYCX9vLBr0ZFaW3g3K4vSLreYR5mNoXmOwWkqeRQ_d9narcDQmnlnVSq",
    "domeniu": "oti.ro",
    "pret": "1.75",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-25T11:48:31+00:00",
    "vazut": "2026-11-25T11:48:31+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chibrituri-match-point-standard/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.75",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:24:52+00:00",
+   "vazut": "2026-11-25T19:24:52+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chibrituri Match Point standard"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "4840811000426",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/seminte-de-dovleac-prajite-cu-sare-banzai-80-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.79",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:37:24+00:00",
-   "vazut": "2026-11-25T08:37:24+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Seminte de dovleac prajite cu sare Banzai, 80 g"
-  },
-  {
    "url": "https://promoazi.ro/seminte/seminte-de-dovleac-prajite-cu-sare-banzai-80-g",
    "domeniu": "promoazi.ro",
    "pret": "4.89",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T10:36:44+00:00",
    "vazut": "2026-11-25T10:36:44+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/seminte-de-dovleac-prajite-cu-sare-banzai-80-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.79",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:26:18+00:00",
+   "vazut": "2026-11-25T19:26:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Seminte de dovleac prajite cu sare Banzai, 80 g"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5949040202508",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/toortitzi-alka-cu-mix-de-seminte-180-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:43:26+00:00",
-   "vazut": "2026-11-25T08:43:26+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Toortitzi Alka cu mix de seminte, 180 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/toortitzi-cu-mix-de-seminte-180g-12buc-bax-5949040202508",
    "domeniu": "snaemarket.ro",
    "pret": "6.22",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-25T11:27:44+00:00",
    "vazut": "2026-11-25T11:27:44+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/toortitzi-alka-cu-mix-de-seminte-180-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:31:57+00:00",
+   "vazut": "2026-11-25T19:31:57+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Toortitzi Alka cu mix de seminte, 180 g"
   }
  ]
 }

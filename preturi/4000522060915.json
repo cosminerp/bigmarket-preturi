@@ -2,16 +2,6 @@
  "ean": "4000522060915",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chio-maxi-mix-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.45",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:40:52+00:00",
-   "vazut": "2026-11-25T08:40:52+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chio Maxi Mix, 100 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/snacks/chio-maxi-mix-100g-20buc-bax-4000522060915",
    "domeniu": "snaemarket.ro",
    "pret": "6.76",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T10:32:00+00:00",
    "vazut": "2026-11-17T09:38:10+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chio-maxi-mix-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.45",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:29:32+00:00",
+   "vazut": "2026-11-25T19:29:32+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chio Maxi Mix, 100 g"
   }
  ]
 }

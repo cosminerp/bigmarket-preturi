@@ -2,17 +2,6 @@
  "ean": "5941623007210",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cafea-instant-amigo-100g/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T08:23:34+00:00",
-   "vazut": "2026-11-25T08:23:34+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cafea solubila Amigo, 100 g",
-   "pret_vechi": "21.29"
-  },
-  {
    "url": "https://www.zozocafe.ro/cafea-solubila-amigo-100g",
    "domeniu": "zozocafe.ro",
    "pret": "18.65",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-25T11:05:14+00:00",
    "vazut": "2026-11-25T11:05:14+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cafea-instant-amigo-100g/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T19:12:54+00:00",
+   "vazut": "2026-11-25T19:12:54+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cafea solubila Amigo, 100 g",
+   "pret_vechi": "21.29"
   }
  ]
 }
