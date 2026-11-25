@@ -2,21 +2,21 @@
  "ean": "8411582889143",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/menaj/detergenti/balsam-asevi-soft-pink-60-10buc-bax-8411582889143",
-   "domeniu": "snaemarket.ro",
-   "pret": "11.89",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:51:13+00:00",
-   "vazut": "2026-11-25T11:51:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.practi.ro/casa-si-gradina/asevi-balsam-rufe-1-44l-60spalari-talco-rosa.html?srsltid=AYCX9vJERg6RKKW0S1oioPMbw3V0ljw6onIL9pCv7X1-UVSXq3Eo9u44",
    "domeniu": "practi.ro",
    "pret": "11.90",
    "stare": "ok",
    "verificat": "2026-11-25T11:51:15+00:00",
    "vazut": "2026-11-25T11:51:15+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/detergenti/balsam-asevi-soft-pink-60-10buc-bax-8411582889143",
+   "domeniu": "snaemarket.ro",
+   "pret": "11.89",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:50:15+00:00",
+   "vazut": "2026-11-25T21:50:15+00:00",
    "metoda": "cautare_google"
   }
  ]

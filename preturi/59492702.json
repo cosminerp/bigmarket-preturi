@@ -2,24 +2,6 @@
  "ean": "59492702",
  "preturi": [
   {
-   "url": "https://www.ovmpaper.ro/coca-cola-zero-500-ml-bax-12-x-pet?srsltid=AYCX9vLHAHyruT0Wt27PF4J7rv5TALJu40VvtdaNUtD3B9cFyHNsxAKr",
-   "domeniu": "ovmpaper.ro",
-   "pret": "96.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:30:46+00:00",
-   "vazut": "2026-11-25T11:30:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-zero-0-5l-sgr-12buc-bax-59492702",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.44",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:30:49+00:00",
-   "vazut": "2026-11-25T11:30:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-coca-cola-zero-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T19:23:34+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Coca-Cola Zero Zahar, 0.5 l"
+  },
+  {
+   "url": "https://www.ovmpaper.ro/coca-cola-zero-500-ml-bax-12-x-pet?srsltid=AYCX9vLHAHyruT0Wt27PF4J7rv5TALJu40VvtdaNUtD3B9cFyHNsxAKr",
+   "domeniu": "ovmpaper.ro",
+   "pret": "96.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:35:09+00:00",
+   "vazut": "2026-11-25T21:35:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-zero-0-5l-sgr-12buc-bax-59492702",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.44",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:35:12+00:00",
+   "vazut": "2026-11-25T21:35:12+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

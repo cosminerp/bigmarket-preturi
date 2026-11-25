@@ -2,15 +2,6 @@
  "ean": "5902802540713",
  "preturi": [
   {
-   "url": "https://www.pravaliadecuratenie.ro/bucatarie/folie-prospetime-perforata-autocolanta-luxia-85-foi.html",
-   "domeniu": "pravaliadecuratenie.ro",
-   "pret": "10.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:41:41+00:00",
-   "vazut": "2026-11-25T10:41:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/luxia-folie-alimentara-85-foi/?srsltid=AYCX9vJEicRQd0CqVTSGlq61O-ZMpj3oqdphwyD8bm-dCYKWsvCJYRvv",
    "domeniu": "cobyul.ro",
    "pret": "4.20",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T20:49:15+00:00",
    "vazut": "2026-11-25T20:49:15+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pravaliadecuratenie.ro/bucatarie/folie-prospetime-perforata-autocolanta-luxia-85-foi.html",
+   "domeniu": "pravaliadecuratenie.ro",
+   "pret": "10.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:30:26+00:00",
+   "vazut": "2026-11-25T21:30:26+00:00",
    "metoda": "cautare_google"
   }
  ]

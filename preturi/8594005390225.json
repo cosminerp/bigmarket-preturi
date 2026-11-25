@@ -2,33 +2,6 @@
  "ean": "8594005390225",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/savo-antimucegai-500-ml/?srsltid=AYCX9vL2MHBMMG-XkrObmeNknJd821vb6X5pgpe1CylJfrvTh5_Ud11e",
-   "domeniu": "cobyul.ro",
-   "pret": "19.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:51:50+00:00",
-   "vazut": "2026-11-25T11:51:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.westchemicals.ro/produs/spray-universal-savo-antimucegai-500-ml/",
-   "domeniu": "westchemicals.ro",
-   "pret": "21.50",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:51:56+00:00",
-   "vazut": "2026-11-25T11:51:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://gxcoffice.ro/produs/solutie-antimucegai-savo-pulverizator-500-ml/?srsltid=AYCX9vLSEiWr38qG-3am3pF0aa8J6mlMhegRQYl5W58vlx-rnc2ccMPb",
-   "domeniu": "gxcoffice.ro",
-   "pret": "33.58",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:52:00+00:00",
-   "vazut": "2026-11-25T11:52:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/solutie-antimucegai-savo-tip-spray-0-5-l/p",
    "domeniu": "auchan.ro",
    "pret": "28.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-25T19:12:16+00:00",
    "metoda": "auchan_catalog",
    "nume": "Solutie antimucegai Savo, tip spray, 0.5 l"
+  },
+  {
+   "url": "https://cobyul.ro/produs/savo-antimucegai-500-ml/?srsltid=AYCX9vL2MHBMMG-XkrObmeNknJd821vb6X5pgpe1CylJfrvTh5_Ud11e",
+   "domeniu": "cobyul.ro",
+   "pret": "19.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:50:46+00:00",
+   "vazut": "2026-11-25T21:50:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/spray-universal-savo-antimucegai-500-ml/",
+   "domeniu": "westchemicals.ro",
+   "pret": "21.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:50:50+00:00",
+   "vazut": "2026-11-25T21:50:50+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://gxcoffice.ro/produs/solutie-antimucegai-savo-pulverizator-500-ml/?srsltid=AYCX9vLSEiWr38qG-3am3pF0aa8J6mlMhegRQYl5W58vlx-rnc2ccMPb",
+   "domeniu": "gxcoffice.ro",
+   "pret": "33.58",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:50:54+00:00",
+   "vazut": "2026-11-25T21:50:54+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

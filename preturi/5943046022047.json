@@ -2,15 +2,6 @@
  "ean": "5943046022047",
  "preturi": [
   {
-   "url": "https://www.meiso.ro/cumpara/loncolor-ultra-vopsea-permanenta-de-par-cu-amoniac-1-2-negru-albastru-1031",
-   "domeniu": "meiso.ro",
-   "pret": "18.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:48:20+00:00",
-   "vazut": "2026-11-25T11:48:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/vopsea-permanenta-pentru-par-loncolor-ultra-1-2-negru-albastru/p",
    "domeniu": "auchan.ro",
    "pret": "16.49",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T21:26:04+00:00",
    "vazut": "2026-11-25T21:26:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.meiso.ro/cumpara/loncolor-ultra-vopsea-permanenta-de-par-cu-amoniac-1-2-negru-albastru-1031",
+   "domeniu": "meiso.ro",
+   "pret": "18.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:31:06+00:00",
+   "vazut": "2026-11-25T21:31:06+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,24 +2,6 @@
  "ean": "8003510002733",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/deodorant-spray-intesa-pour-homme-ylang-ylang-150-ml-490?srsltid=AYCX9vKPlmL5Bq4xenh3Q9XGmcJA5o1P14mFuRZ9AZ8j7EhkeMtuehIA",
-   "domeniu": "kisshop.ro",
-   "pret": "14.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:42:35+00:00",
-   "vazut": "2026-11-25T11:42:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.westchemicals.ro/produs/deodorant-parfum-intesa-ylang-ylang-150-ml/",
-   "domeniu": "westchemicals.ro",
-   "pret": "15.50",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:42:38+00:00",
-   "vazut": "2026-11-25T11:42:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/deodorant-intesa-pour-homme-cu-ylang-si-ylang-150-ml/p",
    "domeniu": "auchan.ro",
    "pret": "17.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T19:31:55+00:00",
    "metoda": "auchan_catalog",
    "nume": "Deodorant Intesa pour Homme cu Ylang si Ylang 150 ml"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/deodorant-spray-intesa-pour-homme-ylang-ylang-150-ml-490?srsltid=AYCX9vKPlmL5Bq4xenh3Q9XGmcJA5o1P14mFuRZ9AZ8j7EhkeMtuehIA",
+   "domeniu": "kisshop.ro",
+   "pret": "14.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:47:08+00:00",
+   "vazut": "2026-11-25T21:47:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/deodorant-parfum-intesa-ylang-ylang-150-ml/",
+   "domeniu": "westchemicals.ro",
+   "pret": "15.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:47:10+00:00",
+   "vazut": "2026-11-25T21:47:10+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

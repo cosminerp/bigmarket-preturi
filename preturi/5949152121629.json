@@ -2,15 +2,6 @@
  "ean": "5949152121629",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/menaj/detergenti/vanish-lichid-gel-pink-1l-12buc-bax-5949152121629",
-   "domeniu": "snaemarket.ro",
-   "pret": "19.54",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:29:49+00:00",
-   "vazut": "2026-11-25T11:29:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/gel-comcentrat-pentru-indepartarea-petelor-vanish-oxi-action-pink-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "24.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T19:12:47+00:00",
    "metoda": "auchan_catalog",
    "nume": "Gel concentrat pentru indepartarea petelor Vanish Oxi Action Pink, 1 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/detergenti/vanish-lichid-gel-pink-1l-12buc-bax-5949152121629",
+   "domeniu": "snaemarket.ro",
+   "pret": "19.54",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:34:08+00:00",
+   "vazut": "2026-11-25T21:34:08+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
