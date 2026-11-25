@@ -2,15 +2,6 @@
  "ean": "8410376037883",
  "preturi": [
   {
-   "url": "https://www.nosugarshop.ro/cumpara/biscuiti-cu-chipsuri-de-ciocolata-chip-choco-fara-zahar-fara-gluten-6307",
-   "domeniu": "nosugarshop.ro",
-   "pret": "11.67",
-   "stare": "ok",
-   "verificat": "2026-11-24T17:06:47+00:00",
-   "vazut": "2026-11-24T17:06:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-cu-bucatele-de-ciocolata-gullon-130-g/p",
    "domeniu": "auchan.ro",
    "pret": "24.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-24T23:56:08+00:00",
    "metoda": "auchan_catalog",
    "nume": "Biscuiti cu bucatele de ciocolata Gullon, 130 g"
+  },
+  {
+   "url": "https://www.nosugarshop.ro/cumpara/biscuiti-cu-chipsuri-de-ciocolata-chip-choco-fara-zahar-fara-gluten-6307",
+   "domeniu": "nosugarshop.ro",
+   "pret": "11.67",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:21:49+00:00",
+   "vazut": "2026-11-25T01:21:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

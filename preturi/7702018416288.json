@@ -2,15 +2,6 @@
  "ean": "7702018416288",
  "preturi": [
   {
-   "url": "https://www.practi.ro/sanatate-si-cosmetica/gillette-rezerva-mach3-1-buc.html?srsltid=AYCX9vIZKbc30gH8TAqCHXnozzi3aXN9LXRpNgK2CS9JjBFmVEdbAlbs",
-   "domeniu": "practi.ro",
-   "pret": "11.45",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:58:57+00:00",
-   "vazut": "2026-11-24T16:58:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.greenonline.ro/ingrijire-personala/rezerva-aparat-de-ras-gillette-mach3-1-bucata.html",
    "domeniu": "greenonline.ro",
    "pret": "11.75",
@@ -44,6 +35,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T01:10:26+00:00",
    "vazut": "2026-11-25T01:10:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.practi.ro/sanatate-si-cosmetica/gillette-rezerva-mach3-1-buc.html?srsltid=AYCX9vIZKbc30gH8TAqCHXnozzi3aXN9LXRpNgK2CS9JjBFmVEdbAlbs",
+   "domeniu": "practi.ro",
+   "pret": "11.45",
+   "stare": "ok",
+   "verificat": "2026-11-25T01:21:39+00:00",
+   "vazut": "2026-11-25T01:21:39+00:00",
    "metoda": "cautare_google"
   }
  ]
