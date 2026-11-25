@@ -2,22 +2,14 @@
  "ean": "5941360007597",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/delaco-mozzarella-gourmet-350g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "19.99",
+   "url": "https://www.auchan.ro/mozzarella-gourmet-delaco-350-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "19.89",
    "stare": "ok",
-   "verificat": "2026-11-24T16:11:03+00:00",
-   "vazut": "2026-11-24T16:11:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/mozzarella/mozzarella-gourmet-delaco-350g",
-   "domeniu": "promoazi.ro",
-   "pret": "13.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:11:05+00:00",
-   "vazut": "2026-11-24T16:11:05+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-24T13:53:55+00:00",
+   "vazut": "2026-11-24T13:53:55+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Mozzarella gourmet Delaco, 350 g"
   },
   {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/delaco-mozzarella-gourmet-350g.html",
@@ -29,14 +21,22 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.auchan.ro/mozzarella-gourmet-delaco-350-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "19.89",
+   "url": "https://pacomarket.ro/product/delaco-mozzarella-gourmet-350g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "19.99",
    "stare": "ok",
-   "verificat": "2026-11-25T00:08:55+00:00",
-   "vazut": "2026-11-25T00:08:55+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Mozzarella gourmet Delaco, 350 g"
+   "verificat": "2026-11-25T00:30:30+00:00",
+   "vazut": "2026-11-25T00:30:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/mozzarella/mozzarella-gourmet-delaco-350g",
+   "domeniu": "promoazi.ro",
+   "pret": "30.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:30:32+00:00",
+   "vazut": "2026-11-25T00:30:32+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
