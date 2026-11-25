@@ -2,16 +2,6 @@
  "ean": "59407096",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-timisoreana-0-33l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.19",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:49:29+00:00",
-   "vazut": "2026-11-24T13:49:29+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Timisoreana, 0.33 l"
-  },
-  {
    "url": "https://promoazi.ro/bere/bere-blonda-timisoreana-033-l",
    "domeniu": "promoazi.ro",
    "pret": "4.19",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T15:55:19+00:00",
    "vazut": "2026-11-24T15:55:19+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-timisoreana-0-33l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.19",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:05:14+00:00",
+   "vazut": "2026-11-25T00:05:14+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Timisoreana, 0.33 l"
   }
  ]
 }

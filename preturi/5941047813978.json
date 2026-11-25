@@ -2,16 +2,6 @@
  "ean": "5941047813978",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/prajitura-magura-cu-lapte-si-cacao-35g/p",
-   "domeniu": "auchan.ro",
-   "pret": "1.85",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:47:56+00:00",
-   "vazut": "2026-11-24T13:47:56+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Prajitura cu cacao si umplutura cu crema cu lapte Magura, 35 g"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/prajitura-magura-cu-lapte-35g?srsltid=AYCX9vJJUQ4uSSp-VHeIc1_vYx-QqsQcvtcqbuI_ab0KyAtNoOyQtAay",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "2.53",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-24T15:59:09+00:00",
    "vazut": "2026-11-24T15:59:09+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/prajitura-magura-cu-lapte-si-cacao-35g/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.85",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:03:51+00:00",
+   "vazut": "2026-11-25T00:03:51+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Prajitura cu cacao si umplutura cu crema cu lapte Magura, 35 g"
   }
  ]
 }

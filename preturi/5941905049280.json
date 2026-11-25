@@ -2,17 +2,6 @@
  "ean": "5941905049280",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/kefir-din-lapte-de-vaca-artesana-350-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:49:04+00:00",
-   "vazut": "2026-11-24T13:49:04+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Kefir din lapte de vaca Artesana, 350 ml",
-   "pret_vechi": "8.99"
-  },
-  {
    "url": "https://promoazi.ro/sana-chefir-si-lapte-batut/kefir-lapte-vaca-min-35-grasime-350ml",
    "domeniu": "promoazi.ro",
    "pret": "8.29",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-24T16:24:10+00:00",
    "vazut": "2026-11-24T16:24:10+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/kefir-din-lapte-de-vaca-artesana-350-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:04:52+00:00",
+   "vazut": "2026-11-25T00:04:52+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Kefir din lapte de vaca Artesana, 350 ml",
+   "pret_vechi": "8.99"
   }
  ]
 }

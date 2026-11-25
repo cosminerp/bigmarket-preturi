@@ -2,16 +2,6 @@
  "ean": "5942325003777",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-bucovina-1-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:49:46+00:00",
-   "vazut": "2026-11-24T13:49:46+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa carbogazoasa minerala Bucovina, 1.5 l"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/apa-minerala-bucovina-1-5l?srsltid=AYCX9vLrGHSDkRoCpusr_HatAHkeujnjmm1B7zMQ7-phymK9UwtY7GI0",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "4.06",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T16:37:12+00:00",
    "vazut": "2026-11-24T16:37:12+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-bucovina-1-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:05:28+00:00",
+   "vazut": "2026-11-25T00:05:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa carbogazoasa minerala Bucovina, 1.5 l"
   }
  ]
 }

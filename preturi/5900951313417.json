@@ -2,17 +2,6 @@
  "ean": "5900951313417",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/baton-de-ciocolata-mars-clasic-51-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.29",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:56:49+00:00",
-   "vazut": "2026-11-24T13:56:49+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Baton ciocolata cu lapte cu miez de caramel si nuga Mars, 51 g",
-   "pret_vechi": "3.69"
-  },
-  {
    "url": "https://promoazi.ro/ciocolata/mars-classic-chocolate-bar-51g",
    "domeniu": "promoazi.ro",
    "pret": "4.47",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-24T15:49:39+00:00",
    "vazut": "2026-11-24T15:49:39+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/baton-de-ciocolata-mars-clasic-51-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:11:28+00:00",
+   "vazut": "2026-11-25T00:11:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Baton ciocolata cu lapte cu miez de caramel si nuga Mars, 51 g",
+   "pret_vechi": "3.69"
   }
  ]
 }

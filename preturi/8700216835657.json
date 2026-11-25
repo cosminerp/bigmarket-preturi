@@ -2,16 +2,6 @@
  "ean": "8700216835657",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/detergent-pudra-automat-ariel-instant-dissolution-color-390-g-6-spalari/p",
-   "domeniu": "auchan.ro",
-   "pret": "18.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:39:01+00:00",
-   "vazut": "2026-11-24T13:39:01+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Detergent pudra automat Ariel Instant Dissolution Color, 6 spalari, 390 g"
-  },
-  {
    "url": "https://cobyul.ro/produs/ariel-automat-390-gr-6-spalari-color/?srsltid=AYCX9vIUFP074_I0OfVOBtU1e-ZGL9po2wccypfm7YdUCKDbK9BsLY8b",
    "domeniu": "cobyul.ro",
    "pret": "11.49",
@@ -46,6 +36,16 @@
    "verificat": "2026-11-24T17:08:40+00:00",
    "vazut": "2026-11-24T17:08:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/detergent-pudra-automat-ariel-instant-dissolution-color-390-g-6-spalari/p",
+   "domeniu": "auchan.ro",
+   "pret": "18.49",
+   "stare": "ok",
+   "verificat": "2026-11-24T23:56:06+00:00",
+   "vazut": "2026-11-24T23:56:06+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Detergent pudra automat Ariel Instant Dissolution Color, 6 spalari, 390 g"
   }
  ]
 }

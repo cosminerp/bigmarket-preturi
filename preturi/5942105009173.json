@@ -2,16 +2,6 @@
  "ean": "5942105009173",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-desperados-0-4l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.29",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:49:49+00:00",
-   "vazut": "2026-11-24T13:49:49+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Desperados Original Tequila, 0.4 l"
-  },
-  {
    "url": "https://promoazi.ro/bere-si-cidru/desperados-bere-blonda-aroma-tequila",
    "domeniu": "promoazi.ro",
    "pret": "8.29",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T16:27:38+00:00",
    "vazut": "2026-11-24T16:27:38+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-desperados-0-4l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:05:30+00:00",
+   "vazut": "2026-11-25T00:05:30+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Desperados Original Tequila, 0.4 l"
   }
  ]
 }

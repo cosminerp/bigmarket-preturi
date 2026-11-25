@@ -2,16 +2,6 @@
  "ean": "5942321000343",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-schweppes-tonic-water-1-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.39",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:48:40+00:00",
-   "vazut": "2026-11-24T13:48:40+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa tonica Schweppes Tonic Water, 1.5 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/schweppes-tonic-regular-1-5l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "11.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-24T16:35:12+00:00",
    "vazut": "2026-11-24T16:35:12+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-schweppes-tonic-water-1-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.39",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:04:32+00:00",
+   "vazut": "2026-11-25T00:04:32+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa tonica Schweppes Tonic Water, 1.5 l"
   }
  ]
 }

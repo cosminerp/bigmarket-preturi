@@ -2,16 +2,6 @@
  "ean": "5941445677639",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chio-chipsuri-cu-pui-la-rotisor125-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T13:56:41+00:00",
-   "vazut": "2026-11-24T13:56:41+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu pui la rotisor Chio, 125 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/chio-chips-ar-pui-la-rotisor-125g/",
    "domeniu": "pacomarket.ro",
    "pret": "9.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-24T16:15:35+00:00",
    "vazut": "2026-11-24T16:15:35+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chio-chipsuri-cu-pui-la-rotisor125-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:11:22+00:00",
+   "vazut": "2026-11-25T00:11:22+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu pui la rotisor Chio, 125 g"
   }
  ]
 }
