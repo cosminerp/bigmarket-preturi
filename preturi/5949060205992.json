@@ -2,15 +2,6 @@
  "ean": "5949060205992",
  "preturi": [
   {
-   "url": "https://www.artpet.ro/plic-miau-miau-cu-somon-in-sos-100g-mf-03974.html",
-   "domeniu": "artpet.ro",
-   "pret": "3.04",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:48:39+00:00",
-   "vazut": "2026-11-25T11:48:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hrana-umeda-pisica-miau-miau-cu-carne-de-somon-100g/p",
    "domeniu": "auchan.ro",
    "pret": "1.99",
@@ -45,6 +36,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T21:32:39+00:00",
    "vazut": "2026-11-25T21:32:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.artpet.ro/plic-miau-miau-cu-somon-in-sos-100g-mf-03974.html",
+   "domeniu": "artpet.ro",
+   "pret": "3.04",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:57:02+00:00",
+   "vazut": "2026-11-25T21:57:02+00:00",
    "metoda": "cautare_google"
   }
  ]
