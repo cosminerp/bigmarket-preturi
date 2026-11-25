@@ -2,15 +2,6 @@
  "ean": "5941935800172",
  "preturi": [
   {
-   "url": "https://alcooldiscount.ro/bere-blonda-fara-alcool-caribia-ginger-0-alc-033l-danemarca.html",
-   "domeniu": "alcooldiscount.ro",
-   "pret": "4.79",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:09:15+00:00",
-   "vazut": "2026-11-25T11:09:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-fara-alcool-cu-ghimbir-caribia-0-33-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "5.29",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T19:30:28+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda fara alcool cu ghimbir Caribia, 0.33 l"
+  },
+  {
+   "url": "https://alcooldiscount.ro/bere-blonda-fara-alcool-caribia-ginger-0-alc-033l-danemarca.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "4.79",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:14:29+00:00",
+   "vazut": "2026-11-25T21:14:29+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

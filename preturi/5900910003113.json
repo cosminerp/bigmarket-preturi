@@ -2,15 +2,6 @@
  "ean": "5900910003113",
  "preturi": [
   {
-   "url": "https://www.capsuleria.ro/accesorii-93/crema-pudra-coffeeta-pentru-cafea-400-g-5900910003113.html",
-   "domeniu": "capsuleria.ro",
-   "pret": "17.07",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:56:02+00:00",
-   "vazut": "2026-11-25T10:56:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/crema-pudra-coffeeta-pentru-cafea-400-g/p",
    "domeniu": "auchan.ro",
    "pret": "13.69",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T20:48:19+00:00",
    "vazut": "2026-11-25T20:48:19+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.capsuleria.ro/accesorii-93/crema-pudra-coffeeta-pentru-cafea-400-g-5900910003113.html",
+   "domeniu": "capsuleria.ro",
+   "pret": "17.07",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:04:13+00:00",
+   "vazut": "2026-11-25T21:04:13+00:00",
    "metoda": "cautare_google"
   }
  ]

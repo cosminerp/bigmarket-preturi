@@ -2,24 +2,6 @@
  "ean": "5948543005968",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-pentru-dezinfectare/servetele-umede-pentru-maini-60-bucati-aloe-vera-igienol-p422787",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "7.50",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:26:09+00:00",
-   "vazut": "2026-11-25T11:26:09+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/ingrijire-copii/servetele-umede-igienol-cu-aloe-fresh-60-bucati",
-   "domeniu": "promoazi.ro",
-   "pret": "10.39",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:26:11+00:00",
-   "vazut": "2026-11-25T11:26:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.livingstone.ro/articole-pentru-casa/servetele-antibacteriene-igienol-pentru-maini-aloe-fresh-60-pcs.html?srsltid=AYCX9vIs3GaVbUsqiw8P-YT7nXe1sY60t16XfUVmV_qtglRgK9uzwqeE",
    "domeniu": "livingstone.ro",
    "pret": "8.40",
@@ -37,6 +19,24 @@
    "vazut": "2026-11-25T19:28:02+00:00",
    "metoda": "auchan_catalog",
    "nume": "Servetele umede Igienol, cu aloe fresh, 60 bucati"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-pentru-dezinfectare/servetele-umede-pentru-maini-60-bucati-aloe-vera-igienol-p422787",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "7.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:27:41+00:00",
+   "vazut": "2026-11-25T21:27:41+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/ingrijire-copii/servetele-umede-igienol-cu-aloe-fresh-60-bucati",
+   "domeniu": "promoazi.ro",
+   "pret": "10.39",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:27:43+00:00",
+   "vazut": "2026-11-25T21:27:43+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

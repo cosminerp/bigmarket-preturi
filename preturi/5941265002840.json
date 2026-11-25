@@ -2,15 +2,6 @@
  "ean": "5941265002840",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste?p=4",
-   "domeniu": "eurodiscount.ro",
-   "pret": "19.43",
-   "stare": "ok",
-   "verificat": "2026-11-25T10:51:52+00:00",
-   "vazut": "2026-11-25T10:51:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/salam-banatean-cris-tim-340-g/p",
    "domeniu": "auchan.ro",
    "pret": "17.79",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T20:59:33+00:00",
    "vazut": "2026-11-25T20:59:33+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste?p=4",
+   "domeniu": "eurodiscount.ro",
+   "pret": "19.43",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:04:34+00:00",
+   "vazut": "2026-11-25T21:04:34+00:00",
    "metoda": "cautare_google"
   }
  ]

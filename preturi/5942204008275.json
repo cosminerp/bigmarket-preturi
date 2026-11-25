@@ -2,15 +2,6 @@
  "ean": "5942204008275",
  "preturi": [
   {
-   "url": "https://promoazi.ro/sucuri-carbogazoase/bautura-carbogazoasa-gust-zmeura-pepsi-2l",
-   "domeniu": "promoazi.ro",
-   "pret": "12.29",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:13:43+00:00",
-   "vazut": "2026-11-25T11:13:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-cu-gust-de-zmeura-pepsi-2-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "12.29",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T19:29:53+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa cu gust de zmeura Pepsi, 2 l"
+  },
+  {
+   "url": "https://promoazi.ro/sucuri-carbogazoase/bautura-carbogazoasa-gust-zmeura-pepsi-2l",
+   "domeniu": "promoazi.ro",
+   "pret": "12.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:18:43+00:00",
+   "vazut": "2026-11-25T21:18:43+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

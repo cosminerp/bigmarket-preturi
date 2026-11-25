@@ -2,24 +2,6 @@
  "ean": "5942204005601",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/suc-pepsi-2l-sgr-6?srsltid=AYCX9vJYQp_PAGY_Jxlvr_DRzXg1PQpOklP-3FLdR5X3V-KpRwO6TFdd",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "13.04",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:13:12+00:00",
-   "vazut": "2026-11-25T11:13:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/pepsi-cola-2l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:13:15+00:00",
-   "vazut": "2026-11-25T11:13:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-pepsi-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "12.29",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T19:22:58+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Pepsi, 2 l"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/suc-pepsi-2l-sgr-6?srsltid=AYCX9vJYQp_PAGY_Jxlvr_DRzXg1PQpOklP-3FLdR5X3V-KpRwO6TFdd",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "13.04",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:18:17+00:00",
+   "vazut": "2026-11-25T21:18:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/pepsi-cola-2l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:18:20+00:00",
+   "vazut": "2026-11-25T21:18:20+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

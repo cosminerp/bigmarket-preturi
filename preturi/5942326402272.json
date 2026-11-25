@@ -2,24 +2,6 @@
  "ean": "5942326402272",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/aqua-carpatica-plata-2-l/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:23:00+00:00",
-   "vazut": "2026-11-25T11:23:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-2l-sgr-6buc-bax-5942326402272",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.75",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-25T11:23:04+00:00",
-   "vazut": "2026-11-18T10:09:53+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.75",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T19:22:44+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Aqua Carpatica, 2 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/aqua-carpatica-plata-2-l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:24:40+00:00",
+   "vazut": "2026-11-25T21:24:40+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-2l-sgr-6buc-bax-5942326402272",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.75",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T21:24:44+00:00",
+   "vazut": "2026-11-18T10:09:53+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

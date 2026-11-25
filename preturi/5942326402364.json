@@ -2,24 +2,6 @@
  "ean": "5942326402364",
  "preturi": [
   {
-   "url": "https://cosulmic.ro/produs/aqua-carpatica-flavours-cu-lamaie-verde-si-menta-0-33-l-16",
-   "domeniu": "cosulmic.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:23:13+00:00",
-   "vazut": "2026-11-25T11:23:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/apa-aromatizata/apa-minerala-naturala-carbogazoasa-aqua-carpatica-lamaie-si-menta-330ml",
-   "domeniu": "promoazi.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:23:15+00:00",
-   "vazut": "2026-11-25T11:23:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-aqua-carpatica-culamaie-verde-si-menta-doza-0-33l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T19:23:31+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Aqua Carpatica Flavours cu aroma de lamaie verde si menta, 0.33 l"
+  },
+  {
+   "url": "https://cosulmic.ro/produs/aqua-carpatica-flavours-cu-lamaie-verde-si-menta-0-33-l-16",
+   "domeniu": "cosulmic.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:24:52+00:00",
+   "vazut": "2026-11-25T21:24:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/apa-aromatizata/apa-minerala-naturala-carbogazoasa-aqua-carpatica-lamaie-si-menta-330ml",
+   "domeniu": "promoazi.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:24:54+00:00",
+   "vazut": "2026-11-25T21:24:54+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
