@@ -2,33 +2,6 @@
  "ean": "5942070006047",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/stella-artois-330ml-sticla/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:26:44+00:00",
-   "vazut": "2026-11-24T16:26:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://alcooldiscount.ro/bere-blonda-stella-artois-5-alc-033l-romania.html",
-   "domeniu": "alcooldiscount.ro",
-   "pret": "8.90",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:26:46+00:00",
-   "vazut": "2026-11-24T16:26:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/bauturi/bere-blonda-stella-artois-033l",
-   "domeniu": "promoazi.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:26:48+00:00",
-   "vazut": "2026-11-24T16:26:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-stella-artois-0-33l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-25T00:08:54+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Stella Artois, 0.33 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/stella-artois-330ml-sticla/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:44:38+00:00",
+   "vazut": "2026-11-25T00:44:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://alcooldiscount.ro/bere-blonda-stella-artois-5-alc-033l-romania.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "8.90",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:44:41+00:00",
+   "vazut": "2026-11-25T00:44:41+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/bauturi/bere-blonda-stella-artois-033l",
+   "domeniu": "promoazi.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:44:43+00:00",
+   "vazut": "2026-11-25T00:44:43+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

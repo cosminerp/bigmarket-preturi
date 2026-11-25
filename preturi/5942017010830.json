@@ -2,15 +2,6 @@
  "ean": "5942017010830",
  "preturi": [
   {
-   "url": "https://promoazi.ro/bauturi-spirtoase/bautura-spirtoasa-milcov-clasic-alcool-28-02-l",
-   "domeniu": "promoazi.ro",
-   "pret": "12.49",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-24T16:25:53+00:00",
-   "vazut": "2026-11-16T15:27:18+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-spirtoasa-milcov-clasic-alcool-28-0-2-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "12.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T00:10:09+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura spirtoasa Milcov Clasic, alcool 28%, 0.2 l"
+  },
+  {
+   "url": "https://promoazi.ro/bauturi-spirtoase/bautura-spirtoasa-milcov-clasic-alcool-28-02-l",
+   "domeniu": "promoazi.ro",
+   "pret": "12.49",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T00:43:50+00:00",
+   "vazut": "2026-11-16T15:27:18+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

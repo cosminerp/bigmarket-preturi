@@ -2,24 +2,6 @@
  "ean": "5941494000655",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/sirop-visine-laurul-0-75l/",
-   "domeniu": "pacomarket.ro",
-   "pret": "17.90",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:18:13+00:00",
-   "vazut": "2026-11-24T16:18:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/siropuri/sirop-laurul-0-75l-visine-5941494000655",
-   "domeniu": "snaemarket.ro",
-   "pret": "12.83",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:18:17+00:00",
-   "vazut": "2026-11-24T16:18:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sirop-natural-de-visine-laurul-0-75-l/p",
    "domeniu": "auchan.ro",
    "pret": "18.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-24T23:53:05+00:00",
    "metoda": "auchan_catalog",
    "nume": "Sirop natural de visine Laurul, 0.75 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/sirop-visine-laurul-0-75l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "17.90",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:38:12+00:00",
+   "vazut": "2026-11-25T00:38:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/siropuri/sirop-laurul-0-75l-visine-5941494000655",
+   "domeniu": "snaemarket.ro",
+   "pret": "12.83",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:38:15+00:00",
+   "vazut": "2026-11-25T00:38:15+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

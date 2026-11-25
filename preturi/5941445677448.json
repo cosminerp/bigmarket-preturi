@@ -2,33 +2,6 @@
  "ean": "5941445677448",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cascaval-chilli-120gr-10buc-bax-5941445677448",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.48",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:14:54+00:00",
-   "vazut": "2026-11-24T16:14:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/dulciuri-si-snacks/chipsuri-cu-cascaval-si-chili-chio-intense-120-g",
-   "domeniu": "promoazi.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:14:56+00:00",
-   "vazut": "2026-11-24T16:14:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://corsomarket.ro/product/chio-chips-intense-cascaval-chilli-120g/?srsltid=AYCX9vL1ixcRvT2RqQw7W0Ir0qdi3mWh9tWJ7-OXKbej8Swj4xVpvslN",
-   "domeniu": "corsomarket.ro",
-   "pret": "12.00",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:14:58+00:00",
-   "vazut": "2026-11-24T16:14:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-cascaval-si-chili-chio-intense-120-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -38,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu cascaval si chili Chio Intense, 120 g",
    "pret_vechi": "8.29"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cascaval-chilli-120gr-10buc-bax-5941445677448",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.48",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:34:53+00:00",
+   "vazut": "2026-11-25T00:34:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/dulciuri-si-snacks/chipsuri-cu-cascaval-si-chili-chio-intense-120-g",
+   "domeniu": "promoazi.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:34:55+00:00",
+   "vazut": "2026-11-25T00:34:55+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://corsomarket.ro/product/chio-chips-intense-cascaval-chilli-120g/?srsltid=AYCX9vL1ixcRvT2RqQw7W0Ir0qdi3mWh9tWJ7-OXKbej8Swj4xVpvslN",
+   "domeniu": "corsomarket.ro",
+   "pret": "12.00",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:34:58+00:00",
+   "vazut": "2026-11-25T00:34:58+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

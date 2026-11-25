@@ -2,24 +2,6 @@
  "ean": "5941882807118",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-dietetice/rondele-din-orez-cu-glazura-de-cacao-fara-zahar-66-g-sanovita-p376545",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "4.50",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:23:09+00:00",
-   "vazut": "2026-11-24T16:23:09+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciamorpheus.ro/produs/rondele-orez-cu-cacao-fara-zahar-66-g-sanovita-o23111/?srsltid=AYCX9vLPKizqWiT6uRVbUsMm5J0S2McqJoE9yhuW1YGsvRD_Z5OvmqWB",
-   "domeniu": "farmaciamorpheus.ro",
-   "pret": "4.79",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:23:12+00:00",
-   "vazut": "2026-11-24T16:23:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.trifolia.ro/alimentare/rondele-din-orez-cu-cacao-fara-zahar-66-g.html?srsltid=AYCX9vJavtuYXr90W-v2vJcHwHwklX9IUjUHpVbBlHAXjJlCg4_hHopa",
    "domeniu": "trifolia.ro",
    "pret": "6.30",
@@ -37,6 +19,24 @@
    "vazut": "2026-11-25T00:06:12+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rondele din orez cu glazura de cacao fara zahar SanoVita, 66 g"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-dietetice/rondele-din-orez-cu-glazura-de-cacao-fara-zahar-66-g-sanovita-p376545",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "4.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:41:17+00:00",
+   "vazut": "2026-11-25T00:41:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciamorpheus.ro/produs/rondele-orez-cu-cacao-fara-zahar-66-g-sanovita-o23111/?srsltid=AYCX9vLPKizqWiT6uRVbUsMm5J0S2McqJoE9yhuW1YGsvRD_Z5OvmqWB",
+   "domeniu": "farmaciamorpheus.ro",
+   "pret": "4.79",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:41:21+00:00",
+   "vazut": "2026-11-25T00:41:21+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

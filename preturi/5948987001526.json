@@ -2,24 +2,6 @@
  "ean": "5948987001526",
  "preturi": [
   {
-   "url": "https://alcooldiscount.ro/vodca-absolut-02l-40-alc-suedia.html",
-   "domeniu": "alcooldiscount.ro",
-   "pret": "28.38",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-24T16:43:55+00:00",
-   "vazut": "2026-11-17T03:44:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/vodca/vodca-absolut-40-alcool-02-l",
-   "domeniu": "promoazi.ro",
-   "pret": "29.49",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:43:58+00:00",
-   "vazut": "2026-11-24T16:43:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/vodca-absolut-40-alcool-0-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "29.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-25T00:08:39+00:00",
    "metoda": "auchan_catalog",
    "nume": "Vodca Absolut, 40% alcool, 0.2 l"
+  },
+  {
+   "url": "https://alcooldiscount.ro/vodca-absolut-02l-40-alc-suedia.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "28.38",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T00:56:14+00:00",
+   "vazut": "2026-11-17T03:44:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/vodca/vodca-absolut-40-alcool-02-l",
+   "domeniu": "promoazi.ro",
+   "pret": "29.49",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:56:15+00:00",
+   "vazut": "2026-11-25T00:56:15+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

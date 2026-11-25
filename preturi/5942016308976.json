@@ -2,15 +2,6 @@
  "ean": "5942016308976",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/bere-ursus-cooler-f-a-lamaie-doza-0-5l-sgr-24?srsltid=AYCX9vKrsmvk_etECe8rqm-Wsscky-NpKeDdCc2YCfYOH57eOrsPtWd4",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "5.57",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:25:20+00:00",
-   "vazut": "2026-11-24T16:25:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-fara-alcool-ursus-cooler-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.95",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T00:03:33+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda fara alcool cu aroma de lamaie Ursus Cooler, 0.5 l"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bere-ursus-cooler-f-a-lamaie-doza-0-5l-sgr-24?srsltid=AYCX9vKrsmvk_etECe8rqm-Wsscky-NpKeDdCc2YCfYOH57eOrsPtWd4",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "5.57",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:43:23+00:00",
+   "vazut": "2026-11-25T00:43:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

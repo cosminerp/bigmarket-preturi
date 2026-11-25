@@ -2,15 +2,6 @@
  "ean": "5941934303872",
  "preturi": [
   {
-   "url": "https://alcooldiscount.ro/bere-blonda-salitos-tequila-59-alc-033l-germania.html",
-   "domeniu": "alcooldiscount.ro",
-   "pret": "8.57",
-   "stare": "ok",
-   "verificat": "2026-11-24T16:24:26+00:00",
-   "vazut": "2026-11-24T16:24:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-cu-aroma-de-tequila-salitos-sticla-0-33-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "7.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T00:07:48+00:00",
    "metoda": "auchan_catalog",
    "nume": "Salitos Original, 0.33 l"
+  },
+  {
+   "url": "https://alcooldiscount.ro/bere-blonda-salitos-tequila-59-alc-033l-germania.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "8.57",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:42:34+00:00",
+   "vazut": "2026-11-25T00:42:34+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
