@@ -2,15 +2,6 @@
  "ean": "7290005425646",
  "preturi": [
   {
-   "url": "https://sirius-distribution.ro/Detergent-geamuri-Sano-Clear-Blue-Trigger-1L-7290005425646?srsltid=AYCX9vIls9xaMbv5SWhL34NHaI8MC2aUPfNqI8bJQn69nwlKvA85YKZ1",
-   "domeniu": "sirius-distribution.ro",
-   "pret": "19.29",
-   "stare": "ok",
-   "verificat": "2026-11-25T01:08:14+00:00",
-   "vazut": "2026-11-25T01:08:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/detergent-pentru-geamuri-sano-clear-blue-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "15.19",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-25T11:37:05+00:00",
    "vazut": "2026-11-25T11:37:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://sirius-distribution.ro/Detergent-geamuri-Sano-Clear-Blue-Trigger-1L-7290005425646?srsltid=AYCX9vIls9xaMbv5SWhL34NHaI8MC2aUPfNqI8bJQn69nwlKvA85YKZ1",
+   "domeniu": "sirius-distribution.ro",
+   "pret": "19.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T15:19:18+00:00",
+   "vazut": "2026-11-25T15:19:18+00:00",
    "metoda": "cautare_google"
   }
  ]
