@@ -2,15 +2,6 @@
  "ean": "4820215369695",
  "preturi": [
   {
-   "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-cu-pui-300g/?srsltid=AYCX9vLC9A6EaJzPhSJVBYmVfLlSeLyDjHekheI6KD7m2eQ0zaIZrbcN",
-   "domeniu": "club4labute.ro",
-   "pret": "5.00",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-25T00:11:39+00:00",
-   "vazut": "2026-11-19T04:33:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.petvet-shop.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-9112",
    "domeniu": "petvet-shop.ro",
    "pret": "4.60",
@@ -44,6 +35,15 @@
    "stare": "fără preț sau alt cod de bare",
    "verificat": "2026-11-25T11:47:15+00:00",
    "vazut": "2026-11-19T04:33:48+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-cu-pui-300g/?srsltid=AYCX9vLC9A6EaJzPhSJVBYmVfLlSeLyDjHekheI6KD7m2eQ0zaIZrbcN",
+   "domeniu": "club4labute.ro",
+   "pret": "5.00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T13:29:06+00:00",
+   "vazut": "2026-11-19T04:33:50+00:00",
    "metoda": "cautare_google"
   }
  ]
