@@ -2,15 +2,6 @@
  "ean": "5000159607124",
  "preturi": [
   {
-   "url": "https://promoazi.ro/drajeuri/arahide-invelite-in-ciocolata-mms-82g",
-   "domeniu": "promoazi.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:13:51+00:00",
-   "vazut": "2026-11-25T00:13:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bomboane-cu-arahide-invelite-in-ciocolata-cu-lapte-m-m-s-82-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:23:31+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bomboane cu arahide invelite in ciocolata cu lapte M&M's, 82 g"
+  },
+  {
+   "url": "https://promoazi.ro/drajeuri/arahide-invelite-in-ciocolata-mms-82g",
+   "domeniu": "promoazi.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T10:36:59+00:00",
+   "vazut": "2026-11-25T10:36:59+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

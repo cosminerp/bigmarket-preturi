@@ -2,15 +2,6 @@
  "ean": "5941065002873",
  "preturi": [
   {
-   "url": "https://promoazi.ro/smantana/napolact-milk-35-1l-box",
-   "domeniu": "promoazi.ro",
-   "pret": "7.29",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:23:24+00:00",
-   "vazut": "2026-11-25T00:23:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/lapte-de-consum-napolact-3-5-grasime-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "7.29",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Lapte de consum integral Napolact, 3.5% grasime, 1 l",
    "pret_vechi": "10.89"
+  },
+  {
+   "url": "https://promoazi.ro/smantana/napolact-milk-35-1l-box",
+   "domeniu": "promoazi.ro",
+   "pret": "7.29",
+   "stare": "ok",
+   "verificat": "2026-11-25T10:48:02+00:00",
+   "vazut": "2026-11-25T10:48:02+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,24 +2,6 @@
  "ean": "5941141222133",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/digestie/antidiareice/ceai-de-menta-d-125-20-plicuri-fares-p303174",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "5.00",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-25T00:24:57+00:00",
-   "vazut": "2026-11-22T08:17:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.ducfarm.ro/ceaiuri/ceai-de-menta-d-125-20-plicuri-fares?srsltid=AYCX9vKyidcs7UOi8BiKgF9DTQkBRQgaqWcKuIodqGchx9DW91KbJWWR",
-   "domeniu": "ducfarm.ro",
-   "pret": "5.90",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:24:59+00:00",
-   "vazut": "2026-11-25T00:24:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.e-apotheka.ro/dieta-si-wellness/contribuie-la-func%C8%9Bionarea-normal%C4%83-a-tractului-intestinal-sus%C8%9Bine-o-bun%C4%83-digestie-ajut%C4%83-la-calmarea-irita%C8%9Biilor-g%C3%A2tului-%C8%99i-faringelui-de-la-origini-legendare-povestite-%C3%AEn-mitologia-greac%C4%83-%C5%9Fi-p%C3%A2n%C4%83-azi-.html?srsltid=AYCX9vI8UUA4YZ2FyMlH0Q2QHJ9IF2B-IOtVY-zPtB3QOtBjtE7duxjy",
    "domeniu": "e-apotheka.ro",
    "pret": "5.20",
@@ -38,6 +20,24 @@
    "metoda": "auchan_catalog",
    "nume": "Ceai Fares de menta 20 g / 20 de plicuri",
    "pret_vechi": "4.49"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/digestie/antidiareice/ceai-de-menta-d-125-20-plicuri-fares-p303174",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "5.00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T10:49:35+00:00",
+   "vazut": "2026-11-22T08:17:59+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.ducfarm.ro/ceaiuri/ceai-de-menta-d-125-20-plicuri-fares?srsltid=AYCX9vKyidcs7UOi8BiKgF9DTQkBRQgaqWcKuIodqGchx9DW91KbJWWR",
+   "domeniu": "ducfarm.ro",
+   "pret": "5.90",
+   "stare": "ok",
+   "verificat": "2026-11-25T10:49:37+00:00",
+   "vazut": "2026-11-25T10:49:37+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,12 +2,21 @@
  "ean": "5011321345188",
  "preturi": [
   {
+   "url": "https://www.greenonline.ro/ingrijire-personala/sampon-pentru-par-head-shoulders-classic-clean-200ml.html",
+   "domeniu": "greenonline.ro",
+   "pret": "13.99",
+   "stare": "ok",
+   "verificat": "2026-11-25T00:14:26+00:00",
+   "vazut": "2026-11-25T00:14:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://cobyul.ro/produs/headshoulders-200-ml-ro-classic-clean/?srsltid=AYCX9vL6hkxNw3YstRnL60LUo9m_JTGXk7_WUakTga0AnLCJ4rnNTAsF",
    "domeniu": "cobyul.ro",
    "pret": "11.99",
    "stare": "ok",
-   "verificat": "2026-11-25T00:14:18+00:00",
-   "vazut": "2026-11-25T00:14:18+00:00",
+   "verificat": "2026-11-25T10:37:36+00:00",
+   "vazut": "2026-11-25T10:37:36+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,8 +24,8 @@
    "domeniu": "snaemarket.ro",
    "pret": "10.90",
    "stare": "ok",
-   "verificat": "2026-11-25T00:14:21+00:00",
-   "vazut": "2026-11-25T00:14:21+00:00",
+   "verificat": "2026-11-25T10:37:39+00:00",
+   "vazut": "2026-11-25T10:37:39+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -24,17 +33,8 @@
    "domeniu": "kisshop.ro",
    "pret": "15.99",
    "stare": "ok",
-   "verificat": "2026-11-25T00:14:22+00:00",
-   "vazut": "2026-11-25T00:14:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.greenonline.ro/ingrijire-personala/sampon-pentru-par-head-shoulders-classic-clean-200ml.html",
-   "domeniu": "greenonline.ro",
-   "pret": "13.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:14:26+00:00",
-   "vazut": "2026-11-25T00:14:26+00:00",
+   "verificat": "2026-11-25T10:37:41+00:00",
+   "vazut": "2026-11-25T10:37:41+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,15 +2,6 @@
  "ean": "5940577000049",
  "preturi": [
   {
-   "url": "https://corsomarket.ro/product/hell-strong-watermelon/?srsltid=AYCX9vKGwMURbriCygapeMTT49zqp2Gjt1DMQxxkQzq1AdJziLJbFaPP",
-   "domeniu": "corsomarket.ro",
-   "pret": "5.50",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:19:12+00:00",
-   "vazut": "2026-11-25T00:19:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-pepene-verde-hell-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:36:50+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura enegizanta pepene verde Hell, 0.25 l"
+  },
+  {
+   "url": "https://corsomarket.ro/product/hell-strong-watermelon/?srsltid=AYCX9vKGwMURbriCygapeMTT49zqp2Gjt1DMQxxkQzq1AdJziLJbFaPP",
+   "domeniu": "corsomarket.ro",
+   "pret": "5.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T10:43:37+00:00",
+   "vazut": "2026-11-25T10:43:37+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

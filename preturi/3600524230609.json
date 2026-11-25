@@ -2,15 +2,6 @@
  "ean": "3600524230609",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/menaj/uz-personal/elseve-sampon-glicolic-gloss-250ml-12buc-bax-3600524230609",
-   "domeniu": "snaemarket.ro",
-   "pret": "16.93",
-   "stare": "ok",
-   "verificat": "2026-11-25T00:07:19+00:00",
-   "vazut": "2026-11-25T00:07:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sampon-l-oreal-paris-elseve-glycolic-gloss-pentru-stralucirea-parului-250-ml/p",
    "domeniu": "auchan.ro",
    "pret": "21.19",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-25T08:26:42+00:00",
    "metoda": "auchan_catalog",
    "nume": "Sampon L'Oreal Paris Elseve Glycolic Gloss pentru stralucirea parului, 250 ml"
+  },
+  {
+   "url": "https://www.snaemarket.ro/menaj/uz-personal/elseve-sampon-glicolic-gloss-250ml-12buc-bax-3600524230609",
+   "domeniu": "snaemarket.ro",
+   "pret": "16.93",
+   "stare": "ok",
+   "verificat": "2026-11-25T10:29:06+00:00",
+   "vazut": "2026-11-25T10:29:06+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
