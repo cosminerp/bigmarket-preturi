@@ -2,15 +2,6 @@
  "ean": "5949044404397",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bacanie/bautura-vegetala-pe-baza-de-migdale-fara-zaharuri-muller-1l.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "14.38",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:42:14+00:00",
-   "vazut": "2026-11-26T16:42:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-vegetala-pe-baza-de-migdale-muller-fara-zahar-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "9.89",
@@ -28,6 +19,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T22:49:39+00:00",
    "vazut": "2026-11-26T22:49:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/bautura-vegetala-pe-baza-de-migdale-fara-zaharuri-muller-1l.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "14.38",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:54:22+00:00",
+   "vazut": "2026-11-26T22:54:22+00:00",
    "metoda": "cautare_google"
   }
  ]
