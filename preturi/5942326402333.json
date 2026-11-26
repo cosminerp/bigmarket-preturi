@@ -2,16 +2,6 @@
  "ean": "5942326402333",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-aqua-carpatica-1-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:22:59+00:00",
-   "vazut": "2026-11-25T19:22:59+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa carbogazoasa minerala Aqua Carpatica Forte, 1.5 l"
-  },
-  {
    "url": "https://www.ovmpaper.ro/aqua-carpatica-forte-apa-minerala-extra-1-5-litri-bax-6-x-pet?srsltid=AYCX9vI3AIvnqftQQbwpP_qfOTZlBZ-BaV-lK9MAc21PRgOHtzp1zk4d",
    "domeniu": "ovmpaper.ro",
    "pret": "39.00",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T03:35:43+00:00",
    "vazut": "2026-11-26T03:35:43+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-carbogazoasa-minerala-aqua-carpatica-1-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:44:24+00:00",
+   "vazut": "2026-11-26T03:44:24+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa carbogazoasa minerala Aqua Carpatica Forte, 1.5 l"
   }
  ]
 }

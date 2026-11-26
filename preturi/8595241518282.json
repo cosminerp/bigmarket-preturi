@@ -2,16 +2,6 @@
  "ean": "8595241518282",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ton-maruntit-in-ulei-giana-160-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:31:47+00:00",
-   "vazut": "2026-11-25T19:31:47+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ton maruntit in ulei Giana, 160 g"
-  },
-  {
    "url": "https://paprika-shop.ro/Ton-Maruntit-Ulei-Giana-160G",
    "domeniu": "paprika-shop.ro",
    "pret": "5.50",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-25T21:51:08+00:00",
    "vazut": "2026-11-16T17:16:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ton-maruntit-in-ulei-giana-160-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:54:15+00:00",
+   "vazut": "2026-11-26T03:54:15+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ton maruntit in ulei Giana, 160 g"
   }
  ]
 }

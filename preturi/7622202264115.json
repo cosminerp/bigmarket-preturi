@@ -2,16 +2,6 @@
  "ean": "7622202264115",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ciocolata-cu-lapte-si-alune-intregi-milka-95-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:24:59+00:00",
-   "vazut": "2026-11-25T19:24:59+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ciocolata cu lapte si alune intregi Milka, 95 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/milka-ciocolata-alune-intregi-95g/",
    "domeniu": "pacomarket.ro",
    "pret": "6.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-25T21:44:32+00:00",
    "vazut": "2026-11-25T21:44:32+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ciocolata-cu-lapte-si-alune-intregi-milka-95-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:46:37+00:00",
+   "vazut": "2026-11-26T03:46:37+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ciocolata cu lapte si alune intregi Milka, 95 g"
   }
  ]
 }

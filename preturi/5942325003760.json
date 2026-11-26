@@ -2,17 +2,6 @@
  "ean": "5942325003760",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-tedi-0-33l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.29",
-   "stare": "nu mai e în stoc / nu mai există",
-   "verificat": "2026-11-18T20:31:25+00:00",
-   "vazut": "2026-11-18T11:36:09+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Tedi, 0.33 l",
-   "pret_vechi": "3.39"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-plata-bucovina-sport-330ml/",
    "domeniu": "pacomarket.ro",
    "pret": "2.95",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-26T03:34:54+00:00",
    "vazut": "2026-11-26T03:34:54+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-tedi-0-33l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.29",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:30:54+00:00",
+   "vazut": "2026-11-26T03:30:54+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Tedi, 0.33 l",
+   "pret_vechi": "3.39"
   }
  ]
 }

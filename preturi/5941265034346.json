@@ -2,17 +2,6 @@
  "ean": "5941265034346",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/carnati-cris-tim-gratarescu-260-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "10.59",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:28:45+00:00",
-   "vazut": "2026-11-25T19:28:45+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Carnati Cris-Tim Gratarescu, 260 g",
-   "pret_vechi": "12.49"
-  },
-  {
    "url": "https://promoazi.ro/mezeluri/carnati-cris-tim-gratarescu-260-g",
    "domeniu": "promoazi.ro",
    "pret": "12.49",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-26T03:07:23+00:00",
    "vazut": "2026-11-26T03:07:23+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/carnati-cris-tim-gratarescu-260-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.59",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:50:50+00:00",
+   "vazut": "2026-11-26T03:50:50+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Carnati Cris-Tim Gratarescu, 260 g",
+   "pret_vechi": "12.49"
   }
  ]
 }

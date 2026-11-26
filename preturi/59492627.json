@@ -2,16 +2,6 @@
  "ean": "59492627",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-madness-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:24:25+00:00",
-   "vazut": "2026-11-25T19:24:25+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa cu aroma de struguri Fanta Madness, 0.5 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/fanta-struguri-0-5l-sgr-12buc-bax-59492627",
    "domeniu": "snaemarket.ro",
    "pret": "6.16",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-26T03:45:04+00:00",
    "vazut": "2026-11-26T03:45:04+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-madness-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:46:00+00:00",
+   "vazut": "2026-11-26T03:46:00+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa cu aroma de struguri Fanta Madness, 0.5 l"
   }
  ]
 }

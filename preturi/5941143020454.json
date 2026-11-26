@@ -2,16 +2,6 @@
  "ean": "5941143020454",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/paine-domneasca-vel-pitar-1-kg/p",
-   "domeniu": "auchan.ro",
-   "pret": "10.79",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:14:45+00:00",
-   "vazut": "2026-11-25T19:14:45+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Paine domneasca Vel Pitar, 1 kg"
-  },
-  {
    "url": "https://pacomarket.ro/product/paine-domneasca-1-kg-2/",
    "domeniu": "pacomarket.ro",
    "pret": "9.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T03:05:24+00:00",
    "vazut": "2026-11-26T03:05:24+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/paine-domneasca-vel-pitar-1-kg/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.79",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:35:47+00:00",
+   "vazut": "2026-11-26T03:35:47+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Paine domneasca Vel Pitar, 1 kg"
   }
  ]
 }

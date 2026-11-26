@@ -2,17 +2,6 @@
  "ean": "8076809573252",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-cu-crema-de-alune-de-padure-si-cacao-mulino-bianco-baiocchi-260-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:11:28+00:00",
-   "vazut": "2026-11-25T19:11:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu crema de alune de padure si cacao Mulino Bianco Baiocchi, 260 g",
-   "pret_vechi": "19.49"
-  },
-  {
    "url": "https://www.produseitalia.ro/Biscuiti-Mulino-Bianco-cu-crema-de-alune-si-cacao-Baiocchi-260gr-d1580276.htm?tab=description",
    "domeniu": "produseitalia.ro",
    "pret": "22.95",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-25T21:49:15+00:00",
    "vazut": "2026-11-25T21:49:15+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-cu-crema-de-alune-de-padure-si-cacao-mulino-bianco-baiocchi-260-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:32:09+00:00",
+   "vazut": "2026-11-26T03:32:09+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu crema de alune de padure si cacao Mulino Bianco Baiocchi, 260 g",
+   "pret_vechi": "19.49"
   }
  ]
 }

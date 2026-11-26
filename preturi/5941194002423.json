@@ -2,16 +2,6 @@
  "ean": "5941194002423",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/snacks-croco-brezel-si-crackers-mix-250g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.29",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:26:03+00:00",
-   "vazut": "2026-11-25T19:26:03+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Snacks Croco Brezel si Crackers Mix 250g"
-  },
-  {
    "url": "https://www.snaemarket.ro/mix-brezel-crackers-250g-12buc-bax-5941194002423",
    "domeniu": "snaemarket.ro",
    "pret": "3.94",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T03:05:47+00:00",
    "vazut": "2026-11-18T14:14:16+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/snacks-croco-brezel-si-crackers-mix-250g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.29",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:47:48+00:00",
+   "vazut": "2026-11-26T03:47:48+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Snacks Croco Brezel si Crackers Mix 250g"
   }
  ]
 }

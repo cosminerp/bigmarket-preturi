@@ -2,16 +2,6 @@
  "ean": "5942321000206",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-portocale-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:23:15+00:00",
-   "vazut": "2026-11-25T19:23:15+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Fanta Portocale, 2 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/fanta-portocale-2l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "11.99",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-26T03:32:43+00:00",
    "vazut": "2026-11-26T03:32:43+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-portocale-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:44:42+00:00",
+   "vazut": "2026-11-26T03:44:42+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Fanta Portocale, 2 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5060961650268",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/baton-proteice-cu-cocos-born-winner-60-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:28:30+00:00",
-   "vazut": "2026-11-25T19:28:30+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Batoane proteice cu cocos Born Winner, 60 g"
-  },
-  {
    "url": "https://www.bornwinner.ro/cumpara/batoane-proteice-born-winner-active-nuca-de-cocos-605",
    "domeniu": "bornwinner.ro",
    "pret": "12.44",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-26T02:52:02+00:00",
    "vazut": "2026-11-26T02:52:02+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/baton-proteice-cu-cocos-born-winner-60-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:50:32+00:00",
+   "vazut": "2026-11-26T03:50:32+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Batoane proteice cu cocos Born Winner, 60 g"
   }
  ]
 }

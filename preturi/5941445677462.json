@@ -2,15 +2,13 @@
  "ean": "5941445677462",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-smantana-si-patrunjel-chio-intense-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
+   "url": "https://www.vivomarket.ro/bacanie/chipsuri-din-cartofi-cu-gust-de-smantana-patrunjel-chio-intense-120-g.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "10.70",
    "stare": "ok",
-   "verificat": "2026-11-25T19:10:50+00:00",
-   "vazut": "2026-11-25T19:10:50+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu smantana si patrunjel Chio Intense, 120 g",
-   "pret_vechi": "8.29"
+   "verificat": "2026-11-25T21:30:37+00:00",
+   "vazut": "2026-11-25T21:30:37+00:00",
+   "metoda": "cautare_google"
   },
   {
    "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-smantana-patrunjel-120gr-10buc-bax-5941445677462",
@@ -31,13 +29,15 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.vivomarket.ro/bacanie/chipsuri-din-cartofi-cu-gust-de-smantana-patrunjel-chio-intense-120-g.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "10.70",
+   "url": "https://www.auchan.ro/chipsuri-cu-smantana-si-patrunjel-chio-intense-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
    "stare": "ok",
-   "verificat": "2026-11-26T03:41:11+00:00",
-   "vazut": "2026-11-26T03:41:11+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-26T03:31:26+00:00",
+   "vazut": "2026-11-26T03:31:26+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu smantana si patrunjel Chio Intense, 120 g",
+   "pret_vechi": "8.29"
   }
  ]
 }

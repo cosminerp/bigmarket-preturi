@@ -2,16 +2,6 @@
  "ean": "5942105011527",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cidru-cu-aroma-de-fructe-de-padure-strongbow-0-33l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:24:54+00:00",
-   "vazut": "2026-11-25T19:24:54+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cidru Strongbow, cu aroma de fructe de padure, 0.33 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/strongbow-fructe-padure-330ml-sticla/",
    "domeniu": "pacomarket.ro",
    "pret": "7.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T03:26:41+00:00",
    "vazut": "2026-11-26T03:26:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cidru-cu-aroma-de-fructe-de-padure-strongbow-0-33l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:46:32+00:00",
+   "vazut": "2026-11-26T03:46:32+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cidru Strongbow, cu aroma de fructe de padure, 0.33 l"
   }
  ]
 }
