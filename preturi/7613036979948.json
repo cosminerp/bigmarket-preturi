@@ -2,22 +2,14 @@
  "ean": "7613036979948",
  "preturi": [
   {
-   "url": "https://deamag.ro/produs/pliculet-friskies-junior-hrana-umeda-cu-pui-in-sos-pentru-pisici-85g/?srsltid=AYCX9vJSJo_m0v5WsMxz6fciwIB2sD6TufqAxJkLltGHSLv8oktj5C68",
-   "domeniu": "deamag.ro",
-   "pret": "2.50",
+   "url": "https://www.auchan.ro/hrana-umeda-pisici-friskies-junior-cu-pui-in-sos-85g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.49",
    "stare": "ok",
-   "verificat": "2026-11-25T21:43:36+00:00",
-   "vazut": "2026-11-25T21:43:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/friskies-junior-pui-85g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.95",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:43:39+00:00",
-   "vazut": "2026-11-25T21:43:39+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-25T19:30:07+00:00",
+   "vazut": "2026-11-25T19:30:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Hrana umeda pentru pisici junioare Purina Friskies Junior, pui in sos, 85 g"
   },
   {
    "url": "https://www.ehranaanimale.ro/pisici/hrana-umeda-pentru-pisici-friskies-junior-pui-in-sos-85g.html",
@@ -29,14 +21,22 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.auchan.ro/hrana-umeda-pisici-friskies-junior-cu-pui-in-sos-85g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.49",
+   "url": "https://deamag.ro/produs/pliculet-friskies-junior-hrana-umeda-cu-pui-in-sos-pentru-pisici-85g/?srsltid=AYCX9vJSJo_m0v5WsMxz6fciwIB2sD6TufqAxJkLltGHSLv8oktj5C68",
+   "domeniu": "deamag.ro",
+   "pret": "2.50",
    "stare": "ok",
-   "verificat": "2026-11-26T03:52:23+00:00",
-   "vazut": "2026-11-26T03:52:23+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Hrana umeda pentru pisici junioare Purina Friskies Junior, pui in sos, 85 g"
+   "verificat": "2026-11-26T03:55:01+00:00",
+   "vazut": "2026-11-26T03:55:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/friskies-junior-pui-85g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:55:04+00:00",
+   "vazut": "2026-11-26T03:55:04+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

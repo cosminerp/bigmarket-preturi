@@ -2,22 +2,14 @@
  "ean": "8015194522964",
  "preturi": [
   {
-   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-bucatariei/degresant-chante-clair-cu-bicarbonat-8015194522964.html",
-   "domeniu": "magazinitalian.ro",
-   "pret": "17.50",
+   "url": "https://www.auchan.ro/degresant-universal-cu-bicarbonat-chante-clair-600-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "16.49",
    "stare": "ok",
-   "verificat": "2026-11-25T21:48:41+00:00",
-   "vazut": "2026-11-25T21:48:41+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.westchemicals.ro/produs/degresant-universal-chanteclair-bicarbonat-vapo-600ml/",
-   "domeniu": "westchemicals.ro",
-   "pret": "12.50",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:48:45+00:00",
-   "vazut": "2026-11-25T21:48:45+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-25T19:15:07+00:00",
+   "vazut": "2026-11-25T19:15:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Degresant universal cu bicarbonat Chanteclair, 600 ml"
   },
   {
    "url": "https://www.greenonline.ro/produse-curatenie/degresant-universal-chanteclair-cu-bicarbonat-600ml.html",
@@ -29,14 +21,22 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.auchan.ro/degresant-universal-cu-bicarbonat-chante-clair-600-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "16.49",
+   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-bucatariei/degresant-chante-clair-cu-bicarbonat-8015194522964.html",
+   "domeniu": "magazinitalian.ro",
+   "pret": "17.50",
    "stare": "ok",
-   "verificat": "2026-11-26T03:36:10+00:00",
-   "vazut": "2026-11-26T03:36:10+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Degresant universal cu bicarbonat Chanteclair, 600 ml"
+   "verificat": "2026-11-26T04:00:02+00:00",
+   "vazut": "2026-11-26T04:00:02+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/degresant-universal-chanteclair-bicarbonat-vapo-600ml/",
+   "domeniu": "westchemicals.ro",
+   "pret": "12.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:00:05+00:00",
+   "vazut": "2026-11-26T04:00:05+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

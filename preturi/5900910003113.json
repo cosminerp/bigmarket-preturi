@@ -2,13 +2,14 @@
  "ean": "5900910003113",
  "preturi": [
   {
-   "url": "https://www.capsuleria.ro/accesorii-93/crema-pudra-coffeeta-pentru-cafea-400-g-5900910003113.html",
-   "domeniu": "capsuleria.ro",
-   "pret": "17.07",
+   "url": "https://www.auchan.ro/crema-pudra-coffeeta-pentru-cafea-400-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.69",
    "stare": "ok",
-   "verificat": "2026-11-25T21:04:13+00:00",
-   "vazut": "2026-11-25T21:04:13+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-25T19:12:20+00:00",
+   "vazut": "2026-11-25T19:12:20+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Crema pudra Coffeeta pentru cafea 400 g"
   },
   {
    "url": "https://www.snaemarket.ro/bacanie/cafea/coffeeta-400g-6buc-bax-5900910003113",
@@ -20,14 +21,13 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.auchan.ro/crema-pudra-coffeeta-pentru-cafea-400-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.69",
+   "url": "https://www.capsuleria.ro/accesorii-93/crema-pudra-coffeeta-pentru-cafea-400-g-5900910003113.html",
+   "domeniu": "capsuleria.ro",
+   "pret": "17.07",
    "stare": "ok",
-   "verificat": "2026-11-26T03:33:07+00:00",
-   "vazut": "2026-11-26T03:33:07+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Crema pudra Coffeeta pentru cafea 400 g"
+   "verificat": "2026-11-26T03:52:10+00:00",
+   "vazut": "2026-11-26T03:52:10+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
