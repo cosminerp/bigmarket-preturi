@@ -12,12 +12,21 @@
    "nume": "Iaurt BIO Napolact, 140 g"
   },
   {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/napolact-bio-iaurt-natural-pahar-3-8-140g.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "3.99",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-25T20:56:02+00:00",
+   "vazut": "2026-11-19T10:50:51+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://promoazi.ro/iaurt/iaurt-bio-napolact-140-g",
    "domeniu": "promoazi.ro",
    "pret": "2.89",
    "stare": "ok",
-   "verificat": "2026-11-25T20:55:56+00:00",
-   "vazut": "2026-11-25T20:55:56+00:00",
+   "verificat": "2026-11-26T03:01:54+00:00",
+   "vazut": "2026-11-26T03:01:54+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -25,17 +34,8 @@
    "domeniu": "pacomarket.ro",
    "pret": "3.99",
    "stare": "ok",
-   "verificat": "2026-11-25T20:55:59+00:00",
-   "vazut": "2026-11-25T20:55:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/napolact-bio-iaurt-natural-pahar-3-8-140g.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "3.99",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-25T20:56:02+00:00",
-   "vazut": "2026-11-19T10:50:51+00:00",
+   "verificat": "2026-11-26T03:01:57+00:00",
+   "vazut": "2026-11-26T03:01:57+00:00",
    "metoda": "cautare_google"
   }
  ]
