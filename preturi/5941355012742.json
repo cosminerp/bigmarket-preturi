@@ -2,21 +2,21 @@
  "ean": "5941355012742",
  "preturi": [
   {
-   "url": "https://www.coffeepoint.ro/bardezzi-lapte-integral-pentru-cafea-3-5-grasime-uht-1l.html",
-   "domeniu": "coffeepoint.ro",
-   "pret": "11.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:02:37+00:00",
-   "vazut": "2026-11-25T21:02:37+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bacanie/lapte-barista-uht-3-5-bardezzi-1-l.html",
    "domeniu": "vivomarket.ro",
    "pret": "14.90",
    "stare": "ok",
    "verificat": "2026-11-25T21:30:31+00:00",
    "vazut": "2026-11-25T21:30:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.coffeepoint.ro/bardezzi-lapte-integral-pentru-cafea-3-5-grasime-uht-1l.html",
+   "domeniu": "coffeepoint.ro",
+   "pret": "11.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:10:06+00:00",
+   "vazut": "2026-11-26T03:10:06+00:00",
    "metoda": "cautare_google"
   }
  ]
