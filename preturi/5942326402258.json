@@ -2,33 +2,6 @@
  "ean": "5942326402258",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/apa-plata-aqua-carpatica-1l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.25",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:33:43+00:00",
-   "vazut": "2026-11-26T16:33:43+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-1l-sgr-12buc-bax-5942326402258",
-   "domeniu": "snaemarket.ro",
-   "pret": "2.81",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T16:33:48+00:00",
-   "vazut": "2026-11-18T10:09:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/apa-1l-plata-aqua-carpatica-sgr-12_2?srsltid=AYCX9vL3fQ19LrPBCv9iCAafH5AS_WI5mSGujK-G8ub2ByfilWOYUBe9",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "5.33",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:33:50+00:00",
-   "vazut": "2026-11-26T16:33:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-plata-aqua-carpatica-1l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "3.89",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-26T16:58:49+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa plata Aqua Carpatica, 1 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-aqua-carpatica-1l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.25",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:42:48+00:00",
+   "vazut": "2026-11-26T22:42:48+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/aqua-carpatica-still-1l-sgr-12buc-bax-5942326402258",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.81",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T22:42:53+00:00",
+   "vazut": "2026-11-18T10:09:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-1l-plata-aqua-carpatica-sgr-12_2?srsltid=AYCX9vL3fQ19LrPBCv9iCAafH5AS_WI5mSGujK-G8ub2ByfilWOYUBe9",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "5.33",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:42:55+00:00",
+   "vazut": "2026-11-26T22:42:55+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

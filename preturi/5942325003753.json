@@ -2,42 +2,6 @@
  "ean": "5942325003753",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/apa-plata-bucovina-2l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "3.75",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:32:57+00:00",
-   "vazut": "2026-11-26T16:32:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://beau.ro/produs/bucovina-apa-plata-6-x-2-l/?srsltid=AYCX9vKDkRvCOr5jzvEaXPkVgQ9d2oFcVS6XCcmAsVpozrBIafm1ovEx",
-   "domeniu": "beau.ro",
-   "pret": "24.58",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:33:02+00:00",
-   "vazut": "2026-11-26T16:33:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/apa-plata-bucovina-2l?srsltid=AYCX9vLuk5Wso2-_jh73j-71VXjKlapGPCklHjqRuVPTGus8xolR6W_R",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "4.86",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:33:05+00:00",
-   "vazut": "2026-11-26T16:33:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cosulmic.ro/produs/apa-plata-bucovina-2l-60",
-   "domeniu": "cosulmic.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:33:06+00:00",
-   "vazut": "2026-11-26T16:33:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-plata-bucovina-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "2.99",
@@ -47,6 +11,42 @@
    "metoda": "auchan_catalog",
    "nume": "Apa plata Bucovina, 2 l",
    "pret_vechi": "4.49"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-bucovina-2l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "3.75",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:42:02+00:00",
+   "vazut": "2026-11-26T22:42:02+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://beau.ro/produs/bucovina-apa-plata-6-x-2-l/?srsltid=AYCX9vKDkRvCOr5jzvEaXPkVgQ9d2oFcVS6XCcmAsVpozrBIafm1ovEx",
+   "domeniu": "beau.ro",
+   "pret": "24.58",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:42:07+00:00",
+   "vazut": "2026-11-26T22:42:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/apa-plata-bucovina-2l?srsltid=AYCX9vLuk5Wso2-_jh73j-71VXjKlapGPCklHjqRuVPTGus8xolR6W_R",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "4.86",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:42:09+00:00",
+   "vazut": "2026-11-26T22:42:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cosulmic.ro/produs/apa-plata-bucovina-2l-60",
+   "domeniu": "cosulmic.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:42:11+00:00",
+   "vazut": "2026-11-26T22:42:11+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
