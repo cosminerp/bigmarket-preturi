@@ -2,24 +2,6 @@
  "ean": "5948543002493",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/granule-desfundat-tevi-peak-out-apa-fierbinte-1plic-80g-566?srsltid=AYCX9vKvdAI6l4Es9517C3lU38MyudsaGMc9E1kd-UTDIqsTx6OqQ8Q1",
-   "domeniu": "kisshop.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:37:06+00:00",
-   "vazut": "2026-11-26T16:37:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shopdiscount.ro/shop/curatenie-si-intretinere/detergent-desfundat-tevi-de-scurgere/peak-out-granulat-pentru-desfundat-sifon-pentru-apa-fierbinte-80gr/",
-   "domeniu": "shopdiscount.ro",
-   "pret": "3.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:37:08+00:00",
-   "vazut": "2026-11-26T16:37:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/granule-pentru-desfundat-tevi-peak-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.89",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-26T17:06:42+00:00",
    "metoda": "auchan_catalog",
    "nume": "Granule pentru desfundat tevi Peak 80 g"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/granule-desfundat-tevi-peak-out-apa-fierbinte-1plic-80g-566?srsltid=AYCX9vKvdAI6l4Es9517C3lU38MyudsaGMc9E1kd-UTDIqsTx6OqQ8Q1",
+   "domeniu": "kisshop.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:47:36+00:00",
+   "vazut": "2026-11-26T22:47:36+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shopdiscount.ro/shop/curatenie-si-intretinere/detergent-desfundat-tevi-de-scurgere/peak-out-granulat-pentru-desfundat-sifon-pentru-apa-fierbinte-80gr/",
+   "domeniu": "shopdiscount.ro",
+   "pret": "3.79",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:47:38+00:00",
+   "vazut": "2026-11-26T22:47:38+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
