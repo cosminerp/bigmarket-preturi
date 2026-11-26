@@ -2,21 +2,21 @@
  "ean": "5944516003542",
  "preturi": [
   {
-   "url": "https://www.practi.ro/casa-si-gradina/puff-servetele-deluxe-2straturi-33-33cm-40buc-set-alb.html?srsltid=AYCX9vJkVnkanyxoKLvnrIoHeNMzvH_iJxvPNLVj2GfXbxYfZ_iukaSj",
-   "domeniu": "practi.ro",
-   "pret": "4.80",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:40:08+00:00",
-   "vazut": "2026-11-26T16:40:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.greenonline.ro/produse-curatenie/servetele-de-masa-puff-de-lux-alb-2-straturi-33x33-40-bucati.html",
    "domeniu": "greenonline.ro",
    "pret": "3.63",
    "stare": "ok",
    "verificat": "2026-11-26T23:03:32+00:00",
    "vazut": "2026-11-26T23:03:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.practi.ro/casa-si-gradina/puff-servetele-deluxe-2straturi-33-33cm-40buc-set-alb.html?srsltid=AYCX9vJkVnkanyxoKLvnrIoHeNMzvH_iJxvPNLVj2GfXbxYfZ_iukaSj",
+   "domeniu": "practi.ro",
+   "pret": "4.80",
+   "stare": "ok",
+   "verificat": "2026-11-26T23:14:43+00:00",
+   "vazut": "2026-11-26T23:14:43+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,15 +2,6 @@
  "ean": "8684877997131",
  "preturi": [
   {
-   "url": "https://www.pravaliadecuratenie.ro/ingrijire-personala/mini-servetele-umede-buzunar-doyfresh-blue-sensitive-8-pachete-x-8-bucati-64-servetele-bax.html",
-   "domeniu": "pravaliadecuratenie.ro",
-   "pret": "9.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:01:32+00:00",
-   "vazut": "2026-11-26T17:01:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-umede/servetele-umede-super-mini-blue-8-pachete-x-8-bucati-doyfresh-p479711",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "6.00",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T23:10:55+00:00",
    "vazut": "2026-11-26T23:10:55+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pravaliadecuratenie.ro/ingrijire-personala/mini-servetele-umede-buzunar-doyfresh-blue-sensitive-8-pachete-x-8-bucati-64-servetele-bax.html",
+   "domeniu": "pravaliadecuratenie.ro",
+   "pret": "9.00",
+   "stare": "ok",
+   "verificat": "2026-11-26T23:16:35+00:00",
+   "vazut": "2026-11-26T23:16:35+00:00",
    "metoda": "cautare_google"
   }
  ]
