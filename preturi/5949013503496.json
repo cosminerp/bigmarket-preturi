@@ -2,15 +2,6 @@
  "ean": "5949013503496",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bauturi/aperitiv-11-1-l-aperol-4408.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "87.98",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:05:34+00:00",
-   "vazut": "2026-11-26T17:05:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://fancydrinks.ro/produs/aperitiv-aperol-11-0-0-7l/",
    "domeniu": "fancydrinks.ro",
    "pret": "64.16",
@@ -35,6 +26,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T22:48:49+00:00",
    "vazut": "2026-11-26T22:48:49+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi/aperitiv-11-1-l-aperol-4408.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "87.98",
+   "stare": "ok",
+   "verificat": "2026-11-26T23:20:35+00:00",
+   "vazut": "2026-11-26T23:20:35+00:00",
    "metoda": "cautare_google"
   }
  ]
