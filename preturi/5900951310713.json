@@ -2,15 +2,6 @@
  "ean": "5900951310713",
  "preturi": [
   {
-   "url": "https://petshopazi.ro/produs/pedigree-junior-pasare-si-legume-hrana-uscata-caini-500-g",
-   "domeniu": "petshopazi.ro",
-   "pret": "11.99",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T15:57:31+00:00",
-   "vazut": "2026-11-22T20:11:37+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.ehranaanimale.ro/caini/hrana-uscata-pentru-caini-pedigree-junior-m-l-cu-pasare-legume-500-gr.html",
    "domeniu": "ehranaanimale.ro",
    "pret": "13.74",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-26T16:52:48+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hrana uscata pentru caini juniori M/L Pedigree, pasare si legume, 500 g"
+  },
+  {
+   "url": "https://petshopazi.ro/produs/pedigree-junior-pasare-si-legume-hrana-uscata-caini-500-g",
+   "domeniu": "petshopazi.ro",
+   "pret": "11.99",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T22:02:09+00:00",
+   "vazut": "2026-11-22T20:11:37+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,12 +2,21 @@
  "ean": "5940031020149",
  "preturi": [
   {
+   "url": "https://www.1001cosmetice.ro/cumpara/laveta-microfibra-40x40-carpa-magica-57063",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "15.00",
+   "stare": "ok",
+   "verificat": "2026-11-26T15:59:34+00:00",
+   "vazut": "2026-11-26T15:59:34+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.kisshop.ro/cumpara/carpa-magica-laveta-microfibra-pentru-curatare-eco-40-x-40-cm-3999?srsltid=AYCX9vJTacdvvZI88fy2pUegZWwBQH-Fo3rcEv1BeowlvZRJD-VYf5bu",
    "domeniu": "kisshop.ro",
    "pret": "14.99",
    "stare": "ok",
-   "verificat": "2026-11-26T15:59:28+00:00",
-   "vazut": "2026-11-26T15:59:28+00:00",
+   "verificat": "2026-11-26T22:04:13+00:00",
+   "vazut": "2026-11-26T22:04:13+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,8 +24,8 @@
    "domeniu": "alvoria.ro",
    "pret": "9.25",
    "stare": "ok",
-   "verificat": "2026-11-26T15:59:29+00:00",
-   "vazut": "2026-11-26T15:59:29+00:00",
+   "verificat": "2026-11-26T22:04:15+00:00",
+   "vazut": "2026-11-26T22:04:15+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -24,17 +33,8 @@
    "domeniu": "cobyul.ro",
    "pret": "7.69",
    "stare": "ok",
-   "verificat": "2026-11-26T15:59:32+00:00",
-   "vazut": "2026-11-26T15:59:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.1001cosmetice.ro/cumpara/laveta-microfibra-40x40-carpa-magica-57063",
-   "domeniu": "1001cosmetice.ro",
-   "pret": "15.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T15:59:34+00:00",
-   "vazut": "2026-11-26T15:59:34+00:00",
+   "verificat": "2026-11-26T22:04:17+00:00",
+   "vazut": "2026-11-26T22:04:17+00:00",
    "metoda": "cautare_google"
   }
  ]
