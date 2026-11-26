@@ -2,15 +2,6 @@
  "ean": "5904517403130",
  "preturi": [
   {
-   "url": "https://www.livingstone.ro/articole-antidaunatori-gradina/granule-impotriva-furnicilor-75-g.html?srsltid=AYCX9vJ-_0beRg5HEhVcjFLGwh1BSkmThF-gUo8IUTxX474USoqsvhaM",
-   "domeniu": "livingstone.ro",
-   "pret": "12.20",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:13:20+00:00",
-   "vazut": "2026-11-26T16:13:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/diverse-menaj/bros-granule-pt-furnici-75gr-5904517403130",
    "domeniu": "snaemarket.ro",
    "pret": "9.17",
@@ -35,6 +26,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T22:03:23+00:00",
    "vazut": "2026-11-26T22:03:23+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.livingstone.ro/articole-antidaunatori-gradina/granule-impotriva-furnicilor-75-g.html?srsltid=AYCX9vJ-_0beRg5HEhVcjFLGwh1BSkmThF-gUo8IUTxX474USoqsvhaM",
+   "domeniu": "livingstone.ro",
+   "pret": "12.20",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:19:14+00:00",
+   "vazut": "2026-11-26T22:19:14+00:00",
    "metoda": "cautare_google"
   }
  ]

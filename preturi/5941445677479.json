@@ -2,33 +2,6 @@
  "ean": "5941445677479",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cu-sare-de-mare-120gr-10buc-bax-5941445677479",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.48",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:17:06+00:00",
-   "vazut": "2026-11-26T16:17:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/dulciuri-si-snacks/chipsuri-chio-intense-sare-mare-120g",
-   "domeniu": "promoazi.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:17:08+00:00",
-   "vazut": "2026-11-26T16:17:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cu-sare-de-mare-120gr-10buc-bax-5941445677479",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.48",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:17:11+00:00",
-   "vazut": "2026-11-26T16:17:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-sare-de-mare-chio-intense-120-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.99",
@@ -38,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu sare de mare Chio Intense, 120 g",
    "pret_vechi": "8.29"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cu-sare-de-mare-120gr-10buc-bax-5941445677479",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.48",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:22:53+00:00",
+   "vazut": "2026-11-26T22:22:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/dulciuri-si-snacks/chipsuri-chio-intense-sare-mare-120g",
+   "domeniu": "promoazi.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:22:56+00:00",
+   "vazut": "2026-11-26T22:22:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cu-sare-de-mare-120gr-10buc-bax-5941445677479",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.48",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:22:59+00:00",
+   "vazut": "2026-11-26T22:22:59+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

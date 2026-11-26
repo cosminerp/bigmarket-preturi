@@ -2,15 +2,6 @@
  "ean": "5941445677646",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-sare-125gr-10buc-bax-5941445677646",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.48",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:17:34+00:00",
-   "vazut": "2026-11-26T16:17:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chio-chipsuri-cu-sare125-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-26T17:03:55+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu sare Chio, 125 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-sare-125gr-10buc-bax-5941445677646",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.48",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:23:23+00:00",
+   "vazut": "2026-11-26T22:23:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
