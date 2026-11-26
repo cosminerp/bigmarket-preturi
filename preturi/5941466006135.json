@@ -2,21 +2,21 @@
  "ean": "5941466006135",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/alimente-de-baza-conserve-si-condimente/olympia-sos-maioneza-cu-usturoi-480g-6.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "11.03",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:30:39+00:00",
-   "vazut": "2026-11-25T21:30:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/sos-maioneza-cu-usturoi-olympia-480g/",
    "domeniu": "pacomarket.ro",
    "pret": "12.99",
    "stare": "ok",
    "verificat": "2026-11-26T03:15:51+00:00",
    "vazut": "2026-11-26T03:15:51+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/alimente-de-baza-conserve-si-condimente/olympia-sos-maioneza-cu-usturoi-480g-6.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "11.03",
+   "stare": "ok",
+   "verificat": "2026-11-26T03:41:13+00:00",
+   "vazut": "2026-11-26T03:41:13+00:00",
    "metoda": "cautare_google"
   }
  ]
