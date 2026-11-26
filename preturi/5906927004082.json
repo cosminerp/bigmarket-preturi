@@ -2,21 +2,21 @@
  "ean": "5906927004082",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/candela-rezerva-memoria-bispol-wo6/?srsltid=AYCX9vJ-oGMLC73A-JBqRIk0FqaKyybDbnonwkSwc-qt2zwSAGUbV75n",
-   "domeniu": "cobyul.ro",
-   "pret": "7.89",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:56:54+00:00",
-   "vazut": "2026-11-26T02:56:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.livingstone.ro/articole-pentru-casa/candela-rezerva-bispol-memoria-wo6-300-g.html?srsltid=AYCX9vKEdSvv1001Cobd8z1SaxV0AO2bKsa-LRlfkJ4C2tnBThcfq22q",
    "domeniu": "livingstone.ro",
    "pret": "7.20",
    "stare": "ok",
    "verificat": "2026-11-26T03:11:50+00:00",
    "vazut": "2026-11-26T03:11:50+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/candela-rezerva-memoria-bispol-wo6/?srsltid=AYCX9vJ-oGMLC73A-JBqRIk0FqaKyybDbnonwkSwc-qt2zwSAGUbV75n",
+   "domeniu": "cobyul.ro",
+   "pret": "7.89",
+   "stare": "ok",
+   "verificat": "2026-11-26T15:59:13+00:00",
+   "vazut": "2026-11-26T15:59:13+00:00",
    "metoda": "cautare_google"
   }
  ]

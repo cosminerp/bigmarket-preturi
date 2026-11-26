@@ -2,15 +2,6 @@
  "ean": "5941000032187",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/lays-chips-sare-125g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:00:15+00:00",
-   "vazut": "2026-11-26T03:00:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-sare-lay-s-125-g/p",
    "domeniu": "auchan.ro",
    "pret": "8.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-26T03:30:52+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu sare Lay's, 125 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/lays-chips-sare-125g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:03:05+00:00",
+   "vazut": "2026-11-26T16:03:05+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

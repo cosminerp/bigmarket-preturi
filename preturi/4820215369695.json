@@ -2,24 +2,6 @@
  "ean": "4820215369695",
  "preturi": [
   {
-   "url": "https://www.petvet-shop.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-9112",
-   "domeniu": "petvet-shop.ro",
-   "pret": "4.60",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:47:10+00:00",
-   "vazut": "2026-11-26T02:47:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.safepet.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-5045?srsltid=AYCX9vKC3GO6c1nkq6qJ3njCo23q-GimC_XdKPYeUSStFaF3tmrps4gC",
-   "domeniu": "safepet.ro",
-   "pret": "4.60",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:47:12+00:00",
-   "vazut": "2026-11-26T02:47:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.fourpaws.ro/produse-pisici/hrana-uscata-completa-my-love-pentru-pisici-adulte-cu-pui-0-3-kg.html?srsltid=AYCX9vIRcc1UlKgLtqTTHbMsV5Q42ceZ2v1C3Bo7cQSf2975Mp-IKh_D",
    "domeniu": "fourpaws.ro",
    "pret": "3.30",
@@ -29,11 +11,29 @@
    "metoda": "cautare_google"
   },
   {
+   "url": "https://www.petvet-shop.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-9112",
+   "domeniu": "petvet-shop.ro",
+   "pret": "4.60",
+   "stare": "ok",
+   "verificat": "2026-11-26T15:51:42+00:00",
+   "vazut": "2026-11-26T15:51:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.safepet.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-5045?srsltid=AYCX9vKC3GO6c1nkq6qJ3njCo23q-GimC_XdKPYeUSStFaF3tmrps4gC",
+   "domeniu": "safepet.ro",
+   "pret": "4.60",
+   "stare": "ok",
+   "verificat": "2026-11-26T15:51:45+00:00",
+   "vazut": "2026-11-26T15:51:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.epetshop.ro/produse-pisici/hrana-uscata-completa-my-love-pentru-pisici-adulte-cu-pui-0-3-kg.html",
    "domeniu": "epetshop.ro",
    "pret": "4.20",
    "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T02:47:18+00:00",
+   "verificat": "2026-11-26T15:51:50+00:00",
    "vazut": "2026-11-19T04:33:48+00:00",
    "metoda": "cautare_google"
   },
@@ -42,7 +42,7 @@
    "domeniu": "club4labute.ro",
    "pret": "5.00",
    "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T02:47:20+00:00",
+   "verificat": "2026-11-26T15:51:54+00:00",
    "vazut": "2026-11-19T04:33:50+00:00",
    "metoda": "cautare_google"
   }

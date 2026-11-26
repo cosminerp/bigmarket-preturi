@@ -2,51 +2,6 @@
  "ean": "5940628670108",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-fata/creme-de-fata/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol-p318130",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "23.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:58:59+00:00",
-   "vazut": "2026-11-26T02:58:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-fata/creme-si-produse-ingrijire-fata/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol-veceslav-p143791",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "23.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:59:01+00:00",
-   "vazut": "2026-11-26T02:59:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.ducfarm.ro/creme-seruri-si-tonice-pentru-fata/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol?srsltid=AYCX9vIOf6RV_GkpthMugBht86hAlHQcEc8iVs6BOnn3f3z_o_u_rGXo",
-   "domeniu": "ducfarm.ro",
-   "pret": "23.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:59:04+00:00",
-   "vazut": "2026-11-26T02:59:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciilenapofarm.ro/ingrijire-ten/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol?srsltid=AYCX9vL2efo0j1lgszByuXyZ_OU5KviGIrJyPjsSwi2e9Mkde8kMAjVx",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "27.29",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:59:07+00:00",
-   "vazut": "2026-11-26T02:59:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.drogheriahara.ro/cumpara/crema-de-fata-apidermin-lux-50-ml-complex-apicol-14593?srsltid=AYCX9vIMqfC1L2QGPjGMmZ9WazkPIhiSa9jBGj2LbwuwkmpAJu_erZBK",
-   "domeniu": "drogheriahara.ro",
-   "pret": "28.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:59:11+00:00",
-   "vazut": "2026-11-26T02:59:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apidermin-lux-45gr/p",
    "domeniu": "auchan.ro",
    "pret": "34.99",
@@ -55,6 +10,51 @@
    "vazut": "2026-11-26T03:34:44+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apidermin Lux, 50 ml"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-fata/creme-de-fata/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol-p318130",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "23.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:01:45+00:00",
+   "vazut": "2026-11-26T16:01:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-fata/creme-si-produse-ingrijire-fata/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol-veceslav-p143791",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "23.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:01:48+00:00",
+   "vazut": "2026-11-26T16:01:48+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.ducfarm.ro/creme-seruri-si-tonice-pentru-fata/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol?srsltid=AYCX9vIOf6RV_GkpthMugBht86hAlHQcEc8iVs6BOnn3f3z_o_u_rGXo",
+   "domeniu": "ducfarm.ro",
+   "pret": "23.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:01:50+00:00",
+   "vazut": "2026-11-26T16:01:50+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/ingrijire-ten/crema-de-fata-cu-laptisor-de-matca-apidermin-lux-50-ml-complex-apicol?srsltid=AYCX9vL2efo0j1lgszByuXyZ_OU5KviGIrJyPjsSwi2e9Mkde8kMAjVx",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "27.29",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:01:53+00:00",
+   "vazut": "2026-11-26T16:01:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.drogheriahara.ro/cumpara/crema-de-fata-apidermin-lux-50-ml-complex-apicol-14593?srsltid=AYCX9vIMqfC1L2QGPjGMmZ9WazkPIhiSa9jBGj2LbwuwkmpAJu_erZBK",
+   "domeniu": "drogheriahara.ro",
+   "pret": "28.79",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:01:57+00:00",
+   "vazut": "2026-11-26T16:01:57+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
