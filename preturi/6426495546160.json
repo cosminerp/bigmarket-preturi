@@ -2,15 +2,6 @@
  "ean": "6426495546160",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/det-efekt-gel-universal-wasch-5l?srsltid=AYCX9vIP5v1J2JvzTx9HbZBVPm_Yh99fzFTa0LKI8VnIWCakjw6ddb-v",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "50.86",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:51:25+00:00",
-   "vazut": "2026-11-26T16:51:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.pravaliadecuratenie.ro/haine-curate/detergent-lichid-universal-pentru-rufe-cu-anticalcar-125-spalari-efekt-wasch-5-l.html",
    "domeniu": "pravaliadecuratenie.ro",
    "pret": "39.00",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T22:59:56+00:00",
    "vazut": "2026-11-26T22:59:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/det-efekt-gel-universal-wasch-5l?srsltid=AYCX9vIP5v1J2JvzTx9HbZBVPm_Yh99fzFTa0LKI8VnIWCakjw6ddb-v",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "50.86",
+   "stare": "ok",
+   "verificat": "2026-11-26T23:03:51+00:00",
+   "vazut": "2026-11-26T23:03:51+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,21 +2,21 @@
  "ean": "7702018600427",
  "preturi": [
   {
-   "url": "https://www.1001cosmetice.ro/cumpara/gillette-blue-2-plus-aparat-de-ras-37192",
-   "domeniu": "1001cosmetice.ro",
-   "pret": "3.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:55:10+00:00",
-   "vazut": "2026-11-26T16:55:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.practi.ro/sanatate-si-cosmetica/2buc-x-gillette-aparat-ras-blue-2lame-plus-ultragrip.html?srsltid=AYCX9vIe_uMmfZlX-ettUdzv0-WpkUNBVgPPPYJU-v-FJpNh_jgFNtUs",
    "domeniu": "practi.ro",
    "pret": "4.40",
    "stare": "ok",
    "verificat": "2026-11-26T17:06:26+00:00",
    "vazut": "2026-11-26T17:06:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.1001cosmetice.ro/cumpara/gillette-blue-2-plus-aparat-de-ras-37192",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "3.00",
+   "stare": "ok",
+   "verificat": "2026-11-26T23:05:25+00:00",
+   "vazut": "2026-11-26T23:05:25+00:00",
    "metoda": "cautare_google"
   }
  ]
