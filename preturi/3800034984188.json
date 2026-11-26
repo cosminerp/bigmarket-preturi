@@ -6,16 +6,16 @@
    "domeniu": "snaemarket.ro",
    "pret": "12.05",
    "stare": "ok",
-   "verificat": "2026-11-26T15:48:50+00:00",
-   "vazut": "2026-11-26T15:48:50+00:00",
+   "verificat": "2026-11-26T21:51:41+00:00",
+   "vazut": "2026-11-26T21:51:41+00:00",
    "metoda": "cautare_google"
   },
   {
    "url": "https://www.car-station.ro/areon-liquid-vip-black-king-5-ml/?srsltid=AYCX9vLW19hmH4iLEO1nSQUiX-tP6E9nfe_ZQQoval7dNdeApQxhxR3c",
    "domeniu": "car-station.ro",
    "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T15:48:54+00:00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T21:51:44+00:00",
    "vazut": "2026-11-26T15:48:54+00:00",
    "metoda": "cautare_google"
   },
@@ -24,8 +24,8 @@
    "domeniu": "cobyul.ro",
    "pret": "14.79",
    "stare": "ok",
-   "verificat": "2026-11-26T15:48:56+00:00",
-   "vazut": "2026-11-26T15:48:56+00:00",
+   "verificat": "2026-11-26T21:51:46+00:00",
+   "vazut": "2026-11-26T21:51:46+00:00",
    "metoda": "cautare_google"
   }
  ]

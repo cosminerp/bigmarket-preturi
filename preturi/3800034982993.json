@@ -2,12 +2,21 @@
  "ean": "3800034982993",
  "preturi": [
   {
+   "url": "https://miralcom.ro/magazin/areon-aromatizator-vanila-black-5-ml-lichid/?srsltid=AYCX9vKZYUeq7Uo2rJxd7bxJjpG017ooxxsjsN9yoZXH3mosnmeTyOy-",
+   "domeniu": "miralcom.ro",
+   "pret": "7.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T21:50:19+00:00",
+   "vazut": "2026-11-26T21:50:19+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.snaemarket.ro/menaj/odorizante/areon-mon-liquid-5ml-vanilla-black-3800034982993",
    "domeniu": "snaemarket.ro",
    "pret": "6.52",
    "stare": "ok",
-   "verificat": "2026-11-26T15:48:44+00:00",
-   "vazut": "2026-11-26T15:48:44+00:00",
+   "verificat": "2026-11-26T21:51:34+00:00",
+   "vazut": "2026-11-26T21:51:34+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "cobyul.ro",
    "pret": "7.99",
    "stare": "ok",
-   "verificat": "2026-11-26T15:48:46+00:00",
-   "vazut": "2026-11-26T15:48:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://miralcom.ro/magazin/areon-aromatizator-vanila-black-5-ml-lichid/?srsltid=AYCX9vKZYUeq7Uo2rJxd7bxJjpG017ooxxsjsN9yoZXH3mosnmeTyOy-",
-   "domeniu": "miralcom.ro",
-   "pret": "7.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T21:50:19+00:00",
-   "vazut": "2026-11-26T21:50:19+00:00",
+   "verificat": "2026-11-26T21:51:37+00:00",
+   "vazut": "2026-11-26T21:51:37+00:00",
    "metoda": "cautare_google"
   }
  ]
