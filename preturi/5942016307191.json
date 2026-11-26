@@ -2,24 +2,6 @@
  "ean": "5942016307191",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/bere-timisoreana-doza-0-5l-sgr-24?srsltid=AYCX9vLfz606K1jRSwKrT-N5KDuwGnbCOJpSKZpjWfZqZYXGKPlc8iYX",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "5.33",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:24:01+00:00",
-   "vazut": "2026-11-26T03:24:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/timisoreana-500ml-doza/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:24:04+00:00",
-   "vazut": "2026-11-26T03:24:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-timisoreana-0-5l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.15",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-26T03:44:12+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Timisoreana, 0.5 l"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bere-timisoreana-doza-0-5l-sgr-24?srsltid=AYCX9vLfz606K1jRSwKrT-N5KDuwGnbCOJpSKZpjWfZqZYXGKPlc8iYX",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "5.33",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:24:51+00:00",
+   "vazut": "2026-11-26T16:24:51+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/timisoreana-500ml-doza/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:24:53+00:00",
+   "vazut": "2026-11-26T16:24:53+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

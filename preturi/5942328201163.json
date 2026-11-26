@@ -2,24 +2,6 @@
  "ean": "5942328201163",
  "preturi": [
   {
-   "url": "https://www.pretistet.ro/produs/vitamin-aqua-function-cu-aroma-de-punch-de-fructe-bautura-racoritoare-necarbogazoasa-600ml-ambalaj-returnabil/",
-   "domeniu": "pretistet.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:36:08+00:00",
-   "vazut": "2026-11-26T03:36:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/vitamin-aqua-zn-ar-fructe-500ml-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:36:10+00:00",
-   "vazut": "2026-11-26T03:36:10+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-aromatizata-vitamin-aqua-zn-0-6l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "6.49",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-26T03:50:11+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa aromatizata Vitamin Aqua Zn, 0.6 l"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/vitamin-aqua-function-cu-aroma-de-punch-de-fructe-bautura-racoritoare-necarbogazoasa-600ml-ambalaj-returnabil/",
+   "domeniu": "pretistet.ro",
+   "pret": "6.99",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T16:34:23+00:00",
+   "vazut": "2026-11-26T03:36:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/vitamin-aqua-zn-ar-fructe-500ml-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:34:26+00:00",
+   "vazut": "2026-11-26T16:34:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

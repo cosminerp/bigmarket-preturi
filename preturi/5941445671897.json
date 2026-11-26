@@ -2,24 +2,6 @@
  "ean": "5941445671897",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/chio-snack-cu-sare-65gr-12buc-bax-5941445671897",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.92",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:13:25+00:00",
-   "vazut": "2026-11-26T03:13:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/chio-snack-sare-65gr-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:13:28+00:00",
-   "vazut": "2026-11-26T03:13:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-sare-snack-chio-65-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.19",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-26T03:47:26+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu sare Snack Chio, 65 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/chio-snack-cu-sare-65gr-12buc-bax-5941445671897",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.92",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:16:03+00:00",
+   "vazut": "2026-11-26T16:16:03+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/chio-snack-sare-65gr-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:16:06+00:00",
+   "vazut": "2026-11-26T16:16:06+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

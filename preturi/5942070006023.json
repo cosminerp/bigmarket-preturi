@@ -2,15 +2,6 @@
  "ean": "5942070006023",
  "preturi": [
   {
-   "url": "https://promoazi.ro/bere-si-cidru/bere-blonda-stella-artois-066l",
-   "domeniu": "promoazi.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:25:26+00:00",
-   "vazut": "2026-11-26T03:25:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-stella-artois-0-66l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-26T03:51:14+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Stella Artois, 0.66 l"
+  },
+  {
+   "url": "https://promoazi.ro/bere-si-cidru/bere-blonda-stella-artois-066l",
+   "domeniu": "promoazi.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:26:08+00:00",
+   "vazut": "2026-11-26T16:26:08+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

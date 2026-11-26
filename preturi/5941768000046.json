@@ -2,60 +2,6 @@
  "ean": "5941768000046",
  "preturi": [
   {
-   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
-   "domeniu": "frunzaverde.ro",
-   "pret": "2.28",
-   "stare": "ok",
-   "verificat": "2026-11-25T11:05:48+00:00",
-   "vazut": "2026-11-25T11:05:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-lapte-fara-zahar-25g-sly-4909",
-   "domeniu": "nosugarshop.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:18:15+00:00",
-   "vazut": "2026-11-26T03:18:15+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p351506",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "2.50",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T03:18:17+00:00",
-   "vazut": "2026-11-23T14:55:18+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.naturisti.ro/cumpara/tableta-cu-lapte-fara-zahar-25-g-7752211?srsltid=AYCX9vIiV_LMegUC8eS7TBfl01ml-5kfTvoSD1kx7FrOOROEsv19Zl5n",
-   "domeniu": "naturisti.ro",
-   "pret": "2.59",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:18:19+00:00",
-   "vazut": "2026-11-26T03:18:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciilenapofarm.ro/gustari/ciocolata-sly-diet-lapte-25g-x-1buc?srsltid=AYCX9vKI5xt9QQjFOJVOqgVlINAupLsueLPOdyjN7f69jkUMIxEy4mJ-",
-   "domeniu": "farmaciilenapofarm.ro",
-   "pret": "2.48",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:18:21+00:00",
-   "vazut": "2026-11-26T03:18:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p424808",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "2.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:20:01+00:00",
-   "vazut": "2026-11-26T03:20:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-cu-lapte-sly-fara-zahar-25-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.99",
@@ -64,6 +10,60 @@
    "vazut": "2026-11-26T03:53:33+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
+  },
+  {
+   "url": "https://frunzaverde.ro/magazin/alimentare/dulciuri/tableta-cu-lapte-fara-zahar-25gr/?srsltid=AYCX9vLu1PV61JgGwkSVeJhQxR7gtRdMvwmaDviuiLYNhau9ENvCGHts",
+   "domeniu": "frunzaverde.ro",
+   "pret": "2.28",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:21:06+00:00",
+   "vazut": "2026-11-26T16:21:06+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-lapte-fara-zahar-25g-sly-4909",
+   "domeniu": "nosugarshop.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:21:08+00:00",
+   "vazut": "2026-11-26T16:21:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p351506",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "2.50",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T16:21:11+00:00",
+   "vazut": "2026-11-23T14:55:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/tableta-cu-lapte-fara-zahar-25-g-7752211?srsltid=AYCX9vIiV_LMegUC8eS7TBfl01ml-5kfTvoSD1kx7FrOOROEsv19Zl5n",
+   "domeniu": "naturisti.ro",
+   "pret": "2.59",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:21:13+00:00",
+   "vazut": "2026-11-26T16:21:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciilenapofarm.ro/gustari/ciocolata-sly-diet-lapte-25g-x-1buc?srsltid=AYCX9vKI5xt9QQjFOJVOqgVlINAupLsueLPOdyjN7f69jkUMIxEy4mJ-",
+   "domeniu": "farmaciilenapofarm.ro",
+   "pret": "2.48",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:21:15+00:00",
+   "vazut": "2026-11-26T16:21:15+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p424808",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "2.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:21:17+00:00",
+   "vazut": "2026-11-26T16:21:17+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

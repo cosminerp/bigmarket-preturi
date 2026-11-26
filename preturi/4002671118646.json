@@ -2,15 +2,6 @@
  "ean": "4002671118646",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-almette-crema-verdeata-150g-8.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "9.44",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:11:34+00:00",
-   "vazut": "2026-11-26T03:11:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/crema-de-branza-cu-verdeata-almette-150-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.49",
@@ -37,6 +28,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T15:50:04+00:00",
    "vazut": "2026-11-26T15:50:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-almette-crema-verdeata-150g-8.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "9.44",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:12:36+00:00",
+   "vazut": "2026-11-26T16:12:36+00:00",
    "metoda": "cautare_google"
   }
  ]

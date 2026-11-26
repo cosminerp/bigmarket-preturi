@@ -2,33 +2,6 @@
  "ean": "5942330007395",
  "preturi": [
   {
-   "url": "https://www.pretistet.ro/produs/biborteni-soc-si-lamaie-2l-bautura-racoritoare-naturala-ambalaj-returnabil/",
-   "domeniu": "pretistet.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:36:22+00:00",
-   "vazut": "2026-11-26T03:36:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/limonada/bautura-carbogazoasa-aroma-soc-si-lamaie-biborteni-2l",
-   "domeniu": "promoazi.ro",
-   "pret": "8.15",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:36:23+00:00",
-   "vazut": "2026-11-26T03:36:23+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.vivomarket.ro/bauturi/bautura-racoritoare-soc-lamaie-6-x-2-l-biborteni.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "49.44",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:36:26+00:00",
-   "vazut": "2026-11-26T03:36:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-cu-aroma-de-soc-si-lamaie-biborteni-2-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "8.15",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-26T03:31:34+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa cu aroma de soc si lamaie Biborteni, 2 l"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/biborteni-soc-si-lamaie-2l-bautura-racoritoare-naturala-ambalaj-returnabil/",
+   "domeniu": "pretistet.ro",
+   "pret": "6.99",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T16:34:34+00:00",
+   "vazut": "2026-11-26T03:36:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/limonada/bautura-carbogazoasa-aroma-soc-si-lamaie-biborteni-2l",
+   "domeniu": "promoazi.ro",
+   "pret": "8.15",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:34:36+00:00",
+   "vazut": "2026-11-26T16:34:36+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi/bautura-racoritoare-soc-lamaie-6-x-2-l-biborteni.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "49.44",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:34:39+00:00",
+   "vazut": "2026-11-26T16:34:39+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

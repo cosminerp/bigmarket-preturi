@@ -2,24 +2,6 @@
  "ean": "5942016309010",
  "preturi": [
   {
-   "url": "https://marketexpress.ro/p/ursus-cooler-zmeura-si-mure-dz-0-5l-sgr/",
-   "domeniu": "marketexpress.ro",
-   "pret": "5.30",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:24:12+00:00",
-   "vazut": "2026-11-26T03:24:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/produse/bere-blonda-fara-alcool-ursus-cooler-cu-aroma-de-zmeura-si-mure-doza-05-l",
-   "domeniu": "promoazi.ro",
-   "pret": "4.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:24:14+00:00",
-   "vazut": "2026-11-26T03:24:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-fara-alcool-ursus-cooler-cu-aroma-de-zmeura-si-mure-doza-0-5-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.79",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-26T03:48:37+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda fara alcool Ursus Cooler cu aroma de zmeura si mure, doza, 0.5 l"
+  },
+  {
+   "url": "https://marketexpress.ro/p/ursus-cooler-zmeura-si-mure-dz-0-5l-sgr/",
+   "domeniu": "marketexpress.ro",
+   "pret": "5.30",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T16:24:59+00:00",
+   "vazut": "2026-11-26T03:24:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/produse/bere-blonda-fara-alcool-ursus-cooler-cu-aroma-de-zmeura-si-mure-doza-05-l",
+   "domeniu": "promoazi.ro",
+   "pret": "4.79",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:25:01+00:00",
+   "vazut": "2026-11-26T16:25:01+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

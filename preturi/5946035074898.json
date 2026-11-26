@@ -2,21 +2,21 @@
  "ean": "5946035074898",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/triumf-500-ml-degresant-forte-spuma/?srsltid=AYCX9vKT5JRGHi1GoxX-zk8jGG9e5bEg67tYcFn82mbgjJGAghW9SvUM",
-   "domeniu": "cobyul.ro",
-   "pret": "15.39",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:38:02+00:00",
-   "vazut": "2026-11-26T03:38:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/degresant-spuma-forte-triumf-pentru-bucatarie-500ml?srsltid=AYCX9vJN0UILzcOCp9zJfwxjPKp_zyamrhHSUmEAA5ElNKMO4n86UoJn",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "21.73",
    "stare": "ok",
    "verificat": "2026-11-26T03:38:05+00:00",
    "vazut": "2026-11-26T03:38:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/triumf-500-ml-degresant-forte-spuma/?srsltid=AYCX9vKT5JRGHi1GoxX-zk8jGG9e5bEg67tYcFn82mbgjJGAghW9SvUM",
+   "domeniu": "cobyul.ro",
+   "pret": "15.39",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:36:23+00:00",
+   "vazut": "2026-11-26T16:36:23+00:00",
    "metoda": "cautare_google"
   }
  ]
