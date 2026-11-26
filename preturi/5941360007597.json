@@ -12,12 +12,21 @@
    "nume": "Mozzarella gourmet Delaco, 350 g"
   },
   {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/delaco-mozzarella-gourmet-350g.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "21.41",
+   "stare": "ok",
+   "verificat": "2026-11-25T22:03:31+00:00",
+   "vazut": "2026-11-25T22:03:31+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://pacomarket.ro/product/delaco-mozzarella-gourmet-350g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "19.99",
    "stare": "ok",
-   "verificat": "2026-11-25T21:04:56+00:00",
-   "vazut": "2026-11-25T21:04:56+00:00",
+   "verificat": "2026-11-26T03:12:13+00:00",
+   "vazut": "2026-11-26T03:12:13+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -25,17 +34,8 @@
    "domeniu": "promoazi.ro",
    "pret": "13.49",
    "stare": "ok",
-   "verificat": "2026-11-25T21:04:58+00:00",
-   "vazut": "2026-11-25T21:04:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/delaco-mozzarella-gourmet-350g.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "21.41",
-   "stare": "ok",
-   "verificat": "2026-11-25T22:03:31+00:00",
-   "vazut": "2026-11-25T22:03:31+00:00",
+   "verificat": "2026-11-26T03:12:15+00:00",
+   "vazut": "2026-11-26T03:12:15+00:00",
    "metoda": "cautare_google"
   }
  ]

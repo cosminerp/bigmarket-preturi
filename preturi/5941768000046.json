@@ -21,12 +21,21 @@
    "nume": "Ciocolata cu lapte Sly, fara zahar, 25 g"
   },
   {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p424808",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "2.50",
+   "stare": "ok",
+   "verificat": "2026-11-25T21:11:32+00:00",
+   "vazut": "2026-11-25T21:11:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.nosugarshop.ro/cumpara/tableta-de-ciocolata-cu-lapte-fara-zahar-25g-sly-4909",
    "domeniu": "nosugarshop.ro",
    "pret": "2.99",
    "stare": "ok",
-   "verificat": "2026-11-25T21:11:23+00:00",
-   "vazut": "2026-11-25T21:11:23+00:00",
+   "verificat": "2026-11-26T03:18:15+00:00",
+   "vazut": "2026-11-26T03:18:15+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -34,7 +43,7 @@
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "2.50",
    "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-25T21:11:26+00:00",
+   "verificat": "2026-11-26T03:18:17+00:00",
    "vazut": "2026-11-23T14:55:18+00:00",
    "metoda": "cautare_google"
   },
@@ -43,8 +52,8 @@
    "domeniu": "naturisti.ro",
    "pret": "2.59",
    "stare": "ok",
-   "verificat": "2026-11-25T21:11:28+00:00",
-   "vazut": "2026-11-25T21:11:28+00:00",
+   "verificat": "2026-11-26T03:18:19+00:00",
+   "vazut": "2026-11-26T03:18:19+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -52,17 +61,8 @@
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "2.48",
    "stare": "ok",
-   "verificat": "2026-11-25T21:11:30+00:00",
-   "vazut": "2026-11-25T21:11:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/ciocolata/tableta-de-ciocolata-cu-lapte-25-g-sly-nutritia-p424808",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "2.50",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:11:32+00:00",
-   "vazut": "2026-11-25T21:11:32+00:00",
+   "verificat": "2026-11-26T03:18:21+00:00",
+   "vazut": "2026-11-26T03:18:21+00:00",
    "metoda": "cautare_google"
   }
  ]
