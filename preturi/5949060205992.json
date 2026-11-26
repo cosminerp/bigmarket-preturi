@@ -2,42 +2,6 @@
  "ean": "5949060205992",
  "preturi": [
   {
-   "url": "https://pc-pet.ro/products/hrana-umeda-pentru-pisici-adulte-cu-somon-in-sos-miau-miau-100g?srsltid=AYCX9vIqdVtI_6gWg4mVr9Bp1xJzozHBJo1VUbUe6vfI1-9WHVbNnml2",
-   "domeniu": "pc-pet.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:32:33+00:00",
-   "vazut": "2026-11-25T21:32:33+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.altvet.ro/pisici/miau-miau-somon-plic-hran%C4%83-umed%C4%83-pisici-%C3%AEn-sos-bax-100g-x-24buc.html?srsltid=AYCX9vImfsuyQ97kaVxh5LI8N-k7RyPu0Qa5cyyGzFdIuYffcL3q_rHy",
-   "domeniu": "altvet.ro",
-   "pret": "50.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:32:36+00:00",
-   "vazut": "2026-11-25T21:32:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.companion.store.ro/pisici/miau-miau-somon-in-sos-hrana-umeda-pentru-pisici-adulte-100g.html",
-   "domeniu": "companion.store.ro",
-   "pret": "2.10",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:32:39+00:00",
-   "vazut": "2026-11-25T21:32:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.artpet.ro/plic-miau-miau-cu-somon-in-sos-100g-mf-03974.html",
-   "domeniu": "artpet.ro",
-   "pret": "3.04",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:57:02+00:00",
-   "vazut": "2026-11-25T21:57:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hrana-umeda-pisica-miau-miau-cu-carne-de-somon-100g/p",
    "domeniu": "auchan.ro",
    "pret": "1.99",
@@ -46,6 +10,42 @@
    "vazut": "2026-11-26T03:46:45+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hrana umeda pentru pisici Miau Miau cu somon, 100 g"
+  },
+  {
+   "url": "https://pc-pet.ro/products/hrana-umeda-pentru-pisici-adulte-cu-somon-in-sos-miau-miau-100g?srsltid=AYCX9vIqdVtI_6gWg4mVr9Bp1xJzozHBJo1VUbUe6vfI1-9WHVbNnml2",
+   "domeniu": "pc-pet.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:05:58+00:00",
+   "vazut": "2026-11-26T04:05:58+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.altvet.ro/pisici/miau-miau-somon-plic-hran%C4%83-umed%C4%83-pisici-%C3%AEn-sos-bax-100g-x-24buc.html?srsltid=AYCX9vImfsuyQ97kaVxh5LI8N-k7RyPu0Qa5cyyGzFdIuYffcL3q_rHy",
+   "domeniu": "altvet.ro",
+   "pret": "50.00",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:06:01+00:00",
+   "vazut": "2026-11-26T04:06:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.companion.store.ro/pisici/miau-miau-somon-in-sos-hrana-umeda-pentru-pisici-adulte-100g.html",
+   "domeniu": "companion.store.ro",
+   "pret": "2.10",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:06:05+00:00",
+   "vazut": "2026-11-26T04:06:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.artpet.ro/plic-miau-miau-cu-somon-in-sos-100g-mf-03974.html",
+   "domeniu": "artpet.ro",
+   "pret": "3.04",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:06:08+00:00",
+   "vazut": "2026-11-26T04:06:08+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

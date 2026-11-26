@@ -6,15 +6,6 @@
    "domeniu": "snaemarket.ro",
    "pret": "1.99",
    "stare": "ok",
-   "verificat": "2026-11-25T21:40:49+00:00",
-   "vazut": "2026-11-25T21:40:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-gold-60gr-25buc-bax-6425881211187",
-   "domeniu": "snaemarket.ro",
-   "pret": "1.99",
-   "stare": "ok",
    "verificat": "2026-11-26T03:50:51+00:00",
    "vazut": "2026-11-26T03:50:51+00:00",
    "metoda": "cautare_google"
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T03:52:44+00:00",
    "vazut": "2026-11-26T03:52:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-gold-60gr-25buc-bax-6425881211187",
+   "domeniu": "snaemarket.ro",
+   "pret": "1.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:06:30+00:00",
+   "vazut": "2026-11-26T04:06:30+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -2,15 +2,6 @@
  "ean": "9000101546231",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/bref-odorizant-wc-cu-bile-3x50-g-pine/?srsltid=AYCX9vJKlf2FciUOpYAmCjg78VVIzzDO3Wljs0AJExTY7lWFBNY5-YPy",
-   "domeniu": "cobyul.ro",
-   "pret": "14.99",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:59:23+00:00",
-   "vazut": "2026-11-25T21:59:23+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/odorizant-wc-bref-power-aktiv-pin-3-x-50-g/p",
    "domeniu": "auchan.ro",
    "pret": "20.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-26T03:34:26+00:00",
    "metoda": "auchan_catalog",
    "nume": "Odorizant wc Bref Power Aktiv Pin, 3 x 50 g"
+  },
+  {
+   "url": "https://cobyul.ro/produs/bref-odorizant-wc-cu-bile-3x50-g-pine/?srsltid=AYCX9vJKlf2FciUOpYAmCjg78VVIzzDO3Wljs0AJExTY7lWFBNY5-YPy",
+   "domeniu": "cobyul.ro",
+   "pret": "14.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:11:07+00:00",
+   "vazut": "2026-11-26T04:11:07+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

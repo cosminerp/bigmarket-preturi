@@ -2,15 +2,6 @@
  "ean": "6426495546184",
  "preturi": [
   {
-   "url": "https://zidarnic.ro/product/detergent-gel-pentru-rufe-efekt-performer-wasch-universal-120-spalari-5l/?srsltid=AYCX9vK5i2GrCJm9JmD_Zimhl3puS-6t55XeGVxkARe6hbgQsJgv1tKe",
-   "domeniu": "zidarnic.ro",
-   "pret": "42.00",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:57:19+00:00",
-   "vazut": "2026-11-25T21:57:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.livingstone.ro/articole-pentru-casa/detergent-rufe-efekt-performer-activ-enzim-125-spalari-5-l.html?srsltid=AYCX9vKSHGcqbYYunFDBv1i18x7TomaaBu1RpQnX9TYkXKm-TPpi33u-",
    "domeniu": "livingstone.ro",
    "pret": "42.00",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T03:53:07+00:00",
    "vazut": "2026-11-26T03:53:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://zidarnic.ro/product/detergent-gel-pentru-rufe-efekt-performer-wasch-universal-120-spalari-5l/?srsltid=AYCX9vK5i2GrCJm9JmD_Zimhl3puS-6t55XeGVxkARe6hbgQsJgv1tKe",
+   "domeniu": "zidarnic.ro",
+   "pret": "42.00",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:06:37+00:00",
+   "vazut": "2026-11-26T04:06:37+00:00",
    "metoda": "cautare_google"
   }
  ]

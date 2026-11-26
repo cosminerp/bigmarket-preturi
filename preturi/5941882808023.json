@@ -2,15 +2,6 @@
  "ean": "5941882808023",
  "preturi": [
   {
-   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
-   "domeniu": "naturina.ro",
-   "pret": "22.41",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:13:48+00:00",
-   "vazut": "2026-11-25T21:13:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-ovaz-fini-750-g-sanovita-p468972",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "11.05",
@@ -47,6 +38,15 @@
    "metoda": "auchan_catalog",
    "nume": "Fulgi fini de ovaz SanoVita, 750 g",
    "pret_vechi": "13.99"
+  },
+  {
+   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
+   "domeniu": "naturina.ro",
+   "pret": "22.41",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:05:08+00:00",
+   "vazut": "2026-11-26T04:05:08+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

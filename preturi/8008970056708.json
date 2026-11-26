@@ -2,21 +2,21 @@
  "ean": "8008970056708",
  "preturi": [
   {
-   "url": "https://www.practi.ro/sanatate-si-cosmetica/wash-and-go-sampon-180ml-herbs.html?srsltid=AYCX9vJ20TznQ90gQsg5AL16kdlLbB8bOLHk-X_a3y4OWOqmMx3HQ_93",
-   "domeniu": "practi.ro",
-   "pret": "8.30",
-   "stare": "ok",
-   "verificat": "2026-11-25T21:57:46+00:00",
-   "vazut": "2026-11-25T21:57:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/wash-go-sampon-180-ml-herbs/?srsltid=AYCX9vI766dxI7vtpCGB1wpNuA7huNuXTi56iA0iRsf-HQdjIhXQNiYM",
    "domeniu": "cobyul.ro",
    "pret": "7.59",
    "stare": "ok",
    "verificat": "2026-11-26T03:59:32+00:00",
    "vazut": "2026-11-26T03:59:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.practi.ro/sanatate-si-cosmetica/wash-and-go-sampon-180ml-herbs.html?srsltid=AYCX9vJ20TznQ90gQsg5AL16kdlLbB8bOLHk-X_a3y4OWOqmMx3HQ_93",
+   "domeniu": "practi.ro",
+   "pret": "8.30",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:07:12+00:00",
+   "vazut": "2026-11-26T04:07:12+00:00",
    "metoda": "cautare_google"
   }
  ]
