@@ -2,15 +2,6 @@
  "ean": "4770209049037",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bacanie/lapte-condensat-markomilk-8-grasime-397-g.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "11.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T15:51:26+00:00",
-   "vazut": "2026-11-26T15:51:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/lapte-condensat-markomilk-8-grasime-397-g/p",
    "domeniu": "auchan.ro",
    "pret": "15.49",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T21:53:45+00:00",
    "vazut": "2026-11-26T21:53:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/lapte-condensat-markomilk-8-grasime-397-g.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "11.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T21:55:10+00:00",
+   "vazut": "2026-11-26T21:55:10+00:00",
    "metoda": "cautare_google"
   }
  ]
