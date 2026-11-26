@@ -2,15 +2,6 @@
  "ean": "5942321000534",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bauturi-necarbogazoase/suc-de-portocale-cappy-pulpy-1-5-l-3775-3790-3803.html?aqurate_personalize=true&aqurate_location=pdp&aqurate_endpoint=recs-item-up-sell",
-   "domeniu": "vivomarket.ro",
-   "pret": "79.18",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:52:27+00:00",
-   "vazut": "2026-11-26T03:52:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/cappy-pulpy-grapefruit-1-5l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "11.49",
@@ -44,6 +35,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T16:31:28+00:00",
    "vazut": "2026-11-26T16:31:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bauturi-necarbogazoase/suc-de-portocale-cappy-pulpy-1-5-l-3775-3790-3803.html?aqurate_personalize=true&aqurate_location=pdp&aqurate_endpoint=recs-item-up-sell",
+   "domeniu": "vivomarket.ro",
+   "pret": "79.18",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:40:02+00:00",
+   "vazut": "2026-11-26T16:40:02+00:00",
    "metoda": "cautare_google"
   }
  ]

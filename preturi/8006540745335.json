@@ -6,16 +6,16 @@
    "domeniu": "1001cosmetice.ro",
    "pret": "5.00",
    "stare": "ok",
-   "verificat": "2026-11-26T03:58:57+00:00",
-   "vazut": "2026-11-26T03:58:57+00:00",
+   "verificat": "2026-11-26T16:57:25+00:00",
+   "vazut": "2026-11-26T16:57:25+00:00",
    "metoda": "cautare_google"
   },
   {
    "url": "https://www.soforia.ro/produs/gillette-blue3-plus-comfort-aparat-de-ras-unica-folosinta-1-buc/?srsltid=AYCX9vJNmNyXvxwYR6XUZLnEpm5hB-Im7eq_PFmy0f1n6rZi08Pq-dTl",
    "domeniu": "soforia.ro",
    "pret": "4.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:58:59+00:00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T16:57:27+00:00",
    "vazut": "2026-11-26T03:58:59+00:00",
    "metoda": "cautare_google"
   },
@@ -23,8 +23,8 @@
    "url": "https://www.westchemicals.ro/produs/aparat-de-ras-de-unica-folosinta-gillette-blue-3-comfort/",
    "domeniu": "westchemicals.ro",
    "pret": "4.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:59:02+00:00",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T16:57:29+00:00",
    "vazut": "2026-11-26T03:59:02+00:00",
    "metoda": "cautare_google"
   },
@@ -33,8 +33,8 @@
    "domeniu": "kisshop.ro",
    "pret": "4.50",
    "stare": "ok",
-   "verificat": "2026-11-26T03:59:03+00:00",
-   "vazut": "2026-11-26T03:59:03+00:00",
+   "verificat": "2026-11-26T16:57:31+00:00",
+   "vazut": "2026-11-26T16:57:31+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -42,8 +42,8 @@
    "domeniu": "shopdiscount.ro",
    "pret": "3.55",
    "stare": "ok",
-   "verificat": "2026-11-26T03:59:06+00:00",
-   "vazut": "2026-11-26T03:59:06+00:00",
+   "verificat": "2026-11-26T16:57:33+00:00",
+   "vazut": "2026-11-26T16:57:33+00:00",
    "metoda": "cautare_google"
   }
  ]

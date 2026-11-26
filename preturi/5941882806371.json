@@ -2,15 +2,6 @@
  "ean": "5941882806371",
  "preturi": [
   {
-   "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-expandat-cu-glazura-alba-66-g-farmaciilenapofarm-86805",
-   "domeniu": "listacumparaturi.ro",
-   "pret": "5.05",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:21:46+00:00",
-   "vazut": "2026-11-26T03:21:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rondele-din-orez-expandat-cu-glazura-alba-sano-vita-66-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.19",
@@ -54,6 +45,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T16:22:56+00:00",
    "vazut": "2026-11-26T16:22:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://listacumparaturi.ro/produse/sanovita-rondele-din-orez-expandat-cu-glazura-alba-66-g-farmaciilenapofarm-86805",
+   "domeniu": "listacumparaturi.ro",
+   "pret": "5.05",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:39:42+00:00",
+   "vazut": "2026-11-26T16:39:42+00:00",
    "metoda": "cautare_google"
   }
  ]

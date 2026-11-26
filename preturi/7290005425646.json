@@ -2,33 +2,6 @@
  "ean": "7290005425646",
  "preturi": [
   {
-   "url": "https://miralcom.ro/magazin/sano-clear-blue-1-l/?srsltid=AYCX9vKFHB3pLcq_WowFhQU7Hnnf2Cq1BPxToTNgiZJ2STEX5uLEFWRI",
-   "domeniu": "miralcom.ro",
-   "pret": "17.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:54:00+00:00",
-   "vazut": "2026-11-26T03:54:00+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://rovalprint.ro/products/solutie-pentru-curatat-geamuri-clear-blue-trigger-1-litru-sano?srsltid=AYCX9vJCHXS2HQ0hf7eZBBnl4-vNngTVkZDB-i_AoBX1zx-_zceKfrTP",
-   "domeniu": "rovalprint.ro",
-   "pret": "17.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:54:02+00:00",
-   "vazut": "2026-11-26T03:54:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://sirius-distribution.ro/Detergent-geamuri-Sano-Clear-Blue-Trigger-1L-7290005425646?srsltid=AYCX9vIls9xaMbv5SWhL34NHaI8MC2aUPfNqI8bJQn69nwlKvA85YKZ1",
-   "domeniu": "sirius-distribution.ro",
-   "pret": "19.29",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:54:06+00:00",
-   "vazut": "2026-11-26T03:54:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/detergent-pentru-geamuri-sano-clear-blue-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "15.19",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-26T03:34:48+00:00",
    "metoda": "auchan_catalog",
    "nume": "Detergent pentru geamuri Sano Clear Blue, 1 l"
+  },
+  {
+   "url": "https://miralcom.ro/magazin/sano-clear-blue-1-l/?srsltid=AYCX9vKFHB3pLcq_WowFhQU7Hnnf2Cq1BPxToTNgiZJ2STEX5uLEFWRI",
+   "domeniu": "miralcom.ro",
+   "pret": "17.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:52:29+00:00",
+   "vazut": "2026-11-26T16:52:29+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://rovalprint.ro/products/solutie-pentru-curatat-geamuri-clear-blue-trigger-1-litru-sano?srsltid=AYCX9vJCHXS2HQ0hf7eZBBnl4-vNngTVkZDB-i_AoBX1zx-_zceKfrTP",
+   "domeniu": "rovalprint.ro",
+   "pret": "17.00",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:52:32+00:00",
+   "vazut": "2026-11-26T16:52:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://sirius-distribution.ro/Detergent-geamuri-Sano-Clear-Blue-Trigger-1L-7290005425646?srsltid=AYCX9vIls9xaMbv5SWhL34NHaI8MC2aUPfNqI8bJQn69nwlKvA85YKZ1",
+   "domeniu": "sirius-distribution.ro",
+   "pret": "19.29",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T16:52:39+00:00",
+   "vazut": "2026-11-26T03:54:06+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,12 +2,21 @@
  "ean": "8004030383555",
  "preturi": [
   {
+   "url": "https://www.ruditur.ro/produse-alimentare/ton-%C3%AEn-ulei-de-m%C4%83sline-rio-mare-4x80-g-oilo-oliva.html",
+   "domeniu": "ruditur.ro",
+   "pret": "45.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:07:08+00:00",
+   "vazut": "2026-11-26T04:07:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.produseitalia.ro/produse-alimentare/ton-ulei-de-masline-rio-mare-8114?tab=description",
    "domeniu": "produseitalia.ro",
    "pret": "42.95",
    "stare": "ok",
-   "verificat": "2026-11-26T03:58:42+00:00",
-   "vazut": "2026-11-26T03:58:42+00:00",
+   "verificat": "2026-11-26T16:57:10+00:00",
+   "vazut": "2026-11-26T16:57:10+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "magazinitalian.ro",
    "pret": "42.90",
    "stare": "ok",
-   "verificat": "2026-11-26T03:58:44+00:00",
-   "vazut": "2026-11-26T03:58:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.ruditur.ro/produse-alimentare/ton-%C3%AEn-ulei-de-m%C4%83sline-rio-mare-4x80-g-oilo-oliva.html",
-   "domeniu": "ruditur.ro",
-   "pret": "45.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T04:07:08+00:00",
-   "vazut": "2026-11-26T04:07:08+00:00",
+   "verificat": "2026-11-26T16:57:13+00:00",
+   "vazut": "2026-11-26T16:57:13+00:00",
    "metoda": "cautare_google"
   }
  ]

@@ -21,21 +21,21 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://pacomarket.ro/product/friskies-junior-pui-85g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.95",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:55:04+00:00",
-   "vazut": "2026-11-26T03:55:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.ehranaanimale.ro/pisici/hrana-umeda-pentru-pisici-friskies-junior-pui-in-sos-85g.html",
    "domeniu": "ehranaanimale.ro",
    "pret": "1.88",
    "stare": "ok",
    "verificat": "2026-11-26T04:17:22+00:00",
    "vazut": "2026-11-26T04:17:22+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/friskies-junior-pui-85g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:53:32+00:00",
+   "vazut": "2026-11-26T16:53:32+00:00",
    "metoda": "cautare_google"
   }
  ]

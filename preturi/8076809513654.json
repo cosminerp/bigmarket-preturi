@@ -2,15 +2,6 @@
  "ean": "8076809513654",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/sosuri/barilla-base-sos-bolognese-400-g-8076809513654",
-   "domeniu": "snaemarket.ro",
-   "pret": "8.55",
-   "stare": "ok",
-   "verificat": "2026-11-26T04:00:19+00:00",
-   "vazut": "2026-11-26T04:00:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sos-bolognese-base-barilla-400-g/p",
    "domeniu": "auchan.ro",
    "pret": "9.11",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Sos Bolognese Base Barilla, 400 g",
    "pret_vechi": "11.39"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/sosuri/barilla-base-sos-bolognese-400-g-8076809513654",
+   "domeniu": "snaemarket.ro",
+   "pret": "8.55",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:58:49+00:00",
+   "vazut": "2026-11-26T16:58:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

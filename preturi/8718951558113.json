@@ -2,15 +2,6 @@
  "ean": "8718951558113",
  "preturi": [
   {
-   "url": "https://ali-market.ro/ro/pasta-de-dinti/colgate-pasta-de-dinti-50-ml-maximum-cavity-protection-00004630-10770",
-   "domeniu": "ali-market.ro",
-   "pret": "3.73",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T04:09:28+00:00",
-   "vazut": "2026-11-24T17:09:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.dovermedfarma.ro/colgate-pasta-de-dinti-cavity-protection-50ml?srsltid=AYCX9vLfDj7bm6Qk6_fV2_7LiMfNFNeO2dEGfweatMyj1qGfgYwqhUxN",
    "domeniu": "dovermedfarma.ro",
    "pret": "5.98",
@@ -35,6 +26,15 @@
    "stare": "ok",
    "verificat": "2026-11-26T04:09:38+00:00",
    "vazut": "2026-11-26T04:09:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://ali-market.ro/ro/pasta-de-dinti/colgate-pasta-de-dinti-50-ml-maximum-cavity-protection-00004630-10770",
+   "domeniu": "ali-market.ro",
+   "pret": "3.73",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-26T17:03:39+00:00",
+   "vazut": "2026-11-24T17:09:22+00:00",
    "metoda": "cautare_google"
   }
  ]

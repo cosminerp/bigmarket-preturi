@@ -2,15 +2,6 @@
  "ean": "8076809512077",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/alimente-de-baza/mulino-bianco-fette-biscottate-le-integrali-315-g-8076809512077",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.06",
-   "stare": "ok",
-   "verificat": "2026-11-26T04:00:16+00:00",
-   "vazut": "2026-11-26T04:00:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/paine-crocanta-fette-biscotate-le-integrali-mulino-bianco-315-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.99",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Paine crocanta Fette Biscotate le Integrali Mulino Bianco , 315 g",
    "pret_vechi": "8.69"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/alimente-de-baza/mulino-bianco-fette-biscottate-le-integrali-315-g-8076809512077",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.06",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:58:46+00:00",
+   "vazut": "2026-11-26T16:58:46+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
