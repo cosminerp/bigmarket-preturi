@@ -2,14 +2,13 @@
  "ean": "5941882807118",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/rondele-din-orez-expandat-cu-glazura-de-cacao-sano-vita-66-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.19",
+   "url": "https://www.trifolia.ro/alimentare/rondele-din-orez-cu-cacao-fara-zahar-66-g.html?srsltid=AYCX9vJavtuYXr90W-v2vJcHwHwklX9IUjUHpVbBlHAXjJlCg4_hHopa",
+   "domeniu": "trifolia.ro",
+   "pret": "6.30",
    "stare": "ok",
-   "verificat": "2026-11-25T19:26:09+00:00",
-   "vazut": "2026-11-25T19:26:09+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Rondele din orez cu glazura de cacao fara zahar SanoVita, 66 g"
+   "verificat": "2026-11-26T03:52:23+00:00",
+   "vazut": "2026-11-26T03:52:23+00:00",
+   "metoda": "cautare_google"
   },
   {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-dietetice/rondele-din-orez-cu-glazura-de-cacao-fara-zahar-66-g-sanovita-p376545",
@@ -30,13 +29,14 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.trifolia.ro/alimentare/rondele-din-orez-cu-cacao-fara-zahar-66-g.html?srsltid=AYCX9vJavtuYXr90W-v2vJcHwHwklX9IUjUHpVbBlHAXjJlCg4_hHopa",
-   "domeniu": "trifolia.ro",
-   "pret": "6.30",
+   "url": "https://www.auchan.ro/rondele-din-orez-expandat-cu-glazura-de-cacao-sano-vita-66-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.19",
    "stare": "ok",
-   "verificat": "2026-11-26T16:39:45+00:00",
-   "vazut": "2026-11-26T16:39:45+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-26T17:01:48+00:00",
+   "vazut": "2026-11-26T17:01:48+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Rondele din orez cu glazura de cacao fara zahar SanoVita, 66 g"
   }
  ]
 }

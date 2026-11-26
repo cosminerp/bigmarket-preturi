@@ -2,16 +2,6 @@
  "ean": "5000204024470",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/spray-raid-pentru-muste-si-tantari-400-ml-1/p",
-   "domeniu": "auchan.ro",
-   "pret": "16.19",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:53:18+00:00",
-   "vazut": "2026-11-26T03:53:18+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Spray Raid pentru muste si tantari, 400 ml"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/insecticid-spray-pentru-muste-si-tantari-raid-400-ml-8086?srsltid=AYCX9vLbb1lXs61wbiw2qhTOncWfYdaLy7iR12qzzFoubLuBtpDNtDeg",
    "domeniu": "kisshop.ro",
    "pret": "22.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T15:54:06+00:00",
    "vazut": "2026-11-26T15:54:06+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/spray-raid-pentru-muste-si-tantari-400-ml-1/p",
+   "domeniu": "auchan.ro",
+   "pret": "16.19",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:06:44+00:00",
+   "vazut": "2026-11-26T17:06:44+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Spray Raid pentru muste si tantari, 400 ml"
   }
  ]
 }

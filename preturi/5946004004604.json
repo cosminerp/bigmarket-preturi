@@ -11,16 +11,6 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.auchan.ro/solutie-pentru-geamuri-tip-spray-rivex-750-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:33:40+00:00",
-   "vazut": "2026-11-26T03:33:40+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Solutie pentru geamuri tip spray Rivex, 750 ml"
-  },
-  {
    "url": "https://cobyul.ro/produs/rivex-geam-pistol-750-ml-clear/?srsltid=AYCX9vJGdkVNDROXQr4iKoJWka8n7goHDHdVS1hQBC5UWqTn_khiCq-R",
    "domeniu": "cobyul.ro",
    "pret": "7.49",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-26T16:35:44+00:00",
    "vazut": "2026-11-26T16:35:44+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/solutie-pentru-geamuri-tip-spray-rivex-750-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:49:05+00:00",
+   "vazut": "2026-11-26T16:49:05+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Solutie pentru geamuri tip spray Rivex, 750 ml"
   }
  ]
 }

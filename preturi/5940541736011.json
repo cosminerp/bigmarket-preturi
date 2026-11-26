@@ -11,16 +11,6 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://www.auchan.ro/bere-alba-nefiltrata-nenea-iancu-sticla-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "10.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:50:43+00:00",
-   "vazut": "2026-11-26T03:50:43+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere alba nefiltrata Nenea Iancu, 0.5 l"
-  },
-  {
    "url": "https://promoazi.ro/bere-si-cidru/bere-alba-nefiltrata-nenea-iancu-05-l",
    "domeniu": "promoazi.ro",
    "pret": "9.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T15:59:46+00:00",
    "vazut": "2026-11-26T15:59:46+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-alba-nefiltrata-nenea-iancu-sticla-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:04:24+00:00",
+   "vazut": "2026-11-26T17:04:24+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere alba nefiltrata Nenea Iancu, 0.5 l"
   }
  ]
 }

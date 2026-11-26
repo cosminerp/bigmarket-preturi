@@ -2,16 +2,6 @@
  "ean": "5941494000617",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/sirop-de-capsuni-laurul-16-075l/p",
-   "domeniu": "auchan.ro",
-   "pret": "18.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:33:47+00:00",
-   "vazut": "2026-11-26T03:33:47+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Sirop de capsuni Laurul, 0.75 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/siropuri/sirop-laurul-0-75l-capsuni-5941494000617",
    "domeniu": "snaemarket.ro",
    "pret": "12.83",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T16:19:53+00:00",
    "vazut": "2026-11-26T16:19:53+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/sirop-de-capsuni-laurul-16-075l/p",
+   "domeniu": "auchan.ro",
+   "pret": "18.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:49:11+00:00",
+   "vazut": "2026-11-26T16:49:11+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Sirop de capsuni Laurul, 0.75 l"
   }
  ]
 }

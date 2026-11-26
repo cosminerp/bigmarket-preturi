@@ -2,16 +2,6 @@
  "ean": "5941265002840",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/salam-banatean-cris-tim-340-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "17.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:53:22+00:00",
-   "vazut": "2026-11-26T03:53:22+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Salam banatean Cris-Tim, 340 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/salam-banatean-cris-tim-340g/",
    "domeniu": "pacomarket.ro",
    "pret": "21.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T16:08:49+00:00",
    "vazut": "2026-11-26T16:08:49+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/salam-banatean-cris-tim-340-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "17.79",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:06:47+00:00",
+   "vazut": "2026-11-26T17:06:47+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Salam banatean Cris-Tim, 340 g"
   }
  ]
 }

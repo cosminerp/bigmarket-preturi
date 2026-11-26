@@ -2,16 +2,6 @@
  "ean": "5900910000631",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ciocolada-calda-la-festa-classic-plic-25-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "1.39",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:48:01+00:00",
-   "vazut": "2026-11-26T03:48:01+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura solubila ciocolada calda La Festa Classic, plic, 25 g"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/ciocolata-calda-clasica-la-festa-plic-25g?srsltid=AYCX9vJLRYJYWG7i72q9P1av5XAnpwNTZD5rCgBnjE_JkqVGa9pfCaM4",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "1.61",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T15:56:56+00:00",
    "vazut": "2026-11-26T15:56:56+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ciocolada-calda-la-festa-classic-plic-25-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "1.39",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:01:55+00:00",
+   "vazut": "2026-11-26T17:01:55+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura solubila ciocolada calda La Festa Classic, plic, 25 g"
   }
  ]
 }

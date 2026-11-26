@@ -2,16 +2,6 @@
  "ean": "5942105009036",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-golden-brau-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.69",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:36:09+00:00",
-   "vazut": "2026-11-26T03:36:09+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Golden Brau, 0.5 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/golden-brau-500ml-doza/",
    "domeniu": "pacomarket.ro",
    "pret": "3.95",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T16:26:49+00:00",
    "vazut": "2026-11-26T16:26:49+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-golden-brau-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.69",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:51:18+00:00",
+   "vazut": "2026-11-26T16:51:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Golden Brau, 0.5 l"
   }
  ]
 }

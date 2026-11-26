@@ -2,17 +2,6 @@
  "ean": "4823077625589",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/napolitana-cu-crema-de-lapte-roshen-216g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.69",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:48:55+00:00",
-   "vazut": "2026-11-26T03:48:55+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Napolitana cu crema cu lapte Roshen, 216 g",
-   "pret_vechi": "7.59"
-  },
-  {
    "url": "https://www.snaemarket.ro/dulciuri-snacks/napolitane-biscuiti/roshen-wafers-lapte-216-gr-16buc-bax-4823077625589",
    "domeniu": "snaemarket.ro",
    "pret": "5.52",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-26T15:52:41+00:00",
    "vazut": "2026-11-26T15:52:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/napolitana-cu-crema-de-lapte-roshen-216g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.69",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:02:44+00:00",
+   "vazut": "2026-11-26T17:02:44+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Napolitana cu crema cu lapte Roshen, 216 g",
+   "pret_vechi": "7.59"
   }
  ]
 }

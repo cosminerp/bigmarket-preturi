@@ -2,16 +2,6 @@
  "ean": "8411582881536",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/solutie-pentru-pardoseli-asevi-cu-parfum-de-portocale-1-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:12:25+00:00",
-   "vazut": "2026-11-25T19:12:25+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Solutie pentru pardoseli Asevi cu parfum de portocale, 1 l"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/solutie-pardoseli-asevi-portocala-1l-514?srsltid=AYCX9vJubgPMhTrwy1DKyNKKXLUZsM3ha-gV48cLYAXAkPFQ7AjS9nwk",
    "domeniu": "kisshop.ro",
    "pret": "13.50",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T17:00:01+00:00",
    "vazut": "2026-11-26T17:00:01+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/solutie-pentru-pardoseli-asevi-cu-parfum-de-portocale-1-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:48:40+00:00",
+   "vazut": "2026-11-26T16:48:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Solutie pentru pardoseli Asevi cu parfum de portocale, 1 l"
   }
  ]
 }

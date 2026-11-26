@@ -2,15 +2,22 @@
  "ean": "5941882808023",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/fulgi-de-ovaz-fini-sanovita-750-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.99",
+   "url": "https://listacumparaturi.ro/produse/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-springfarma-127071",
+   "domeniu": "listacumparaturi.ro",
+   "pret": "12.90",
    "stare": "ok",
-   "verificat": "2026-11-26T03:34:10+00:00",
-   "vazut": "2026-11-26T03:34:10+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Fulgi fini de ovaz SanoVita, 750 g",
-   "pret_vechi": "13.99"
+   "verificat": "2026-11-26T03:22:25+00:00",
+   "vazut": "2026-11-26T03:22:25+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
+   "domeniu": "naturina.ro",
+   "pret": "22.41",
+   "stare": "ok",
+   "verificat": "2026-11-26T04:05:08+00:00",
+   "vazut": "2026-11-26T04:05:08+00:00",
+   "metoda": "cautare_google"
   },
   {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-ovaz-fini-750-g-sanovita-p468972",
@@ -31,22 +38,15 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://listacumparaturi.ro/produse/fulgi-de-ovaz-fini-punga-cu-zipper-750-g-sanovita-springfarma-127071",
-   "domeniu": "listacumparaturi.ro",
-   "pret": "12.90",
+   "url": "https://www.auchan.ro/fulgi-de-ovaz-fini-sanovita-750-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.99",
    "stare": "ok",
-   "verificat": "2026-11-26T16:39:48+00:00",
-   "vazut": "2026-11-26T16:39:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.naturina.ro/suplimente-alimentare/fulgi-de-ovaz-fini-750-g-sanovita.html",
-   "domeniu": "naturina.ro",
-   "pret": "22.41",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:39:50+00:00",
-   "vazut": "2026-11-26T16:39:50+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-26T16:49:31+00:00",
+   "vazut": "2026-11-26T16:49:31+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Fulgi fini de ovaz SanoVita, 750 g",
+   "pret_vechi": "13.99"
   }
  ]
 }

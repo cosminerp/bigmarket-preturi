@@ -2,16 +2,6 @@
  "ean": "5941101000177",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-maia-rostar-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.19",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:46:52+00:00",
-   "vazut": "2026-11-26T03:46:52+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu miere RoStar Maia, 120 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/biscuiti-maia-miere-120g/",
    "domeniu": "pacomarket.ro",
    "pret": "3.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T16:05:35+00:00",
    "vazut": "2026-11-26T16:05:35+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-maia-rostar-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.19",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:00:51+00:00",
+   "vazut": "2026-11-26T17:00:51+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu miere RoStar Maia, 120 g"
   }
  ]
 }

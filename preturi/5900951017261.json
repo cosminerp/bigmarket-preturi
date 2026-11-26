@@ -2,16 +2,6 @@
  "ean": "5900951017261",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/hrana-umeda-pentru-caini-adulti-pedigree-cu-vita-in-aspic-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:37:02+00:00",
-   "vazut": "2026-11-26T03:37:02+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Hrana umeda pentru caini adulti Pedigree, cu vita in aspic, 100 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/pedigree-adult-vita-100gr-24buc-5900951017261",
    "domeniu": "snaemarket.ro",
    "pret": "2.66",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T15:57:18+00:00",
    "vazut": "2026-11-18T00:46:29+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/hrana-umeda-pentru-caini-adulti-pedigree-cu-vita-in-aspic-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.79",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:52:07+00:00",
+   "vazut": "2026-11-26T16:52:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Hrana umeda pentru caini adulti Pedigree, cu vita in aspic, 100 g"
   }
  ]
 }

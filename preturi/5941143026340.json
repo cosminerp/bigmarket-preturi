@@ -2,16 +2,6 @@
  "ean": "5941143026340",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/paine-7-seminte-vel-pitar-700-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:35:50+00:00",
-   "vazut": "2026-11-26T03:35:50+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Paine 7 seminte Vel Pitar, 700 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/paine-gourmand-7sem-700g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "11.95",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T16:07:08+00:00",
    "vazut": "2026-11-26T16:07:08+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/paine-7-seminte-vel-pitar-700-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:51:00+00:00",
+   "vazut": "2026-11-26T16:51:00+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Paine 7 seminte Vel Pitar, 700 g"
   }
  ]
 }

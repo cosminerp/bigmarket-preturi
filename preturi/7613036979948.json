@@ -2,16 +2,6 @@
  "ean": "7613036979948",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/hrana-umeda-pisici-friskies-junior-cu-pui-in-sos-85g/p",
-   "domeniu": "auchan.ro",
-   "pret": "2.49",
-   "stare": "ok",
-   "verificat": "2026-11-25T19:30:07+00:00",
-   "vazut": "2026-11-25T19:30:07+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Hrana umeda pentru pisici junioare Purina Friskies Junior, pui in sos, 85 g"
-  },
-  {
    "url": "https://deamag.ro/produs/pliculet-friskies-junior-hrana-umeda-cu-pui-in-sos-pentru-pisici-85g/?srsltid=AYCX9vJSJo_m0v5WsMxz6fciwIB2sD6TufqAxJkLltGHSLv8oktj5C68",
    "domeniu": "deamag.ro",
    "pret": "2.50",
@@ -30,13 +20,14 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://pacomarket.ro/product/friskies-junior-pui-85g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.95",
+   "url": "https://www.auchan.ro/hrana-umeda-pisici-friskies-junior-cu-pui-in-sos-85g/p",
+   "domeniu": "auchan.ro",
+   "pret": "2.49",
    "stare": "ok",
-   "verificat": "2026-11-26T16:53:32+00:00",
-   "vazut": "2026-11-26T16:53:32+00:00",
-   "metoda": "cautare_google"
+   "verificat": "2026-11-26T17:05:53+00:00",
+   "vazut": "2026-11-26T17:05:53+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Hrana umeda pentru pisici junioare Purina Friskies Junior, pui in sos, 85 g"
   }
  ]
 }

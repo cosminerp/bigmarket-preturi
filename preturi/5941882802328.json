@@ -2,16 +2,6 @@
  "ean": "5941882802328",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/zahar-brut-din-trestie-de-zahar-sano-vita-500-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.29",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:33:34+00:00",
-   "vazut": "2026-11-26T03:33:34+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Zahar brut din trestie SanoVita, 500 g"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/zahar-brut-din-trestie-500g-7746065?srsltid=AYCX9vISokBamw3JizLT0ZOIRDUnuTuJ7W8lbBa7XMoRsC8aw0ty2eeF",
    "domeniu": "naturisti.ro",
    "pret": "9.95",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-26T16:22:06+00:00",
    "vazut": "2026-11-26T16:22:06+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/zahar-brut-din-trestie-de-zahar-sano-vita-500-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.29",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:49:00+00:00",
+   "vazut": "2026-11-26T16:49:00+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Zahar brut din trestie SanoVita, 500 g"
   }
  ]
 }

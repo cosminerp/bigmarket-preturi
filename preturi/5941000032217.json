@@ -2,17 +2,6 @@
  "ean": "5941000032217",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-paprika-rumeniti-in-cuptor-lays-105/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.19",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:54:07+00:00",
-   "vazut": "2026-11-26T03:54:07+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu aroma de paprika Lay's, rumeniti in cuptor, 105 g",
-   "pret_vechi": "8.99"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-baked-paprika-105gr-24buc-bax-5941000032217",
    "domeniu": "snaemarket.ro",
    "pret": "6.50",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-26T16:03:12+00:00",
    "vazut": "2026-11-26T16:03:12+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-paprika-rumeniti-in-cuptor-lays-105/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.19",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:07:27+00:00",
+   "vazut": "2026-11-26T17:07:27+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu aroma de paprika Lay's, rumeniti in cuptor, 105 g",
+   "pret_vechi": "8.99"
   }
  ]
 }

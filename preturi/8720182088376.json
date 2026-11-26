@@ -2,16 +2,6 @@
  "ean": "8720182088376",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/sos-de-maioneza-hellmans-405ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "19.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:53:07+00:00",
-   "vazut": "2026-11-26T03:53:07+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Sos de maioneza Hellmann's, 405 ml"
-  },
-  {
    "url": "https://promoazi.ro/bacanie/sos-de-maioneza-hellmanns-405-ml",
    "domeniu": "promoazi.ro",
    "pret": "19.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T04:10:08+00:00",
    "vazut": "2026-11-26T04:10:08+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/sos-de-maioneza-hellmans-405ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "19.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:06:34+00:00",
+   "vazut": "2026-11-26T17:06:34+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Sos de maioneza Hellmann's, 405 ml"
   }
  ]
 }

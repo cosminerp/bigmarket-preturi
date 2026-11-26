@@ -2,16 +2,6 @@
  "ean": "5941065009827",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/iaurt-bio-napolact-140-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.19",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:31:44+00:00",
-   "vazut": "2026-11-26T03:31:44+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Iaurt BIO Napolact, 140 g"
-  },
-  {
    "url": "https://promoazi.ro/iaurt/iaurt-bio-napolact-140-g",
    "domeniu": "promoazi.ro",
    "pret": "2.89",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-26T16:05:03+00:00",
    "vazut": "2026-11-19T10:50:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/iaurt-bio-napolact-140-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.19",
+   "stare": "ok",
+   "verificat": "2026-11-26T16:47:20+00:00",
+   "vazut": "2026-11-26T16:47:20+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Iaurt BIO Napolact, 140 g"
   }
  ]
 }

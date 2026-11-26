@@ -2,16 +2,6 @@
  "ean": "5941445674669",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/snacksuri-din-cartofi-cu-gust-de-cascaval-pombar-50-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:52:43+00:00",
-   "vazut": "2026-11-26T03:52:43+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Snacksuri din cartofi cu gust de cascaval Pombar, 50 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/pom-bar-cheese-50g-20buc-bax-5941445674669",
    "domeniu": "snaemarket.ro",
    "pret": "5.06",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T16:16:16+00:00",
    "vazut": "2026-11-26T16:16:16+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/snacksuri-din-cartofi-cu-gust-de-cascaval-pombar-50-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:06:13+00:00",
+   "vazut": "2026-11-26T17:06:13+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Snacksuri din cartofi cu gust de cascaval Pombar, 50 g"
   }
  ]
 }

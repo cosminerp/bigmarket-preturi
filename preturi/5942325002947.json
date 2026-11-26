@@ -2,17 +2,6 @@
  "ean": "5942325002947",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/nectar-cu-piersica-morcov-si-mar-tedi-0-9l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T03:36:25+00:00",
-   "vazut": "2026-11-26T03:36:25+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Suc cu piersica, morcov si mar Tedi, 0.9 l",
-   "pret_vechi": "8.19"
-  },
-  {
    "url": "https://promoazi.ro/sucuri-si-nectaruri/suc-cu-piersica-morcov-si-mar-tedi-09-l",
    "domeniu": "promoazi.ro",
    "pret": "5.99",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-26T16:32:33+00:00",
    "vazut": "2026-11-26T16:32:33+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/nectar-cu-piersica-morcov-si-mar-tedi-0-9l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.99",
+   "stare": "nu mai e în stoc / nu mai există",
+   "verificat": "2026-11-26T16:51:32+00:00",
+   "vazut": "2026-11-26T03:36:25+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Suc cu piersica, morcov si mar Tedi, 0.9 l",
+   "pret_vechi": "8.19"
   }
  ]
 }
