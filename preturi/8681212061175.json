@@ -2,21 +2,21 @@
  "ean": "8681212061175",
  "preturi": [
   {
-   "url": "https://www.la-teo.ro/hartie-consumabile/servetele-umede-sleepy-sensitive-xl-50buc.html",
-   "domeniu": "la-teo.ro",
-   "pret": "10.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T04:02:28+00:00",
-   "vazut": "2026-11-26T04:02:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-umede/servetele-umede-xl-sensitive-50-bucati-sleepy-p421030",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "7.00",
    "stare": "ok",
    "verificat": "2026-11-26T17:01:04+00:00",
    "vazut": "2026-11-26T17:01:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.la-teo.ro/hartie-consumabile/servetele-umede-sleepy-sensitive-xl-50buc.html",
+   "domeniu": "la-teo.ro",
+   "pret": "10.00",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:07:01+00:00",
+   "vazut": "2026-11-26T17:07:01+00:00",
    "metoda": "cautare_google"
   }
  ]
