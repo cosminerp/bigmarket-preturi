@@ -2,24 +2,6 @@
  "ean": "5941065012421",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/chefir-napolact-330-g-3-3/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:05:12+00:00",
-   "vazut": "2026-11-26T16:05:12+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/iaurturi/chefir-napolact-33-grasime-330-g",
-   "domeniu": "promoazi.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:05:14+00:00",
-   "vazut": "2026-11-26T16:05:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chefir-napolact-3-3-grasime-330-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.66",
@@ -29,6 +11,24 @@
    "metoda": "auchan_catalog",
    "nume": "Chefir Napolact, 3.3% grasime, 330 g",
    "pret_vechi": "5.49"
+  },
+  {
+   "url": "https://pacomarket.ro/product/chefir-napolact-330-g-3-3/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:10:42+00:00",
+   "vazut": "2026-11-26T22:10:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/iaurturi/chefir-napolact-33-grasime-330-g",
+   "domeniu": "promoazi.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-26T22:10:44+00:00",
+   "vazut": "2026-11-26T22:10:44+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
