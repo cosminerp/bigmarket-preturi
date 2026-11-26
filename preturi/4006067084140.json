@@ -2,15 +2,6 @@
  "ean": "4006067084140",
  "preturi": [
   {
-   "url": "https://www.coffee-store.ro/cafea-m%C4%83cinat%C4%83/cafea-macinata-davidoff-caf%C3%A9-fine-aroma-250g.html?srsltid=AYCX9vLrXDaQIbVZcdSEV8Wwfl_d9iH5XHRxlAEbgU0cGWmgygxDlLX3",
-   "domeniu": "coffee-store.ro",
-   "pret": "36.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T02:46:01+00:00",
-   "vazut": "2026-11-26T02:46:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.zozocafe.ro/cafea-macinata-davidoff-cafe-fine-aroma-250g",
    "domeniu": "zozocafe.ro",
    "pret": "31.72",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-26T16:50:01+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cafea macinata Davidoff Fine Aroma, 250 g"
+  },
+  {
+   "url": "https://www.coffee-store.ro/cafea-m%C4%83cinat%C4%83/cafea-macinata-davidoff-caf%C3%A9-fine-aroma-250g.html?srsltid=AYCX9vLrXDaQIbVZcdSEV8Wwfl_d9iH5XHRxlAEbgU0cGWmgygxDlLX3",
+   "domeniu": "coffee-store.ro",
+   "pret": "36.50",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:10:31+00:00",
+   "vazut": "2026-11-26T17:10:31+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

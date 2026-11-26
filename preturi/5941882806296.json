@@ -2,15 +2,6 @@
  "ean": "5941882806296",
  "preturi": [
   {
-   "url": "https://www.trifolia.ro/alimentare/rondele-simple-din-orez-expandat-56g.html?srsltid=AYCX9vJOuzKPq5LXN5GlmWdnH_NwPhRnev5eLkuDdNULy1Be2KoTH8Rs",
-   "domeniu": "trifolia.ro",
-   "pret": "2.64",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T04:05:01+00:00",
-   "vazut": "2026-11-17T15:49:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-simple-56-g-7755279?srsltid=AYCX9vLzf_FWIYAQc6fdqZvgoqtvGBzNNwM8NPUDIpu1kZTgUuxRj4bL",
    "domeniu": "naturisti.ro",
    "pret": "2.77",
@@ -55,6 +46,15 @@
    "vazut": "2026-11-26T17:05:47+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rondele simple din orez SanoVita, 56 g"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/rondele-simple-din-orez-expandat-56g.html?srsltid=AYCX9vJOuzKPq5LXN5GlmWdnH_NwPhRnev5eLkuDdNULy1Be2KoTH8Rs",
+   "domeniu": "trifolia.ro",
+   "pret": "3.10",
+   "stare": "ok",
+   "verificat": "2026-11-26T17:10:45+00:00",
+   "vazut": "2026-11-26T17:10:45+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
