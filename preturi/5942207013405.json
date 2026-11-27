@@ -2,21 +2,21 @@
  "ean": "5942207013405",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/adria-portocale-2-5l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.79",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:48:52+00:00",
-   "vazut": "2026-11-27T10:48:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/bautura-carbogazoasa-tutti-frutti-6-x-2-5-l-adria-3724.html",
    "domeniu": "vivomarket.ro",
    "pret": "46.99",
    "stare": "ok",
    "verificat": "2026-11-27T11:00:32+00:00",
    "vazut": "2026-11-27T11:00:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/adria-portocale-2-5l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.79",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:57:48+00:00",
+   "vazut": "2026-11-27T16:57:48+00:00",
    "metoda": "cautare_google"
   }
  ]

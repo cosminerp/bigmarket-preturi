@@ -2,15 +2,6 @@
  "ean": "5942321000336",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/schweppes-bitter-lemon-1-5l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:51:35+00:00",
-   "vazut": "2026-11-27T10:51:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://promoazi.ro/bauturi-nealcoolice/apa-tonica-bitter-lemon-15l",
    "domeniu": "promoazi.ro",
    "pret": "7.89",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-27T12:17:19+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Schweppes Bitter Lemon, 1.5 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/schweppes-bitter-lemon-1-5l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:00:28+00:00",
+   "vazut": "2026-11-27T17:00:28+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

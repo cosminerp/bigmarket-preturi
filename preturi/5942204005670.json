@@ -2,33 +2,6 @@
  "ean": "5942204005670",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/pepsi-zero-2l-pet-sgr-6buc-bax-5942204005670",
-   "domeniu": "snaemarket.ro",
-   "pret": "8.19",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:48:13+00:00",
-   "vazut": "2026-11-27T10:48:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/pepsi-max-zero-zahar-2l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "11.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:48:16+00:00",
-   "vazut": "2026-11-27T10:48:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://kingsupermarket.ro/produs/2l-pepsi-max-sgr/",
-   "domeniu": "kingsupermarket.ro",
-   "pret": "11.29",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T10:48:20+00:00",
-   "vazut": "2026-11-26T03:27:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-pepsi-max-taste-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "10.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-27T12:17:08+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Pepsi Zero Zahar, 2 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/pepsi-zero-2l-pet-sgr-6buc-bax-5942204005670",
+   "domeniu": "snaemarket.ro",
+   "pret": "8.19",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:56:57+00:00",
+   "vazut": "2026-11-27T16:56:57+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/pepsi-max-zero-zahar-2l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "11.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:57:00+00:00",
+   "vazut": "2026-11-27T16:57:00+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://kingsupermarket.ro/produs/2l-pepsi-max-sgr/",
+   "domeniu": "kingsupermarket.ro",
+   "pret": "11.29",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:57:17+00:00",
+   "vazut": "2026-11-27T16:57:17+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,33 +2,6 @@
  "ean": "5941882807422",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-porumb-fara-zahar-adaugat-225-g-sanovita-p398566",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:43:22+00:00",
-   "vazut": "2026-11-27T10:43:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/sanovita-fulgi-porumb-fara-zahar-225g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:43:25+00:00",
-   "vazut": "2026-11-27T10:43:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/fulgi-de-cereale/fulgi-de-porumb-fara-zahar-sano-vita-225-g",
-   "domeniu": "promoazi.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:43:26+00:00",
-   "vazut": "2026-11-27T10:43:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/fulgi-de-porumb-fara-zahar-sano-vita/p",
    "domeniu": "auchan.ro",
    "pret": "8.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-27T12:04:41+00:00",
    "metoda": "auchan_catalog",
    "nume": "Fulgi de porumb fara zahar adaugat SanoVita, 225 g"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/cereale/fulgi-de-porumb-fara-zahar-adaugat-225-g-sanovita-p398566",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:52:04+00:00",
+   "vazut": "2026-11-27T16:52:04+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/sanovita-fulgi-porumb-fara-zahar-225g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:52:07+00:00",
+   "vazut": "2026-11-27T16:52:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/fulgi-de-cereale/fulgi-de-porumb-fara-zahar-sano-vita-225-g",
+   "domeniu": "promoazi.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:52:09+00:00",
+   "vazut": "2026-11-27T16:52:09+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
