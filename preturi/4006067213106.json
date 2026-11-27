@@ -2,15 +2,6 @@
  "ean": "4006067213106",
  "preturi": [
   {
-   "url": "https://www.coffee-store.ro/cafea-m%C4%83cinat%C4%83/cafea-macinata-tchibo-exclusive-500-g.html?srsltid=AYCX9vKuKf3ye1fEdjaoldU-lHmcseCSyI7uwtTjDaWTlXdYIbJuO-gR",
-   "domeniu": "coffee-store.ro",
-   "pret": "48.50",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:15:34+00:00",
-   "vazut": "2026-11-27T16:15:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cafea-macinata-tchibo-exclusive-500-g/p",
    "domeniu": "auchan.ro",
    "pret": "48.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T21:13:33+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cafea macinata Tchibo Exclusive, 500 g"
+  },
+  {
+   "url": "https://www.coffee-store.ro/cafea-m%C4%83cinat%C4%83/cafea-macinata-tchibo-exclusive-500-g.html?srsltid=AYCX9vKuKf3ye1fEdjaoldU-lHmcseCSyI7uwtTjDaWTlXdYIbJuO-gR",
+   "domeniu": "coffee-store.ro",
+   "pret": "48.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:17:21+00:00",
+   "vazut": "2026-11-27T22:17:21+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

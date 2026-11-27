@@ -2,15 +2,6 @@
  "ean": "4002671118646",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/almette-verdeata-150g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:13:51+00:00",
-   "vazut": "2026-11-27T16:13:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-almette-crema-verdeata-150g-8.html",
    "domeniu": "eurodiscount.ro",
    "pret": "9.44",
@@ -37,6 +28,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T22:15:41+00:00",
    "vazut": "2026-11-27T22:15:41+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/almette-verdeata-150g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:17:05+00:00",
+   "vazut": "2026-11-27T22:17:05+00:00",
    "metoda": "cautare_google"
   }
  ]

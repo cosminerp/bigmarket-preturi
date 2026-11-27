@@ -2,33 +2,6 @@
  "ean": "4820215369695",
  "preturi": [
   {
-   "url": "https://www.petvet-shop.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-9112",
-   "domeniu": "petvet-shop.ro",
-   "pret": "4.60",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:16:50+00:00",
-   "vazut": "2026-11-27T16:16:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.safepet.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-5045?srsltid=AYCX9vKC3GO6c1nkq6qJ3njCo23q-GimC_XdKPYeUSStFaF3tmrps4gC",
-   "domeniu": "safepet.ro",
-   "pret": "4.60",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:16:53+00:00",
-   "vazut": "2026-11-27T16:16:53+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.epetshop.ro/produse-pisici/hrana-uscata-completa-my-love-pentru-pisici-adulte-cu-pui-0-3-kg.html",
-   "domeniu": "epetshop.ro",
-   "pret": "4.20",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:16:56+00:00",
-   "vazut": "2026-11-27T16:16:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://club4labute.ro/magazin/my-love-hrana-uscata-pisici-cu-pui-300g/?srsltid=AYCX9vLC9A6EaJzPhSJVBYmVfLlSeLyDjHekheI6KD7m2eQ0zaIZrbcN",
    "domeniu": "club4labute.ro",
    "pret": "5.00",
@@ -44,6 +17,33 @@
    "stare": "ok",
    "verificat": "2026-11-27T16:17:03+00:00",
    "vazut": "2026-11-27T16:17:03+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.petvet-shop.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-9112",
+   "domeniu": "petvet-shop.ro",
+   "pret": "4.60",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:18:28+00:00",
+   "vazut": "2026-11-27T22:18:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.safepet.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-5045?srsltid=AYCX9vKC3GO6c1nkq6qJ3njCo23q-GimC_XdKPYeUSStFaF3tmrps4gC",
+   "domeniu": "safepet.ro",
+   "pret": "4.60",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:18:30+00:00",
+   "vazut": "2026-11-27T22:18:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.epetshop.ro/produse-pisici/hrana-uscata-completa-my-love-pentru-pisici-adulte-cu-pui-0-3-kg.html",
+   "domeniu": "epetshop.ro",
+   "pret": "4.20",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:18:32+00:00",
+   "vazut": "2026-11-27T22:18:32+00:00",
    "metoda": "cautare_google"
   }
  ]
