@@ -2,15 +2,6 @@
  "ean": "8690526717418",
  "preturi": [
   {
-   "url": "https://promoazi.ro/batoane-de-ciocolata/napolitana-glazura-ciocolata-neagra-si-crema-cacao-dare-44g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.69",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:20:57+00:00",
-   "vazut": "2026-11-27T11:20:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/napolitana-cu-glazura-de-ciocolata-neagra-si-crema-de-cacao-dare-44-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.95",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Napolitana cu glazura de ciocolata neagra si crema de cacao Dare, 44 g",
    "pret_vechi": "3.69"
+  },
+  {
+   "url": "https://promoazi.ro/batoane-de-ciocolata/napolitana-glazura-ciocolata-neagra-si-crema-cacao-dare-44g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.69",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:31:19+00:00",
+   "vazut": "2026-11-27T17:31:19+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

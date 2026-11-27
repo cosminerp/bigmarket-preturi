@@ -2,15 +2,6 @@
  "ean": "7622201393670",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/poiana-chokotoff-221g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:13:26+00:00",
-   "vazut": "2026-11-27T11:13:26+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/praline-chokotoff-238g/p",
    "domeniu": "auchan.ro",
    "pret": "19.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:20:51+00:00",
    "metoda": "auchan_catalog",
    "nume": "Caramele invelite in ciocolata Poiana Chokotoff Original, 221 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/poiana-chokotoff-221g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:24:13+00:00",
+   "vazut": "2026-11-27T17:24:13+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

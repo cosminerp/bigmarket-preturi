@@ -2,51 +2,6 @@
  "ean": "8015194522964",
  "preturi": [
   {
-   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-bucatariei/degresant-chante-clair-cu-bicarbonat-8015194522964.html",
-   "domeniu": "magazinitalian.ro",
-   "pret": "17.50",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:17:47+00:00",
-   "vazut": "2026-11-27T11:17:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.westchemicals.ro/produs/degresant-universal-chanteclair-bicarbonat-vapo-600ml/",
-   "domeniu": "westchemicals.ro",
-   "pret": "12.50",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T11:17:50+00:00",
-   "vazut": "2026-11-26T04:00:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.greenonline.ro/produse-curatenie/degresant-universal-chanteclair-cu-bicarbonat-600ml.html",
-   "domeniu": "greenonline.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:17:52+00:00",
-   "vazut": "2026-11-27T11:17:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-bucatariei/degresant-chante-clair-cu-bicarbonat-8015194522964.html",
-   "domeniu": "magazinitalian.ro",
-   "pret": "17.50",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:17:54+00:00",
-   "vazut": "2026-11-27T11:17:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.westchemicals.ro/produs/degresant-universal-chanteclair-bicarbonat-vapo-600ml/",
-   "domeniu": "westchemicals.ro",
-   "pret": "12.50",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T11:17:56+00:00",
-   "vazut": "2026-11-26T17:11:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/degresant-universal-cu-bicarbonat-chante-clair-600-ml/p",
    "domeniu": "auchan.ro",
    "pret": "16.49",
@@ -55,6 +10,51 @@
    "vazut": "2026-11-27T01:47:14+00:00",
    "metoda": "auchan_catalog",
    "nume": "Degresant universal cu bicarbonat Chanteclair, 600 ml"
+  },
+  {
+   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-bucatariei/degresant-chante-clair-cu-bicarbonat-8015194522964.html",
+   "domeniu": "magazinitalian.ro",
+   "pret": "17.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:28:24+00:00",
+   "vazut": "2026-11-27T17:28:24+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/degresant-universal-chanteclair-bicarbonat-vapo-600ml/",
+   "domeniu": "westchemicals.ro",
+   "pret": "12.50",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T17:28:26+00:00",
+   "vazut": "2026-11-26T04:00:05+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.greenonline.ro/produse-curatenie/degresant-universal-chanteclair-cu-bicarbonat-600ml.html",
+   "domeniu": "greenonline.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:28:27+00:00",
+   "vazut": "2026-11-27T17:28:27+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.magazinitalian.ro/produse-curatenie/igiena-bucatariei/degresant-chante-clair-cu-bicarbonat-8015194522964.html",
+   "domeniu": "magazinitalian.ro",
+   "pret": "17.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:28:29+00:00",
+   "vazut": "2026-11-27T17:28:29+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.westchemicals.ro/produs/degresant-universal-chanteclair-bicarbonat-vapo-600ml/",
+   "domeniu": "westchemicals.ro",
+   "pret": "12.50",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T17:28:31+00:00",
+   "vazut": "2026-11-26T17:11:54+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

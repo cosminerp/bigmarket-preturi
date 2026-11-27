@@ -2,24 +2,6 @@
  "ean": "8000070038493",
  "preturi": [
   {
-   "url": "https://www.magazinitalian.ro/cafea-ceai/cafea/cafea-boabe-lavazza-espresso-crema-e-gusto-forte-8000070038493.html",
-   "domeniu": "magazinitalian.ro",
-   "pret": "126.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:15:11+00:00",
-   "vazut": "2026-11-27T11:15:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.produseitalia.ro/cafea-produse-alimentare/cafea-boabe-espresso-crema-gusto-forte-lavazza-9008?tab=description",
-   "domeniu": "produseitalia.ro",
-   "pret": "128.95",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:15:14+00:00",
-   "vazut": "2026-11-27T11:15:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cafea-boabe-lavazza-crema-e-gusto-forte-1-kg/p",
    "domeniu": "auchan.ro",
    "pret": "118.69",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T12:07:14+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cafea boabe Lavazza Crema e Gusto Forte, 1 kg"
+  },
+  {
+   "url": "https://www.magazinitalian.ro/cafea-ceai/cafea/cafea-boabe-lavazza-espresso-crema-e-gusto-forte-8000070038493.html",
+   "domeniu": "magazinitalian.ro",
+   "pret": "126.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:25:54+00:00",
+   "vazut": "2026-11-27T17:25:54+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.produseitalia.ro/cafea-produse-alimentare/cafea-boabe-espresso-crema-gusto-forte-lavazza-9008?tab=description",
+   "domeniu": "produseitalia.ro",
+   "pret": "128.95",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:25:57+00:00",
+   "vazut": "2026-11-27T17:25:57+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

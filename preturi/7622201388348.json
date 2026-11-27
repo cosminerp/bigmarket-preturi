@@ -2,15 +2,6 @@
  "ean": "7622201388348",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/7days-croissant-max-cacao-80g/",
-   "domeniu": "pacomarket.ro",
-   "pret": "1.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:13:14+00:00",
-   "vazut": "2026-11-27T11:13:14+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/croissant-cu-umplutura-de-cacao-7-days-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.39",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:05:04+00:00",
    "metoda": "auchan_catalog",
    "nume": "Croissant cu umplutura cu crema cu cacao 7 Days, 80 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/7days-croissant-max-cacao-80g/",
+   "domeniu": "pacomarket.ro",
+   "pret": "1.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:24:02+00:00",
+   "vazut": "2026-11-27T17:24:02+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
