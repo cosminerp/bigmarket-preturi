@@ -2,15 +2,6 @@
  "ean": "5941494000648",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/siropuri/sirop-laurul-0-75l-flori-de-soc-5941494000648",
-   "domeniu": "snaemarket.ro",
-   "pret": "12.83",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:39:58+00:00",
-   "vazut": "2026-11-27T10:39:58+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/sirop-de-fructe-de-padure-975-g-laurul-4026-4027-4028.html",
    "domeniu": "vivomarket.ro",
    "pret": "21.12",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-19T20:36:59+00:00",
    "metoda": "auchan_catalog",
    "nume": "Sirop natural de soc Laurul, 0.75 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/siropuri/sirop-laurul-0-75l-flori-de-soc-5941494000648",
+   "domeniu": "snaemarket.ro",
+   "pret": "12.83",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:47:31+00:00",
+   "vazut": "2026-11-27T16:47:31+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

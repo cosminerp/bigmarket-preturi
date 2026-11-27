@@ -2,51 +2,6 @@
  "ean": "5941882806296",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-simple-56-g-7755279?srsltid=AYCX9vLzf_FWIYAQc6fdqZvgoqtvGBzNNwM8NPUDIpu1kZTgUuxRj4bL",
-   "domeniu": "naturisti.ro",
-   "pret": "2.77",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:42:35+00:00",
-   "vazut": "2026-11-27T10:42:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://plingo.ro/produs/rondele-orez-simple-56gr-sanovita-995cfdd166/",
-   "domeniu": "plingo.ro",
-   "pret": "2.90",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:42:38+00:00",
-   "vazut": "2026-11-27T10:42:38+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-simple-din-orez-expandat-56-g-sanovita-p366333",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "2.50",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:42:40+00:00",
-   "vazut": "2026-11-27T10:42:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/snacks/rondele-simple-din-orez-sano-vita-56-g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.19",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:42:42+00:00",
-   "vazut": "2026-11-27T10:42:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.trifolia.ro/alimentare/rondele-simple-din-orez-expandat-56g.html?srsltid=AYCX9vJOuzKPq5LXN5GlmWdnH_NwPhRnev5eLkuDdNULy1Be2KoTH8Rs",
-   "domeniu": "trifolia.ro",
-   "pret": "3.10",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:42:44+00:00",
-   "vazut": "2026-11-27T10:42:44+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rondele-simple-din-orez-sano-vita-56-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.39",
@@ -55,6 +10,51 @@
    "vazut": "2026-11-27T12:23:14+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rondele simple din orez SanoVita, 56 g"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-simple-56-g-7755279?srsltid=AYCX9vLzf_FWIYAQc6fdqZvgoqtvGBzNNwM8NPUDIpu1kZTgUuxRj4bL",
+   "domeniu": "naturisti.ro",
+   "pret": "2.77",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:49:52+00:00",
+   "vazut": "2026-11-27T16:49:52+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://plingo.ro/produs/rondele-orez-simple-56gr-sanovita-995cfdd166/",
+   "domeniu": "plingo.ro",
+   "pret": "2.90",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:49:54+00:00",
+   "vazut": "2026-11-27T16:49:54+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/rondele-simple-din-orez-expandat-56-g-sanovita-p366333",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "2.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:49:56+00:00",
+   "vazut": "2026-11-27T16:49:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/snacks/rondele-simple-din-orez-sano-vita-56-g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.19",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:49:58+00:00",
+   "vazut": "2026-11-27T16:49:58+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/rondele-simple-din-orez-expandat-56g.html?srsltid=AYCX9vJOuzKPq5LXN5GlmWdnH_NwPhRnev5eLkuDdNULy1Be2KoTH8Rs",
+   "domeniu": "trifolia.ro",
+   "pret": "3.10",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:50:00+00:00",
+   "vazut": "2026-11-27T16:50:00+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

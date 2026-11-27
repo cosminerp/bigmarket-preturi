@@ -2,15 +2,6 @@
  "ean": "5941623002284",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/cafea-instant-doncafe-selected-borcan-100g?srsltid=AYCX9vKWhNp0rfNRVrbIEI7G6PDeNHuqxaNlebQ0vwgwougmSeGROpAg",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "10.58",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:40:29+00:00",
-   "vazut": "2026-11-27T10:40:29+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cafea-macinata-si-prajita-doncafe-selected-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "10.29",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:08:03+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cafea macinata si prajita Doncafe Selected, 100 g"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/cafea-instant-doncafe-selected-borcan-100g?srsltid=AYCX9vKWhNp0rfNRVrbIEI7G6PDeNHuqxaNlebQ0vwgwougmSeGROpAg",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "10.58",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:47:59+00:00",
+   "vazut": "2026-11-27T16:47:59+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
