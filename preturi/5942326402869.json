@@ -2,24 +2,6 @@
  "ean": "5942326402869",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/aqua-carpatica-flavours-grapefruit-roz-330ml-sgr-24buc-bax-5942326402869",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.82",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:06:02+00:00",
-   "vazut": "2026-11-27T17:06:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/apa-aromatizata/aqua-carpatica-carbonated-drink-with-natural-mineral-water-and-pink-grapefruit-juice-330ml-id-70828",
-   "domeniu": "promoazi.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:06:04+00:00",
-   "vazut": "2026-11-27T17:06:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-aqua-carpatica-cu-grapefruit-roz-doza-0-33-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T21:21:38+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Aqua Carpatica Flavours cu aroma de grapefruit roz, 0.33 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/aqua-carpatica-flavours-grapefruit-roz-330ml-sgr-24buc-bax-5942326402869",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.82",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:14:34+00:00",
+   "vazut": "2026-11-27T23:14:34+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/apa-aromatizata/aqua-carpatica-carbonated-drink-with-natural-mineral-water-and-pink-grapefruit-juice-330ml-id-70828",
+   "domeniu": "promoazi.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:14:36+00:00",
+   "vazut": "2026-11-27T23:14:36+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

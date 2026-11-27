@@ -2,33 +2,6 @@
  "ean": "5942325003760",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/apa-plata-bucovina-sport-330ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.95",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:04:52+00:00",
-   "vazut": "2026-11-27T17:04:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/bucovina-apa-plt-sportcap-033-pet-6buc-sgr-5942325003760",
-   "domeniu": "snaemarket.ro",
-   "pret": "2.46",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:04:56+00:00",
-   "vazut": "2026-11-27T17:04:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cosulmic.ro/produs/apa-plata-kids-bucovina-0-33l-379",
-   "domeniu": "cosulmic.ro",
-   "pret": "2.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:04:57+00:00",
-   "vazut": "2026-11-27T17:04:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-plata-tedi-0-33l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "2.29",
@@ -38,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Apa plata Tedi, 0.33 l",
    "pret_vechi": "3.39"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-plata-bucovina-sport-330ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.95",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:13:20+00:00",
+   "vazut": "2026-11-27T23:13:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/apa/bucovina-apa-plt-sportcap-033-pet-6buc-sgr-5942325003760",
+   "domeniu": "snaemarket.ro",
+   "pret": "2.46",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:13:23+00:00",
+   "vazut": "2026-11-27T23:13:23+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cosulmic.ro/produs/apa-plata-kids-bucovina-0-33l-379",
+   "domeniu": "cosulmic.ro",
+   "pret": "2.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:13:25+00:00",
+   "vazut": "2026-11-27T23:13:25+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
