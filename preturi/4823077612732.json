@@ -2,15 +2,6 @@
  "ean": "4823077612732",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/alte-dulciuri/roshen-bim-bom-200gr-11buc-bax-4823077612732",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.08",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:13:30+00:00",
-   "vazut": "2026-11-27T10:13:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/dropsuri-cu-aroma-de-fructe-bim-bom-200g/p",
    "domeniu": "auchan.ro",
    "pret": "6.39",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:21:51+00:00",
    "metoda": "auchan_catalog",
    "nume": "Dropsuri cu aroma de fructe Bim Bom, 200g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/alte-dulciuri/roshen-bim-bom-200gr-11buc-bax-4823077612732",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.08",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:17:38+00:00",
+   "vazut": "2026-11-27T16:17:38+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
