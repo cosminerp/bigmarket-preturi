@@ -2,21 +2,21 @@
  "ean": "5999562460016",
  "preturi": [
   {
-   "url": "https://www.zoohobby.ro/produse-pentru-caini/salam-caine-cu-pui-1-kg.html",
-   "domeniu": "zoohobby.ro",
-   "pret": "8.73",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:40:19+00:00",
-   "vazut": "2026-11-27T17:40:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.1001pets.ro/cumpara/salam-bruno-1-kg-aroma-pui-produs-redus-continut-5-kg-3046?srsltid=AYCX9vLI4_YWH7xKRXT-h19wPAAbo8bAcXade2QT1OcDG49JYdh5QBDY",
    "domeniu": "1001pets.ro",
    "pret": "9.99",
    "stare": "ok",
    "verificat": "2026-11-27T23:25:17+00:00",
    "vazut": "2026-11-27T23:25:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.zoohobby.ro/produse-pentru-caini/salam-caine-cu-pui-1-kg.html",
+   "domeniu": "zoohobby.ro",
+   "pret": "8.73",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:54:13+00:00",
+   "vazut": "2026-11-27T23:54:13+00:00",
    "metoda": "cautare_google"
   }
  ]
