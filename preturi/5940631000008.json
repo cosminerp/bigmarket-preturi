@@ -2,16 +2,6 @@
  "ean": "5940631000008",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-energizanta-red-bull-0-25l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:16:25+00:00",
-   "vazut": "2026-11-27T12:16:25+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura energizanta Red Bull, 0.25 l"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/bautura-energizanta-red-bull-250ml?srsltid=AYCX9vITdp1rdqez-yPjgkA-qKdEYG322bAfA-LluS8RjtYTSMaKZFeG",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "8.32",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T16:29:48+00:00",
    "vazut": "2026-11-27T16:29:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-energizanta-red-bull-0-25l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:20:21+00:00",
+   "vazut": "2026-11-27T21:20:21+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura energizanta Red Bull, 0.25 l"
   }
  ]
 }

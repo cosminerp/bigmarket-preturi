@@ -2,16 +2,6 @@
  "ean": "5949040203178",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/snacks-meteoritzi-sriracha-cheese-75-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:21:35+00:00",
-   "vazut": "2026-11-27T12:21:35+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Snacks Meteoritzi Sriracha Cheese, 75 g"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/snackuri-alka-meteoritz-sriracha-cheese-75-g?srsltid=AYCX9vLwFyjpUGQyq3IBSn0maKdLvlcXCzaVP_OS8FY8cSfIfMFcW1W2",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "4.60",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-27T17:34:10+00:00",
    "vazut": "2026-11-18T09:58:24+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/snacks-meteoritzi-sriracha-cheese-75-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:25:40+00:00",
+   "vazut": "2026-11-27T21:25:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Snacks Meteoritzi Sriracha Cheese, 75 g"
   }
  ]
 }

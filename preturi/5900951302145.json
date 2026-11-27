@@ -2,16 +2,6 @@
  "ean": "5900951302145",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/hrana-umeda-pentru-pisici-junioare-whiskas-junior-cu-pui-in-aspic-85-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.29",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:22:01+00:00",
-   "vazut": "2026-11-27T12:22:01+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Hrana umeda pentru pisici junioare Whiskas Junior cu pui in aspic, 85 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/whiskas-plic-pui-junior-in-aspic-85gr-28buc-5900951302145",
    "domeniu": "snaemarket.ro",
    "pret": "2.44",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:24:19+00:00",
    "vazut": "2026-11-18T03:43:50+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/hrana-umeda-pentru-pisici-junioare-whiskas-junior-cu-pui-in-aspic-85-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.29",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:26:09+00:00",
+   "vazut": "2026-11-27T21:26:09+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Hrana umeda pentru pisici junioare Whiskas Junior cu pui in aspic, 85 g"
   }
  ]
 }

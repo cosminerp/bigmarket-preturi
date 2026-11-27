@@ -2,16 +2,6 @@
  "ean": "5942321000329",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-schweppes-mandarin-1-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.39",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:16:54+00:00",
-   "vazut": "2026-11-27T12:16:54+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Schweppes Mandarin, 1.5 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/schweppes-mandarin-1-5l-sgr-6buc-bax-5942321000329",
    "domeniu": "snaemarket.ro",
    "pret": "9.46",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T17:00:25+00:00",
    "vazut": "2026-11-27T17:00:25+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-schweppes-mandarin-1-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.39",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:20:50+00:00",
+   "vazut": "2026-11-27T21:20:50+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Schweppes Mandarin, 1.5 l"
   }
  ]
 }

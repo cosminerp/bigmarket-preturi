@@ -2,16 +2,6 @@
  "ean": "5942219115944",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/apa-plata-aquatique-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:16:21+00:00",
-   "vazut": "2026-11-27T12:16:21+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Apa plata Aquatique, 2 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/apa-plata-aquatique-2l-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "3.45",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-27T16:59:31+00:00",
    "vazut": "2026-11-27T16:59:31+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/apa-plata-aquatique-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:20:16+00:00",
+   "vazut": "2026-11-27T21:20:16+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Apa plata Aquatique, 2 l"
   }
  ]
 }

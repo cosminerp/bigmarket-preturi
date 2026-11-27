@@ -2,16 +2,6 @@
  "ean": "5941882807910",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-fara-alcool-cu-ghimbir-bundaberg-0-375l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "10.39",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:20:57+00:00",
-   "vazut": "2026-11-27T12:20:57+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere aromatizata fara alcool Bundaberg Ginger, 0.375 l"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/bauturi-carbogazoase/bere-fara-alcool-cu-ghimbir-375-ml-bundaberg-p410772",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "8.50",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:52:28+00:00",
    "vazut": "2026-11-27T16:52:28+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-fara-alcool-cu-ghimbir-bundaberg-0-375l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.39",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:25:02+00:00",
+   "vazut": "2026-11-27T21:25:02+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere aromatizata fara alcool Bundaberg Ginger, 0.375 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5941875900376",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/lapte-de-consum-olympus-3-7-grasime-1-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:09:06+00:00",
-   "vazut": "2026-11-27T12:09:06+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Lapte de consum integral Olympus, 3.7% grasime, 1 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/lapte-de-consum-olympus-3-7-1l/",
    "domeniu": "pacomarket.ro",
    "pret": "9.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:49:13+00:00",
    "vazut": "2026-11-27T16:49:13+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/lapte-de-consum-olympus-3-7-grasime-1-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:12:38+00:00",
+   "vazut": "2026-11-27T21:12:38+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Lapte de consum integral Olympus, 3.7% grasime, 1 l"
   }
  ]
 }

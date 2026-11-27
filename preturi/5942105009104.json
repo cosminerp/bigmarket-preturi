@@ -2,16 +2,6 @@
  "ean": "5942105009104",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-heineken-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:24:39+00:00",
-   "vazut": "2026-11-27T12:24:39+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Heineken, 0.5 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/heineken-doza-500ml/",
    "domeniu": "pacomarket.ro",
    "pret": "5.29",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T16:56:02+00:00",
    "vazut": "2026-11-27T16:56:02+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-heineken-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:28:48+00:00",
+   "vazut": "2026-11-27T21:28:48+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Heineken, 0.5 l"
   }
  ]
 }

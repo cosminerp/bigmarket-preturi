@@ -2,16 +2,6 @@
  "ean": "5941000025240",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/snacks-star-mix-mov-cu-aroma-de-ardei-paprika-iaurt-si-usturoi-90-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.79",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:18:46+00:00",
-   "vazut": "2026-11-27T12:18:46+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Snacks Star mix mov cu gust de de ardei chilli dulce, iaurt,  usturoi si paprika, 90 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/star-mix-1-mov-90gr-18buc-bax-5941000025240",
    "domeniu": "snaemarket.ro",
    "pret": "4.05",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:30:10+00:00",
    "vazut": "2026-11-27T16:30:10+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/snacks-star-mix-mov-cu-aroma-de-ardei-paprika-iaurt-si-usturoi-90-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.79",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:22:44+00:00",
+   "vazut": "2026-11-27T21:22:44+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Snacks Star mix mov cu gust de de ardei chilli dulce, iaurt,  usturoi si paprika, 90 g"
   }
  ]
 }

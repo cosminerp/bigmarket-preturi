@@ -2,17 +2,6 @@
  "ean": "5941341002276",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-integral-de-porc-scandia-sibiu-120g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.58",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:18:23+00:00",
-   "vazut": "2026-11-27T12:18:23+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Conserva pate integral de porc Scandia Sibiu, 120g",
-   "pret_vechi": "5.39"
-  },
-  {
    "url": "https://conservat.ro/porc-la-conserva/564-porc-la-conserva-5941341002276.html?srsltid=AYCX9vIrT8-uM5NgcHTfsQfYIksQqO3LT9NRLj92eQ30cZz2EAmu984q",
    "domeniu": "conservat.ro",
    "pret": "6.91",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-27T16:40:21+00:00",
    "vazut": "2026-11-27T16:40:21+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-integral-de-porc-scandia-sibiu-120g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.58",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:22:21+00:00",
+   "vazut": "2026-11-27T21:22:21+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Conserva pate integral de porc Scandia Sibiu, 120g",
+   "pret_vechi": "5.39"
   }
  ]
 }

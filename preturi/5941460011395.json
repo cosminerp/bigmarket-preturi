@@ -2,16 +2,6 @@
  "ean": "5941460011395",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/salam-de-sibiu-agricola-300-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "33.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:23:56+00:00",
-   "vazut": "2026-11-27T12:23:56+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Salam de Sibiu Agricola, 300 g"
-  },
-  {
    "url": "https://promoazi.ro/salam/salam-sibiu-agricola-300g",
    "domeniu": "promoazi.ro",
    "pret": "32.29",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T16:51:51+00:00",
    "vazut": "2026-11-27T16:51:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/salam-de-sibiu-agricola-300-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "33.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:28:07+00:00",
+   "vazut": "2026-11-27T21:28:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Salam de Sibiu Agricola, 300 g"
   }
  ]
 }

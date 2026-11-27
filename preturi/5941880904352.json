@@ -2,16 +2,6 @@
  "ean": "5941880904352",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/salata-icre-de-crap-cu-ceapa-bonito-150-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.15",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:17:29+00:00",
-   "vazut": "2026-11-27T12:17:29+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Salata icre de crap cu ceapa Bonito, 150 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/salata-cu-icre-crap-si-ceapa-150-g-pescado-2/",
    "domeniu": "pacomarket.ro",
    "pret": "6.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:49:17+00:00",
    "vazut": "2026-11-27T16:49:17+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/salata-icre-de-crap-cu-ceapa-bonito-150-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.15",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:21:26+00:00",
+   "vazut": "2026-11-27T21:21:26+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Salata icre de crap cu ceapa Bonito, 150 g"
   }
  ]
 }

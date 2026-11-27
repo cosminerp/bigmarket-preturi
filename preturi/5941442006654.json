@@ -2,16 +2,6 @@
  "ean": "5941442006654",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/fulgi-de-porumb-fortza-rontzaiala-150g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.65",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:20:14+00:00",
-   "vazut": "2026-11-27T12:20:14+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Fulgi de porumb Fortza Rontzaiala, 150 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/fulgi-porumb-fortza-150g/",
    "domeniu": "pacomarket.ro",
    "pret": "4.25",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:43:36+00:00",
    "vazut": "2026-11-27T16:43:36+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/fulgi-de-porumb-fortza-rontzaiala-150g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.65",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:24:16+00:00",
+   "vazut": "2026-11-27T21:24:16+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Fulgi de porumb Fortza Rontzaiala, 150 g"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "8001480022584",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/inalbitor-ace-regular-1-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:22:08+00:00",
-   "vazut": "2026-11-27T12:22:08+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Inalbitor Ace regular 1 l"
-  },
-  {
    "url": "https://www.materiale.ro/clor-ace-regular-1l",
    "domeniu": "materiale.ro",
    "pret": "9.00",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T17:26:32+00:00",
    "vazut": "2026-11-27T17:26:32+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/inalbitor-ace-regular-1-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:26:15+00:00",
+   "vazut": "2026-11-27T21:26:15+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Inalbitor Ace regular 1 l"
   }
  ]
 }

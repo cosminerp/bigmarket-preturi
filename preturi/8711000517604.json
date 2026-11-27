@@ -2,16 +2,6 @@
  "ean": "8711000517604",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cafea-macinata-jacobs-kronung-alintaroma-500-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "49.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:23:27+00:00",
-   "vazut": "2026-11-27T12:23:27+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cafea macinata Jacobs Kronung Alintaroma, 500 g"
-  },
-  {
    "url": "https://www.sixgo.ro/cumpara/jacobs-kronung-500g-cafea-macinata-alintaroma-1689",
    "domeniu": "sixgo.ro",
    "pret": "36.00",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T17:36:11+00:00",
    "vazut": "2026-11-27T17:36:11+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cafea-macinata-jacobs-kronung-alintaroma-500-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "49.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:27:37+00:00",
+   "vazut": "2026-11-27T21:27:37+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cafea macinata Jacobs Kronung Alintaroma, 500 g"
   }
  ]
 }

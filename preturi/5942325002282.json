@@ -2,16 +2,6 @@
  "ean": "5942325002282",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-necarbogazoasa-cu-ananas-tymbark-cool-2l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.29",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:19:30+00:00",
-   "vazut": "2026-11-27T12:19:30+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura necarbogazoasa cu suc de ananas Tymbark Cool, 2 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/tymbark-cool-ananas-2l-sgr-6buc-bax-5942325002282",
    "domeniu": "snaemarket.ro",
    "pret": "7.30",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T17:03:56+00:00",
    "vazut": "2026-11-27T17:03:56+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-necarbogazoasa-cu-ananas-tymbark-cool-2l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.29",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:23:29+00:00",
+   "vazut": "2026-11-27T21:23:29+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura necarbogazoasa cu suc de ananas Tymbark Cool, 2 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5941065011363",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/iaurt-cremos-bio-napolact-140-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.15",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:22:14+00:00",
-   "vazut": "2026-11-27T12:22:14+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Iaurt cremos BIO Napolact, 140 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/eco-iaurt-cremos-4-5-140g/",
    "domeniu": "pacomarket.ro",
    "pret": "5.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:32:34+00:00",
    "vazut": "2026-11-27T16:32:34+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/iaurt-cremos-bio-napolact-140-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.15",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:26:21+00:00",
+   "vazut": "2026-11-27T21:26:21+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Iaurt cremos BIO Napolact, 140 g"
   }
  ]
 }

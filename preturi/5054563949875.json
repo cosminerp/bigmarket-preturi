@@ -2,16 +2,6 @@
  "ean": "5054563949875",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pasta-de-dinti-parodontax-whitening-75-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "22.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:06:26+00:00",
-   "vazut": "2026-11-27T12:06:26+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pasta de dinti Parodontax Whitening, 75 ml"
-  },
-  {
    "url": "https://www.dovermedfarma.ro/parodontax-pasta-dinti-whitening-75ml-gsk?srsltid=AYCX9vJQYgmvBWvy3-428PxVm3N1jnkYJzLZBJdRR3IdA3NdJoimMC5G",
    "domeniu": "dovermedfarma.ro",
    "pret": "21.99",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-27T16:22:01+00:00",
    "vazut": "2026-11-27T16:22:01+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pasta-de-dinti-parodontax-whitening-75-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "22.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:09:53+00:00",
+   "vazut": "2026-11-27T21:09:53+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pasta de dinti Parodontax Whitening, 75 ml"
   }
  ]
 }

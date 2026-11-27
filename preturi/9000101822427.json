@@ -2,17 +2,6 @@
  "ean": "9000101822427",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/servetele-transfer-colour-catcher-k2r-22-bucati/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:10:20+00:00",
-   "vazut": "2026-11-27T12:10:20+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Servetele transfer Colour Catcher K2R, 22 bucati",
-   "pret_vechi": "19.99"
-  },
-  {
    "url": "https://cobyul.ro/produs/k2r-colour-catcher-22-serv/?srsltid=AYCX9vLTbQqYqMPZSny1hAeMNy5sqwZE2ou1QInUyHa0FCQNn0romyqg",
    "domeniu": "cobyul.ro",
    "pret": "14.49",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-27T17:38:29+00:00",
    "vazut": "2026-11-27T17:38:29+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/servetele-transfer-colour-catcher-k2r-22-bucati/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:13:54+00:00",
+   "vazut": "2026-11-27T21:13:54+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Servetele transfer Colour Catcher K2R, 22 bucati",
+   "pret_vechi": "19.99"
   }
  ]
 }

@@ -2,17 +2,6 @@
  "ean": "5941065014838",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chefir-lejer-napolact-1-5-grasime-330-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:21:12+00:00",
-   "vazut": "2026-11-27T12:21:12+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chefir lejer Napolact, 1.5% grasime, 330 g",
-   "pret_vechi": "5.49"
-  },
-  {
    "url": "https://promoazi.ro/iaurturi/chefir-lejer-napolact-15-grasime-330-g",
    "domeniu": "promoazi.ro",
    "pret": "4.49",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-27T16:32:49+00:00",
    "vazut": "2026-11-27T16:32:49+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chefir-lejer-napolact-1-5-grasime-330-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:25:18+00:00",
+   "vazut": "2026-11-27T21:25:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chefir lejer Napolact, 1.5% grasime, 330 g",
+   "pret_vechi": "5.49"
   }
  ]
 }

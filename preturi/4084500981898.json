@@ -2,16 +2,6 @@
  "ean": "4084500981898",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/detergent-de-vase-fairy-cu-rodie-si-portocale-rosii-450ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:21:45+00:00",
-   "vazut": "2026-11-27T12:21:45+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Detergent de vase Fairy cu Rodie si portocale rosii, 450ml"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/detergenti/fairy-pomegranate-450ml-21buc-bax-4084500981898",
    "domeniu": "snaemarket.ro",
    "pret": "6.74",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T16:16:14+00:00",
    "vazut": "2026-11-25T10:33:16+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/detergent-de-vase-fairy-cu-rodie-si-portocale-rosii-450ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:25:50+00:00",
+   "vazut": "2026-11-27T21:25:50+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Detergent de vase Fairy cu Rodie si portocale rosii, 450ml"
   }
  ]
 }

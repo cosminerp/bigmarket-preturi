@@ -2,16 +2,6 @@
  "ean": "5942325003364",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-necarbogazoasa-culamaie-nestea-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.95",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:17:49+00:00",
-   "vazut": "2026-11-27T12:17:49+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura necarbogazoasa cu aroma de lamaie Nestea, 0.5 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/nestea-ice-tea-lamaie-500ml-pet/",
    "domeniu": "pacomarket.ro",
    "pret": "4.65",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T17:04:37+00:00",
    "vazut": "2026-11-27T17:04:37+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-necarbogazoasa-culamaie-nestea-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.95",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:21:46+00:00",
+   "vazut": "2026-11-27T21:21:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura necarbogazoasa cu aroma de lamaie Nestea, 0.5 l"
   }
  ]
 }

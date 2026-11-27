@@ -2,16 +2,6 @@
  "ean": "5941445677608",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chio-chipsuri-cu-paprica125-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:24:40+00:00",
-   "vazut": "2026-11-27T12:24:40+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu paprica Chio, 125 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/chio-chips-ar-ardei-gras-125g/",
    "domeniu": "pacomarket.ro",
    "pret": "8.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T16:44:55+00:00",
    "vazut": "2026-11-27T16:44:55+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chio-chipsuri-cu-paprica125-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:28:49+00:00",
+   "vazut": "2026-11-27T21:28:49+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu paprica Chio, 125 g"
   }
  ]
 }

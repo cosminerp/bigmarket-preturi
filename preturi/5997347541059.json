@@ -2,16 +2,6 @@
  "ean": "5997347541059",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/arahide-prajite-nesarate-mogyi-300-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.29",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:22:32+00:00",
-   "vazut": "2026-11-27T12:22:32+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Arahide prajite nesarate Mogyi, 300 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/mogyi-arahide-prajite-nesarate-300gr-20buc-bax-5997347541059",
    "domeniu": "snaemarket.ro",
    "pret": "10.53",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T17:15:45+00:00",
    "vazut": "2026-11-27T17:15:45+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/arahide-prajite-nesarate-mogyi-300-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.29",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:26:39+00:00",
+   "vazut": "2026-11-27T21:26:39+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Arahide prajite nesarate Mogyi, 300 g"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "59491071",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-kozel-0-33l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.19",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:08:29+00:00",
-   "vazut": "2026-11-27T12:08:29+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Kozel, 0.33 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/kozel-bere-blonda-330ml-sticla/",
    "domeniu": "pacomarket.ro",
    "pret": "5.79",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T17:13:37+00:00",
    "vazut": "2026-11-27T17:13:37+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-kozel-0-33l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.19",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:12:02+00:00",
+   "vazut": "2026-11-27T21:12:02+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Kozel, 0.33 l"
   }
  ]
 }

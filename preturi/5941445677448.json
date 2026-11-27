@@ -2,17 +2,6 @@
  "ean": "5941445677448",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-cascaval-si-chili-chio-intense-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:11:02+00:00",
-   "vazut": "2026-11-27T12:11:02+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu cascaval si chili Chio Intense, 120 g",
-   "pret_vechi": "8.29"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/chio-chips-intense-cascaval-chilli-120gr-10buc-bax-5941445677448",
    "domeniu": "snaemarket.ro",
    "pret": "7.48",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-27T16:44:34+00:00",
    "vazut": "2026-11-27T16:44:34+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-cascaval-si-chili-chio-intense-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:14:35+00:00",
+   "vazut": "2026-11-27T21:14:35+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu cascaval si chili Chio Intense, 120 g",
+   "pret_vechi": "8.29"
   }
  ]
 }

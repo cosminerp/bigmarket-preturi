@@ -2,16 +2,6 @@
  "ean": "5942016306712",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-ciucas-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.85",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:16:15+00:00",
-   "vazut": "2026-11-27T12:16:15+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Ciucas, 0.5 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/ciucas-500ml-can-c22-drs/",
    "domeniu": "pacomarket.ro",
    "pret": "4.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:53:41+00:00",
    "vazut": "2026-11-27T16:53:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-ciucas-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.85",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:20:11+00:00",
+   "vazut": "2026-11-27T21:20:11+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Ciucas, 0.5 l"
   }
  ]
 }

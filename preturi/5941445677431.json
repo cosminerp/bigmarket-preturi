@@ -2,17 +2,6 @@
  "ean": "5941445677431",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-paprika-chio-intense-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:07:38+00:00",
-   "vazut": "2026-11-27T12:07:38+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu paprika Chio Intense, 120 g",
-   "pret_vechi": "8.29"
-  },
-  {
    "url": "https://pacomarket.ro/product/chio-chips-intense-paprika-120g/",
    "domeniu": "pacomarket.ro",
    "pret": "9.49",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-27T17:33:44+00:00",
    "vazut": "2026-11-27T17:33:44+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-paprika-chio-intense-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:11:09+00:00",
+   "vazut": "2026-11-27T21:11:09+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu paprika Chio Intense, 120 g",
+   "pret_vechi": "8.29"
   }
  ]
 }

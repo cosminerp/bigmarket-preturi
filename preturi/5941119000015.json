@@ -2,16 +2,6 @@
  "ean": "5941119000015",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/margarina-unirea-original-250-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.15",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:24:21+00:00",
-   "vazut": "2026-11-27T12:24:21+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Margarina Unirea Original, 60% grasime, 250 g"
-  },
-  {
    "url": "https://promoazi.ro/unt-margarina-amestecuri-tartinabile/margarina-unirea-original-60-grasime-250-g",
    "domeniu": "promoazi.ro",
    "pret": "4.90",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T16:33:09+00:00",
    "vazut": "2026-11-27T16:33:09+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/margarina-unirea-original-250-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.15",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:28:32+00:00",
+   "vazut": "2026-11-27T21:28:32+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Margarina Unirea Original, 60% grasime, 250 g"
   }
  ]
 }

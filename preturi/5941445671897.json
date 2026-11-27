@@ -2,16 +2,6 @@
  "ean": "5941445671897",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-sare-snack-chio-65-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.19",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:19:09+00:00",
-   "vazut": "2026-11-27T12:19:09+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu sare Snack Chio, 65 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/chio-snack-cu-sare-65gr-12buc-bax-5941445671897",
    "domeniu": "snaemarket.ro",
    "pret": "4.92",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T16:43:50+00:00",
    "vazut": "2026-11-27T16:43:50+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-sare-snack-chio-65-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.19",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:23:07+00:00",
+   "vazut": "2026-11-27T21:23:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu sare Snack Chio, 65 g"
   }
  ]
 }

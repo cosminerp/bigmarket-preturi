@@ -2,17 +2,6 @@
  "ean": "5941393006130",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-de-porc-antrefrig-100g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T12:20:11+00:00",
-   "vazut": "2026-11-27T12:20:11+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pate de porc Antrefrig, 100g",
-   "pret_vechi": "5.49"
-  },
-  {
    "url": "https://www.pretistet.ro/produs/antrefrig-pate-din-ficat-de-porc-cu-cheita-100gr/",
    "domeniu": "pretistet.ro",
    "pret": "3.99",
@@ -47,6 +36,17 @@
    "verificat": "2026-11-27T16:41:54+00:00",
    "vazut": "2026-11-27T16:41:54+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-de-porc-antrefrig-100g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T21:24:13+00:00",
+   "vazut": "2026-11-27T21:24:13+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pate de porc Antrefrig, 100g",
+   "pret_vechi": "5.49"
   }
  ]
 }
