@@ -2,15 +2,6 @@
  "ean": "8001841077598",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-umede/servetele-umede-fresh-clean-80-buc-pampers-p349595",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "9.00",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:26:47+00:00",
-   "vazut": "2026-11-27T17:26:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/servetele-umede-bebelusi-pampers-fresh-clean-80-bucati/p",
    "domeniu": "auchan.ro",
    "pret": "9.75",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T21:10:55+00:00",
    "metoda": "auchan_catalog",
    "nume": "Servetele umede bebelusi Pampers Fresh & Clean, 80 bucati"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/mama-bebe-si-copil/scutece-si-servetele/servetele-umede/servetele-umede-fresh-clean-80-buc-pampers-p349595",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "9.00",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:39:26+00:00",
+   "vazut": "2026-11-27T23:39:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

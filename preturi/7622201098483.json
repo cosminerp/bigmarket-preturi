@@ -11,15 +11,6 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://pacomarket.ro/product/milka-aerata-bubbly/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:23:56+00:00",
-   "vazut": "2026-11-27T17:23:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-aerata-cu-lapte-milka-90-g/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -28,6 +19,15 @@
    "vazut": "2026-11-27T21:26:42+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ciocolata aerata cu lapte Milka, 90 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/milka-aerata-bubbly/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:34:47+00:00",
+   "vazut": "2026-11-27T23:34:47+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
