@@ -2,15 +2,6 @@
  "ean": "5941141002933",
  "preturi": [
   {
-   "url": "https://www.e-apotheka.ro/toate-produsele/ceai-hapciu-elimina-disconfortul-resirator-20-doze.html?srsltid=AYCX9vLoC5fMR4i_-USLd-bmL783ZbX4wMQmeY_qh-O77upJ8tHYmwVG",
-   "domeniu": "e-apotheka.ro",
-   "pret": "11.10",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:11:50+00:00",
-   "vazut": "2026-11-27T17:11:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.farmaciilenapofarm.ro/simptome-raceala-si-gripa/ceai-hapciu-r2-20-plicuri-fares?srsltid=AYCX9vJomDhdeEdXlKZQMxFIr20eF7RY8wUHYbspa-Vj7qKAO4opiHOE",
    "domeniu": "farmaciilenapofarm.ro",
    "pret": "10.67",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T22:39:23+00:00",
    "vazut": "2026-11-27T22:39:23+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.e-apotheka.ro/toate-produsele/ceai-hapciu-elimina-disconfortul-resirator-20-doze.html?srsltid=AYCX9vLoC5fMR4i_-USLd-bmL783ZbX4wMQmeY_qh-O77upJ8tHYmwVG",
+   "domeniu": "e-apotheka.ro",
+   "pret": "11.10",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:45:53+00:00",
+   "vazut": "2026-11-27T23:45:53+00:00",
    "metoda": "cautare_google"
   }
  ]

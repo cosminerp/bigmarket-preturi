@@ -2,15 +2,6 @@
  "ean": "8410376057270",
  "preturi": [
   {
-   "url": "https://www.trifolia.ro/alimentare/biscuiti-cu-ciocolata-neagra-fara-zahar-150-g.html?srsltid=AYCX9vLakod8sWZ0B9QGXFYEl3m-mCfT95H0CseUalaJcykrQ4KfORII",
-   "domeniu": "trifolia.ro",
-   "pret": "24.50",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:35:13+00:00",
-   "vazut": "2026-11-27T17:35:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-cu-ciocolata-neagra-gullon-fara-zahar-150-g/p",
    "domeniu": "auchan.ro",
    "pret": "29.99",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T23:42:30+00:00",
    "vazut": "2026-11-27T23:42:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/biscuiti-cu-ciocolata-neagra-fara-zahar-150-g.html?srsltid=AYCX9vLakod8sWZ0B9QGXFYEl3m-mCfT95H0CseUalaJcykrQ4KfORII",
+   "domeniu": "trifolia.ro",
+   "pret": "24.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:48:09+00:00",
+   "vazut": "2026-11-27T23:48:09+00:00",
    "metoda": "cautare_google"
   }
  ]

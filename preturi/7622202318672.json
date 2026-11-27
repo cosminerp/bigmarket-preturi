@@ -2,15 +2,6 @@
  "ean": "7622202318672",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bacanie/biscuiti-white-choco-mini-stars-milka-150-g.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "9.68",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:34:42+00:00",
-   "vazut": "2026-11-27T17:34:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-cu-ciocolata-alba-milka-choco-mini-stars-150-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T21:26:48+00:00",
    "metoda": "auchan_catalog",
    "nume": "Biscuiti cu ciocolata alba Milka Choco Mini Stars, 150 g"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/biscuiti-white-choco-mini-stars-milka-150-g.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "9.68",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:47:31+00:00",
+   "vazut": "2026-11-27T23:47:31+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
