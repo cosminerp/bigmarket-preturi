@@ -2,33 +2,6 @@
  "ean": "5941035012581",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/alka-seminte-albe-aromatizate-135g-12buc-bax-5941035012581",
-   "domeniu": "snaemarket.ro",
-   "pret": "7.78",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T10:24:43+00:00",
-   "vazut": "2026-11-18T08:13:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/semin-e-de-floarea-soarelui-albe-alka-135-g?srsltid=AYCX9vKmbjguaYiwsvE4stDarm6xuxmqWys1ycV9dTxHLTT1W55iNf7v",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "10.23",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:24:45+00:00",
-   "vazut": "2026-11-27T10:24:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/seminte-nuci-fructe-uscate/seminte-albe-coapte-si-aromate-alka-135-g",
-   "domeniu": "promoazi.ro",
-   "pret": "10.79",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:24:47+00:00",
-   "vazut": "2026-11-27T10:24:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/seminte-albe-coapte-si-aromate-alka-135-g/p",
    "domeniu": "auchan.ro",
    "pret": "10.79",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-27T12:05:07+00:00",
    "metoda": "auchan_catalog",
    "nume": "Seminte albe coapte si aromate Alka, 135 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/alka-seminte-albe-aromatizate-135g-12buc-bax-5941035012581",
+   "domeniu": "snaemarket.ro",
+   "pret": "7.78",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T16:31:47+00:00",
+   "vazut": "2026-11-18T08:13:36+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/semin-e-de-floarea-soarelui-albe-alka-135-g?srsltid=AYCX9vKmbjguaYiwsvE4stDarm6xuxmqWys1ycV9dTxHLTT1W55iNf7v",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "10.23",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:31:48+00:00",
+   "vazut": "2026-11-27T16:31:48+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/seminte-nuci-fructe-uscate/seminte-albe-coapte-si-aromate-alka-135-g",
+   "domeniu": "promoazi.ro",
+   "pret": "10.79",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:31:50+00:00",
+   "vazut": "2026-11-27T16:31:50+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

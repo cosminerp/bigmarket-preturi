@@ -2,33 +2,6 @@
  "ean": "5940577000353",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/bautura-energizanta-hell-double-espresso-250ml?srsltid=AYCX9vKCq2iIuMFIvsicD9UXggWZ66IPPmGXs9MPtVKA8TAekq4A0awh",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "7.98",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:21:25+00:00",
-   "vazut": "2026-11-27T10:21:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/hell-double-espresso-250ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:21:28+00:00",
-   "vazut": "2026-11-27T10:21:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/ceaiuri-si-energizante/hell-ice-coffee-double-espresso-250ml",
-   "domeniu": "promoazi.ro",
-   "pret": "5.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:21:30+00:00",
-   "vazut": "2026-11-27T10:21:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/energizant-coffee-espresso-hell-24-x-250-ml.html",
    "domeniu": "vivomarket.ro",
    "pret": "168.96",
@@ -46,6 +19,33 @@
    "vazut": "2026-11-27T12:21:54+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hell Ice Coffee Double Espresso, 0.25 l"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/bautura-energizanta-hell-double-espresso-250ml?srsltid=AYCX9vKCq2iIuMFIvsicD9UXggWZ66IPPmGXs9MPtVKA8TAekq4A0awh",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "7.98",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:28:35+00:00",
+   "vazut": "2026-11-27T16:28:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/hell-double-espresso-250ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:28:38+00:00",
+   "vazut": "2026-11-27T16:28:38+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/ceaiuri-si-energizante/hell-ice-coffee-double-espresso-250ml",
+   "domeniu": "promoazi.ro",
+   "pret": "5.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:28:40+00:00",
+   "vazut": "2026-11-27T16:28:40+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

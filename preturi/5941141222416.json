@@ -6,8 +6,8 @@
    "domeniu": "comenzi.bebetei.ro",
    "pret": "9.00",
    "stare": "ok",
-   "verificat": "2026-11-27T10:27:02+00:00",
-   "vazut": "2026-11-27T10:27:02+00:00",
+   "verificat": "2026-11-27T16:33:58+00:00",
+   "vazut": "2026-11-27T16:33:58+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +15,17 @@
    "domeniu": "plingo.ro",
    "pret": "10.55",
    "stare": "ok",
-   "verificat": "2026-11-27T10:27:04+00:00",
-   "vazut": "2026-11-27T10:27:04+00:00",
+   "verificat": "2026-11-27T16:34:00+00:00",
+   "vazut": "2026-11-27T16:34:00+00:00",
    "metoda": "cautare_google"
   },
   {
    "url": "https://www.dovermedfarma.ro/fares-ceai-tei-n165-x-20plic?srsltid=AYCX9vL1Oj1L3wkHc_S0BrKsXBslmRlfFaC6MqK0TG52dikGh8o6Ck5z",
    "domeniu": "dovermedfarma.ro",
    "pret": "9.20",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T10:27:06+00:00",
-   "vazut": "2026-11-26T22:13:34+00:00",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:34:02+00:00",
+   "vazut": "2026-11-27T16:34:02+00:00",
    "metoda": "cautare_google"
   }
  ]
