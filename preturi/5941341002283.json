@@ -2,15 +2,6 @@
  "ean": "5941341002283",
  "preturi": [
   {
-   "url": "https://conservat.ro/pateuri-de-pui/565-scandia-sibiu-pate-de-pui-120g-5941341002283.html?srsltid=AYCX9vLu4n7vDJ4BlwoSDKR4tcWpPpj8wTX0yQtLQd3YkLcMtaDPtfn0",
-   "domeniu": "conservat.ro",
-   "pret": "6.61",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:40:24+00:00",
-   "vazut": "2026-11-27T16:40:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pate-integral-de-pui-scandia-sibiu-120g/p",
    "domeniu": "auchan.ro",
    "pret": "4.41",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Conserva pate integral de pui Scandia Sibiu, 120 g",
    "pret_vechi": "5.19"
+  },
+  {
+   "url": "https://conservat.ro/pateuri-de-pui/565-scandia-sibiu-pate-de-pui-120g-5941341002283.html?srsltid=AYCX9vLu4n7vDJ4BlwoSDKR4tcWpPpj8wTX0yQtLQd3YkLcMtaDPtfn0",
+   "domeniu": "conservat.ro",
+   "pret": "6.61",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:46:07+00:00",
+   "vazut": "2026-11-27T22:46:07+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
