@@ -2,33 +2,6 @@
  "ean": "5941882807118",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-dietetice/rondele-din-orez-cu-glazura-de-cacao-fara-zahar-66-g-sanovita-p376545",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "4.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:30:28+00:00",
-   "vazut": "2026-11-26T22:30:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.farmaciamorpheus.ro/produs/rondele-orez-cu-cacao-fara-zahar-66-g-sanovita-o23111/?srsltid=AYCX9vLPKizqWiT6uRVbUsMm5J0S2McqJoE9yhuW1YGsvRD_Z5OvmqWB",
-   "domeniu": "farmaciamorpheus.ro",
-   "pret": "4.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:30:32+00:00",
-   "vazut": "2026-11-26T22:30:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.trifolia.ro/alimentare/rondele-din-orez-cu-cacao-fara-zahar-66-g.html?srsltid=AYCX9vJavtuYXr90W-v2vJcHwHwklX9IUjUHpVbBlHAXjJlCg4_hHopa",
-   "domeniu": "trifolia.ro",
-   "pret": "6.30",
-   "stare": "ok",
-   "verificat": "2026-11-26T23:23:07+00:00",
-   "vazut": "2026-11-26T23:23:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rondele-din-orez-expandat-cu-glazura-de-cacao-sano-vita-66-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.19",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-27T01:58:53+00:00",
    "metoda": "auchan_catalog",
    "nume": "Rondele din orez cu glazura de cacao fara zahar SanoVita, 66 g"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-dietetice/rondele-din-orez-cu-glazura-de-cacao-fara-zahar-66-g-sanovita-p376545",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "4.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:43:13+00:00",
+   "vazut": "2026-11-27T10:43:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.farmaciamorpheus.ro/produs/rondele-orez-cu-cacao-fara-zahar-66-g-sanovita-o23111/?srsltid=AYCX9vLPKizqWiT6uRVbUsMm5J0S2McqJoE9yhuW1YGsvRD_Z5OvmqWB",
+   "domeniu": "farmaciamorpheus.ro",
+   "pret": "4.79",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:43:17+00:00",
+   "vazut": "2026-11-27T10:43:17+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/rondele-din-orez-cu-cacao-fara-zahar-66-g.html?srsltid=AYCX9vJavtuYXr90W-v2vJcHwHwklX9IUjUHpVbBlHAXjJlCg4_hHopa",
+   "domeniu": "trifolia.ro",
+   "pret": "6.30",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:43:19+00:00",
+   "vazut": "2026-11-27T10:43:19+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

@@ -2,15 +2,6 @@
  "ean": "5941875900420",
  "preturi": [
   {
-   "url": "https://promoazi.ro/iaurturi/olympus-greek-yoghurt-10-150g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:29:19+00:00",
-   "vazut": "2026-11-26T22:29:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/iaurt-grecesc-olympus-150-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.79",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T01:58:31+00:00",
    "metoda": "auchan_catalog",
    "nume": "Iaurt grecesc Olympus, 10% grasime, 150 g"
+  },
+  {
+   "url": "https://promoazi.ro/iaurturi/olympus-greek-yoghurt-10-150g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.79",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:41:58+00:00",
+   "vazut": "2026-11-27T10:41:58+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

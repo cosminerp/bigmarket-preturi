@@ -2,33 +2,6 @@
  "ean": "5941882802328",
  "preturi": [
   {
-   "url": "http://www.naturisti.ro/cumpara/zahar-brut-din-trestie-500g-7746065?srsltid=AYCX9vISokBamw3JizLT0ZOIRDUnuTuJ7W8lbBa7XMoRsC8aw0ty2eeF",
-   "domeniu": "naturisti.ro",
-   "pret": "9.95",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:29:29+00:00",
-   "vazut": "2026-11-26T22:29:29+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/zahar-si-indulcitori/zahar-brut-din-trestie-500-g-sanovita-p109486",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:29:32+00:00",
-   "vazut": "2026-11-26T22:29:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/zahar-brut-500g-sanovita/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:29:34+00:00",
-   "vazut": "2026-11-26T22:29:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/zahar-brut-din-trestie-de-zahar-sano-vita-500-g/p",
    "domeniu": "auchan.ro",
    "pret": "6.29",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-27T01:44:38+00:00",
    "metoda": "auchan_catalog",
    "nume": "Zahar brut din trestie SanoVita, 500 g"
+  },
+  {
+   "url": "http://www.naturisti.ro/cumpara/zahar-brut-din-trestie-500g-7746065?srsltid=AYCX9vISokBamw3JizLT0ZOIRDUnuTuJ7W8lbBa7XMoRsC8aw0ty2eeF",
+   "domeniu": "naturisti.ro",
+   "pret": "9.95",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:42:07+00:00",
+   "vazut": "2026-11-27T10:42:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/zahar-si-indulcitori/zahar-brut-din-trestie-500-g-sanovita-p109486",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:42:09+00:00",
+   "vazut": "2026-11-27T10:42:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/zahar-brut-500g-sanovita/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:42:12+00:00",
+   "vazut": "2026-11-27T10:42:12+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
