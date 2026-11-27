@@ -2,15 +2,6 @@
  "ean": "5941006101658",
  "preturi": [
   {
-   "url": "https://promoazi.ro/biscuiti/biscuiti-crema-aroma-lamaie-eugenia-dobrogea-36g",
-   "domeniu": "promoazi.ro",
-   "pret": "1.39",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:31:16+00:00",
-   "vazut": "2026-11-27T16:31:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/biscuiti-eugenia-dobrogea-cu-crema-de-lamaie-36-g/p",
    "domeniu": "auchan.ro",
    "pret": "1.39",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Biscuiti cu crema cu aroma de lamaie Eugenia Dobrogea, 36 g",
    "pret_vechi": "1.69"
+  },
+  {
+   "url": "https://promoazi.ro/biscuiti/biscuiti-crema-aroma-lamaie-eugenia-dobrogea-36g",
+   "domeniu": "promoazi.ro",
+   "pret": "1.39",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:35:05+00:00",
+   "vazut": "2026-11-27T22:35:05+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

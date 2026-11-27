@@ -2,15 +2,6 @@
  "ean": "5941000025226",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/star-mix-3-green-90gr-18buc-bax-5941000025226",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.05",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:30:06+00:00",
-   "vazut": "2026-11-27T16:30:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/snacks-star-mix-verde-cu-pizza-paprika-si-branza-90-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.79",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T21:25:19+00:00",
    "metoda": "auchan_catalog",
    "nume": "Snacks Star mix verde cu pizza, cascaval si paprika, 90 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/star-mix-3-green-90gr-18buc-bax-5941000025226",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.05",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:33:57+00:00",
+   "vazut": "2026-11-27T22:33:57+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
