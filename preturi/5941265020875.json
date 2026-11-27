@@ -2,16 +2,6 @@
  "ean": "5941265020875",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/salam-de-sibiu-cris-tim-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "10.19",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:00:21+00:00",
-   "vazut": "2026-11-26T17:00:21+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Salam de Sibiu Cris-Tim, 100 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/salam-de-sibiu-100g-cristim-2/",
    "domeniu": "pacomarket.ro",
    "pret": "7.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T22:15:32+00:00",
    "vazut": "2026-11-26T22:15:32+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/salam-de-sibiu-cris-tim-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.19",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:57:22+00:00",
+   "vazut": "2026-11-27T01:57:22+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Salam de Sibiu Cris-Tim, 100 g"
   }
  ]
 }

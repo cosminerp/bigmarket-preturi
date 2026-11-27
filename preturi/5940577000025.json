@@ -2,16 +2,6 @@
  "ean": "5940577000025",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-energizanta-cu-mere-hell-0-25l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:02:54+00:00",
-   "vazut": "2026-11-26T17:02:54+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura energizanta cu mere Hell, 0.25 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/hell-energizant-gust-mar-250ml/",
    "domeniu": "pacomarket.ro",
    "pret": "3.95",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T22:05:59+00:00",
    "vazut": "2026-11-26T22:05:59+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-energizanta-cu-mere-hell-0-25l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T02:00:07+00:00",
+   "vazut": "2026-11-27T02:00:07+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura energizanta cu mere Hell, 0.25 l"
   }
  ]
 }

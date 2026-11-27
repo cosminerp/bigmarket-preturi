@@ -2,16 +2,6 @@
  "ean": "5941882806296",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/rondele-simple-din-orez-sano-vita-56-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.39",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:05:47+00:00",
-   "vazut": "2026-11-26T17:05:47+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Rondele simple din orez SanoVita, 56 g"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-simple-56-g-7755279?srsltid=AYCX9vLzf_FWIYAQc6fdqZvgoqtvGBzNNwM8NPUDIpu1kZTgUuxRj4bL",
    "domeniu": "naturisti.ro",
    "pret": "2.77",
@@ -55,6 +45,16 @@
    "verificat": "2026-11-26T23:14:25+00:00",
    "vazut": "2026-11-26T23:14:25+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/rondele-simple-din-orez-sano-vita-56-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.39",
+   "stare": "ok",
+   "verificat": "2026-11-27T02:03:10+00:00",
+   "vazut": "2026-11-27T02:03:10+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Rondele simple din orez SanoVita, 56 g"
   }
  ]
 }

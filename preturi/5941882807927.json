@@ -2,16 +2,6 @@
  "ean": "5941882807927",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-cu-aroma-de-fructul-pasiunii-bundaberg-0-375l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:07:53+00:00",
-   "vazut": "2026-11-26T17:07:53+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa cu aroma de fructul pasiunii Bundaberg, 0.375 l"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/bauturi-carbogazoase/bautura-carbogazoasa-cu-suc-de-fructul-pasiunii-375-ml-bundaberg-p410449",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "9.78",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T22:30:58+00:00",
    "vazut": "2026-11-26T22:30:58+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-cu-aroma-de-fructul-pasiunii-bundaberg-0-375l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T02:05:24+00:00",
+   "vazut": "2026-11-27T02:05:24+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa cu aroma de fructul pasiunii Bundaberg, 0.375 l"
   }
  ]
 }

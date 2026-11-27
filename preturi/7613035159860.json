@@ -2,16 +2,6 @@
  "ean": "7613035159860",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ciocolata-de-menaj-neagra-nestle-dessert-noir-205g/p",
-   "domeniu": "auchan.ro",
-   "pret": "24.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:50:28+00:00",
-   "vazut": "2026-11-26T16:50:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ciocolata de menaj neagra, Nestle Dessert Noir, 205g"
-  },
-  {
    "url": "https://www.vivomarket.ro/bacanie/ciocolata-cu-52-cacao-pentru-deserturi-205-g-nestle.html",
    "domeniu": "vivomarket.ro",
    "pret": "33.46",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T23:15:43+00:00",
    "vazut": "2026-11-26T23:15:43+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ciocolata-de-menaj-neagra-nestle-dessert-noir-205g/p",
+   "domeniu": "auchan.ro",
+   "pret": "24.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:46:18+00:00",
+   "vazut": "2026-11-27T01:46:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ciocolata de menaj neagra, Nestle Dessert Noir, 205g"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5941905049372",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/kefir-din-lapte-de-capra-artesana-350-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "13.29",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:03:12+00:00",
-   "vazut": "2026-11-26T17:03:12+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Kefir din lapte de capra Artesana, 350 ml"
-  },
-  {
    "url": "https://promoazi.ro/iaurturi/kefir-lapte-capra-min-3-grasime-350ml",
    "domeniu": "promoazi.ro",
    "pret": "13.89",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T22:31:31+00:00",
    "vazut": "2026-11-26T22:31:31+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/kefir-din-lapte-de-capra-artesana-350-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "13.29",
+   "stare": "ok",
+   "verificat": "2026-11-27T02:00:24+00:00",
+   "vazut": "2026-11-27T02:00:24+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Kefir din lapte de capra Artesana, 350 ml"
   }
  ]
 }

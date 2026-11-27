@@ -2,16 +2,6 @@
  "ean": "5942045115507",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-tuborg-0-75l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.15",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:59:32+00:00",
-   "vazut": "2026-11-26T16:59:32+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Tuborg, 0.75 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/tuborg-bere-nrb-750ml/",
    "domeniu": "pacomarket.ro",
    "pret": "9.45",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T22:33:30+00:00",
    "vazut": "2026-11-26T22:33:30+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-tuborg-0-75l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.15",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:56:26+00:00",
+   "vazut": "2026-11-27T01:56:26+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Tuborg, 0.75 l"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "5942084508469",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/vin-alb-demisec-schwaben-wein-feteasca-regala-0-75l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "19.89",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:52:47+00:00",
-   "vazut": "2026-11-26T16:52:47+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Vin alb demisec Schwaben Wein, Feteasca Regala 0.75 l"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/vin-alb-schwaben-feteasca-regala-demisec-0-75l.html",
    "domeniu": "vivomarket.ro",
    "pret": "24.42",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T22:45:43+00:00",
    "vazut": "2026-11-26T22:45:43+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/vin-alb-demisec-schwaben-wein-feteasca-regala-0-75l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "19.89",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:48:50+00:00",
+   "vazut": "2026-11-27T01:48:50+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Vin alb demisec Schwaben Wein, Feteasca Regala 0.75 l"
   }
  ]
 }

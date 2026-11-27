@@ -2,16 +2,6 @@
  "ean": "5941132022384",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/gustare-de-ovaz-cu-zmeura-dr-oetker-55-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.69",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:03:28+00:00",
-   "vazut": "2026-11-26T17:03:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Mix pentru gustare de ovaz cu zmeura Dr.Oetker Vitalis, 55 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/gustare-de-ovaz-cu-zmeura-55g/",
    "domeniu": "pacomarket.ro",
    "pret": "5.25",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-26T22:12:41+00:00",
    "vazut": "2026-11-26T22:12:41+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/gustare-de-ovaz-cu-zmeura-dr-oetker-55-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.69",
+   "stare": "ok",
+   "verificat": "2026-11-27T02:00:40+00:00",
+   "vazut": "2026-11-27T02:00:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Mix pentru gustare de ovaz cu zmeura Dr.Oetker Vitalis, 55 g"
   }
  ]
 }

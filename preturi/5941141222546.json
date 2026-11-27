@@ -2,17 +2,6 @@
  "ean": "5941141222546",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/ceai-fares-cu-fructe-de-padure-40-g-20-de-plicuri/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:52:42+00:00",
-   "vazut": "2026-11-26T16:52:42+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Ceai Fares cu fructe de padure 40 g / 20 de plicuri",
-   "pret_vechi": "4.99"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/ceaiuri/ceai-fructe-de-padure-aromfruct-20-plicuri-fares-p302104",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "5.50",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-26T22:13:40+00:00",
    "vazut": "2026-11-26T22:13:40+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/ceai-fares-cu-fructe-de-padure-40-g-20-de-plicuri/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:48:46+00:00",
+   "vazut": "2026-11-27T01:48:46+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Ceai Fares cu fructe de padure 40 g / 20 de plicuri",
+   "pret_vechi": "4.99"
   }
  ]
 }

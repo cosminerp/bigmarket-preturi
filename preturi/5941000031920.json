@@ -2,16 +2,6 @@
  "ean": "5941000031920",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-cascaval-lay-s-125-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:00:17+00:00",
-   "vazut": "2026-11-26T17:00:17+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu aroma de cascaval Lay's, 125 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-chips-cheese-125gr-21buc-bax-5941000031920",
    "domeniu": "snaemarket.ro",
    "pret": "6.50",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T22:08:37+00:00",
    "vazut": "2026-11-26T22:08:37+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-cascaval-lay-s-125-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:57:17+00:00",
+   "vazut": "2026-11-27T01:57:17+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu aroma de cascaval Lay's, 125 g"
   }
  ]
 }

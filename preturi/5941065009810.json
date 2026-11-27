@@ -2,17 +2,6 @@
  "ean": "5941065009810",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/lapte-de-consum-bio-napolact-3-8-grasime-1-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:46:47+00:00",
-   "vazut": "2026-11-26T16:46:47+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Lapte de consum integral BIO Napolact, 3.8% grasime, 1 l",
-   "pret_vechi": "10.79"
-  },
-  {
    "url": "https://pacomarket.ro/product/lapte-eco-3-8-napolact-cutie-1l/",
    "domeniu": "pacomarket.ro",
    "pret": "15.99",
@@ -29,6 +18,17 @@
    "verificat": "2026-11-26T22:10:28+00:00",
    "vazut": "2026-11-26T22:10:28+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/lapte-de-consum-bio-napolact-3-8-grasime-1-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:42:16+00:00",
+   "vazut": "2026-11-27T01:42:16+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Lapte de consum integral BIO Napolact, 3.8% grasime, 1 l",
+   "pret_vechi": "10.79"
   }
  ]
 }

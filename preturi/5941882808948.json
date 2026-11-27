@@ -2,16 +2,6 @@
  "ean": "5941882808948",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/biscuiti-cu-cocos-si-chia-fara-zahar-adaugat-sanovita-100g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:52:37+00:00",
-   "vazut": "2026-11-26T16:52:37+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Biscuiti cu cocos si chia fara zahar adaugat SanoVita, 100 g"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/biscuiti-si-snack-uri/biscuiti-cu-cocos-roscove-si-chia-100-g-sanovita-p478560",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "12.50",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T22:31:12+00:00",
    "vazut": "2026-11-26T22:31:12+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/biscuiti-cu-cocos-si-chia-fara-zahar-adaugat-sanovita-100g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:48:40+00:00",
+   "vazut": "2026-11-27T01:48:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Biscuiti cu cocos si chia fara zahar adaugat SanoVita, 100 g"
   }
  ]
 }

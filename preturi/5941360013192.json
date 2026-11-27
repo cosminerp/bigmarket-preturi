@@ -2,16 +2,6 @@
  "ean": "5941360013192",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/telemea-de-vaca-delaco-in-saramura-400-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "24.39",
-   "stare": "ok",
-   "verificat": "2026-11-26T16:49:02+00:00",
-   "vazut": "2026-11-26T16:49:02+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Telemea de vaca in saramura Delaco, 400 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/delaco-telemea-vaca-cutie-400-g/",
    "domeniu": "pacomarket.ro",
    "pret": "22.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T22:20:58+00:00",
    "vazut": "2026-11-26T22:20:58+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/telemea-de-vaca-delaco-in-saramura-400-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "24.39",
+   "stare": "ok",
+   "verificat": "2026-11-27T01:44:40+00:00",
+   "vazut": "2026-11-27T01:44:40+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Telemea de vaca in saramura Delaco, 400 g"
   }
  ]
 }

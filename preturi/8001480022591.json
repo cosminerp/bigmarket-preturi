@@ -2,16 +2,6 @@
  "ean": "8001480022591",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/inalbitor-ace-regular-2-l/p",
-   "domeniu": "auchan.ro",
-   "pret": "11.79",
-   "stare": "ok",
-   "verificat": "2026-11-26T17:06:28+00:00",
-   "vazut": "2026-11-26T17:06:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Inalbitor Ace regular 2 l"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/detergenti/ace-clor-2l-8001480022591",
    "domeniu": "snaemarket.ro",
    "pret": "10.47",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-26T23:21:09+00:00",
    "vazut": "2026-11-26T23:21:09+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/inalbitor-ace-regular-2-l/p",
+   "domeniu": "auchan.ro",
+   "pret": "11.79",
+   "stare": "ok",
+   "verificat": "2026-11-27T02:03:56+00:00",
+   "vazut": "2026-11-27T02:03:56+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Inalbitor Ace regular 2 l"
   }
  ]
 }
