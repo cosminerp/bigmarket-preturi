@@ -2,24 +2,6 @@
  "ean": "5949040202508",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/toortitzi-cu-mix-de-seminte-180g-12buc-bax-5949040202508",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.22",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T11:01:30+00:00",
-   "vazut": "2026-11-18T11:37:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/rondele-alka-tortizzi-cu-semin-e-180-g?srsltid=AYCX9vJgejl5NJ5cNkTFA5O-grq-UGIPfcuQlTLVaBLmMsWW4jvL0AWC",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "7.94",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:01:35+00:00",
-   "vazut": "2026-11-27T11:01:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/toortitzi-alka-cu-mix-de-seminte-180-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.99",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T12:25:03+00:00",
    "metoda": "auchan_catalog",
    "nume": "Toortitzi Alka cu mix de seminte, 180 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/toortitzi-cu-mix-de-seminte-180g-12buc-bax-5949040202508",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.22",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T17:10:23+00:00",
+   "vazut": "2026-11-18T11:37:27+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/rondele-alka-tortizzi-cu-semin-e-180-g?srsltid=AYCX9vJgejl5NJ5cNkTFA5O-grq-UGIPfcuQlTLVaBLmMsWW4jvL0AWC",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "7.94",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:10:25+00:00",
+   "vazut": "2026-11-27T17:10:25+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

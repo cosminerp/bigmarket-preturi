@@ -2,24 +2,6 @@
  "ean": "5942321000688",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/apa-minerala-poiana-negri-apriga-2l-pet/",
-   "domeniu": "pacomarket.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:52:01+00:00",
-   "vazut": "2026-11-27T10:52:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://lorimermarket.ro/product/dorna-poiana-negri-apa-minerala/",
-   "domeniu": "lorimermarket.ro",
-   "pret": "3.50",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T10:52:03+00:00",
-   "vazut": "2026-11-26T03:33:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/apa-carbogazoasa-poiana-negri-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.25",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T12:21:49+00:00",
    "metoda": "auchan_catalog",
    "nume": "Apa minerala naturala carbogazoasa Dorna Poiana Negri Apriga, 2 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/apa-minerala-poiana-negri-apriga-2l-pet/",
+   "domeniu": "pacomarket.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:03:12+00:00",
+   "vazut": "2026-11-27T17:03:12+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://lorimermarket.ro/product/dorna-poiana-negri-apa-minerala/",
+   "domeniu": "lorimermarket.ro",
+   "pret": "3.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:03:15+00:00",
+   "vazut": "2026-11-27T17:03:15+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
