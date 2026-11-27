@@ -2,15 +2,6 @@
  "ean": "5949034315559",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/petshop/hrana-umeda-pentru-caini-adulti-cu-vita-1-24-kg-lolo.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "10.22",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:10:08+00:00",
-   "vazut": "2026-11-27T17:10:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hrana-umeda-pentru-caini-adulti-lolo-vita-1-24-kg/p",
    "domeniu": "auchan.ro",
    "pret": "8.99",
@@ -28,6 +19,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T23:18:45+00:00",
    "vazut": "2026-11-27T23:18:45+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/petshop/hrana-umeda-pentru-caini-adulti-cu-vita-1-24-kg-lolo.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "10.22",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:20:45+00:00",
+   "vazut": "2026-11-27T23:20:45+00:00",
    "metoda": "cautare_google"
   }
  ]

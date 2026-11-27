@@ -2,42 +2,6 @@
  "ean": "59492597",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/coca-cola-330ml-nrg/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:14:19+00:00",
-   "vazut": "2026-11-27T17:14:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-ciob-330ml-sgr-12buc-bax-59492597",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.96",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:14:22+00:00",
-   "vazut": "2026-11-27T17:14:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/coca-cola-330ml-nrg/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:14:25+00:00",
-   "vazut": "2026-11-27T17:14:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-ciob-330ml-sgr-12buc-bax-59492597",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.96",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:14:28+00:00",
-   "vazut": "2026-11-27T17:14:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/bautura-carbogazoasa-sticla-12-x-033-l-coca-cola.html",
    "domeniu": "vivomarket.ro",
    "pret": "99.90",
@@ -55,6 +19,42 @@
    "vazut": "2026-11-27T21:20:42+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Coca-Cola Gust Original, 0.33 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/coca-cola-330ml-nrg/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:23:23+00:00",
+   "vazut": "2026-11-27T23:23:23+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-ciob-330ml-sgr-12buc-bax-59492597",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.96",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:23:26+00:00",
+   "vazut": "2026-11-27T23:23:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/coca-cola-330ml-nrg/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:23:29+00:00",
+   "vazut": "2026-11-27T23:23:29+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/coca-cola-ciob-330ml-sgr-12buc-bax-59492597",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.96",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:23:32+00:00",
+   "vazut": "2026-11-27T23:23:32+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

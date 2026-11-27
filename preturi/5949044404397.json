@@ -2,15 +2,6 @@
  "ean": "5949044404397",
  "preturi": [
   {
-   "url": "https://promoazi.ro/smantana/bautura-vegetala-pe-baza-migdale-muller-fara-zahar-1l",
-   "domeniu": "promoazi.ro",
-   "pret": "9.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:12:24+00:00",
-   "vazut": "2026-11-27T17:12:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bacanie/bautura-vegetala-pe-baza-de-migdale-fara-zaharuri-muller-1l.html",
    "domeniu": "vivomarket.ro",
    "pret": "14.38",
@@ -29,6 +20,15 @@
    "metoda": "auchan_catalog",
    "nume": "Bautura vegetala pe baza de migdale Muller, fara zahar, 1 l",
    "pret_vechi": "16.49"
+  },
+  {
+   "url": "https://promoazi.ro/smantana/bautura-vegetala-pe-baza-migdale-muller-fara-zahar-1l",
+   "domeniu": "promoazi.ro",
+   "pret": "9.89",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:21:10+00:00",
+   "vazut": "2026-11-27T23:21:10+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
