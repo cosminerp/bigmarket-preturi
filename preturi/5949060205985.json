@@ -11,24 +11,6 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://pc-pet.ro/products/hrana-umeda-completa-pisici-adulte-vita-in-sos-miau-miau-100g?srsltid=AYCX9vLu76JRhWcE0Skg85ciukYLz-1tLYzd4Y5bcBooBold_xf5zZwQ",
-   "domeniu": "pc-pet.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:49:51+00:00",
-   "vazut": "2026-11-26T22:49:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://jesypet.ro/produs/plicuri-miau-miau-cu-vita-100-g/?srsltid=AYCX9vKhJ4fTCx7Nzeyb2iAn3PrpDjFWWsQwhRjQ6Cpayb_F678LeaSh",
-   "domeniu": "jesypet.ro",
-   "pret": "1.70",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:49:55+00:00",
-   "vazut": "2026-11-26T22:49:55+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/hrana-umeda-pisica-miau-miau-cu-carne-de-vita-100g/p",
    "domeniu": "auchan.ro",
    "pret": "1.99",
@@ -37,6 +19,24 @@
    "vazut": "2026-11-27T01:58:32+00:00",
    "metoda": "auchan_catalog",
    "nume": "Hrana umeda pentru pisici Miau Miau cu carne de vita, 100 g"
+  },
+  {
+   "url": "https://pc-pet.ro/products/hrana-umeda-completa-pisici-adulte-vita-in-sos-miau-miau-100g?srsltid=AYCX9vLu76JRhWcE0Skg85ciukYLz-1tLYzd4Y5bcBooBold_xf5zZwQ",
+   "domeniu": "pc-pet.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T11:02:44+00:00",
+   "vazut": "2026-11-27T11:02:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://jesypet.ro/produs/plicuri-miau-miau-cu-vita-100-g/?srsltid=AYCX9vKhJ4fTCx7Nzeyb2iAn3PrpDjFWWsQwhRjQ6Cpayb_F678LeaSh",
+   "domeniu": "jesypet.ro",
+   "pret": "1.70",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T11:02:46+00:00",
+   "vazut": "2026-11-26T22:49:55+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

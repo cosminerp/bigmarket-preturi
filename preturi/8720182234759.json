@@ -2,15 +2,6 @@
  "ean": "8720182234759",
  "preturi": [
   {
-   "url": "https://www.zozocafe.ro/bors-magic-delikat-20g",
-   "domeniu": "zozocafe.ro",
-   "pret": "2.88",
-   "stare": "ok",
-   "verificat": "2026-11-26T23:17:46+00:00",
-   "vazut": "2026-11-26T23:17:46+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bors-magic-delikat-20g/p",
    "domeniu": "auchan.ro",
    "pret": "2.47",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Bors Magic Delikat, 20g",
    "pret_vechi": "3.29"
+  },
+  {
+   "url": "https://www.zozocafe.ro/bors-magic-delikat-20g",
+   "domeniu": "zozocafe.ro",
+   "pret": "2.88",
+   "stare": "ok",
+   "verificat": "2026-11-27T11:24:23+00:00",
+   "vazut": "2026-11-27T11:24:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

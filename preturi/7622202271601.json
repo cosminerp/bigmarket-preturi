@@ -2,15 +2,6 @@
  "ean": "7622202271601",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/ciocolata-milka-cu-lapte-tableta-100g?srsltid=AYCX9vKLnYavqYYvskw36rzbQRuMed1mhcQxMyvTNo7GzL1SlOWRZ9Qf",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "8.74",
-   "stare": "ok",
-   "verificat": "2026-11-26T23:04:48+00:00",
-   "vazut": "2026-11-26T23:04:48+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ciocolata-cu-lapte-milka-90-g/p",
    "domeniu": "auchan.ro",
    "pret": "9.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T01:59:38+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ciocolata cu lapte Milka, 90 g"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/ciocolata-milka-cu-lapte-tableta-100g?srsltid=AYCX9vKLnYavqYYvskw36rzbQRuMed1mhcQxMyvTNo7GzL1SlOWRZ9Qf",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "8.74",
+   "stare": "ok",
+   "verificat": "2026-11-27T11:13:58+00:00",
+   "vazut": "2026-11-27T11:13:58+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

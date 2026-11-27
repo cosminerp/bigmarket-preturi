@@ -2,15 +2,6 @@
  "ean": "8076809579438",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/alimente-de-baza/barilla-tagliatelle-cu-ou-lc-450-g-8076809579438",
-   "domeniu": "snaemarket.ro",
-   "pret": "11.30",
-   "stare": "ok",
-   "verificat": "2026-11-26T23:08:53+00:00",
-   "vazut": "2026-11-26T23:08:53+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/tagliatelle-cu-ou-barilla-500g/p",
    "domeniu": "auchan.ro",
    "pret": "11.79",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T01:44:20+00:00",
    "metoda": "auchan_catalog",
    "nume": "Tagliatelle cu ou Barilla, 450 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/alimente-de-baza/barilla-tagliatelle-cu-ou-lc-450-g-8076809579438",
+   "domeniu": "snaemarket.ro",
+   "pret": "11.30",
+   "stare": "ok",
+   "verificat": "2026-11-27T11:18:26+00:00",
+   "vazut": "2026-11-27T11:18:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
