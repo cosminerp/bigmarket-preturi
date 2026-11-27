@@ -2,24 +2,6 @@
  "ean": "5941487001706",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/arpacas-din-grau-1kg-boromir/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:47:05+00:00",
-   "vazut": "2026-11-27T16:47:05+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://shop.geneza-comimpex.ro/arpaca-boromir-1-kg?srsltid=AYCX9vJZGRkOtEk89UfAg_CeUwZcfK4VOXDmDJSxjo2_Zs0ESw1dVzRY",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "4.25",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:47:07+00:00",
-   "vazut": "2026-11-27T16:47:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/arpacas-boromir-1-kg/p",
    "domeniu": "auchan.ro",
    "pret": "4.95",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T21:10:12+00:00",
    "metoda": "auchan_catalog",
    "nume": "Arpacas Boromir, 1 Kg"
+  },
+  {
+   "url": "https://pacomarket.ro/product/arpacas-din-grau-1kg-boromir/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:52:59+00:00",
+   "vazut": "2026-11-27T22:52:59+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/arpaca-boromir-1-kg?srsltid=AYCX9vJZGRkOtEk89UfAg_CeUwZcfK4VOXDmDJSxjo2_Zs0ESw1dVzRY",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "4.25",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:53:01+00:00",
+   "vazut": "2026-11-27T22:53:01+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

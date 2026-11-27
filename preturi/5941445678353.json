@@ -2,15 +2,6 @@
  "ean": "5941445678353",
  "preturi": [
   {
-   "url": "https://promoazi.ro/dulciuri-si-snacks/chio-tortillas-sare110g",
-   "domeniu": "promoazi.ro",
-   "pret": "11.19",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:45:27+00:00",
-   "vazut": "2026-11-27T16:45:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/tortilla-chips-cu-sare-chio-110g/p",
    "domeniu": "auchan.ro",
    "pret": "11.19",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T21:12:50+00:00",
    "metoda": "auchan_catalog",
    "nume": "Tortilla chips cu sare Chio, 110 g"
+  },
+  {
+   "url": "https://promoazi.ro/dulciuri-si-snacks/chio-tortillas-sare110g",
+   "domeniu": "promoazi.ro",
+   "pret": "11.19",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:51:22+00:00",
+   "vazut": "2026-11-27T22:51:22+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
