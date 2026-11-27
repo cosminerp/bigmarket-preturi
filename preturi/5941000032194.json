@@ -2,15 +2,6 @@
  "ean": "5941000032194",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-baked-salt-105gr-24buc-bax-5941000032194",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:08:45+00:00",
-   "vazut": "2026-11-26T22:08:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-sare-rumeniti-in-cuptor-lays-105/p",
    "domeniu": "auchan.ro",
    "pret": "7.19",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu sare rumeniti in cuptor Lay's, 105 g",
    "pret_vechi": "8.99"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-baked-salt-105gr-24buc-bax-5941000032194",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:23:41+00:00",
+   "vazut": "2026-11-27T10:23:41+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

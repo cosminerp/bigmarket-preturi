@@ -2,24 +2,6 @@
  "ean": "5941238100047",
  "preturi": [
   {
-   "url": "https://promoazi.ro/crema-de-branza/branza-topita-smantana-hochland-140g",
-   "domeniu": "promoazi.ro",
-   "pret": "7.39",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:14:59+00:00",
-   "vazut": "2026-11-26T22:14:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/tri-br-smantana-140g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "8.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:15:02+00:00",
-   "vazut": "2026-11-26T22:15:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-triunghi-smantana-140g-32.html",
    "domeniu": "eurodiscount.ro",
    "pret": "8.30",
@@ -37,6 +19,24 @@
    "vazut": "2026-11-27T01:59:35+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza topita cu smantana Hochland, 140 g"
+  },
+  {
+   "url": "https://promoazi.ro/crema-de-branza/branza-topita-smantana-hochland-140g",
+   "domeniu": "promoazi.ro",
+   "pret": "7.39",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:28:42+00:00",
+   "vazut": "2026-11-27T10:28:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/tri-br-smantana-140g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "8.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:28:45+00:00",
+   "vazut": "2026-11-27T10:28:45+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

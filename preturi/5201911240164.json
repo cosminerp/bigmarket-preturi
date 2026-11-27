@@ -2,15 +2,6 @@
  "ean": "5201911240164",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/fineti-spread-single-alune-400gr-8buc-bax-5201911240164",
-   "domeniu": "snaemarket.ro",
-   "pret": "16.70",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T22:00:20+00:00",
-   "vazut": "2026-11-18T12:47:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/crema-tartinabila-cream-line-fineti-400-g/p",
    "domeniu": "auchan.ro",
    "pret": "20.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T01:46:30+00:00",
    "metoda": "auchan_catalog",
    "nume": "Crema tartinabila Cream line Fineti 400 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/fineti-spread-single-alune-400gr-8buc-bax-5201911240164",
+   "domeniu": "snaemarket.ro",
+   "pret": "16.70",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T10:16:52+00:00",
+   "vazut": "2026-11-18T12:47:16+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

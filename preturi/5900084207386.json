@@ -2,15 +2,6 @@
  "ean": "5900084207386",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/galeo-patrunjel-10gr/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:01:06+00:00",
-   "vazut": "2026-11-26T22:01:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/frunze-de-patrunjel-galeo-10g/p",
    "domeniu": "auchan.ro",
    "pret": "2.19",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T01:47:29+00:00",
    "metoda": "auchan_catalog",
    "nume": "Frunze de patrunjel Galeo 10g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/galeo-patrunjel-10gr/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:17:26+00:00",
+   "vazut": "2026-11-27T10:17:26+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

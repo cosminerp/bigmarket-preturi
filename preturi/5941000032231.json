@@ -2,15 +2,6 @@
  "ean": "5941000032231",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-baked-yogurt-herbs-105gr-24buc-bax-5941000032231",
-   "domeniu": "snaemarket.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:08:52+00:00",
-   "vazut": "2026-11-26T22:08:52+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-iaurt-si-verdeata-rumeniti-in-cuptor-lays-105/p",
    "domeniu": "auchan.ro",
    "pret": "7.19",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu gust de iaurt si ierburi aromatice Lay's, rumeniti in cuptor, 105 g",
    "pret_vechi": "8.99"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/lay-s-baked-yogurt-herbs-105gr-24buc-bax-5941000032231",
+   "domeniu": "snaemarket.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:23:48+00:00",
+   "vazut": "2026-11-27T10:23:48+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

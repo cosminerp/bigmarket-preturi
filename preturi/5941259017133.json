@@ -2,15 +2,6 @@
  "ean": "5941259017133",
  "preturi": [
   {
-   "url": "https://promoazi.ro/mezeluri/salam-muscel-caroli-100-g",
-   "domeniu": "promoazi.ro",
-   "pret": "5.19",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:15:13+00:00",
-   "vazut": "2026-11-26T22:15:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/salam-muscel-caroli-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.19",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T01:48:26+00:00",
    "metoda": "auchan_catalog",
    "nume": "Salam Muscel Caroli, 100 g"
+  },
+  {
+   "url": "https://promoazi.ro/mezeluri/salam-muscel-caroli-100-g",
+   "domeniu": "promoazi.ro",
+   "pret": "5.19",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:28:59+00:00",
+   "vazut": "2026-11-27T10:28:59+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

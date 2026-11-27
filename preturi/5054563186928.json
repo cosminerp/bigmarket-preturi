@@ -2,33 +2,6 @@
  "ean": "5054563186928",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-orala/pasta-de-dinti/pasta-de-dinti-fluoride-fluoride-100-ml-sensodyne-p254896",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "18.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T21:57:59+00:00",
-   "vazut": "2026-11-26T21:57:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-orala/pasta-de-dinti/pasta-de-dinti-fluoride-100-ml-sensodyne-p304374",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "18.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T21:58:02+00:00",
-   "vazut": "2026-11-26T21:58:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.glosio.ro/produs/sensodyne-pasta-de-dinti-fluoride-100-ml-sensodyne-cvdidy",
-   "domeniu": "glosio.ro",
-   "pret": "17.99",
-   "stare": "ok",
-   "verificat": "2026-11-26T21:58:04+00:00",
-   "vazut": "2026-11-26T21:58:04+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/pasta-de-dinti-sensodyne-fluoride-100-ml/p",
    "domeniu": "auchan.ro",
    "pret": "23.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-27T01:44:58+00:00",
    "metoda": "auchan_catalog",
    "nume": "Pasta de dinti Sensodyne Fluoride, 100 ml"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-orala/pasta-de-dinti/pasta-de-dinti-fluoride-fluoride-100-ml-sensodyne-p254896",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "18.00",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:15:43+00:00",
+   "vazut": "2026-11-27T10:15:43+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-orala/pasta-de-dinti/pasta-de-dinti-fluoride-100-ml-sensodyne-p304374",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "18.00",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:15:46+00:00",
+   "vazut": "2026-11-27T10:15:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.glosio.ro/produs/sensodyne-pasta-de-dinti-fluoride-100-ml-sensodyne-cvdidy",
+   "domeniu": "glosio.ro",
+   "pret": "17.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:15:48+00:00",
+   "vazut": "2026-11-27T10:15:48+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

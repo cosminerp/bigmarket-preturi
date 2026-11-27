@@ -2,24 +2,6 @@
  "ean": "5941141222140",
  "preturi": [
   {
-   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/ceaiuri/ceai-de-sunatoare-n-164-20-plicuri-fares-p303176",
-   "domeniu": "comenzi.farmaciatei.ro",
-   "pret": "6.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:13:25+00:00",
-   "vazut": "2026-11-26T22:13:25+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.dovermedfarma.ro/fares-ceai-sunatoare-n164-x-20plic?srsltid=AYCX9vICa4VbYwraTBfQEsJgEhARzevRNt0lpr8fegKRezMIb9tjsfYo",
-   "domeniu": "dovermedfarma.ro",
-   "pret": "6.44",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:13:27+00:00",
-   "vazut": "2026-11-26T22:13:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ceai-fares-de-sunatoare-20-g-20-de-plicuri/p",
    "domeniu": "auchan.ro",
    "pret": "4.65",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T02:05:05+00:00",
    "metoda": "auchan_catalog",
    "nume": "Ceai Fares de sunatoare 20 g / 20 de plicuri"
+  },
+  {
+   "url": "https://comenzi.farmaciatei.ro/dieta-si-wellness/ceaiuri/ceai-de-sunatoare-n-164-20-plicuri-fares-p303176",
+   "domeniu": "comenzi.farmaciatei.ro",
+   "pret": "6.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:26:57+00:00",
+   "vazut": "2026-11-27T10:26:57+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.dovermedfarma.ro/fares-ceai-sunatoare-n164-x-20plic?srsltid=AYCX9vICa4VbYwraTBfQEsJgEhARzevRNt0lpr8fegKRezMIb9tjsfYo",
+   "domeniu": "dovermedfarma.ro",
+   "pret": "6.44",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T10:26:59+00:00",
+   "vazut": "2026-11-26T22:13:27+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

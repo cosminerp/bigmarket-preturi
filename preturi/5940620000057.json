@@ -2,33 +2,6 @@
  "ean": "5940620000057",
  "preturi": [
   {
-   "url": "https://corsomarket.ro/product/burn-energy-0-25l/?srsltid=AYCX9vLJdHuzIXre9W6jDVWRyo0Q4qu7dFZt-VfbTd-OsRLExV6TV_74",
-   "domeniu": "corsomarket.ro",
-   "pret": "5.50",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:07:13+00:00",
-   "vazut": "2026-11-26T22:07:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/burn-original-250ml-doza/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:07:16+00:00",
-   "vazut": "2026-11-26T22:07:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.edituraprestige.ro/bacanie/bautura-energizanta-burn-doza-250-ml.html",
-   "domeniu": "edituraprestige.ro",
-   "pret": "5.70",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:07:20+00:00",
-   "vazut": "2026-11-26T22:07:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-energizanta-burn-original-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.99",
@@ -37,6 +10,33 @@
    "vazut": "2026-11-27T01:55:41+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura energizanta Burn Original, 0.25 l"
+  },
+  {
+   "url": "https://corsomarket.ro/product/burn-energy-0-25l/?srsltid=AYCX9vLJdHuzIXre9W6jDVWRyo0Q4qu7dFZt-VfbTd-OsRLExV6TV_74",
+   "domeniu": "corsomarket.ro",
+   "pret": "5.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:22:08+00:00",
+   "vazut": "2026-11-27T10:22:08+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/burn-original-250ml-doza/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:22:10+00:00",
+   "vazut": "2026-11-27T10:22:10+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.edituraprestige.ro/bacanie/bautura-energizanta-burn-doza-250-ml.html",
+   "domeniu": "edituraprestige.ro",
+   "pret": "5.70",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:22:14+00:00",
+   "vazut": "2026-11-27T10:22:14+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

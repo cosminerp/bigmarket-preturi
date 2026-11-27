@@ -2,15 +2,6 @@
  "ean": "5941065004426",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/napolact-sana-prilej-de-ragaz-3-5-330g.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "6.29",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T22:10:23+00:00",
-   "vazut": "2026-11-26T16:04:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sana-napolact-3-5-grasime-330-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T01:58:52+00:00",
    "metoda": "auchan_catalog",
    "nume": "Sana Napolact 3.5% grasime, 330 g"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/napolact-sana-prilej-de-ragaz-3-5-330g.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "6.29",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T10:25:19+00:00",
+   "vazut": "2026-11-26T16:04:49+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

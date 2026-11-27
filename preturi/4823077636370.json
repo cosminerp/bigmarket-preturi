@@ -2,15 +2,6 @@
  "ean": "4823077636370",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/dulciuri-snacks/alte-dulciuri/rosh-yummi-gummi-donuts-70-gr-22buc-bax-4823077636370",
-   "domeniu": "snaemarket.ro",
-   "pret": "3.51",
-   "stare": "ok",
-   "verificat": "2026-11-26T21:56:32+00:00",
-   "vazut": "2026-11-26T21:56:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/jeleuri-in-forma-de-gogosi-cu-aroma-de-fructe-roshen-yummi-gummi-70-g/p",
    "domeniu": "auchan.ro",
    "pret": "3.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T02:04:17+00:00",
    "metoda": "auchan_catalog",
    "nume": "Jeleuri in forma de gogosi cu aroma de fructe Roshen Yummi Gummi, 70 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/dulciuri-snacks/alte-dulciuri/rosh-yummi-gummi-donuts-70-gr-22buc-bax-4823077636370",
+   "domeniu": "snaemarket.ro",
+   "pret": "3.51",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:14:06+00:00",
+   "vazut": "2026-11-27T10:14:06+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

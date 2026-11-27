@@ -2,15 +2,6 @@
  "ean": "5941311003173",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/chips/viva-chips-smantana-marar-100g-20buc-bax-5941311003173",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.51",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:16:47+00:00",
-   "vazut": "2026-11-26T22:16:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/chipsuri-cu-smantana-si-marar-viva-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T02:01:15+00:00",
    "metoda": "auchan_catalog",
    "nume": "Chipsuri cu smantana si marar Viva, 100 g"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/chips/viva-chips-smantana-marar-100g-20buc-bax-5941311003173",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.51",
+   "stare": "ok",
+   "verificat": "2026-11-27T10:30:43+00:00",
+   "vazut": "2026-11-27T10:30:43+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
