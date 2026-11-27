@@ -2,15 +2,6 @@
  "ean": "6426390753151",
  "preturi": [
   {
-   "url": "https://promoazi.ro/chips-snacks-popcorn-pufuleti/covrigei-krantz-125g",
-   "domeniu": "promoazi.ro",
-   "pret": "7.15",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:10:50+00:00",
-   "vazut": "2026-11-27T11:10:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/covrigi-crocanti-krantz-125-g/p",
    "domeniu": "auchan.ro",
    "pret": "7.15",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:17:12+00:00",
    "metoda": "auchan_catalog",
    "nume": "Covrigi crocanti Krantz, 125 g"
+  },
+  {
+   "url": "https://promoazi.ro/chips-snacks-popcorn-pufuleti/covrigei-krantz-125g",
+   "domeniu": "promoazi.ro",
+   "pret": "7.15",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:19:55+00:00",
+   "vazut": "2026-11-27T17:19:55+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

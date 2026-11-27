@@ -2,33 +2,6 @@
  "ean": "6425881211187",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-gold-60gr-25buc-bax-6425881211187",
-   "domeniu": "snaemarket.ro",
-   "pret": "1.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:10:40+00:00",
-   "vazut": "2026-11-27T11:10:40+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/snacks/pufuleti-din-cereale-lotto-snacks-60-g",
-   "domeniu": "promoazi.ro",
-   "pret": "2.69",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:10:42+00:00",
-   "vazut": "2026-11-27T11:10:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-gold-60gr-25buc-bax-6425881211187",
-   "domeniu": "snaemarket.ro",
-   "pret": "1.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:10:45+00:00",
-   "vazut": "2026-11-27T11:10:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/snacks-lotto-gold-60-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.69",
@@ -38,6 +11,33 @@
    "metoda": "auchan_catalog",
    "nume": "Pufuleti din cereale Lotto Snacks, 60 g",
    "pret_vechi": "2.99"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-gold-60gr-25buc-bax-6425881211187",
+   "domeniu": "snaemarket.ro",
+   "pret": "1.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:19:44+00:00",
+   "vazut": "2026-11-27T17:19:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/snacks/pufuleti-din-cereale-lotto-snacks-60-g",
+   "domeniu": "promoazi.ro",
+   "pret": "2.69",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:19:46+00:00",
+   "vazut": "2026-11-27T17:19:46+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-gold-60gr-25buc-bax-6425881211187",
+   "domeniu": "snaemarket.ro",
+   "pret": "1.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:19:50+00:00",
+   "vazut": "2026-11-27T17:19:50+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

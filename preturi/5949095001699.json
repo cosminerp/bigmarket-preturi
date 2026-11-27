@@ -2,15 +2,6 @@
  "ean": "5949095001699",
  "preturi": [
   {
-   "url": "https://conservat.ro/peste-la-conserva/713-peste-la-conserva-5949095001699.html?srsltid=AYCX9vJ_NQGsXW3plgBtDf-DyYPBVoDwLfaiHtnuxvk2CNJ8V2j36OPs",
-   "domeniu": "conservat.ro",
-   "pret": "12.58",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T11:03:26+00:00",
-   "vazut": "2026-11-26T22:50:23+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/macrou-in-sos-de-piper-navodul-plin-170-g/p",
    "domeniu": "auchan.ro",
    "pret": "12.59",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:24:23+00:00",
    "metoda": "auchan_catalog",
    "nume": "Macrou in sos de piper Navodul Plin, 170 g"
+  },
+  {
+   "url": "https://conservat.ro/peste-la-conserva/713-peste-la-conserva-5949095001699.html?srsltid=AYCX9vJ_NQGsXW3plgBtDf-DyYPBVoDwLfaiHtnuxvk2CNJ8V2j36OPs",
+   "domeniu": "conservat.ro",
+   "pret": "12.58",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T17:13:09+00:00",
+   "vazut": "2026-11-26T22:50:23+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
