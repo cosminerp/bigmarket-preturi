@@ -2,15 +2,6 @@
  "ean": "5202178010088",
  "preturi": [
   {
-   "url": "https://promoazi.ro/telemea/olympus-feta-cheese-200g",
-   "domeniu": "promoazi.ro",
-   "pret": "21.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:16:54+00:00",
-   "vazut": "2026-11-27T10:16:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-feta-olympus-200-g/p",
    "domeniu": "auchan.ro",
    "pret": "21.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:06:46+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza feta Olympus, 200 g"
+  },
+  {
+   "url": "https://promoazi.ro/telemea/olympus-feta-cheese-200g",
+   "domeniu": "promoazi.ro",
+   "pret": "21.89",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:22:57+00:00",
+   "vazut": "2026-11-27T16:22:57+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
