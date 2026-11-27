@@ -2,15 +2,6 @@
  "ean": "3800024049750",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/savex-det-auto-color-320g-4sp/",
-   "domeniu": "pacomarket.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:08:36+00:00",
-   "vazut": "2026-11-27T10:08:36+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/detergenti/savex-detergent-pudra-automat-color-4sp-320g-22buc-bax-3800024049750",
    "domeniu": "snaemarket.ro",
    "pret": "4.11",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T16:09:55+00:00",
    "vazut": "2026-11-27T16:09:55+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/savex-det-auto-color-320g-4sp/",
+   "domeniu": "pacomarket.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:11:19+00:00",
+   "vazut": "2026-11-27T16:11:19+00:00",
    "metoda": "cautare_google"
   }
  ]
