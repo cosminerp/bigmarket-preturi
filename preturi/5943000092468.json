@@ -2,17 +2,6 @@
  "ean": "5943000092468",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/crema-depilatoare-rapida-farmec-cu-argan/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:45:00+00:00",
-   "vazut": "2026-11-27T01:45:00+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Crema depilatoare rapida Farmec cu argan, 150 ml",
-   "pret_vechi": "11.89"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-corp/produse-epilare/crema-depilatoare-rapida-cu-ulei-de-argan-150-ml-farmec-p330731",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "14.00",
@@ -38,6 +27,17 @@
    "verificat": "2026-11-27T10:55:12+00:00",
    "vazut": "2026-11-26T03:36:37+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/crema-depilatoare-rapida-farmec-cu-argan/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:07:24+00:00",
+   "vazut": "2026-11-27T12:07:24+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Crema depilatoare rapida Farmec cu argan, 150 ml",
+   "pret_vechi": "11.89"
   }
  ]
 }

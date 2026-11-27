@@ -2,16 +2,6 @@
  "ean": "59492580",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-portocale-0-5l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:57:04+00:00",
-   "vazut": "2026-11-27T01:57:04+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura carbogazoasa Fanta Portocale, 0.5 l"
-  },
-  {
    "url": "https://www.zozocafe.ro/bautura-carbogazoasa-fanta-portocale-pet-0-5l-sgr",
    "domeniu": "zozocafe.ro",
    "pret": "5.35",
@@ -55,6 +45,16 @@
    "verificat": "2026-11-27T11:04:42+00:00",
    "vazut": "2026-11-27T11:04:42+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-carbogazoasa-fanta-portocale-0-5l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:17:57+00:00",
+   "vazut": "2026-11-27T12:17:57+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura carbogazoasa Fanta Portocale, 0.5 l"
   }
  ]
 }

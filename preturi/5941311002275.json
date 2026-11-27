@@ -2,17 +2,6 @@
  "ean": "5941311002275",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cereale-viva-cocoa-balls-250g/p",
-   "domeniu": "auchan.ro",
-   "pret": "9.44",
-   "stare": "ok",
-   "verificat": "2026-11-27T02:01:21+00:00",
-   "vazut": "2026-11-27T02:01:21+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cereale cu cacao Viva Cocoa Balls, 250 g",
-   "pret_vechi": "10.49"
-  },
-  {
    "url": "https://pacomarket.ro/product/cereale-viva-cocoa-balls-250g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "9.49",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-27T10:30:18+00:00",
    "vazut": "2026-11-27T10:30:18+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cereale-viva-cocoa-balls-250g/p",
+   "domeniu": "auchan.ro",
+   "pret": "9.44",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:21:38+00:00",
+   "vazut": "2026-11-27T12:21:38+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cereale cu cacao Viva Cocoa Balls, 250 g",
+   "pret_vechi": "10.49"
   }
  ]
 }

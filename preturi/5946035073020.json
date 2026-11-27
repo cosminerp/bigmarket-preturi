@@ -2,16 +2,6 @@
  "ean": "5946035073020",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/detartrant-clasic-nufar-1l/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T02:04:20+00:00",
-   "vazut": "2026-11-27T02:04:20+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Detartrant clasic Nufar 1L"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/nufar-detartrant-clasic-1-l-7757354?srsltid=AYCX9vIB7EHD4hBy7PnePpVaylAxi40gpLKEFa6GaK1MzA7SNpo_Ljvs",
    "domeniu": "naturisti.ro",
    "pret": "14.40",
@@ -46,6 +36,16 @@
    "verificat": "2026-11-27T11:00:45+00:00",
    "vazut": "2026-11-27T11:00:45+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/detartrant-clasic-nufar-1l/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.89",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:24:15+00:00",
+   "vazut": "2026-11-27T12:24:15+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Detartrant clasic Nufar 1L"
   }
  ]
 }

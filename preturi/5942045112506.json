@@ -2,16 +2,6 @@
  "ean": "5942045112506",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bere-blonda-tuborg-0-33l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:57:28+00:00",
-   "vazut": "2026-11-27T01:57:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bere blonda Tuborg, 0.33 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/tuborg-bere-330ml-sticla/",
    "domeniu": "pacomarket.ro",
    "pret": "5.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T10:45:51+00:00",
    "vazut": "2026-11-27T10:45:51+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bere-blonda-tuborg-0-33l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:18:18+00:00",
+   "vazut": "2026-11-27T12:18:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bere blonda Tuborg, 0.33 l"
   }
  ]
 }

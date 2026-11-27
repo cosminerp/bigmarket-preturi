@@ -2,17 +2,6 @@
  "ean": "5941311001506",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pernite-cu-cacao-viva-100g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.91",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:59:33+00:00",
-   "vazut": "2026-11-27T01:59:33+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pernite umplute cu crema de cacao Viva, 100 g",
-   "pret_vechi": "4.35"
-  },
-  {
    "url": "https://promoazi.ro/cereale-si-mic-dejun/pernite-umplute-cu-crema-de-cacao-viva-100-g",
    "domeniu": "promoazi.ro",
    "pret": "4.35",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-27T10:30:11+00:00",
    "vazut": "2026-11-27T10:30:11+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pernite-cu-cacao-viva-100g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.91",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:20:04+00:00",
+   "vazut": "2026-11-27T12:20:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pernite umplute cu crema de cacao Viva, 100 g",
+   "pret_vechi": "4.35"
   }
  ]
 }

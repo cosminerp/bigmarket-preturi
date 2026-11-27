@@ -2,16 +2,6 @@
  "ean": "5900951297199",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bomboane-din-ciocolata-cu-lapte-m-m-s-chocolate-45-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:44:46+00:00",
-   "vazut": "2026-11-27T01:44:46+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bomboane din ciocolata cu lapte M&M's Chocolate, 45 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/m-m-ciocolata-45g/",
    "domeniu": "pacomarket.ro",
    "pret": "4.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T10:18:16+00:00",
    "vazut": "2026-11-27T10:18:16+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bomboane-din-ciocolata-cu-lapte-m-m-s-chocolate-45-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:07:13+00:00",
+   "vazut": "2026-11-27T12:07:13+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bomboane din ciocolata cu lapte M&M's Chocolate, 45 g"
   }
  ]
 }

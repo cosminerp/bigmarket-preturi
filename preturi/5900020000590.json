@@ -2,16 +2,6 @@
  "ean": "5900020000590",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cereale-chocapic-nestle-250-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "10.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T02:05:08+00:00",
-   "vazut": "2026-11-27T02:05:08+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cereale mic dejun Chocapic Nestle, aroma ciocolata, 250 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/alimente-de-baza/cereale-chocapic-250gr-16buc-bax-5900020000590",
    "domeniu": "snaemarket.ro",
    "pret": "9.70",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T10:17:23+00:00",
    "vazut": "2026-11-27T10:17:23+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cereale-chocapic-nestle-250-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "10.89",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:24:57+00:00",
+   "vazut": "2026-11-27T12:24:57+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cereale mic dejun Chocapic Nestle, aroma ciocolata, 250 g"
   }
  ]
 }

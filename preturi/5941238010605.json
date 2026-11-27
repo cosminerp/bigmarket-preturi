@@ -2,16 +2,6 @@
  "ean": "5941238010605",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/branza-topita-cu-smantana-hochland-feliata-140-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.15",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:58:18+00:00",
-   "vazut": "2026-11-27T01:58:18+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Branza topita cu smantana Hochland, feliata, 140 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/felii-br-top-smantana-140g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "8.49",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T10:28:23+00:00",
    "vazut": "2026-11-27T10:28:23+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/branza-topita-cu-smantana-hochland-feliata-140-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.15",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:19:01+00:00",
+   "vazut": "2026-11-27T12:19:01+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Branza topita cu smantana Hochland, feliata, 140 g"
   }
  ]
 }

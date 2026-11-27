@@ -2,16 +2,6 @@
  "ean": "5948543002493",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/granule-pentru-desfundat-tevi-peak-80-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T02:04:08+00:00",
-   "vazut": "2026-11-27T02:04:08+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Granule pentru desfundat tevi Peak 80 g"
-  },
-  {
    "url": "https://www.kisshop.ro/cumpara/granule-desfundat-tevi-peak-out-apa-fierbinte-1plic-80g-566?srsltid=AYCX9vKvdAI6l4Es9517C3lU38MyudsaGMc9E1kd-UTDIqsTx6OqQ8Q1",
    "domeniu": "kisshop.ro",
    "pret": "3.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T10:57:03+00:00",
    "vazut": "2026-11-27T10:57:03+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/granule-pentru-desfundat-tevi-peak-80-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.89",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:24:04+00:00",
+   "vazut": "2026-11-27T12:24:04+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Granule pentru desfundat tevi Peak 80 g"
   }
  ]
 }

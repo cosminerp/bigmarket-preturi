@@ -2,17 +2,6 @@
  "ean": "5010724004104",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/sampon-uscat-batiste-sensitive-scalp-200-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "18.79",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:48:13+00:00",
-   "vazut": "2026-11-27T01:48:13+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Sampon uscat Batiste Sensitive Scalp, 200 ml",
-   "pret_vechi": "20.89"
-  },
-  {
    "url": "https://www.fashiondays.ro/p/sampon-uscat-sensitive-gras-femei-batiste-p27946575-1/",
    "domeniu": "fashiondays.ro",
    "pret": "13.49",
@@ -20,6 +9,17 @@
    "verificat": "2026-11-27T10:15:27+00:00",
    "vazut": "2026-11-23T14:11:53+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/sampon-uscat-batiste-sensitive-scalp-200-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "18.79",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:10:17+00:00",
+   "vazut": "2026-11-27T12:10:17+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Sampon uscat Batiste Sensitive Scalp, 200 ml",
+   "pret_vechi": "20.89"
   }
  ]
 }

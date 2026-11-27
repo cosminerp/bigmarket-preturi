@@ -2,16 +2,6 @@
  "ean": "5940577001169",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-energizanta-cu-aroma-de-tutti-frutti-hell-new-gen-classic-0-25-l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "3.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:42:17+00:00",
-   "vazut": "2026-11-27T01:42:17+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura energizanta cu aroma de tutti-frutti Hell New Gen Classic, 0.25 l"
-  },
-  {
    "url": "https://promoazi.ro/energizant/hell-new-gen-classic-250ml",
    "domeniu": "promoazi.ro",
    "pret": "4.59",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T10:21:36+00:00",
    "vazut": "2026-11-27T10:21:36+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-energizanta-cu-aroma-de-tutti-frutti-hell-new-gen-classic-0-25-l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "3.89",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:04:58+00:00",
+   "vazut": "2026-11-27T12:04:58+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura energizanta cu aroma de tutti-frutti Hell New Gen Classic, 0.25 l"
   }
  ]
 }

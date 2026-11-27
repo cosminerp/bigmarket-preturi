@@ -2,16 +2,6 @@
  "ean": "5941065014562",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chefir-bio-napolact-3-3-grasime-330-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "6.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T02:00:11+00:00",
-   "vazut": "2026-11-27T02:00:11+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chefir BIO Napolact, 3.3% grasime, 330 g"
-  },
-  {
    "url": "https://pacomarket.ro/product/napolact-chefir-bio-330g/",
    "domeniu": "pacomarket.ro",
    "pret": "8.49",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T10:25:46+00:00",
    "vazut": "2026-11-27T10:25:46+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chefir-bio-napolact-3-3-grasime-330-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "6.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:20:37+00:00",
+   "vazut": "2026-11-27T12:20:37+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chefir BIO Napolact, 3.3% grasime, 330 g"
   }
  ]
 }

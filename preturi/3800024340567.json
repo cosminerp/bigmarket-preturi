@@ -2,16 +2,6 @@
  "ean": "3800024340567",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/arahide-in-coaja-cu-sare-best-250-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T01:43:08+00:00",
-   "vazut": "2026-11-27T01:43:08+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Arahide in coaja cu sare Best, 250 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/snacks/best-arahide-in-coaja-sarate-250gr-10buc-cut-3800024340567",
    "domeniu": "snaemarket.ro",
    "pret": "6.30",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T10:09:07+00:00",
    "vazut": "2026-11-26T15:48:00+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/arahide-in-coaja-cu-sare-best-250-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:05:41+00:00",
+   "vazut": "2026-11-27T12:05:41+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Arahide in coaja cu sare Best, 250 g"
   }
  ]
 }

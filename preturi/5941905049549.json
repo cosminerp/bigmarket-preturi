@@ -2,16 +2,6 @@
  "ean": "5941905049549",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/iaurt-cu-caise-artesana-160-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.55",
-   "stare": "ok",
-   "verificat": "2026-11-27T02:02:28+00:00",
-   "vazut": "2026-11-27T02:02:28+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Iaurt cu caise Artesana, 160 g"
-  },
-  {
    "url": "https://promoazi.ro/iaurt-cu-fructe/iaurt-gras-jersey-artesana-160g",
    "domeniu": "promoazi.ro",
    "pret": "7.55",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T10:44:20+00:00",
    "vazut": "2026-11-27T10:44:20+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/iaurt-cu-caise-artesana-160-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.55",
+   "stare": "ok",
+   "verificat": "2026-11-27T12:22:38+00:00",
+   "vazut": "2026-11-27T12:22:38+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Iaurt cu caise Artesana, 160 g"
   }
  ]
 }
