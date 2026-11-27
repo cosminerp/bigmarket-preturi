@@ -2,15 +2,6 @@
  "ean": "5942017008004",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/arad-bautura-spirtoasa-200ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:54:11+00:00",
-   "vazut": "2026-11-27T16:54:11+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-spirtoasa-zarea-arad-alcool-24-alcool-0-2-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "14.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T21:08:34+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura spirtoasa Zarea Arad, alcool 24% alcool, 0.2 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/arad-bautura-spirtoasa-200ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:01:07+00:00",
+   "vazut": "2026-11-27T23:01:07+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
