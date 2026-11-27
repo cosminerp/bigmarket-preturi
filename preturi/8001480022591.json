@@ -2,15 +2,6 @@
  "ean": "8001480022591",
  "preturi": [
   {
-   "url": "https://www.practi.ro/casa-si-gradina/ace-regular-2l.html?srsltid=AYCX9vLB0usgGXJ2cdSB-fYiqr0HYL44_QIGPbXnezKfys8iCe-ZBZ16",
-   "domeniu": "practi.ro",
-   "pret": "12.25",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:30:56+00:00",
-   "vazut": "2026-11-27T11:30:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/inalbitor-ace-regular-2-l/p",
    "domeniu": "auchan.ro",
    "pret": "11.79",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T17:26:35+00:00",
    "vazut": "2026-11-27T17:26:35+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.practi.ro/casa-si-gradina/ace-regular-2l.html?srsltid=AYCX9vLB0usgGXJ2cdSB-fYiqr0HYL44_QIGPbXnezKfys8iCe-ZBZ16",
+   "domeniu": "practi.ro",
+   "pret": "12.25",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:40:38+00:00",
+   "vazut": "2026-11-27T17:40:38+00:00",
    "metoda": "cautare_google"
   }
  ]
