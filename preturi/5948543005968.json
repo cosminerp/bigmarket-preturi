@@ -2,15 +2,6 @@
  "ean": "5948543005968",
  "preturi": [
   {
-   "url": "https://www.livingstone.ro/articole-pentru-casa/servetele-antibacteriene-igienol-pentru-maini-aloe-fresh-60-pcs.html?srsltid=AYCX9vIs3GaVbUsqiw8P-YT7nXe1sY60t16XfUVmV_qtglRgK9uzwqeE",
-   "domeniu": "livingstone.ro",
-   "pret": "8.40",
-   "stare": "ok",
-   "verificat": "2026-11-26T22:47:49+00:00",
-   "vazut": "2026-11-26T22:47:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/servetele-umede-igienol-cu-aloe-fresh-60-bucati/p",
    "domeniu": "auchan.ro",
    "pret": "10.39",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T10:57:13+00:00",
    "vazut": "2026-11-27T10:57:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.livingstone.ro/articole-pentru-casa/servetele-antibacteriene-igienol-pentru-maini-aloe-fresh-60-pcs.html?srsltid=AYCX9vIs3GaVbUsqiw8P-YT7nXe1sY60t16XfUVmV_qtglRgK9uzwqeE",
+   "domeniu": "livingstone.ro",
+   "pret": "8.40",
+   "stare": "ok",
+   "verificat": "2026-11-27T11:26:15+00:00",
+   "vazut": "2026-11-27T11:26:15+00:00",
    "metoda": "cautare_google"
   }
  ]

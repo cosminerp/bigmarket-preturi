@@ -2,21 +2,21 @@
  "ean": "9012501002279",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bacanie/zahar-pudra-500g-margarit-9012501002279",
-   "domeniu": "snaemarket.ro",
-   "pret": "4.33",
-   "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-26T23:18:53+00:00",
-   "vazut": "2026-11-18T07:12:59+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.eurodiscount.ro/faina-zahar-orez-sare",
    "domeniu": "eurodiscount.ro",
    "pret": "4.82",
    "stare": "ok",
    "verificat": "2026-11-26T23:18:55+00:00",
    "vazut": "2026-11-26T23:18:55+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bacanie/zahar-pudra-500g-margarit-9012501002279",
+   "domeniu": "snaemarket.ro",
+   "pret": "4.33",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-27T11:28:50+00:00",
+   "vazut": "2026-11-18T07:12:59+00:00",
    "metoda": "cautare_google"
   }
  ]

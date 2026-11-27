@@ -2,15 +2,6 @@
  "ean": "6426495546184",
  "preturi": [
   {
-   "url": "https://www.livingstone.ro/articole-pentru-casa/detergent-rufe-efekt-performer-activ-enzim-125-spalari-5-l.html?srsltid=AYCX9vKSHGcqbYYunFDBv1i18x7TomaaBu1RpQnX9TYkXKm-TPpi33u-",
-   "domeniu": "livingstone.ro",
-   "pret": "42.00",
-   "stare": "ok",
-   "verificat": "2026-11-26T23:15:37+00:00",
-   "vazut": "2026-11-26T23:15:37+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://fermier.ro/products/efekt-detergent-rufe-gel-universal-active-enzim-5l-125-spalari-efect-anticalcar?srsltid=AYCX9vKw0kPXoDHfVlJclDcvEQw4mzoNRNT1ShMqLUYD4upNSL5XPXEm",
    "domeniu": "fermier.ro",
    "pret": "60.50",
@@ -26,6 +17,15 @@
    "stare": "fără preț sau alt cod de bare",
    "verificat": "2026-11-27T11:11:09+00:00",
    "vazut": "2026-11-26T23:00:02+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.livingstone.ro/articole-pentru-casa/detergent-rufe-efekt-performer-activ-enzim-125-spalari-5-l.html?srsltid=AYCX9vKSHGcqbYYunFDBv1i18x7TomaaBu1RpQnX9TYkXKm-TPpi33u-",
+   "domeniu": "livingstone.ro",
+   "pret": "42.00",
+   "stare": "ok",
+   "verificat": "2026-11-27T11:26:43+00:00",
+   "vazut": "2026-11-27T11:26:43+00:00",
    "metoda": "cautare_google"
   }
  ]
