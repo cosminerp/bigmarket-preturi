@@ -2,24 +2,6 @@
  "ean": "5900516699093",
  "preturi": [
   {
-   "url": "https://shopping.klikads.ro/produs/bd4241c0-22df-4cbd-8841-611609702bde%3A17029",
-   "domeniu": "shopping.klikads.ro",
-   "pret": "11.47",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:23:42+00:00",
-   "vazut": "2026-11-27T16:23:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-intima/absorbante-si-tampoane/absorbante-urologice-pentru-femei-lady-slim-mini-20-bucati-seni-p377097",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "10.50",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:23:45+00:00",
-   "vazut": "2026-11-27T16:23:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-intima/incontinenta-urinara/absorbante-zilnice-lady-slim-mini-20-bucati-seni-p357344",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "10.50",
@@ -35,6 +17,24 @@
    "stare": "ok",
    "verificat": "2026-11-27T22:26:00+00:00",
    "vazut": "2026-11-27T22:26:00+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shopping.klikads.ro/produs/bd4241c0-22df-4cbd-8841-611609702bde%3A17029",
+   "domeniu": "shopping.klikads.ro",
+   "pret": "11.47",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:27:26+00:00",
+   "vazut": "2026-11-27T22:27:26+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/ingrijire-personala/ingrijire-intima/absorbante-si-tampoane/absorbante-urologice-pentru-femei-lady-slim-mini-20-bucati-seni-p377097",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "10.50",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:27:29+00:00",
+   "vazut": "2026-11-27T22:27:29+00:00",
    "metoda": "cautare_google"
   }
  ]
