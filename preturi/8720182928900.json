@@ -2,24 +2,6 @@
  "ean": "8720182928900",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/delikat-gaina-75g-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "3.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:27:57+00:00",
-   "vazut": "2026-11-27T11:27:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://miran.cms.teamshare.ro/baza-de-mancare-delikat-gust-de-gaina-75g",
-   "domeniu": "miran.cms.teamshare.ro",
-   "pret": "4.02",
-   "stare": "ok",
-   "verificat": "2026-11-27T11:28:03+00:00",
-   "vazut": "2026-11-27T11:28:03+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/baza-pentru-mancare-cu-gust-de-gaina-delikat-75-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.66",
@@ -29,6 +11,24 @@
    "metoda": "auchan_catalog",
    "nume": "Baza pentru mancare cu gust de gaina Delikat, 75 g",
    "pret_vechi": "3.55"
+  },
+  {
+   "url": "https://pacomarket.ro/product/delikat-gaina-75g-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "3.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:37:44+00:00",
+   "vazut": "2026-11-27T17:37:44+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://miran.cms.teamshare.ro/baza-de-mancare-delikat-gust-de-gaina-75g",
+   "domeniu": "miran.cms.teamshare.ro",
+   "pret": "4.02",
+   "stare": "ok",
+   "verificat": "2026-11-27T17:37:50+00:00",
+   "vazut": "2026-11-27T17:37:50+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
