@@ -2,15 +2,6 @@
  "ean": "5941194001600",
  "preturi": [
   {
-   "url": "https://promoazi.ro/snacks/sticksuri-cu-susan-croco-80-g",
-   "domeniu": "promoazi.ro",
-   "pret": "2.39",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:27:39+00:00",
-   "vazut": "2026-11-27T10:27:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/sticksuri-cu-susan-croco-80-g/p",
    "domeniu": "auchan.ro",
    "pret": "2.59",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:06:38+00:00",
    "metoda": "auchan_catalog",
    "nume": "Sticksuri cu susan Croco, 80 g"
+  },
+  {
+   "url": "https://promoazi.ro/snacks/sticksuri-cu-susan-croco-80-g",
+   "domeniu": "promoazi.ro",
+   "pret": "2.39",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:36:32+00:00",
+   "vazut": "2026-11-27T16:36:32+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

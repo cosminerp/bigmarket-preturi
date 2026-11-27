@@ -2,15 +2,6 @@
  "ean": "5941360006514",
  "preturi": [
   {
-   "url": "https://promoazi.ro/cascaval/cascaval-delaco-desenvis-350-g",
-   "domeniu": "promoazi.ro",
-   "pret": "21.69",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:34:35+00:00",
-   "vazut": "2026-11-27T10:34:35+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cascaval-delaco-desenvis-350-g/p",
    "domeniu": "auchan.ro",
    "pret": "21.69",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T12:24:22+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cascaval Delaco DeSenvis, 350 g"
+  },
+  {
+   "url": "https://promoazi.ro/cascaval/cascaval-delaco-desenvis-350-g",
+   "domeniu": "promoazi.ro",
+   "pret": "21.69",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:40:58+00:00",
+   "vazut": "2026-11-27T16:40:58+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

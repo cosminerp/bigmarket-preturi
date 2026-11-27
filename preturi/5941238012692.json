@@ -2,24 +2,6 @@
  "ean": "5941238012692",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/branza-feta-150-hochland-2/",
-   "domeniu": "pacomarket.ro",
-   "pret": "17.95",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:28:32+00:00",
-   "vazut": "2026-11-27T10:28:32+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://promoazi.ro/feta-si-halloumi/branza-feta-hochland-150-g",
-   "domeniu": "promoazi.ro",
-   "pret": "14.69",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:28:34+00:00",
-   "vazut": "2026-11-27T10:28:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-feta-hochland-150-g/p",
    "domeniu": "auchan.ro",
    "pret": "14.79",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T12:05:50+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza Feta Hochland, 150 g"
+  },
+  {
+   "url": "https://pacomarket.ro/product/branza-feta-150-hochland-2/",
+   "domeniu": "pacomarket.ro",
+   "pret": "17.95",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:37:18+00:00",
+   "vazut": "2026-11-27T16:37:18+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/feta-si-halloumi/branza-feta-hochland-150-g",
+   "domeniu": "promoazi.ro",
+   "pret": "14.69",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:37:19+00:00",
+   "vazut": "2026-11-27T16:37:19+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

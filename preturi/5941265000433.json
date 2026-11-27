@@ -2,15 +2,6 @@
  "ean": "5941265000433",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/salam-sasesc-cristim-100gr/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T10:29:02+00:00",
-   "vazut": "2026-11-27T10:29:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/salam-sasesc-feliat-cris-tim-100-g/p",
    "domeniu": "auchan.ro",
    "pret": "4.19",
@@ -20,6 +11,15 @@
    "metoda": "auchan_catalog",
    "nume": "Salam Sasesc feliat Cris-Tim, 100 g",
    "pret_vechi": "4.99"
+  },
+  {
+   "url": "https://pacomarket.ro/product/salam-sasesc-cristim-100gr/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T16:37:45+00:00",
+   "vazut": "2026-11-27T16:37:45+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
