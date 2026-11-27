@@ -2,15 +2,6 @@
  "ean": "5942122012798",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/alexandrion-5-stele-200ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "23.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:56:34+00:00",
-   "vazut": "2026-11-27T16:56:34+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/brandy-alexandrion-5-stele-200ml-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "21.69",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-27T21:23:16+00:00",
    "metoda": "auchan_catalog",
    "nume": "Brandy Alexandrion 5 stele, 200ml"
+  },
+  {
+   "url": "https://pacomarket.ro/product/alexandrion-5-stele-200ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "23.99",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:05:46+00:00",
+   "vazut": "2026-11-27T23:05:46+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

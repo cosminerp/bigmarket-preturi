@@ -2,42 +2,6 @@
  "ean": "5942105011916",
  "preturi": [
   {
-   "url": "https://alcooldiscount.ro/bere-blonda-filtrata-amstel-5-alc-033l-romania.html",
-   "domeniu": "alcooldiscount.ro",
-   "pret": "4.24",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:56:17+00:00",
-   "vazut": "2026-11-27T16:56:17+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/amstel-bere-sticla-330ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:56:19+00:00",
-   "vazut": "2026-11-27T16:56:19+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://kastelboutique.ro/produs/bere-amstel-0-33l-5-sgr-5942105011916/",
-   "domeniu": "kastelboutique.ro",
-   "pret": "5.00",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:56:21+00:00",
-   "vazut": "2026-11-27T16:56:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.pretistet.ro/produs/amstel-bere-blonda-sticla-330-ml-ambalaj-returnabil/",
-   "domeniu": "pretistet.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:56:24+00:00",
-   "vazut": "2026-11-27T16:56:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bere-blonda-amstel-sticla-0-33-l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "4.25",
@@ -46,6 +10,42 @@
    "vazut": "2026-11-27T21:23:08+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bere blonda Amstel, sticla, 0.33 l"
+  },
+  {
+   "url": "https://alcooldiscount.ro/bere-blonda-filtrata-amstel-5-alc-033l-romania.html",
+   "domeniu": "alcooldiscount.ro",
+   "pret": "4.24",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:05:28+00:00",
+   "vazut": "2026-11-27T23:05:28+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/amstel-bere-sticla-330ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:05:30+00:00",
+   "vazut": "2026-11-27T23:05:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://kastelboutique.ro/produs/bere-amstel-0-33l-5-sgr-5942105011916/",
+   "domeniu": "kastelboutique.ro",
+   "pret": "5.00",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:05:32+00:00",
+   "vazut": "2026-11-27T23:05:32+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/amstel-bere-blonda-sticla-330-ml-ambalaj-returnabil/",
+   "domeniu": "pretistet.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:05:35+00:00",
+   "vazut": "2026-11-27T23:05:35+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

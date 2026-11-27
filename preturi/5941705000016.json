@@ -2,15 +2,6 @@
  "ean": "5941705000016",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/alimente-de-baza-conserve-si-condimente/bunica-ulei-1l.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "11.01",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:02:24+00:00",
-   "vazut": "2026-11-27T17:02:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/ulei-de-floarea-soarelui-bunica-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "9.19",
@@ -27,6 +18,15 @@
    "stare": "fără preț sau alt cod de bare",
    "verificat": "2026-11-27T22:54:11+00:00",
    "vazut": "2026-11-18T02:14:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/alimente-de-baza-conserve-si-condimente/bunica-ulei-1l.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "11.01",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:04:49+00:00",
+   "vazut": "2026-11-27T23:04:49+00:00",
    "metoda": "cautare_google"
   }
  ]

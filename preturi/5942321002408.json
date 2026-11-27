@@ -2,24 +2,6 @@
  "ean": "5942321002408",
  "preturi": [
   {
-   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/sprite-pet-2l-sgr-6buc-bax-5942321002408",
-   "domeniu": "snaemarket.ro",
-   "pret": "10.27",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:03:24+00:00",
-   "vazut": "2026-11-27T17:03:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://pacomarket.ro/product/sprite-gust-lamaie-2l/",
-   "domeniu": "pacomarket.ro",
-   "pret": "11.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T17:03:27+00:00",
-   "vazut": "2026-11-27T17:03:27+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-sprite-2l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "10.59",
@@ -28,6 +10,24 @@
    "vazut": "2026-11-27T21:22:07+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa cu aroma de lamaie si lamaie verde Sprite, 2 l"
+  },
+  {
+   "url": "https://www.snaemarket.ro/bauturi-non-alcoolice/sucuri/sprite-pet-2l-sgr-6buc-bax-5942321002408",
+   "domeniu": "snaemarket.ro",
+   "pret": "10.27",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:10:07+00:00",
+   "vazut": "2026-11-27T23:10:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/sprite-gust-lamaie-2l/",
+   "domeniu": "pacomarket.ro",
+   "pret": "11.49",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:10:09+00:00",
+   "vazut": "2026-11-27T23:10:09+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

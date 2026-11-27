@@ -2,15 +2,6 @@
  "ean": "5941460011395",
  "preturi": [
   {
-   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste/salbac-salam-sibiu-300g.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "39.90",
-   "stare": "ok",
-   "verificat": "2026-11-27T16:51:51+00:00",
-   "vazut": "2026-11-27T16:51:51+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/salam-de-sibiu-agricola-300-g/p",
    "domeniu": "auchan.ro",
    "pret": "33.99",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T22:51:42+00:00",
    "vazut": "2026-11-27T22:51:42+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste/salbac-salam-sibiu-300g.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "39.90",
+   "stare": "ok",
+   "verificat": "2026-11-27T23:04:42+00:00",
+   "vazut": "2026-11-27T23:04:42+00:00",
    "metoda": "cautare_google"
   }
  ]
