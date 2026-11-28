@@ -2,21 +2,21 @@
  "ean": "5997321740690",
  "preturi": [
   {
-   "url": "https://www.cisko-briko.ro/produse-curatenie/detergent-suprafete-spray-zero-calcar-si-murdarie-0-75l.html?srsltid=AYCX9vLe2GrFDgaLdD9KHZWvZDw83l23_qQRRJ1PXGCA2BvBuqkq9Rll",
-   "domeniu": "cisko-briko.ro",
-   "pret": "15.00",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:24:49+00:00",
-   "vazut": "2026-11-27T23:24:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://shopdiscount.ro/shop/curatenie-si-intretinere/solutie-de-indepartat-rugina-si-calcar/cillit-bang-spray-expert-zero-calcar-si-murdarie-750ml/",
    "domeniu": "shopdiscount.ro",
    "pret": "13.79",
    "stare": "ok",
    "verificat": "2026-11-28T05:31:13+00:00",
    "vazut": "2026-11-28T05:31:13+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.cisko-briko.ro/produse-curatenie/detergent-suprafete-spray-zero-calcar-si-murdarie-0-75l.html?srsltid=AYCX9vLe2GrFDgaLdD9KHZWvZDw83l23_qQRRJ1PXGCA2BvBuqkq9Rll",
+   "domeniu": "cisko-briko.ro",
+   "pret": "15.00",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:47:49+00:00",
+   "vazut": "2026-11-28T05:47:49+00:00",
    "metoda": "cautare_google"
   }
  ]

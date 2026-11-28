@@ -12,15 +12,6 @@
    "nume": "Rondele simple din orez SanoVita, 56 g"
   },
   {
-   "url": "https://plingo.ro/produs/rondele-orez-simple-56gr-sanovita-995cfdd166/",
-   "domeniu": "plingo.ro",
-   "pret": "2.90",
-   "stare": "pagina nu mai există",
-   "verificat": "2026-11-27T23:46:02+00:00",
-   "vazut": "2026-11-27T16:49:54+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "http://www.naturisti.ro/cumpara/rondele-din-orez-simple-56-g-7755279?srsltid=AYCX9vLzf_FWIYAQc6fdqZvgoqtvGBzNNwM8NPUDIpu1kZTgUuxRj4bL",
    "domeniu": "naturisti.ro",
    "pret": "2.77",
@@ -54,6 +45,15 @@
    "stare": "ok",
    "verificat": "2026-11-28T05:01:53+00:00",
    "vazut": "2026-11-28T05:01:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://plingo.ro/produs/rondele-orez-simple-56gr-sanovita-995cfdd166/",
+   "domeniu": "plingo.ro",
+   "pret": "2.90",
+   "stare": "pagina nu mai există",
+   "verificat": "2026-11-28T05:47:16+00:00",
+   "vazut": "2026-11-27T16:49:54+00:00",
    "metoda": "cautare_google"
   }
  ]
