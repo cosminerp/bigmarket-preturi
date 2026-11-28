@@ -2,15 +2,6 @@
  "ean": "3065890180819",
  "preturi": [
   {
-   "url": "https://promoazi.ro/hrana-umeda-pisici/whiskas-adult-hrumeda-pisici-pui-in-aspic-plic-85g",
-   "domeniu": "promoazi.ro",
-   "pret": "3.29",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:09:49+00:00",
-   "vazut": "2026-11-27T22:09:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/whiskas-cu-pui-in-aspic-85g-28buc-3065890180819",
    "domeniu": "snaemarket.ro",
    "pret": "2.44",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-28T04:10:06+00:00",
    "vazut": "2026-11-28T04:10:06+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/hrana-umeda-pisici/whiskas-adult-hrumeda-pisici-pui-in-aspic-plic-85g",
+   "domeniu": "promoazi.ro",
+   "pret": "3.29",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:11:29+00:00",
+   "vazut": "2026-11-28T04:11:29+00:00",
    "metoda": "cautare_google"
   }
  ]
