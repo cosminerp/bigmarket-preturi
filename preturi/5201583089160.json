@@ -2,15 +2,6 @@
  "ean": "5201583089160",
  "preturi": [
   {
-   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/bomboane/bomboane-fara-zahar-espresso-32-g-zero-p399631",
-   "domeniu": "comenzi.bebetei.ro",
-   "pret": "5.00",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:25:06+00:00",
-   "vazut": "2026-11-27T22:25:06+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bomboane-zero-espresso-coffee-32-g/p",
    "domeniu": "auchan.ro",
    "pret": "5.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-28T03:21:21+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bomboane Zero Espresso Coffee, 32 g"
+  },
+  {
+   "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/dulciuri-si-gustari/bomboane/bomboane-fara-zahar-espresso-32-g-zero-p399631",
+   "domeniu": "comenzi.bebetei.ro",
+   "pret": "5.00",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:27:11+00:00",
+   "vazut": "2026-11-28T04:27:11+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }

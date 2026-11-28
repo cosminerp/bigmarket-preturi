@@ -2,15 +2,6 @@
  "ean": "5202178085710",
  "preturi": [
   {
-   "url": "https://promoazi.ro/branzeturi-moi-si-semi-tari/halloumi-olympus-200g",
-   "domeniu": "promoazi.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:25:20+00:00",
-   "vazut": "2026-11-27T22:25:20+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/branza-halloumi-olympus-200-g/p",
    "domeniu": "auchan.ro",
    "pret": "17.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-28T03:20:44+00:00",
    "metoda": "auchan_catalog",
    "nume": "Branza halloumi Olympus, 200 g"
+  },
+  {
+   "url": "https://promoazi.ro/branzeturi-moi-si-semi-tari/halloumi-olympus-200g",
+   "domeniu": "promoazi.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:27:24+00:00",
+   "vazut": "2026-11-28T04:27:24+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
