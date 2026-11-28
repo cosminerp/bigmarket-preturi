@@ -13,21 +13,21 @@
    "pret_vechi": "9.99"
   },
   {
-   "url": "https://promoazi.ro/hrana-umeda-caini/hrana-umeda-pentru-caini-adulti-lolo-vita-124-kg",
-   "domeniu": "promoazi.ro",
-   "pret": "8.99",
-   "stare": "ok",
-   "verificat": "2026-11-28T05:25:13+00:00",
-   "vazut": "2026-11-28T05:25:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/petshop/hrana-umeda-pentru-caini-adulti-cu-vita-1-24-kg-lolo.html",
    "domeniu": "vivomarket.ro",
    "pret": "10.22",
    "stare": "ok",
    "verificat": "2026-11-28T05:25:16+00:00",
    "vazut": "2026-11-28T05:25:16+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://promoazi.ro/hrana-umeda-caini/hrana-umeda-pentru-caini-adulti-lolo-vita-124-kg",
+   "domeniu": "promoazi.ro",
+   "pret": "8.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T11:30:33+00:00",
+   "vazut": "2026-11-28T11:30:33+00:00",
    "metoda": "cautare_google"
   }
  ]
