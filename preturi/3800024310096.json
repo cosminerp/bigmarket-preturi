@@ -2,12 +2,21 @@
  "ean": "3800024310096",
  "preturi": [
   {
+   "url": "https://www.eurodiscount.ro/pufuleti-chipsuri",
+   "domeniu": "eurodiscount.ro",
+   "pret": "1.58",
+   "stare": "ok",
+   "verificat": "2026-11-27T22:36:47+00:00",
+   "vazut": "2026-11-27T22:36:47+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.snaemarket.ro/bacanie/snacks/lotto-monsters-cu-rosii-35gr-40buc-bax-3800024310096",
    "domeniu": "snaemarket.ro",
    "pret": "51.71",
    "stare": "ok",
-   "verificat": "2026-11-27T22:12:17+00:00",
-   "vazut": "2026-11-27T22:12:17+00:00",
+   "verificat": "2026-11-28T04:14:04+00:00",
+   "vazut": "2026-11-28T04:14:04+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,8 +24,8 @@
    "domeniu": "pacomarket.ro",
    "pret": "1.85",
    "stare": "ok",
-   "verificat": "2026-11-27T22:12:20+00:00",
-   "vazut": "2026-11-27T22:12:20+00:00",
+   "verificat": "2026-11-28T04:14:06+00:00",
+   "vazut": "2026-11-28T04:14:06+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -24,7 +33,7 @@
    "domeniu": "marketexpress.ro",
    "pret": "1.70",
    "stare": "fără preț sau alt cod de bare",
-   "verificat": "2026-11-27T22:12:22+00:00",
+   "verificat": "2026-11-28T04:14:08+00:00",
    "vazut": "2026-11-27T16:11:30+00:00",
    "metoda": "cautare_google"
   },
@@ -33,17 +42,8 @@
    "domeniu": "vivomarket.ro",
    "pret": "10.13",
    "stare": "ok",
-   "verificat": "2026-11-27T22:12:24+00:00",
-   "vazut": "2026-11-27T22:12:24+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.eurodiscount.ro/pufuleti-chipsuri",
-   "domeniu": "eurodiscount.ro",
-   "pret": "1.58",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:36:47+00:00",
-   "vazut": "2026-11-27T22:36:47+00:00",
+   "verificat": "2026-11-28T04:14:11+00:00",
+   "vazut": "2026-11-28T04:14:11+00:00",
    "metoda": "cautare_google"
   }
  ]
