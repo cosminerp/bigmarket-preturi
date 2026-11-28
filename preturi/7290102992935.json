@@ -2,15 +2,6 @@
  "ean": "7290102992935",
  "preturi": [
   {
-   "url": "https://www.pravaliadecuratenie.ro/bucatarie/rezerva-sano-detergent-lichid-pentru-vase-lamaie-700-ml.html",
-   "domeniu": "pravaliadecuratenie.ro",
-   "pret": "11.00",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:47:08+00:00",
-   "vazut": "2026-11-27T23:47:08+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/rezerva-detergent-lichid-pentru-vase-sano-spark-lamaie-700-ml/p",
    "domeniu": "auchan.ro",
    "pret": "7.99",
@@ -27,6 +18,15 @@
    "stare": "ok",
    "verificat": "2026-11-28T05:39:20+00:00",
    "vazut": "2026-11-28T05:39:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pravaliadecuratenie.ro/bucatarie/rezerva-sano-detergent-lichid-pentru-vase-lamaie-700-ml.html",
+   "domeniu": "pravaliadecuratenie.ro",
+   "pret": "11.00",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:59:24+00:00",
+   "vazut": "2026-11-28T05:59:24+00:00",
    "metoda": "cautare_google"
   }
  ]
