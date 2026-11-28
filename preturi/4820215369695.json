@@ -2,24 +2,6 @@
  "ean": "4820215369695",
  "preturi": [
   {
-   "url": "https://www.petvet-shop.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-9112",
-   "domeniu": "petvet-shop.ro",
-   "pret": "4.60",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:18:28+00:00",
-   "vazut": "2026-11-27T22:18:28+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "http://www.safepet.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-5045?srsltid=AYCX9vKC3GO6c1nkq6qJ3njCo23q-GimC_XdKPYeUSStFaF3tmrps4gC",
-   "domeniu": "safepet.ro",
-   "pret": "4.60",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:18:30+00:00",
-   "vazut": "2026-11-27T22:18:30+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.epetshop.ro/produse-pisici/hrana-uscata-completa-my-love-pentru-pisici-adulte-cu-pui-0-3-kg.html",
    "domeniu": "epetshop.ro",
    "pret": "4.20",
@@ -44,6 +26,24 @@
    "stare": "ok",
    "verificat": "2026-11-27T22:19:55+00:00",
    "vazut": "2026-11-27T22:19:55+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.petvet-shop.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-9112",
+   "domeniu": "petvet-shop.ro",
+   "pret": "4.60",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:20:30+00:00",
+   "vazut": "2026-11-28T04:20:30+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "http://www.safepet.ro/cumpara/my-love-cat-hrana-uscata-completa-pui-300g-5045?srsltid=AYCX9vKC3GO6c1nkq6qJ3njCo23q-GimC_XdKPYeUSStFaF3tmrps4gC",
+   "domeniu": "safepet.ro",
+   "pret": "4.60",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:20:32+00:00",
+   "vazut": "2026-11-28T04:20:32+00:00",
    "metoda": "cautare_google"
   }
  ]
