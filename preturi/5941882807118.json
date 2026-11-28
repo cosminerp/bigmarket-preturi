@@ -12,15 +12,6 @@
    "nume": "Rondele din orez cu glazura de cacao fara zahar SanoVita, 66 g"
   },
   {
-   "url": "https://www.trifolia.ro/alimentare/rondele-din-orez-cu-cacao-fara-zahar-66-g.html?srsltid=AYCX9vJavtuYXr90W-v2vJcHwHwklX9IUjUHpVbBlHAXjJlCg4_hHopa",
-   "domeniu": "trifolia.ro",
-   "pret": "6.30",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:58:02+00:00",
-   "vazut": "2026-11-27T22:58:02+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://comenzi.bebetei.ro/alimente-si-bauturi/produse-alimentare/alimente-dietetice/rondele-din-orez-cu-glazura-de-cacao-fara-zahar-66-g-sanovita-p376545",
    "domeniu": "comenzi.bebetei.ro",
    "pret": "4.50",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-28T05:02:20+00:00",
    "vazut": "2026-11-28T05:02:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.trifolia.ro/alimentare/rondele-din-orez-cu-cacao-fara-zahar-66-g.html?srsltid=AYCX9vJavtuYXr90W-v2vJcHwHwklX9IUjUHpVbBlHAXjJlCg4_hHopa",
+   "domeniu": "trifolia.ro",
+   "pret": "6.30",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:05:01+00:00",
+   "vazut": "2026-11-28T05:05:01+00:00",
    "metoda": "cautare_google"
   }
  ]
