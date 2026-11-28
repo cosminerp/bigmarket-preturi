@@ -2,12 +2,21 @@
  "ean": "5999562460023",
  "preturi": [
   {
+   "url": "https://www.1001pets.ro/cumpara/salam-bruno-1-kg-aroma-vita-produs-redus-continut-2-kg-3047?srsltid=AYCX9vLDUIUGSofDkslHP9BLsuTfhKpM7zex1G6QFeD4MPWTaRR5hUBh",
+   "domeniu": "1001pets.ro",
+   "pret": "9.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:31:53+00:00",
+   "vazut": "2026-11-28T05:31:53+00:00",
+   "metoda": "cautare_google"
+  },
+  {
    "url": "https://www.zoohobby.ro/produse-pentru-caini/salam-caine-cu-vita-1-kg.html",
    "domeniu": "zoohobby.ro",
    "pret": "8.73",
    "stare": "ok",
-   "verificat": "2026-11-27T23:25:20+00:00",
-   "vazut": "2026-11-27T23:25:20+00:00",
+   "verificat": "2026-11-28T05:35:49+00:00",
+   "vazut": "2026-11-28T05:35:49+00:00",
    "metoda": "cautare_google"
   },
   {
@@ -15,17 +24,8 @@
    "domeniu": "vivomarket.ro",
    "pret": "9.62",
    "stare": "ok",
-   "verificat": "2026-11-27T23:31:49+00:00",
-   "vazut": "2026-11-27T23:31:49+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://www.1001pets.ro/cumpara/salam-bruno-1-kg-aroma-vita-produs-redus-continut-2-kg-3047?srsltid=AYCX9vLDUIUGSofDkslHP9BLsuTfhKpM7zex1G6QFeD4MPWTaRR5hUBh",
-   "domeniu": "1001pets.ro",
-   "pret": "9.99",
-   "stare": "ok",
-   "verificat": "2026-11-28T05:31:53+00:00",
-   "vazut": "2026-11-28T05:31:53+00:00",
+   "verificat": "2026-11-28T05:35:52+00:00",
+   "vazut": "2026-11-28T05:35:52+00:00",
    "metoda": "cautare_google"
   }
  ]

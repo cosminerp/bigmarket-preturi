@@ -12,21 +12,21 @@
    "nume": "Ciocolata aerata cu lapte Milka, 90 g"
   },
   {
-   "url": "https://pacomarket.ro/product/milka-aerata-bubbly/",
-   "domeniu": "pacomarket.ro",
-   "pret": "6.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:34:47+00:00",
-   "vazut": "2026-11-27T23:34:47+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://shop.geneza-comimpex.ro/ciocolata-milka-bubbly-cu-lapte-tableta-90g?srsltid=AYCX9vJ2rdjqHdSEOCB0ca8SsQjaBE4B4N3yKNdHIyhQifJ39p9rgvOp",
    "domeniu": "shop.geneza-comimpex.ro",
    "pret": "8.74",
    "stare": "ok",
    "verificat": "2026-11-27T23:47:21+00:00",
    "vazut": "2026-11-27T23:47:21+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/milka-aerata-bubbly/",
+   "domeniu": "pacomarket.ro",
+   "pret": "6.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:40:01+00:00",
+   "vazut": "2026-11-28T05:40:01+00:00",
    "metoda": "cautare_google"
   }
  ]

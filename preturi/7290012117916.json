@@ -2,15 +2,6 @@
  "ean": "7290012117916",
  "preturi": [
   {
-   "url": "https://sirius-distribution.ro/lichid-desfundat-tevi-sano-drain-liquid-gel-SAN-7290012117916?srsltid=AYCX9vJltjJqsvGKl-ayrGzqS-HbkGc2NRM9bgaB4if9rF7c6uN4Uv7v",
-   "domeniu": "sirius-distribution.ro",
-   "pret": "29.52",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:33:16+00:00",
-   "vazut": "2026-11-27T23:33:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/solutie-pentru-desfundat-tevi-sano-1-l/p",
    "domeniu": "auchan.ro",
    "pret": "22.89",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-28T03:21:37+00:00",
    "metoda": "auchan_catalog",
    "nume": "Solutie pentru desfundat tevi Sano, 1 l"
+  },
+  {
+   "url": "https://sirius-distribution.ro/lichid-desfundat-tevi-sano-drain-liquid-gel-SAN-7290012117916?srsltid=AYCX9vJltjJqsvGKl-ayrGzqS-HbkGc2NRM9bgaB4if9rF7c6uN4Uv7v",
+   "domeniu": "sirius-distribution.ro",
+   "pret": "29.52",
+   "stare": "fără preț sau alt cod de bare",
+   "verificat": "2026-11-28T05:39:13+00:00",
+   "vazut": "2026-11-27T23:33:16+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
