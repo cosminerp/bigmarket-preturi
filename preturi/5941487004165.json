@@ -2,21 +2,21 @@
  "ean": "5941487004165",
  "preturi": [
   {
-   "url": "https://mustash.ro/palete-pictura/8396-paleta-pictura-lemn-15x20-cm-5941487004165.html?srsltid=AYCX9vI7yo-mE57bJdeA6NHrHCN8o0CFi3UcXAwd7eggm5CR6sJ7XygG",
-   "domeniu": "mustash.ro",
-   "pret": "9.15",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:53:13+00:00",
-   "vazut": "2026-11-27T22:53:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.snaemarket.ro/cov-buzoieni-cu-sare-200g-21buc-bax-5941487004165",
    "domeniu": "snaemarket.ro",
    "pret": "4.14",
    "stare": "fără preț sau alt cod de bare",
    "verificat": "2026-11-27T22:53:18+00:00",
    "vazut": "2026-11-18T09:54:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://mustash.ro/palete-pictura/8396-paleta-pictura-lemn-15x20-cm-5941487004165.html?srsltid=AYCX9vI7yo-mE57bJdeA6NHrHCN8o0CFi3UcXAwd7eggm5CR6sJ7XygG",
+   "domeniu": "mustash.ro",
+   "pret": "9.15",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:57:41+00:00",
+   "vazut": "2026-11-28T04:57:41+00:00",
    "metoda": "cautare_google"
   }
  ]

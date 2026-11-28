@@ -12,21 +12,21 @@
    "nume": "Iaurt cu biscuiti Danone Delicios, 125 g"
   },
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/danone-delicios-iaurt-biscuiti-125g.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "2.21",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:49:13+00:00",
-   "vazut": "2026-11-27T22:49:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/nutriday-delicios-biscuiti-125g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "2.65",
    "stare": "pagina nu mai există",
    "verificat": "2026-11-28T04:45:23+00:00",
    "vazut": "2026-11-27T22:42:20+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/danone-delicios-iaurt-biscuiti-125g.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "2.21",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:53:25+00:00",
+   "vazut": "2026-11-28T04:53:25+00:00",
    "metoda": "cautare_google"
   }
  ]

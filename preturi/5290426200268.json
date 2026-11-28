@@ -2,15 +2,6 @@
  "ean": "5290426200268",
  "preturi": [
   {
-   "url": "https://www.vivomarket.ro/bacanie/unt-de-arahide-90-arahide-341g-maxims.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "12.40",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:37:01+00:00",
-   "vazut": "2026-11-27T22:37:01+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.zozocafe.ro/unt-de-arahide-cremos-maxim-s-340g",
    "domeniu": "zozocafe.ro",
    "pret": "8.14",
@@ -35,6 +26,15 @@
    "stare": "ok",
    "verificat": "2026-11-28T04:28:54+00:00",
    "vazut": "2026-11-28T04:28:54+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/unt-de-arahide-90-arahide-341g-maxims.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "12.40",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:53:20+00:00",
+   "vazut": "2026-11-28T04:53:20+00:00",
    "metoda": "cautare_google"
   }
  ]
