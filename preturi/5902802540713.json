@@ -2,15 +2,6 @@
  "ean": "5902802540713",
  "preturi": [
   {
-   "url": "https://www.1001cosmetice.ro/cumpara/folie-prospetime-perforata-85-foi-30x30-cm-luxia-4071-59987",
-   "domeniu": "1001cosmetice.ro",
-   "pret": "4.00",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:28:45+00:00",
-   "vazut": "2026-11-27T22:28:45+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.pravaliadecuratenie.ro/bucatarie/folie-prospetime-perforata-autocolanta-luxia-85-foi.html",
    "domeniu": "pravaliadecuratenie.ro",
    "pret": "10.00",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-28T04:30:39+00:00",
    "vazut": "2026-11-28T04:30:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.1001cosmetice.ro/cumpara/folie-prospetime-perforata-85-foi-30x30-cm-luxia-4071-59987",
+   "domeniu": "1001cosmetice.ro",
+   "pret": "4.00",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:31:58+00:00",
+   "vazut": "2026-11-28T04:31:58+00:00",
    "metoda": "cautare_google"
   }
  ]

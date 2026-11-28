@@ -2,15 +2,6 @@
  "ean": "5940541242000",
  "preturi": [
   {
-   "url": "https://pacomarket.ro/product/fi-ga-fiori-di-guarana-250ml/",
-   "domeniu": "pacomarket.ro",
-   "pret": "11.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:30:13+00:00",
-   "vazut": "2026-11-27T22:30:13+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/bautura-carbogazoasa-figa-fiori-di-guarana-doza-0-25l-sgr/p",
    "domeniu": "auchan.ro",
    "pret": "10.49",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-28T03:20:24+00:00",
    "metoda": "auchan_catalog",
    "nume": "Bautura carbogazoasa Figa Fiori di Guarana, 0.25 l"
+  },
+  {
+   "url": "https://pacomarket.ro/product/fi-ga-fiori-di-guarana-250ml/",
+   "domeniu": "pacomarket.ro",
+   "pret": "11.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:33:12+00:00",
+   "vazut": "2026-11-28T04:33:12+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
