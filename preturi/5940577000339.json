@@ -12,21 +12,21 @@
    "nume": "Hell Ice Coffee Cappuccino, 0.25 l"
   },
   {
-   "url": "https://www.miranoriental.ro/ice-coffee-hell-energy-cappuccino-250-ml-sgr",
-   "domeniu": "miranoriental.ro",
-   "pret": "6.01",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:32:22+00:00",
-   "vazut": "2026-11-27T22:32:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.vivomarket.ro/bauturi/energizant-coffee-latte-hell-250-ml-3894.html",
    "domeniu": "vivomarket.ro",
    "pret": "84.48",
    "stare": "ok",
    "verificat": "2026-11-27T22:37:14+00:00",
    "vazut": "2026-11-27T22:37:14+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.miranoriental.ro/ice-coffee-hell-energy-cappuccino-250-ml-sgr",
+   "domeniu": "miranoriental.ro",
+   "pret": "6.01",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:35:20+00:00",
+   "vazut": "2026-11-28T04:35:20+00:00",
    "metoda": "cautare_google"
   }
  ]
