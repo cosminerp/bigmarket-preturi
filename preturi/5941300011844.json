@@ -2,15 +2,6 @@
  "ean": "5941300011844",
  "preturi": [
   {
-   "url": "https://shop.geneza-comimpex.ro/cozonac-boromir-nuca-si-stafide-450gr-9?srsltid=AYCX9vLH7LwfAcAQA6bAHmfNlPK6CH7qjkPGr1PT1oLlFNA25G7coEfg",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "20.70",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:44:07+00:00",
-   "vazut": "2026-11-27T22:44:07+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.auchan.ro/cozonac-cu-crema-de-nuca-si-stafide-boromir-450g/p",
    "domeniu": "auchan.ro",
    "pret": "19.99",
@@ -19,6 +10,15 @@
    "vazut": "2026-11-28T03:21:42+00:00",
    "metoda": "auchan_catalog",
    "nume": "Cozonac cu crema de nuca si stafide Boromir, 450g"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/cozonac-boromir-nuca-si-stafide-450gr-9?srsltid=AYCX9vLH7LwfAcAQA6bAHmfNlPK6CH7qjkPGr1PT1oLlFNA25G7coEfg",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "20.70",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:48:40+00:00",
+   "vazut": "2026-11-28T04:48:40+00:00",
+   "metoda": "cautare_google"
   }
  ]
 }
