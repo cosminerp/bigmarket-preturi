@@ -12,21 +12,21 @@
    "nume": "Biscuiti simpli RoStar Petit Beurre, 100 g"
   },
   {
-   "url": "https://pacomarket.ro/product/biscuiti-petit-beure-100g-rostar/",
-   "domeniu": "pacomarket.ro",
-   "pret": "2.75",
-   "stare": "ok",
-   "verificat": "2026-11-27T22:38:50+00:00",
-   "vazut": "2026-11-27T22:38:50+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.eurodiscount.ro/cafea-cereale-dulciuri-si-cipsuri/rostar-biscuiti-petit-beurre-100g-24.html",
    "domeniu": "eurodiscount.ro",
    "pret": "2.31",
    "stare": "ok",
    "verificat": "2026-11-27T22:49:09+00:00",
    "vazut": "2026-11-27T22:49:09+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://pacomarket.ro/product/biscuiti-petit-beure-100g-rostar/",
+   "domeniu": "pacomarket.ro",
+   "pret": "2.75",
+   "stare": "ok",
+   "verificat": "2026-11-28T04:41:47+00:00",
+   "vazut": "2026-11-28T04:41:47+00:00",
    "metoda": "cautare_google"
   }
  ]
