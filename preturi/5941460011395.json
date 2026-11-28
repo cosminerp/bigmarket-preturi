@@ -12,21 +12,21 @@
    "nume": "Salam de Sibiu Agricola, 300 g"
   },
   {
-   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste/salbac-salam-sibiu-300g.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "39.90",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:04:42+00:00",
-   "vazut": "2026-11-27T23:04:42+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://promoazi.ro/salam/salam-sibiu-agricola-300g",
    "domeniu": "promoazi.ro",
    "pret": "32.29",
    "stare": "ok",
    "verificat": "2026-11-28T04:56:07+00:00",
    "vazut": "2026-11-28T04:56:07+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/carne-mezeluri-si-peste/salbac-salam-sibiu-300g.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "39.90",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:22:01+00:00",
+   "vazut": "2026-11-28T05:22:01+00:00",
    "metoda": "cautare_google"
   }
  ]
