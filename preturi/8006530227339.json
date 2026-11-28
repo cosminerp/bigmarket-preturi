@@ -2,15 +2,6 @@
  "ean": "8006530227339",
  "preturi": [
   {
-   "url": "https://cobyul.ro/produs/ariel-capsule-pods-12-set-color/?srsltid=AYCX9vJRftAHccOOKmcLHCtu7odjmkCLHRUa-D2PzSDwOPo9vYlBfnta",
-   "domeniu": "cobyul.ro",
-   "pret": "17.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:40:22+00:00",
-   "vazut": "2026-11-27T23:40:22+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.casutaculorilor.ro/produse-casa/procter-gamble-ariel-all-in-one-pods-alpine-detergent-automat-de-rufe-capsule-38-buc-7646-7647.html",
    "domeniu": "casutaculorilor.ro",
    "pret": "39.50",
@@ -26,6 +17,15 @@
    "stare": "ok",
    "verificat": "2026-11-27T23:47:56+00:00",
    "vazut": "2026-11-27T23:47:56+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/ariel-capsule-pods-12-set-color/?srsltid=AYCX9vJRftAHccOOKmcLHCtu7odjmkCLHRUa-D2PzSDwOPo9vYlBfnta",
+   "domeniu": "cobyul.ro",
+   "pret": "17.49",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:44:39+00:00",
+   "vazut": "2026-11-28T05:44:39+00:00",
    "metoda": "cautare_google"
   }
  ]

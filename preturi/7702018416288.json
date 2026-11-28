@@ -2,24 +2,6 @@
  "ean": "7702018416288",
  "preturi": [
   {
-   "url": "https://www.kisshop.ro/cumpara/rezerva-lama-de-ras-gillette-mach-3-819?srsltid=AYCX9vKYN1mK7wtdoRGidmECQflAZqwyC9DM3mBBfJaIa_8v3QB62UvZ",
-   "domeniu": "kisshop.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:37:16+00:00",
-   "vazut": "2026-11-27T23:37:16+00:00",
-   "metoda": "cautare_google"
-  },
-  {
-   "url": "https://cobyul.ro/produs/gillette-rezerva-mach3/?srsltid=AYCX9vKdbiLAvNolU93-GcF51AiLOsClenBg4jO4_kt8o8D1Rw0E8gtv",
-   "domeniu": "cobyul.ro",
-   "pret": "10.19",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:37:39+00:00",
-   "vazut": "2026-11-27T23:37:39+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://www.greenonline.ro/ingrijire-personala/rezerva-aparat-de-ras-gillette-mach3-1-bucata.html",
    "domeniu": "greenonline.ro",
    "pret": "11.75",
@@ -44,6 +26,24 @@
    "stare": "ok",
    "verificat": "2026-11-27T23:47:37+00:00",
    "vazut": "2026-11-27T23:47:37+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.kisshop.ro/cumpara/rezerva-lama-de-ras-gillette-mach-3-819?srsltid=AYCX9vKYN1mK7wtdoRGidmECQflAZqwyC9DM3mBBfJaIa_8v3QB62UvZ",
+   "domeniu": "kisshop.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:42:41+00:00",
+   "vazut": "2026-11-28T05:42:41+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://cobyul.ro/produs/gillette-rezerva-mach3/?srsltid=AYCX9vKdbiLAvNolU93-GcF51AiLOsClenBg4jO4_kt8o8D1Rw0E8gtv",
+   "domeniu": "cobyul.ro",
+   "pret": "10.19",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:42:44+00:00",
+   "vazut": "2026-11-28T05:42:44+00:00",
    "metoda": "cautare_google"
   }
  ]
