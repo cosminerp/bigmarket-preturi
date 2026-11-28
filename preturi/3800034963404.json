@@ -2,16 +2,6 @@
  "ean": "3800034963404",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/odorizant-auto-lichid-mon-areon-cu-parfum-de-pepene-galben-5ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "7.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:13:48+00:00",
-   "vazut": "2026-11-27T21:13:48+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Odorizant auto lichid Mon Areon cu parfum de pepene Galben 5ml"
-  },
-  {
    "url": "https://www.snaemarket.ro/menaj/odorizante/areon-mon-liquid-5ml-melon-3800034963404",
    "domeniu": "snaemarket.ro",
    "pret": "6.52",
@@ -46,6 +36,16 @@
    "verificat": "2026-11-28T00:28:10+00:00",
    "vazut": "2026-11-28T00:28:10+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/odorizant-auto-lichid-mon-areon-cu-parfum-de-pepene-galben-5ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "7.89",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:22:11+00:00",
+   "vazut": "2026-11-28T03:22:11+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Odorizant auto lichid Mon Areon cu parfum de pepene Galben 5ml"
   }
  ]
 }

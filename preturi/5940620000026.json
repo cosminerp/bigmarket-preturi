@@ -2,16 +2,6 @@
  "ean": "5940620000026",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/bautura-energizanta-burn-apple-kiwi-0-25l-sgr/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:11:12+00:00",
-   "vazut": "2026-11-27T21:11:12+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Bautura energizanta Burn Apple Kiwi, 0.25 l"
-  },
-  {
    "url": "https://pacomarket.ro/product/burn-cu-gust-mar-kiwi-250ml/",
    "domeniu": "pacomarket.ro",
    "pret": "4.99",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T22:33:05+00:00",
    "vazut": "2026-11-27T22:33:05+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/bautura-energizanta-burn-apple-kiwi-0-25l-sgr/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:19:47+00:00",
+   "vazut": "2026-11-28T03:19:47+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Bautura energizanta Burn Apple Kiwi, 0.25 l"
   }
  ]
 }

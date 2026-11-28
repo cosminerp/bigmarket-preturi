@@ -2,16 +2,6 @@
  "ean": "5941311021467",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-aroma-de-cascaval-viva-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:09:39+00:00",
-   "vazut": "2026-11-27T21:09:39+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu aroma de cascaval Viva, 100 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/viva-chips-cascaval-100g-20buc-bax-5941311021467",
    "domeniu": "snaemarket.ro",
    "pret": "4.51",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T22:45:19+00:00",
    "vazut": "2026-11-27T22:45:19+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-aroma-de-cascaval-viva-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.89",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:18:22+00:00",
+   "vazut": "2026-11-28T03:18:22+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu aroma de cascaval Viva, 100 g"
   }
  ]
 }

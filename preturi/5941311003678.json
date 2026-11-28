@@ -2,16 +2,6 @@
  "ean": "5941311003678",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/chipsuri-cu-aroma-de-pui-viva-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "5.89",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:08:15+00:00",
-   "vazut": "2026-11-27T21:08:15+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Chipsuri cu aroma de pui Viva, 100 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/chips/viva-chips-pui-100g-20buc-bax-5941311003678",
    "domeniu": "snaemarket.ro",
    "pret": "4.51",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T22:45:01+00:00",
    "vazut": "2026-11-24T09:59:48+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/chipsuri-cu-aroma-de-pui-viva-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "5.89",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:17:01+00:00",
+   "vazut": "2026-11-28T03:17:01+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Chipsuri cu aroma de pui Viva, 100 g"
   }
  ]
 }

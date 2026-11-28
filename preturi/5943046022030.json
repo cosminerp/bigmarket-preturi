@@ -2,16 +2,6 @@
  "ean": "5943046022030",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/vopsea-permanenta-pentru-par-loncolor-ultra-1-negru/p",
-   "domeniu": "auchan.ro",
-   "pret": "16.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:10:59+00:00",
-   "vazut": "2026-11-27T21:10:59+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Vopsea permanenta pentru par Loncolor Ultra, 1 Negru"
-  },
-  {
    "url": "https://cobyul.ro/produs/loncolor-vopsea-ultra-1-negru/?srsltid=AYCX9vLr1cMQnkKKbA4N3zQ2NXOEIyJ30A0YBEpHC2KFalwzUsKA1eSH",
    "domeniu": "cobyul.ro",
    "pret": "14.35",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-27T23:15:39+00:00",
    "vazut": "2026-11-27T23:15:39+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/vopsea-permanenta-pentru-par-loncolor-ultra-1-negru/p",
+   "domeniu": "auchan.ro",
+   "pret": "16.49",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:19:35+00:00",
+   "vazut": "2026-11-28T03:19:35+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Vopsea permanenta pentru par Loncolor Ultra, 1 Negru"
   }
  ]
 }

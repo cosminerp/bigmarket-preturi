@@ -2,16 +2,6 @@
  "ean": "8690504081210",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/rulouri-de-napolitane-cu-alune-mcvities-170-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "12.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:10:51+00:00",
-   "vazut": "2026-11-27T21:10:51+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Rulouri din napolitana cu crema de alune McVitie's, 170 g"
-  },
-  {
    "url": "https://promoazi.ro/biscuiti-si-napolitane/wafers-rolls-filled-with-hazelnut-cream-170g",
    "domeniu": "promoazi.ro",
    "pret": "12.99",
@@ -19,6 +9,16 @@
    "verificat": "2026-11-27T23:44:26+00:00",
    "vazut": "2026-11-27T23:44:26+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/rulouri-de-napolitane-cu-alune-mcvities-170-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "12.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:19:28+00:00",
+   "vazut": "2026-11-28T03:19:28+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Rulouri din napolitana cu crema de alune McVitie's, 170 g"
   }
  ]
 }

@@ -2,16 +2,6 @@
  "ean": "8690627121206",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/cafea-macinata-mehmet-efendi-100-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "15.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:10:39+00:00",
-   "vazut": "2026-11-27T21:10:39+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Cafea macinata Mehmet Efendi, 100 g"
-  },
-  {
    "url": "https://www.snaemarket.ro/bacanie/cafea/cafea-mehmet-efendi-100gr-25-buc-8690627121206",
    "domeniu": "snaemarket.ro",
    "pret": "10.35",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T23:48:27+00:00",
    "vazut": "2026-11-27T23:48:27+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/cafea-macinata-mehmet-efendi-100-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "15.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:19:18+00:00",
+   "vazut": "2026-11-28T03:19:18+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Cafea macinata Mehmet Efendi, 100 g"
   }
  ]
 }

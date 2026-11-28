@@ -2,16 +2,6 @@
  "ean": "5000204704846",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/spray-repelent-pentru-insecte-autan-protection-plus-100-ml/p",
-   "domeniu": "auchan.ro",
-   "pret": "28.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:09:27+00:00",
-   "vazut": "2026-11-27T21:09:27+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Spray repelent pentru insecte Autan Protection Plus 100 ml"
-  },
-  {
    "url": "https://comenzi.farmaciatei.ro/ingrijire-personala/ingrijire-copii/protectie-anti-insecte/spray-repelent-anti-tantari-multi-insect-100-ml-autan-p304767",
    "domeniu": "comenzi.farmaciatei.ro",
    "pret": "24.50",
@@ -37,6 +27,16 @@
    "verificat": "2026-11-27T22:22:15+00:00",
    "vazut": "2026-11-27T22:22:15+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/spray-repelent-pentru-insecte-autan-protection-plus-100-ml/p",
+   "domeniu": "auchan.ro",
+   "pret": "28.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:18:12+00:00",
+   "vazut": "2026-11-28T03:18:12+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Spray repelent pentru insecte Autan Protection Plus 100 ml"
   }
  ]
 }

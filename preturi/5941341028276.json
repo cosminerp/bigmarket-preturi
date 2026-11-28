@@ -2,16 +2,6 @@
  "ean": "5941341028276",
  "preturi": [
   {
-   "url": "https://www.auchan.ro/pate-de-porc-bucegi-45--ficat-120-g/p",
-   "domeniu": "auchan.ro",
-   "pret": "4.49",
-   "stare": "ok",
-   "verificat": "2026-11-27T21:11:19+00:00",
-   "vazut": "2026-11-27T21:11:19+00:00",
-   "metoda": "auchan_catalog",
-   "nume": "Pate de porc Bucegi 45% ficat, 120 g"
-  },
-  {
    "url": "https://conservat.ro/pateuri-de-porc/159-bucegi-pate-intens-de-porc-120g-5941341028276.html?srsltid=AYCX9vJFbzrTagLmU9QErvt8QLwfJq2s_nSxvPswL_jusLPjn5XvZbRu",
    "domeniu": "conservat.ro",
    "pret": "6.10",
@@ -28,6 +18,16 @@
    "verificat": "2026-11-27T22:46:15+00:00",
    "vazut": "2026-11-27T22:46:15+00:00",
    "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.auchan.ro/pate-de-porc-bucegi-45--ficat-120-g/p",
+   "domeniu": "auchan.ro",
+   "pret": "4.49",
+   "stare": "ok",
+   "verificat": "2026-11-28T03:19:54+00:00",
+   "vazut": "2026-11-28T03:19:54+00:00",
+   "metoda": "auchan_catalog",
+   "nume": "Pate de porc Bucegi 45% ficat, 120 g"
   }
  ]
 }
