@@ -11,21 +11,21 @@
    "metoda": "cautare_google"
   },
   {
-   "url": "https://shop.geneza-comimpex.ro/capsule-detergent-pentru-rufe-ariel-all-in-1-pods-12-bucati?srsltid=AYCX9vLmA6ql7IggRNtMGC3-xr3xjbLU3pRIg1QfqrcDhqonFjuOspt1",
-   "domeniu": "shop.geneza-comimpex.ro",
-   "pret": "25.30",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:47:56+00:00",
-   "vazut": "2026-11-27T23:47:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://cobyul.ro/produs/ariel-capsule-pods-12-set-color/?srsltid=AYCX9vJRftAHccOOKmcLHCtu7odjmkCLHRUa-D2PzSDwOPo9vYlBfnta",
    "domeniu": "cobyul.ro",
    "pret": "17.49",
    "stare": "ok",
    "verificat": "2026-11-28T05:44:39+00:00",
    "vazut": "2026-11-28T05:44:39+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://shop.geneza-comimpex.ro/capsule-detergent-pentru-rufe-ariel-all-in-1-pods-12-bucati?srsltid=AYCX9vLmA6ql7IggRNtMGC3-xr3xjbLU3pRIg1QfqrcDhqonFjuOspt1",
+   "domeniu": "shop.geneza-comimpex.ro",
+   "pret": "25.30",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:53:32+00:00",
+   "vazut": "2026-11-28T05:53:32+00:00",
    "metoda": "cautare_google"
   }
  ]

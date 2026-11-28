@@ -12,15 +12,6 @@
    "nume": "Branza topita cu cascaval Hochland, felii, 140 g"
   },
   {
-   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-felii-cascaval-140g-32.html",
-   "domeniu": "eurodiscount.ro",
-   "pret": "8.30",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:45:56+00:00",
-   "vazut": "2026-11-27T23:45:56+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/felii-br-top-cascaval-140g-2/",
    "domeniu": "pacomarket.ro",
    "pret": "8.49",
@@ -36,6 +27,15 @@
    "stare": "ok",
    "verificat": "2026-11-28T04:45:50+00:00",
    "vazut": "2026-11-28T04:45:50+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.eurodiscount.ro/lactate-oua-si-paine/hochland-branza-felii-cascaval-140g-32.html",
+   "domeniu": "eurodiscount.ro",
+   "pret": "8.30",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:52:26+00:00",
+   "vazut": "2026-11-28T05:52:26+00:00",
    "metoda": "cautare_google"
   }
  ]
