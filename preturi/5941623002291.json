@@ -12,21 +12,21 @@
    "nume": "Cafea macinata Doncafe Selected, 250 g"
   },
   {
-   "url": "https://www.vivomarket.ro/bacanie/cafea-doncafe-selected-250g.html",
-   "domeniu": "vivomarket.ro",
-   "pret": "26.42",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:12:21+00:00",
-   "vazut": "2026-11-27T23:12:21+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://promoazi.ro/cafea/doncafe-elita-cafea-macinata-vacuum-250g",
    "domeniu": "promoazi.ro",
    "pret": "21.89",
    "stare": "ok",
    "verificat": "2026-11-28T05:00:01+00:00",
    "vazut": "2026-11-28T05:00:01+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.vivomarket.ro/bacanie/cafea-doncafe-selected-250g.html",
+   "domeniu": "vivomarket.ro",
+   "pret": "26.42",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:27:51+00:00",
+   "vazut": "2026-11-28T05:27:51+00:00",
    "metoda": "cautare_google"
   }
  ]

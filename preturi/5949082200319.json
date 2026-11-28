@@ -2,21 +2,21 @@
  "ean": "5949082200319",
  "preturi": [
   {
-   "url": "https://www.pretistet.ro/produs/naturavit-castraveti-in-otet-3-6cm-720ml/",
-   "domeniu": "pretistet.ro",
-   "pret": "10.99",
-   "stare": "ok",
-   "verificat": "2026-11-27T23:21:57+00:00",
-   "vazut": "2026-11-27T23:21:57+00:00",
-   "metoda": "cautare_google"
-  },
-  {
    "url": "https://pacomarket.ro/product/castraveti-naturavit-3-6cm-720ml/",
    "domeniu": "pacomarket.ro",
    "pret": "9.99",
    "stare": "ok",
    "verificat": "2026-11-28T05:26:24+00:00",
    "vazut": "2026-11-28T05:26:24+00:00",
+   "metoda": "cautare_google"
+  },
+  {
+   "url": "https://www.pretistet.ro/produs/naturavit-castraveti-in-otet-3-6cm-720ml/",
+   "domeniu": "pretistet.ro",
+   "pret": "10.99",
+   "stare": "ok",
+   "verificat": "2026-11-28T05:28:18+00:00",
+   "vazut": "2026-11-28T05:28:18+00:00",
    "metoda": "cautare_google"
   }
  ]
